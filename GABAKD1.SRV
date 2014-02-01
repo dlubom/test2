@@ -1,0 +1,9 @@
+#Units Meters Order=DAV
+#date 2011-08-03
+#segment Gang Bialych Kamieni domiary 1
+;Michal Humienik, Dariusz Lubomski
+ws028	ws028.01	6.11	285.80	-42.80
+ws028.01	ws028.02	2.05	25.00	-60.00
+ws028.02	ws028.03	5.36	270.70	-36.20
+ws028.03	w28.03.1	7.22	308.10	-65.70
+ws028.03	w28.03.2	1.91	322.40	65.90

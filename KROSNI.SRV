@@ -1,0 +1,25 @@
+#Units Meters Order=DAV
+#date 2004-08-23
+;Marcin Kaniewski, Szymon Matysiak, Dariusz Bartoszewski
+#note 000	/Entrance
+#flag	ks1	/GPS Location
+#segment GPS Locations
+#FIX   ks1   E13.03811666667  N47.53608333333   1968m     ;d
+#segment Królowej Sniegu
+ks1	ks2	3.22	356.00	-35.00
+ks2	ks3	15.71	0.00	-48.00
+ks3	ks4	9.28	302.00	-86.00
+ks4	ks5	8.36	121.00	-53.00
+ks5	ks6	6.62	15.00	-74.00
+ks6	ks7	2.94	226.00	-64.00
+ks7	ks8	1.22	311.00	-74.00
+ks8	ks9	23.34	290.00	-84.00
+ks9	ks10	5.38	203.00	-42.00
+ks10	ks11	7.17	334.00	-30.00
+ks11	ks12	8.61	346.00	-3.00
+ks12	ks13	3.86	284.00	-2.00
+ks13	ks14	2.90	0.00	-90.00
+ks121	ks12	3.50	75.00	0.00
+ks6	ks61	1.68	46.00	0.00
+ks61	ks62	4.40	0.00	-90.00
+ks62	ks63	3.90	5.00	0.00

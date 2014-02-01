@@ -1,0 +1,14 @@
+#Units Meters Order=DAV
+#date 2011-08-11
+#segment Gang Bialych Kamieni domiary 3 remake
+;Oliwia Rysnik, Mirek Kopertowski, Michal Humienik, Arek Swieczkowski
+ws008	ws008.01	4.47	242.40	32.47
+ws008.01	ws008.02	6.81	343.83	7.47
+ws008.02	ws008.03	2.76	296.83	-40.70
+ws008.03	w08.03.1	5.55	358.50	-40.20
+ws008.03	w08.03.a	4.21	158.00	-12.70
+ws008.03	ws008.04	9.75	250.70	28.10
+ws008.04	ws008.05	3.58	163.17	74.90
+ws008.05	w08.05.1	20.47	27.60	59.60
+ws008.05	ws008.06	1.57	266.70	-33.57
+ws008.06	w08.06.1	16.74	50.30	-85.10

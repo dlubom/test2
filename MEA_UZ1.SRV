@@ -1,0 +1,7 @@
+#Units Meters Order=DAV
+;data jest przypuszczalna
+#date 2009-08-05
+#segment Meander - uzupelnienia 1
+hg003	hg003.01	3.34	149.00	52.00
+hg003.01	hg003.02	9.95	171.00	38.00
+hg003.02	hg003.03	7.63	241.00	28.00
