@@ -1,6 +1,6 @@
 #Units Meters Order=DAV
 #date 2010-08-01
-#segment Meander Zachodni 2
+#segment /Meander Zachodni 2
 ;Bartlomiej Chrusciel, Tomasz Olczak, Jan Sopinski
 wm074	wm075	2.79	185.03	83.45
 wm075	wm076	2.72	307.33	26.33
@@ -17,3 +17,4 @@ wm077.02	wm077.03	3.08	301.89	20.11
 wm077.03	wm080	3.01	304.33	62.96
 wm080	wm081	9.14	240.79	18.31
 wm081	wm082	6.06	16.28	-17.65
+

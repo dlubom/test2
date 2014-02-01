@@ -1,7 +1,7 @@
 #Units Meters Order=DAV
 ;Data cos nie jest dobra
 #date 2010-09-22
-#segment Studnia na rozdrozu
+#segment /Studnia na rozdrozu
 hg116	hg117	5.17	274.20	-14.60
 hg117	hg118	4.08	248.70	-42.50
 hg118	hg119	2.43	346.80	-40.30

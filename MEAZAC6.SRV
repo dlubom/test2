@@ -1,6 +1,6 @@
 #Units Meters Order=DAV
 #date 2011-07-29
-#segment Meander Zachodni 6
+#segment /Meander Zachodni 6
 ;Rafal Mateja, Maciej Dziurka, Michal Humienik, Dariusz Lubomski
 wm268	wm269	3.66	348.90	-44.80
 wm269	wm270	5.93	101.10	-16.90
@@ -47,3 +47,4 @@ wm299.3	wm299.4	1.87	160.00	23.10
 wm299.4	wm299.5	3.60	163.40	-7.60
 wm299.5	wm299.6	1.25	183.40	-58.20
 wm299.6	wm293.1	8.17	117.80	-66.00
+

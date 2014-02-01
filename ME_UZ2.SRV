@@ -1,6 +1,6 @@
 #Units Meters Order=DAV
 #date 2009-08-17
-#segment Meander - uzupelnienia 2
+#segment /Meander - uzupelnienia 2
 ;Tomasz Olczak, Dariusz Bartoszewski
 hg005	hg005.01	1.89	29.71	8.82
 hg005.01	hg005.02	2.47	325.04	68.60
@@ -30,3 +30,4 @@ hg070.01	h70.01.1	4.36	29.50	-7.23
 h70.01.1	h70.01.2	1.17	85.04	-0.83
 kt002	kt002.01	3.30	321.30	-11.45
 kt002.01	kt002.02	9.51	218.49	68.94
+

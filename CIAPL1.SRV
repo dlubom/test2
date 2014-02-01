@@ -1,7 +1,7 @@
 #Units Meters Order=DAV
 ;data jest przypuszczalna
 #date 2009-08-05
-#segment Ciagi Polnocne 1
+#segment /Ciagi Polnocne 1
 cw040	nt001	2.88	102.00	1.00
 nt001	nt002	7.80	53.00	4.00
 nt002	nt003	4.80	322.00	2.00

@@ -1,6 +1,6 @@
 #Units Meters Order=DAV
 #date 2010-08-01
-#segment Meander Zachodni 3
+#segment /Meander Zachodni 3
 ;Maciej Dziurka, Karol Makowski, Lukasz Kralczynski
 wm082	wm083	17.48	285.66	-5.95
 wm083	wm084	4.67	245.14	-7.58
@@ -82,3 +82,4 @@ wm151	wm151.01	3.64	219.83	4.85
 wm151.01	wm151.02	4.02	299.14	-6.88
 wm151.02	wm151.03	3.85	176.07	11.49
 wm151.03	wm158	6.28	283.84	-11.21
+

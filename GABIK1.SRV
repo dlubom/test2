@@ -1,6 +1,6 @@
 #Units Meters Order=DAV
 #date 2009-08-20
-#segment Gang Bialych Kamieni 1
+#segment /Gang Bialych Kamieni 1
 ws029	ws030	8.93	178.40	-43.20
 ws030	ws031	6.12	164.80	20.70
 ws031	ws032	4.31	229.90	66.50
@@ -15,3 +15,4 @@ ws034.03	ws034.04	2.16	206.70	-13.50
 ws034.04	w34.04.1	5.40	107.30	-25.30
 ws034.04	ws034.05	3.16	289.80	-26.60
 ws034.05	ws034.06	9.58	45.50	-2.20
+

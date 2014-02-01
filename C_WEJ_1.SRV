@@ -3,7 +3,6 @@
 #date 2008-08-01
 #note 000	/Entrance
 #flag	000	/GPS Location
-#segment GPS Locations
 #FIX    000   E13.0498000      N47.5333333   1940m     ;d
 #segment /Ciag wejsciowy 1
 000	cw001	9.76	94.00	-70.00
@@ -33,3 +32,4 @@ cw023	cw024	2.22	355.00	8.00
 cw024	cw025	11.40	1.00	-90.00
 cw025	cw026	2.24	111.00	0.00
 cw026	cw027	6.83	5.00	-84.00
+

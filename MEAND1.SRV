@@ -1,7 +1,7 @@
 #Units Meters Order=DAV
 ;data jest przypuszczalna
 #date 2009-08-05
-#segment Meander 2
+#segment /Meander 2
 cw040	hg001	3.31	158.00	22.00
 hg001	hg002	2.73	148.00	-29.00
 hg002	hg003	7.34	151.00	-22.00
@@ -22,3 +22,4 @@ hg016	hg017	5.00	339.00	-89.00
 hg017	hg018	2.11	242.00	-41.00
 hg018	hg019	2.69	181.00	-23.00
 hg019	hg020	3.60	214.00	1.00
+

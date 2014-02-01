@@ -1,0 +1,154 @@
+#[Plik Zrodlowy : ciekawa2011ver12d.cdi
+
+Pominieto calkowicie : domiary do poligonu
+
+Zmieniono nastnpujace nazwy punktow:
+
+Ciagi Polnocne 3 :
+nt019.03.1 na n19.03.1
+nt019.03.2 na n19.03.2
+nt019.03.3 na n19.03.3
+nt019.03.4 na n19.03.4
+nt019.06.1 na n19.06.1
+nt019.06.2 na n19.06.2
+nt019.06.3 na n19.06.3
+nt041.03.1 na n41.03.1
+nt041.03.2 na n41.03.1
+nt041.03.3 na n41.03.1
+Ciagi Polnocne 4 :
+nt061.02.1 na n61.02.1
+nt061.02.2 na n61.02.2
+nt061.02.3 na n61.02.3
+nt061.02.4 na n61.02.4
+nt061.02.5 na n61.02.5
+nt061.02.6 na n61.02.6
+nt061.02.7 na n61.02.7
+nt061.02.8 na n61.02.8
+nt061.02.9 na n61.02.9
+nt061.02.10 na n61.2.10
+Dolne Ciagi :
+uts003.01 na uts03.01
+uts003.02 na uts03.02
+uts006.01 na uts06.01
+uts006.02 na uts06.02
+uts008.01 na ut08.01
+Gang Bialych Kamieni 1 :
+ws034.02.1 na w34.02.1
+ws034.02.2 na w34.02.2
+ws034.04.1 na w34.04.1
+Gang Bialych Kamieni 3 :
+ws038.02.1 na ws38.02.1
+ws038.02.2 na ws38.02.2
+ws038.01.1 na w38.01.1
+Gang Bialych Kamieni 4 remake :
+ws057.05.1 na w57.05.1
+ws057.05.2 na w57.05.2
+ws057.05.3 na w57.05.3
+ws057.05.4 na w57.05.4
+ws057.05.5 na w57.05.5
+ws057.05.6 na w57.05.6
+ws057.05.7 na w57.05.7
+Gang Bialych Kamieni domiary 1 :
+ws028.03.1 na w28.03.1
+ws028.03.2 na w28.03.2
+Gang Bialych Kamieni domiary 2 :
+ws015.c.1 na w15.c.1
+ws015.e.1 na w15.e.1
+ws015.e.2 na w15.e.2
+Gang Bialych Kamieni domiary 3 remake :
+ws008.03.1 na w08.03.1
+ws008.03.a na w08.03.a
+ws008.05.1 na w08.05.1
+ws008.06.1 na w08.06.1
+Gangi 1 :
+ut004.01.a na u04.01.a
+ut004.01.1 na u04.01.1
+ut004.01.2 na u04.01.2
+ut004.01.3 na u04.01.3
+ut004.01.4 na u04.01.4
+ut004.01.5 na u04.01.5
+ut004.01.6 na u04.01.6
+ut008.02.1 na u08.02.1
+ut008.02.2 na u08.02.2
+ut008.02.3 na u08.02.3
+ut008.02.4 na u08.02.4
+ut008.02.5 na u08.02.5
+Meander - uzupelnienia 2 :
+hg005.02.1 na h05.02.1
+hg005.06.1 na h05.06.1
+hg005.06.2 na h05.06.2
+hg005.06.a na h05.06.a
+hg042.01.1 na h42.01.1
+hg070.01.1 na h70.01.1
+hg070.01.2 na h70.01.2
+Meander 3 + Krokodylek :
+hg080.06.1 na h80.06.1
+hg080.06.2 na h80.06.2
+hg080.06.3 na h80.06.3
+Meander Zachodni - domiary :
+wm147.03.1 na w14703.1
+wm147.03.2 na w14703.2
+wm147.06.1 na w14706.1
+wm147.09.1 na w14709.1
+wm147.09.1 na w14709.a
+wm147.15.1 na w14715.1
+wm147.15.1 na w14715.2
+Meander Zachodni 2 :
+wm076.01.1 na w76.01.1
+Meander Zachodni 4 :
+wm196.04.1 na w19604.1
+Meander Zachodni 5 :
+wm223.01.1 na w22301.1
+wm223.01.2 na w22301.2
+wm223.04.1 na w22304.1
+wm223.04.a na w22304.a
+wm244.01.1 na w24401.1
+wm244.01.a na w24401.a
+Meander Zachodni 7 :
+wm287.03.1 na w28703.1
+wm287.07.1 na w28707.1
+wm287.10.1 na w28710.1
+wm287.12.1 na w28712.1
+wm287.12.2 na w28712.2
+wm287.12.3 na w28712.3
+wm287.12.4 na w28712.4
+wm287.12.5 na w28712.5
+wm287.12.5a na w287125a
+wm287.13.1 na w28713.1
+wm287.13.2 na w28713.2
+wm287.13.3 na w28713.3
+wm287.13.4 na w28713.4
+wm287.17.1 na w28717.1
+Partie Jana Sopinskiego :
+js009.04.1 na j09.04.1
+js009.04.2 na j09.04.2
+js009.04.3 na j09.04.3
+js009.04.4 na j09.04.4
+js009.04.5 na j09.04.5
+js009.04.6 na j09.04.6
+Partie Kawowe :
+kp010.03.1 na k10.03.1
+kp010.03.2 na k10.03.2
+kp010.03.3 na k10.03.3
+Partie Krokodylka :
+kt025.01.1 na k25.01.1
+Studnia pod Wiszaca Polka :
+ws030.06.1 na w30.06.1
+ws030.06.2 na w30.06.2
+ws030.06.3 na w30.06.3
+ws030.06.4 na w30.06.4
+ws030.06.5 na w30.06.5
+ws030.06.5 na w30.065a
+ws030.06.a na w30.06.a
+ws030.06.b na w30.06.b
+ws030.06.b.1na w30.06b1
+ws030.06.c na w30.06.c
+ws030.06.d na w30.06.d
+ws030.06.e na w30.06.e
+ws030.06.f na w30.06.f
+ws030.06.e.1 na w30.06e1
+ws030.11.1 na w30.11.1
+ws030.11.2 na w30.11.2
+ws030.11.3 na w30.11.3
+ws030.11.4 na w30.11.4
+#]
