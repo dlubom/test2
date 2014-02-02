@@ -1,0 +1,13 @@
+#Units Meters Order=DAV
+#date 1992-08-15
+#Prefix        429
+#note 0	/Grenzlandruine [429]
+#flag	0	/GPS Location
+#FIX  0  E13:02.863  N47:31.288   2136m     ;dm
+0	1	17.5	273g	-20g
+1	2	6.1	184g	26g
+2	3	4.2	193g	43g
+1	4	9.8	259g	22g
+4	5	9.8	238g	12g
+1	6	11.9	358g	18g
+6	7	8.3	375g	35g
