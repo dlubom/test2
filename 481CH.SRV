@@ -1,0 +1,57 @@
+#Units Meters Order=DAV
+;TODO data jest zmyslona
+#date 2009-08-23
+;
+#segment /Ciag horyzontalny
+sz26	A01	5.54	292.00	-47.00
+A01	A02	4.00	335.00	-30.00
+A02	A03	3.88	40.00	15.00
+A03	A04	1.20	350.00	-15.00
+A04	A05	3.16	355.00	-40.00
+A04	A041	19.20	81.00	-70.00
+A05	A06	4.87	15.00	6.00
+A06	A07	4.46	310.00	-35.00								;zwornik dla malej studzienki
+A07	A071	1.50	245.00	-5.00
+A071	A072	6.05	220.00	-58.00								;w dol jest kontynuacja
+A07	A08	4.98	355.00	-20.00
+A08	A09	5.80	350.00	-25.00
+A09	A10	3.16	115.00	0.00
+A10	A11	5.32	55.00	5.00
+A11	A12	5.51	24.00	-31.00
+A12	A13	11.20	0.00	-90.00								;podstawa zjazdu do Sali Kolumnowej, zwornik dla studzienki pod zjazdem
+A13	A14	2.57	28.00	8.00								;srodek S. Kolumnowej (wanta), zwornik dla studzienek i zapor. progu
+A14	A15	10.75	355.00	4.00
+A15	A16	9.67	350.00	-36.00
+A16	A17	4.56	11.00	7.00
+A17	A18	3.84	336.00	35.00
+A18	A19	3.85	335.00	18.00
+A19	A20	5.06	312.00	-16.00
+A20	A21	4.65	356.00	-6.00								;zwornik dla dwoch œlepych kominkow
+A21	A22	8.64	31.00	-37.00								;zwornik dla kaskadek
+A22	A23	9.76	100.00	16.00								;zwornik dla dwóch polaczonych studzienek i komina
+A23	A24	10.07	92.00	-5.00								;zwornik dla studzienki (wstecz)
+A24	A25	8.09	100.00	29.00
+A25	A26	3.27	92.00	22.00
+A26	A27	3.90	112.00	18.00
+A27	A28	7.37	148.00	28.00
+A28	A29	8.36	59.00	7.00								;zwornik dla 3-ech studzienek
+A29	A30	6.25	112.00	70.00
+A30	A31	12.13	155.00	33.00
+A31	A32	7.56	78.00	28.00								;zwornik dla niezbadanej studzienki
+A32	A33	3.31	50.00	21.00
+A33	A34	4.80	95.00	32.00
+A34	A35	4.07	28.00	-24.00
+A34	A341	2.49	156.00	-23.00
+A341	A342	3.21	213.00	64.00
+A35	A36	1.95	46.00	5.00
+A36	A37	4.19	84.00	26.00
+A37	A38	3.20	43.00	-12.00
+A38	A39	4.54	117.00	19.00
+A39	A40	5.46	68.00	-36.00
+A40	A41	6.21	56.00	-71.00
+A41	A42	9.18	92.00	-69.00
+A42	A43	1.00	146.00	-52.00
+A43	A44	4.66	145.00	-20.00
+A44	A45	3.68	40.00	-55.00
+A45	A46	3.03	44.00	-20.00
+A45	A451	4.65	240.00	5.00
