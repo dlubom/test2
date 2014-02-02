@@ -1,0 +1,9 @@
+#Units Meters Order=DAV
+;TODO data jest bledna
+#date 2009-05-09
+#note a401-0	/A4-1
+#flag	a401-0	/GPS Location
+#FIX  a401-0   E13:02.047  N47:32.238   2006m     ;dm
+a401-0	a401-1	4.93	243.00	-44.00
+a401-1	a401-2	5.15	258.00	-86.00
+a401-2	a401-3	2.80	184.00	-28.00

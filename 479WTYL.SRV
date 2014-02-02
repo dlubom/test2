@@ -1,0 +1,12 @@
+#Units Meters Order=DAV
+#date 2003-08-03
+;Friberg
+;Dariusz Bartoszewski(book), Rafal Mateja(instruments)
+n36	p8	2.28	211.00	9.00
+p8	p7	7.71	208.00	1.00
+p7	p6	3.62	162.00	-2.00
+p6	p5	9.98	197.00	1.00
+p5	p4	20.06	186.00	0.00
+p4	p3	1.32	61.00	-11.00
+p3	p2	8.59	184.00	0.00
+p2	p1	12.04	205.00	12.00

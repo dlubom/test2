@@ -1,0 +1,17 @@
+#Units Meters Order=DAV
+;TODO data jest bledna
+#date 2003-08-16
+#note Deszcz	/Kraina Deszczowcow Land der Regenmenschacht [496]
+#flag	Deszcz	/GPS Location
+#FIX  Deszcz   E13:03.465  N47:32.084  2010m     ;dm
+de1	de2	8.13	230.00	70.00
+de2	de3	3.02	212.00	55.00
+de3	de4	7.80	215.00	55.00
+de4	de5	6.34	200.00	15.00
+de5	de6	8.66	280.00	80.00
+de6	de7	3.32	300.00	25.00
+de7	de7'	3.57	185.00	10.00
+de7	de8	1.56	60.00	15.00
+de8	de9	9.00	235.00	87.00
+de9	de1a	3.62	200.00	10.00
+de1a	Deszcz	8.85	10.00	65.00

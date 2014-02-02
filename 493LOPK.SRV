@@ -1,0 +1,10 @@
+#Units Meters Order=DAV
+#date 2006-08-21
+#note ld0	/Lodowka Eisschrank A3-86 [493]
+#flag	ld0	/GPS Location
+#FIX  ld0   E13:02.492  N47:32.272  1985m     ;dm
+ld0	l2	12.24	50.00	-22.00
+l2	l3	6.65	125.00	-15.00
+l3	l4	1.40	0.00	-90.00
+l4	l5	4.10	130.00	-12.00
+l5	l6	7.20	183.00	-20.00

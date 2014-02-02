@@ -1,0 +1,12 @@
+#Units Meters Order=DAV
+#date 2003-08-03
+;Friberg
+;Dariusz Bartoszewski(book), Maja Juniewicz(instruments)
+n37	on1	4.92	282.00	42.00
+on1	on2	9.69	2.00	18.00
+on2	on3	6.31	17.00	7.00
+on3	on4	6.44	48.00	-21.00
+on4	on5	1.70	52.00	-2.00
+on5	on6	8.60	22.00	-62.00
+on6	on7	20.20	133.00	-65.00
+on7	n27	2.63	104.00	-31.00

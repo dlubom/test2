@@ -1,0 +1,12 @@
+#Units Meters Order=DAV
+#date 2003-08-03
+;Friberg
+;Dariusz Bartoszewski(book), Rafal Mateja(instruments)
+a17	s7	6.88	23.00	41.00
+s7	s6	3.22	113.00	-47.00
+s6	s5	3.21	359.00	-35.00
+s5	s4	6.77	28.00	1.00
+s4	s3	10.34	31.00	-12.00
+s3	s2	8.06	44.00	-48.00
+s2	s1	4.79	151.00	-44.00
+s1	s0	1.70	0.00	-90.00
