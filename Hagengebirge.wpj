@@ -3,6 +3,34 @@
 .NAME	PROJECT
 .STATUS	2563
 .REF	5266058.65 353214.63 33 -1.439 1940 1 47 32 0.000 13 2 59.280 15 "NAD27 CONUS"
+.BOOK	Hohle mit Oliphant [497]
+.NAME	497
+.STATUS	8
+.SURVEY	497_Hohle_mit_Oliphant_plan&profile_2006.gif
+.NAME	497_Hohle_mit_Oliphant_plan&profile_2006.gif
+.STATUS	327688
+.ENDBOOK
+.BOOK	B3-4 [490]
+.NAME	490B3_4
+.STATUS	8
+.SURVEY	490_B3-4_plan&profile_2006.gif
+.NAME	490_B3-4_plan&profile_2006.gif
+.STATUS	327688
+.ENDBOOK
+.BOOK	Neuhauserschacht [484]
+.NAME	484
+.STATUS	8
+.SURVEY	484_Neuhauserschacht_plan&profile_2003.gif
+.NAME	484_Neuhauserschacht_plan&profile_2003.gif
+.STATUS	327688
+.ENDBOOK
+.BOOK	Jaskinia Niebieskich Mgie³ Hohle der blaunen Nebel [482]
+.NAME	482BL
+.STATUS	8
+.SURVEY	482_Hohle_der_blaunen_Nebel_plan&profile_2003.gif
+.NAME	482_Hohle_der_blaunen_Nebel_plan&profile_2003.gif
+.STATUS	327688
+.ENDBOOK
 .BOOK	Grenzlandruine [429]
 .NAME	429GR
 .STATUS	2568
