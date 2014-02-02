@@ -1,0 +1,12 @@
+#Units Meters Order=DAV
+;Rafal Mateja, Oliwia Rysnik
+#date 2009-08-28
+wys1	wys2	11.05	306.20	55.80
+wys2	wys3	2.21	21.70	21.80
+wys3	wys1.9	0.99	349.00	60.60
+wys12	wys13	2.85	299.30	40.30
+wys13	wys14	2.68	252.30	34.70
+wys14	wys15	1.95	336.00	47.30
+wys15	wys16	10.15	307.00	54.50
+wys16	wys17	5.81	302.00	57.20
+wys17	wys1.9	3.07	254.00	16.40

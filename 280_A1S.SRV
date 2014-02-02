@@ -1,0 +1,23 @@
+#Units Meters Order=DAV
+#date 2002-08-2a
+#note al1	/Alvermannschacht [280]
+#flag	al1	/GPS Location
+#FIX   al1  E13:02.284  N47:32.358   1983m     ;dm
+;Dariusz Bartoszewski, Darek, Marcin Zamorski
+#segment /Alvermann - 1 sesja
+al1	al2	3.15	185.00	-4.50
+al2	al3	12.55	175.00	-54.00
+al3	al4	20.00	0.00	-90.00
+al4	al5	15.55	250.00	-81.00
+al5	al6	20.13	0.00	-90.00
+al6	al7	0.60	165.00	0.00
+al7	al8	20.00	0.00	-90.00
+al8	al9	1.01	75.00	0.00
+al9	al10	4.33	255.00	-63.00
+al10	al11	6.30	190.00	-7.20
+al11	al12	4.55	135.00	-25.20
+al12	al13	36.20	0.00	-90.00
+al13	al13'	1.12	105.00	0.00
+al13'	al14	16.40	0.00	-90.00
+al14	al15	4.55	65.00	-3.60
+al15	al16	5.70	88.00	-58.50
