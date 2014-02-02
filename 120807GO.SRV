@@ -1,0 +1,11 @@
+#Units Meters Order=DAV
+#date 2012-08-07
+#segment /Partie Gastryczne - Okna
+;Maciej Dziurka (obsluga Disto-X), Tomasz Olczak (kartowanie)
+;Disto-X + Palm
+#Prefix pgo
+1.0	gk:17.3	11.97733333	42.66666667	19.30333333
+1.0	pg:131.5	2.161333333	214.2866667	23.79
+pg:131.5	1.2	3.839333333	222.7366667	4.7
+1.2	pg:1.25	2.602666667	265.19	-10.36
+pg:1.25	-	6.748	134.3	34.51
