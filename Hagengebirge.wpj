@@ -133,7 +133,7 @@
 .ENDBOOK
 .BOOK	[480] Comeback-hohle A3-36
 .NAME	480CB
-.STATUS	2569
+.STATUS	2568
 .REF	5266379.51 352469.61 33 -1.446 1981 1 47 32 9.780 13 2 23.280 15 "NAD27 CONUS"
 .SURVEY	480_Comeback-hohle_plan&profile_2002.gif
 .NAME	480_Comeback-hohle_plan&profile_2002.gif
@@ -144,7 +144,7 @@
 .ENDBOOK
 .BOOK	[481] Szparka Spaltchen
 .NAME	481_SZP
-.STATUS	2569
+.STATUS	2568
 .REF	5265788.55 352385.65 33 -1.447 2130 1 47 31 50.580 13 2 19.980 15 "NAD27 CONUS"
 .SURVEY	481_Spaltchen_profile_2003.gif
 .NAME	481_Spaltchen_profile_2003.gif
@@ -167,7 +167,7 @@
 .ENDBOOK
 .BOOK	[482] Niebieskich Mgie³ Hohle der blaunen Nebel
 .NAME	482BL
-.STATUS	1353
+.STATUS	1352
 .SURVEY	482_Hohle_der_blaunen_Nebel_plan&profile_2003.gif
 .NAME	482_Hohle_der_blaunen_Nebel_plan&profile_2003.gif
 .STATUS	327688
@@ -181,7 +181,7 @@
 .ENDBOOK
 .BOOK	[484] Neuhauserschacht
 .NAME	484
-.STATUS	9
+.STATUS	8
 .REF	5267428.66 356505.87 33 -1.407 1543 1 47 32 47.000 13 5 35.000 15 "NAD27 CONUS"
 .SURVEY	484
 .NAME	484N
@@ -212,7 +212,7 @@
 .ENDBOOK
 .BOOK	[487] Krolowej Sniegu Schneekoniginhohle A4-36
 .NAME	487KROS
-.STATUS	2569
+.STATUS	2568
 .REF	5266386.41 352343.02 33 -1.447 1968 0 47 32 9.900 13 2 17.220 15 "NAD27 CONUS"
 .SURVEY	487_Schneekoniginhohle_profile.gif
 .NAME	487_Schneekoniginhohle_profile.gif
@@ -354,8 +354,11 @@
 .ENDBOOK
 .BOOK	[495] Ciekawa Interessante Höhle
 .NAME	495CIE
-.STATUS	2568
+.STATUS	2569
 .REF	5266058.65 353214.63 33 -1.439 1940 0 47 32 0.000 13 2 59.280 15 "NAD27 CONUS"
+.SURVEY	2012-08-02 - Gang Kutasów
+.NAME	120802GK
+.STATUS	8
 .SURVEY	495_Interessante_profile_2011.pdf
 .NAME	495_Interessante_profile_2011.pdf
 .STATUS	327688
