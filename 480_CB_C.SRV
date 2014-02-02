@@ -1,0 +1,50 @@
+#Units Meters Order=DAV
+;TODO data jes fikcyjna
+#date 2010-08-01
+;TODO kto kartowal ?
+#note cbh39	/Comeback-hohle A3-36 [480]
+#note cbh33	/Comeback-hohle A3-43
+#note cbh40	/Comeback-hohle
+#flag	cbh39	/GPS Location
+#flag	cbh33	/GPS Location
+#FIX   cbh39   E13:02.388  N47:32.163   1981m     ;dm
+;#FIX   cbh33   E13:02.402  N47:32.177                     ;dm TODO brak wysokosci
+cbh2	cbh1	1.52	86.00	-46.80
+cbh3	cbh2	4.15	99.00	-38.70
+cbh4	cbh3	2.28	356.00	-8.10
+cbh5	cbh4	1.72	259.00	-78.30
+cbh6	cbh5	3.57	338.00	-52.20
+cbh7	cbh6	1.42	258.00	-11.70
+cbh8	cbh7	5.52	167.00	-63.90
+cbh9	cbh8	1.67	128.00	11.70
+cbh10	cbh9	7.36	152.00	-81.90
+cbh11	cbh10	2.57	177.00	-35.10
+cbh12	cbh10	4.70	244.00	-21.60
+cbh12	cbh13	5.62	263.00	43.20
+cbh12	cbh14	3.04	358.00	8.10
+cbh12	cbh15	2.91	186.00	-60.30
+cbh11	cbh16	3.13	272.00	3.60
+cbh16	cbh17	1.65	346.00	42.30
+cbh17	cbh18	6.33	3.08	56.70
+cbh16	cbh20	9.24	255.00	29.70
+cbh16	cbh19	6.87	221.00	57.60
+cbh20	cbh21	4.64	313.00	34.20
+cbh21	cbh22	2.69	262.00	23.40
+cbh22	cbh23	3.18	276.00	36.90
+cbh22	cbh24	3.97	5.00	-6.30
+cbh24	cbh25	8.02	268.00	27.00
+cbh24	cbh26	6.95	326.00	7.20
+cbh26	cbh27	5.02	288.00	23.40
+cbh27	cbh28	9.11	3.00	-6.30
+cbh28	cbh29	4.10	4.00	-10.80
+cbh29	cbh30	3.66	0.00	-23.40
+cbh31	cbh32	9.70	308.00	49.50
+cbh32	cbh33	4.04	338.00	17.10
+cbh27	cbh31	0.72	322.00	-64.80
+cbh31	cbh34	2.83	225.00	-2.70
+cbh34	cbh35	5.51	194.00	19.80
+cbh35	cbh36	12.63	214.00	27.90
+cbh36	cbh37	4.58	242.00	22.50
+cbh37	cbh38	4.75	324.00	0.90
+cbh38	cbh39	1.56	26.00	34.20
+cbh37	cbh40	4.86	322.00	66.60

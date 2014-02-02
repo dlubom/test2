@@ -2,7 +2,7 @@
 ;TODO data jest zmyslona
 #date 2009-08-23
 ;
-#note sz0	/Entrance
+#note sz0	/Szparka Spaltchen [481]
 #flag	sz0	/GPS Location
 #FIX   sz0   E13.03888333333  N47.53071666667   2130m     ;d
 #segment /Ciag glowny

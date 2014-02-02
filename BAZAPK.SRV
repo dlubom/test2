@@ -1,6 +1,4 @@
 #Units Meters Order=DAV
-;TODO data jest zmyslona ale nie ma znaczenia
-#date 2011-08-01
 #note baza	/Baza
 #flag	baza	/GPS Location
 #FIX   baza   E13:02.381  N47:32.295   1850m     ;dm

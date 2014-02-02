@@ -1,7 +1,7 @@
 #Units Meters Order=DAV
 ;data jest przypuszczalna
 #date 2008-08-01
-#note 000	/Entrance
+#note 000	/495 Ciekawa
 #flag	000	/GPS Location
 #FIX    000   E13.0498000      N47.5333333   1940m     ;d
 #segment /Ciag wejsciowy 1
