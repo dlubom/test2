@@ -1,0 +1,11 @@
+#Units Meters Order=DAV
+#date 2010-07-28
+#segment /343
+;Adam Mioduszewski - rysowanie, Radoslaw Paternoga - DistoX
+#prefix 343
+#note 343	/343
+#flag	343	/GPS Location
+#FIX  343   E13:02.80500  N47:31.68500   2022m     ;dm
+343	1	15.89	211	-82.7
+1	2	2.69	176.,8	-13.7
+2	3	2	340.8	-82.5
