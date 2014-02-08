@@ -428,11 +428,11 @@
 .SURVEY	2012-08-01 - Boczny komin w partiach Optymistycznych
 .NAME	120731BK
 .STATUS	8
-.SURVEY	2012-07-31 - Amazonka
-.NAME	120731AM
-.STATUS	8
 .SURVEY	2012-08-01 - Gang Kutasów
 .NAME	120802GK
+.STATUS	8
+.SURVEY	2012-07-31 - Amazonka
+.NAME	120731AM
 .STATUS	8
 .SURVEY	495_Interessante_profile_2011.pdf
 .NAME	495_Interessante_profile_2011.pdf
