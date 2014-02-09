@@ -1,6 +1,7 @@
 #units meters order=AVD
 #units A=D V=D
-#date 2012-08-08
+#date 2013-08-08
+;Tomasz Olczak, Marcin Slowik, Karol Makowski
 #prefix Kitz2
 R:1.14	1.1	274.4	3.59	2.013
 1.1	1.2	314.08	-10.07	3.055
