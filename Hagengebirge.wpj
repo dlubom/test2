@@ -624,15 +624,15 @@
 .ENDBOOK
 .BOOK	[501] Kitzgrabenwasserschacht
 .NAME	501KIT
-.STATUS	8
+.STATUS	9
 .SURVEY	2012-08-13 - Do syfonu
 .NAME	DS201208
 .STATUS	8
 .SURVEY	2012-08-13 - Rura
 .NAME	KI201201
 .STATUS	8
-.SURVEY	501_Kitzgrabenwasserschacht_plan&profile_2011.pdf
-.NAME	501_Kitzgrabenwasserschacht_plan&profile_2011.pdf
+.SURVEY	501_Kitzgrabenwasserschacht_plan&profile_2012.pdf
+.NAME	501_Kitzgrabenwasserschacht_plan&profile_2012.pdf
 .STATUS	327688
 .SURVEY	Kitzgrabenwasserschacht.cdi
 .NAME	Kitzgrabenwasserschacht.cdi
