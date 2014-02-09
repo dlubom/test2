@@ -688,15 +688,19 @@
 .STATUS	8
 .SURVEY	501_Kizgrabenwasserschacht_plan_2013.svg
 .NAME	501_Kizgrabenwasserschacht_plan_2013.svg
+.PATH	501-Kitzgrabenwasserschacht
 .STATUS	327688
 .SURVEY	501_Kizgrabenwasserschacht_profile_2013.svg
 .NAME	501_Kizgrabenwasserschacht_profile_2013.svg
+.PATH	501-Kitzgrabenwasserschacht
 .STATUS	327688
 .SURVEY	501_Kizgrabenwasserschacht_plan_2013.pdf
 .NAME	501_Kizgrabenwasserschacht_plan_2013.pdf
+.PATH	501-Kitzgrabenwasserschacht
 .STATUS	327688
 .SURVEY	501_Kizgrabenwasserschacht_profile_2013.pdf
 .NAME	501_Kizgrabenwasserschacht_profile_2013.pdf
+.PATH	501-Kitzgrabenwasserschacht
 .STATUS	327688
 .SURVEY	2013-08-08 - Do drugiego syfonu
 .NAME	501KITTM
