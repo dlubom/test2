@@ -3,8 +3,8 @@
 #segment /Partie Baltazara Gabki
 ;Miroslaw Kopertowski (obsluga Disto-X), Dariusz Lubomski (kartowanie)
 ;Disto-X + Palm
-#Prefix bz
-1.1	gk:17.48	2.993333333	337.55	6.52
+#Prefix bz ;bg
+1.1	:zg058	2.993333333	337.55	6.52
 1.1	1.2	1.504333333	261.98	-34.45666667
 1.2	-	13.584	306.41	-54.96
 1.1	1.3	0.596	166.7633333	-36.84666667
