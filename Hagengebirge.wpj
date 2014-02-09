@@ -686,6 +686,18 @@
 .BOOK	[501] Kitzgrabenwasserschacht
 .NAME	501KIT
 .STATUS	8
+.SURVEY	501_Kizgrabenwasserschacht_plan_2013.svg
+.NAME	501_Kizgrabenwasserschacht_plan_2013.svg
+.STATUS	65544
+.SURVEY	501_Kizgrabenwasserschacht_profile_2013.svg
+.NAME	501_Kizgrabenwasserschacht_profile_2013.svg
+.STATUS	65544
+.SURVEY	501_Kizgrabenwasserschacht_plan_2013.pdf
+.NAME	501_Kizgrabenwasserschacht_plan_2013.pdf
+.STATUS	65544
+.SURVEY	501_Kizgrabenwasserschacht_profile_2013.pdf
+.NAME	501_Kizgrabenwasserschacht_profile_2013.pdf
+.STATUS	65544
 .SURVEY	2013-08-08 - Do drugiego syfonu
 .NAME	501KITTM
 .STATUS	8
@@ -698,9 +710,6 @@
 .SURVEY	2012-08-13 - Rura
 .NAME	KI201201
 .STATUS	8
-.SURVEY	501_Kitzgrabenwasserschacht_plan&profile_2012.pdf
-.NAME	501_Kitzgrabenwasserschacht_plan&profile_2012.pdf
-.STATUS	327688
 .SURVEY	Kitzgrabenwasserschacht.cdi
 .NAME	Kitzgrabenwasserschacht.cdi
 .STATUS	327688
