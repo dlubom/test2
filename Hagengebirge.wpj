@@ -704,18 +704,23 @@
 .STATUS	327688
 .SURVEY	2013-08-08 - Do drugiego syfonu
 .NAME	501KITTM
+.PATH	501-Kitzgrabenwasserschacht
 .STATUS	8
 .SURVEY	2013-08-06
 .NAME	KIC1
+.PATH	501-Kitzgrabenwasserschacht
 .STATUS	10
 .SURVEY	2012-08-13 - Do syfonu
 .NAME	DS201208
+.PATH	501-Kitzgrabenwasserschacht
 .STATUS	8
 .SURVEY	2012-08-13 - Rura
 .NAME	KI201201
+.PATH	501-Kitzgrabenwasserschacht
 .STATUS	8
 .SURVEY	Kitzgrabenwasserschacht
 .NAME	501KITPK
+.PATH	501-Kitzgrabenwasserschacht
 .ENDBOOK
 .BOOK	[502] Jaskinia Cienia Schattenhöhle
 .NAME	SHD
