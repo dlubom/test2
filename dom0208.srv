@@ -2,7 +2,7 @@
 #units A=D V=D
 #date 2013-08-02
 ;Dariusz Lubomski (kartowanie), Oliwia Rysnik (disto), Marcin Slowik(spray)
-#prefix baltazar
+#prefix bgk
 :bg031	1.1	313.79	-9.51	1.083
 1.1	1.2	356.95	-2.34	2.01
 1.2	1.3	66.31	44.86	3.363
