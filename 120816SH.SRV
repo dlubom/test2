@@ -6,7 +6,7 @@
 #prefix Shadow
 #note sh	/Shadow
 #flag	sh	/GPS Location
-#FIX  sh   E13:03.275  N47:32.25   1884m     ;dm
+#FIX  sh   E13.054573  N47.537469   1886.36m
 sh	1	5.22	97.97	-33
 1	2	5.48	39.31	-34.77
 2	3	0.83	132.59	-1.38
