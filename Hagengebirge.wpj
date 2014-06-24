@@ -732,13 +732,15 @@
 .ENDBOOK
 .BOOK	[502] Jaskinia Cienia Schattenhöhle
 .NAME	SHD
-.STATUS	2568
+.STATUS	2569
 .REF	5266731.350 353590.810 33 -1.435 1884 2 47 32 15.000 13 3 16.500 27 "WGS 1984"
 .SURVEY	502_Schattenhohle_plan&profile_2012.pdf
 .NAME	502_Schattenhohle_plan&profile_2012.pdf
+.PATH	502-Schattenhohle
 .STATUS	327688
 .SURVEY	2012-08-16 - Shadow
 .NAME	120816SH
+.PATH	502-Schattenhohle
 .STATUS	8
 .ENDBOOK
 .SURVEY	Poziomice
