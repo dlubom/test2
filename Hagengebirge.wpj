@@ -114,51 +114,67 @@
 .REF	5266773.140 352892.370 33 -1.444 1970 1 47 32 15.785 13 2 43.059 27 "WGS 1984"
 .SURVEY	479_Kastanienhohle_plan_2004.gif
 .NAME	479_Kastanienhohle_plan_2004.gif
+.PATH	479-Kastanienhohle
 .STATUS	327688
 .SURVEY	479_Kastanienhohle_profile_2004.gif
 .NAME	479_Kastanienhohle_profile_2004.gif
+.PATH	479-Kastanienhohle
 .STATUS	327688
 .SURVEY	Petla nad Dziurawym Kominem
 .NAME	479KOM
+.PATH	479-Kastanienhohle
 .STATUS	8
 .SURVEY	Od Dziurawej Studni do grifonu
 .NAME	479GRIF
+.PATH	479-Kastanienhohle
 .STATUS	8
 .SURVEY	Syfony
 .NAME	479SYFO
+.PATH	479-Kastanienhohle
 .STATUS	8
 .SURVEY	Do Œródsyfonu
 .NAME	479SROD
+.PATH	479-Kastanienhohle
 .STATUS	8
 .SURVEY	Przez Studbniê z Want¹ do Hydrozagadki
 .NAME	479HYDRO
+.PATH	479-Kastanienhohle
 .STATUS	8
 .SURVEY	Od Salki na Rozdzielu do dna nastepnej studni
 .NAME	479NAST
+.PATH	479-Kastanienhohle
 .STATUS	8
 .SURVEY	Meander do Ty³u i Salka Zachwytu
 .NAME	479ZACH
+.PATH	479-Kastanienhohle
 .STATUS	8
 .SURVEY	Korytarz z wod¹ do Studni St³uczonego Ty³ka
 .NAME	479WTYL
+.PATH	479-Kastanienhohle
 .STATUS	8
 .SURVEY	Obejœcie gór¹ od Studni St³uczonego Ty³ka
 .NAME	479TYL
+.PATH	479-Kastanienhohle
 .STATUS	8
 .SURVEY	Ci¹g g³ówny od Studni Kryszta³owej do Salki na Rozdro¿u
 .NAME	479ROZ
+.PATH	479-Kastanienhohle
 .STATUS	8
 .SURVEY	Bok
 .NAME	479BOK
+.PATH	479-Kastanienhohle
 .STATUS	8
 .SURVEY	Pomiar z Vaskiem przyrzadami stopnie plus grad
 .NAME	479VAS
+.PATH	479-Kastanienhohle
 .STATUS	8
 .SURVEY	Kasztanowa Sopocka Busola Pierwszy pomiar
 .NAME	479SOP
+.PATH	479-Kastanienhohle
 .STATUS	8
 .SURVEY	Darek i Zbyszek
 .NAME	479DZ
+.PATH	479-Kastanienhohle
 .STATUS	8
 .ENDBOOK
 .BOOK	[480] Comeback-hohle A3-36
