@@ -200,21 +200,27 @@
 .REF	5265864.520 352544.350 33 -1.447 2130 1 47 31 46.086 13 2 27.518 27 "WGS 1984"
 .SURVEY	481_Spaltchen_profile_2003.gif
 .NAME	481_Spaltchen_profile_2003.gif
+.PATH	481-Spaltchen
 .STATUS	327688
 .SURVEY	481_Spaltchen_plan_2003.gif
 .NAME	481_Spaltchen_plan_2003.gif
+.PATH	481-Spaltchen
 .STATUS	327688
 .SURVEY	ciag do wantowiska
 .NAME	481_CDW
+.PATH	481-Spaltchen
 .STATUS	2560
 .SURVEY	ciag lewy
 .NAME	481_CL
+.PATH	481-Spaltchen
 .STATUS	2560
 .SURVEY	ciag horyzontalny
 .NAME	481CH
+.PATH	481-Spaltchen
 .STATUS	2560
 .SURVEY	ciag glowny
 .NAME	481_CG
+.PATH	481-Spaltchen
 .STATUS	2560
 .ENDBOOK
 .BOOK	[482] Niebieskich Mgie³ Hohle der blaunen Nebel
