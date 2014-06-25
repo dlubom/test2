@@ -165,12 +165,15 @@
 .REF	5266455.470 352628.310 33 -1.446 1981 1 47 32 5.285 13 2 30.819 27 "WGS 1984"
 .SURVEY	480_Comeback-hohle_profile_2002.jpg
 .NAME	480_Comeback-hohle_profile_2002.jpg
-.STATUS	65544
+.PATH	480-Comeback-h
+.STATUS	327688
 .SURVEY	480_Comeback-hohle_plan_2002.jpg
 .NAME	480_Comeback-hohle_plan_2002.jpg
-.STATUS	65544
+.PATH	480-Comeback-h
+.STATUS	327688
 .SURVEY	Comeback-hohle
 .NAME	480_CB_C
+.PATH	480-Comeback-h
 .STATUS	2560
 .ENDBOOK
 .BOOK	[481] Szparka Spaltchen
