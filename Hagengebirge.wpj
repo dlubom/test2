@@ -250,12 +250,15 @@
 .REF	5266462.370 352501.720 33 -1.447 1968 0 47 32 5.405 13 2 24.759 27 "WGS 1984"
 .SURVEY	487_Schneekoniginhohle_profile.gif
 .NAME	487_Schneekoniginhohle_profile.gif
+.PATH	487-Schneekoniginhohle
 .STATUS	327688
 .SURVEY	487_Schneekoniginhohle_plan.gif
 .NAME	487_Schneekoniginhohle_plan.gif
+.PATH	487-Schneekoniginhohle
 .STATUS	327688
 .SURVEY	Krolowej Sniegu
 .NAME	KROSNI
+.PATH	487-Schneekoniginhohle
 .STATUS	2560
 .ENDBOOK
 .BOOK	[488] A4-40
