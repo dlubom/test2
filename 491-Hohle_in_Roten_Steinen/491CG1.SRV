@@ -4,6 +4,7 @@
 #note cg01	/W Czerwonych Kamieniach Hohle in Roten Steinen J1 [491]
 #flag	cg01	/GPS Location
 #FIX  cg01   E13:03.282  N47:32.113   1880m     ;dm
+;TODO co to za liczby ?
 cg01	cg02	4.89	26.00	-54.90	;-61.00
 cg02	cg03	5.60	126.00	-28.80	;-32.00
 cg03	cg04	7.88	68.00	-22.50	;-25.00
