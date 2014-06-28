@@ -318,7 +318,7 @@
 .ENDBOOK
 .BOOK	[490] B3-4
 .NAME	490B3_4
-.STATUS	2569
+.STATUS	2568
 .REF	5265777.480 352835.470 33 -1.444 2046 1 47 31 43.505 13 2 41.538 27 "WGS 1984"
 .SURVEY	490
 .NAME	490
@@ -331,49 +331,63 @@
 .ENDBOOK
 .BOOK	[491] W Czerwonych Kamieniach Hohle in Roten Steinen J1
 .NAME	491CZ
-.STATUS	2568
+.STATUS	2569
 .REF	5266334.650 353747.350 33 -1.435 1880 1 47 32 2.284 13 3 24.458 27 "WGS 1984"
 .SURVEY	491_Hohle_in_Roten_Steinen_profile_2009.pdf
 .NAME	491_Hohle_in_Roten_Steinen_profile_2009.pdf
+.PATH	491-Hohle_in_Roten_Steinen
 .STATUS	327688
 .SURVEY	491_Hohle_in_Roten_Steinen_plan_2010.pdf
 .NAME	491_Hohle_in_Roten_Steinen_plan_2010.pdf
+.PATH	491-Hohle_in_Roten_Steinen
 .STATUS	327688
 .SURVEY	dookola woda
 .NAME	491DKW
+.PATH	491-Hohle_in_Roten_Steinen
 .STATUS	8
 .SURVEY	26nc6w2a
 .NAME	491_26
+.PATH	491-Hohle_in_Roten_Steinen
 .STATUS	8
 .SURVEY	Za meandrem
 .NAME	491ZAMEA
+.PATH	491-Hohle_in_Roten_Steinen
 .STATUS	8
 .SURVEY	Meander
 .NAME	491MEA
+.PATH	491-Hohle_in_Roten_Steinen
 .STATUS	8
 .SURVEY	Do dna
 .NAME	491DD
+.PATH	491-Hohle_in_Roten_Steinen
 .STATUS	8
 .SURVEY	W dol do syfonu
 .NAME	491WDDS
+.PATH	491-Hohle_in_Roten_Steinen
 .STATUS	8
 .SURVEY	2006
 .NAME	4912006
+.PATH	491-Hohle_in_Roten_Steinen
 .STATUS	8
 .SURVEY	Ci¹g za Wod¹
 .NAME	491CZW
+.PATH	491-Hohle_in_Roten_Steinen
 .STATUS	8
 .SURVEY	Ci¹g G³ówny Suchy
 .NAME	491CGS
+.PATH	491-Hohle_in_Roten_Steinen
 .STATUS	8
 .SURVEY	Ci¹g G³ówny Meander Gimnastyczny
 .NAME	491CGMG
+.PATH	491-Hohle_in_Roten_Steinen
 .STATUS	8
 .SURVEY	Ci¹g G³ówny pomiary 2
 .NAME	491CG2
+.PATH	491-Hohle_in_Roten_Steinen
 .STATUS	8
 .SURVEY	Ci¹g G³ówny pomiary 1
 .NAME	491CG1
+.PATH	491-Hohle_in_Roten_Steinen
 .STATUS	8
 .ENDBOOK
 .BOOK	[492] Koralowa Korallenhohle A3-8 P04
@@ -797,9 +811,9 @@
 .SURVEY	TerenX
 .NAME	TERENXX
 .PATH	Teren
-.STATUS	8
+.STATUS	10
 .SURVEY	TerenY
 .NAME	TERENX
 .PATH	Teren
-.STATUS	8
+.STATUS	10
 .ENDBOOK
