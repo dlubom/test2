@@ -1,7 +1,6 @@
 #Units Meters Order=DAV
 #date 2007-08-20
-;TODO brak wspolrzednych
-;nie wpisana do katastra
+;TODO nie wpisana do katastra
 #prefix kam
 #note pk01	/Plynacych Kamieni
 #FIX   pk01   E13:03:29.55564  N47:31:58.38138   1990m     ;dm
