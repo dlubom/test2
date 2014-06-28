@@ -46,7 +46,7 @@
 .BOOK	Plynacych Kamieni
 .NAME	PLKAM
 .PATH	Plynacych-Kamieni
-.STATUS	8
+.STATUS	9
 .SURVEY	Plynacych Kamieni
 .NAME	KAMIEN
 .STATUS	8
@@ -229,7 +229,7 @@
 .ENDBOOK
 .BOOK	[482] Niebieskich Mgie³ Hohle der blaunen Nebel
 .NAME	482BL
-.STATUS	1352
+.STATUS	1353
 .SURVEY	482_Hohle_der_blaunen_Nebel_plan&profile_2003.gif
 .NAME	482_Hohle_der_blaunen_Nebel_plan&profile_2003.gif
 .PATH	482-Hohle_der_blaunen_Nebel
@@ -464,334 +464,251 @@
 .REF	5266134.620 353373.320 33 -1.439 1940 0 47 31 55.505 13 3 6.818 27 "WGS 1984"
 .SURVEY	!_Uwaga
 .NAME	UWAGA
-.PATH	495-Interessante
 .STATUS	8
 .SURVEY	495_Interessante_plan_2013.pdf
 .NAME	495_Interessante_plan_2013.pdf
-.PATH	495-Interessante
 .STATUS	327688
 .SURVEY	495_Interessante_profile_2012.pdf
 .NAME	495_Interessante_profile_2012.pdf
-.PATH	495-Interessante
 .STATUS	327688
 .SURVEY	2012-07-31 - Amazonka
 .NAME	120731AM
-.PATH	495-Interessante
 .STATUS	8
 .SURVEY	2012-08-01 - Boczny komin w partiach Optymistycznych
 .NAME	120731BK
-.PATH	495-Interessante
 .STATUS	8
 .SURVEY	2012-08-01 - Gang Kutasów
 .NAME	120802GK
-.PATH	495-Interessante
 .STATUS	8
 .SURVEY	2012-08-03 - Ciek pod wisz polka
 .NAME	120803WI
-.PATH	495-Interessante
 .STATUS	8
 .SURVEY	2012-08-06 - Partie Gastryczne
 .NAME	120806PG
-.PATH	495-Interessante
 .STATUS	8
 .SURVEY	2012-08-07 - Parite Gastryczne - Okna
 .NAME	120807GO
-.PATH	495-Interessante
 .STATUS	8
 .SURVEY	2012-08-07 - Partie Baltazara G¹bki
 .NAME	120807BZ
-.PATH	495-Interessante
 .STATUS	8
 .SURVEY	2012-08-07 - Pochylnie bez pradu
 .NAME	120807PP
-.PATH	495-Interessante
 .STATUS	8
 .SURVEY	2012-08-08 - Zachodni 285-287
 .NAME	ZA285287
-.PATH	495-Interessante
 .STATUS	8
 .SURVEY	2012-08-09 - Amazonka kontynuacja
 .NAME	120809AK
-.PATH	495-Interessante
 .STATUS	8
 .SURVEY	2012-08-09 - Zachodni - 286
 .NAME	SD345678
-.PATH	495-Interessante
 .STATUS	8
 .SURVEY	2012-08-09 - Zachodni - Komin Micha³a
 .NAME	AS878989
-.PATH	495-Interessante
 .STATUS	8
 .SURVEY	2012-08-09 - Zachodni - meanderek
 .NAME	ZA120809
-.PATH	495-Interessante
 .STATUS	8
 .SURVEY	2012-08-10 - Zachodni - po³noc kontnuacja
 .NAME	ZA098765
-.PATH	495-Interessante
 .STATUS	8
 .SURVEY	2012-08-12 - Partie Gastryczne - Meander w oknie
 .NAME	120812PM
-.PATH	495-Interessante
 .STATUS	8
 .SURVEY	2012-08-13 - Wspin nad Biala salka
 .NAME	120813BS
-.PATH	495-Interessante
 .STATUS	8
 .SURVEY	2012-08-15 - Zachodni
 .NAME	120815Z
-.PATH	495-Interessante
 .STATUS	8
 .SURVEY	2012-08-15 - Zachodni Dol
 .NAME	120815ZD
-.PATH	495-Interessante
 .STATUS	8
 .SURVEY	2012-10-07 - Partie Powrotu
 .NAME	121007PP
-.PATH	495-Interessante
 .STATUS	8
 .SURVEY	2013-07-29 - SMN
 .NAME	ERM
-.PATH	495-Interessante
 .STATUS	8
 .SURVEY	2013-07-30 - Partie Powrotu 2
 .NAME	ERM2
-.PATH	495-Interessante
 .STATUS	8
 .SURVEY	2013-07-31 - Partie pod studnia na zakrecie
 .NAME	130731JK
-.PATH	495-Interessante
 .STATUS	8
 .SURVEY	2013-08-01 - Kroko 1
 .NAME	KROKO1
-.PATH	495-Interessante
 .STATUS	8
 .SURVEY	2013-08-02 - Kontynuacja Baltazara
 .NAME	DOM0208
-.PATH	495-Interessante
 .STATUS	8
 .SURVEY	2013-08-02 - Kroko 2
 .NAME	KROKO2
-.PATH	495-Interessante
 .STATUS	8
 .SURVEY	2013-08-02 - Kroko 3
 .NAME	KROKO3
-.PATH	495-Interessante
 .STATUS	8
 .SURVEY	2013-08-03 - Ciag wejsciowy - podmeander
 .NAME	CIORANIE
-.PATH	495-Interessante
 .STATUS	8
 .SURVEY	2013-08-04 - Kijanka
 .NAME	130804KM
-.PATH	495-Interessante
 .STATUS	8
 .SURVEY	2013-08-05 - Powiew zachodu
 .NAME	130805PZ
-.PATH	495-Interessante
 .STATUS	8
 .SURVEY	2013-08-05 - Rura freatyczna
 .NAME	130805KM
-.PATH	495-Interessante
 .STATUS	8
 .SURVEY	2013-08-06 -Tu lis ma nore
 .NAME	130806ER
-.PATH	495-Interessante
 .STATUS	8
 .SURVEY	2013-08-07 - Dziki Zachod
 .NAME	130807DZ
-.PATH	495-Interessante
 .STATUS	8
 .SURVEY	2013-08-08 - Partie drzemiacego smoka
 .NAME	130808RE
-.PATH	495-Interessante
 .STATUS	8
 .SURVEY	2013-08-08 - Wspin nad Biala Salka Kontynuacja
 .NAME	130808KP
-.PATH	495-Interessante
 .STATUS	8
 .SURVEY	2013-08-09 - Dziki Zachod
 .NAME	130809DZ
-.PATH	495-Interessante
 .STATUS	8
 .SURVEY	2013-08-09 - Studnia na rozdrozu
 .NAME	130809SR
-.PATH	495-Interessante
 .STATUS	8
 .SURVEY	2013-08-10 - 3 Studnia Optymistyczna
 .NAME	130810S3
-.PATH	495-Interessante
 .STATUS	8
 .SURVEY	2013-08-13 - Kolo
 .NAME	130813KO
-.PATH	495-Interessante
 .STATUS	8
 .SURVEY	2013-08-13 - Rura freatyczna 2
 .NAME	130813F2
-.PATH	495-Interessante
 .STATUS	8
 .SURVEY	2013-08-13 - Studnia RT
 .NAME	130813RT
-.PATH	495-Interessante
 .STATUS	10
 .SURVEY	2013-08-14 - Zach dom
 .NAME	130814JD
-.PATH	495-Interessante
 .STATUS	8
 .SURVEY	2013-08-16 - Pietro Kutasow
 .NAME	080816KT
-.PATH	495-Interessante
 .STATUS	8
 .SURVEY	Bok od Sali z tyrolk¹
 .NAME	BOKTYR
-.PATH	495-Interessante
 .STATUS	2560
 .SURVEY	Ci¹g wejœciowy - podmeander
 .NAME	CW_POD
-.PATH	495-Interessante
 .STATUS	2562
 .SURVEY	Ci¹g wejœciowy 1
 .NAME	C_WEJ_1
-.PATH	495-Interessante
 .STATUS	2560
 .SURVEY	Ci¹g wejœciowy 2
 .NAME	C_WEJ_2
-.PATH	495-Interessante
 .STATUS	2560
 .SURVEY	Ci¹gi Pó³nocne 1
 .NAME	CIAPL1
-.PATH	495-Interessante
 .STATUS	2560
 .SURVEY	Ci¹gi Pó³nocne 2
 .NAME	CIPL2
-.PATH	495-Interessante
 .STATUS	2560
 .SURVEY	Ci¹gi Pó³nocne 3
 .NAME	CPN3
-.PATH	495-Interessante
 .STATUS	2560
 .SURVEY	Ci¹gi Pó³nocne 4
 .NAME	CIPL4
-.PATH	495-Interessante
 .STATUS	2560
 .SURVEY	Dolne Ci¹gi
 .NAME	DOLCI
-.PATH	495-Interessante
 .STATUS	2560
 .SURVEY	domiary do poligonu
 .NAME	495DDP
-.PATH	495-Interessante
 .STATUS	2560
 .SURVEY	Gang Bia³ych Kamieni 1
 .NAME	GABIK1
-.PATH	495-Interessante
 .STATUS	2560
 .SURVEY	Gang Bia³ych Kamieni 2
 .NAME	GABIK2
-.PATH	495-Interessante
 .STATUS	2560
 .SURVEY	Gang Bia³ych Kamieni 3
 .NAME	GABKA3
-.PATH	495-Interessante
 .STATUS	2560
 .SURVEY	Gang Bia³ych Kamieni 4 remake
 .NAME	GBK4RE
-.PATH	495-Interessante
 .STATUS	2304
 .SURVEY	Gang Bia³ych Kamieni 5
 .NAME	GBK5
-.PATH	495-Interessante
 .STATUS	2560
 .SURVEY	Gang Bia³ych Kamieni domiary 1
 .NAME	GABAKD1
-.PATH	495-Interessante
 .SURVEY	Gang Bia³ych Kamieni domiary 2
 .NAME	GBIKAD2
-.PATH	495-Interessante
 .STATUS	2560
 .SURVEY	Gang Bia³ych Kamieni domiary 3 remake
 .NAME	GBKD3R
-.PATH	495-Interessante
 .STATUS	2560
 .SURVEY	Gangi 1
 .NAME	GANGI1
-.PATH	495-Interessante
 .STATUS	2560
 .SURVEY	Meander - uzupe³nienia 1
 .NAME	MEA_UZ1
-.PATH	495-Interessante
 .STATUS	2560
 .SURVEY	Meander - uzupe³nienia 2
 .NAME	ME_UZ2
-.PATH	495-Interessante
 .STATUS	2560
 .SURVEY	Meander 1
 .NAME	MEAND1
-.PATH	495-Interessante
 .STATUS	2560
 .SURVEY	Meander 2
 .NAME	MEA2
-.PATH	495-Interessante
 .STATUS	2560
 .SURVEY	Meander 3
 .NAME	MEAND2
-.PATH	495-Interessante
 .STATUS	2560
 .SURVEY	Meander 3 + Krokodylek
 .NAME	MEN3_K
-.PATH	495-Interessante
 .STATUS	2560
 .SURVEY	Meander Zachodni - domiary
 .NAME	MEZACDO
-.PATH	495-Interessante
 .STATUS	2560
 .SURVEY	Meander Zachodni 1 + Dolne C
 .NAME	MZACH1_D
-.PATH	495-Interessante
 .STATUS	2560
 .SURVEY	Meander Zachodni 2
 .NAME	MEZACH2
-.PATH	495-Interessante
 .STATUS	2560
 .SURVEY	Meander Zachodni 3
 .NAME	MEZACH3
-.PATH	495-Interessante
 .STATUS	2560
 .SURVEY	Meander Zachodni 4
 .NAME	MEZACH4
-.PATH	495-Interessante
 .STATUS	2560
 .SURVEY	Meander Zachodni 5
 .NAME	MENZACH5
-.PATH	495-Interessante
 .STATUS	2560
 .SURVEY	Meander Zachodni 6
 .NAME	MEAZAC6
-.PATH	495-Interessante
 .STATUS	2560
 .SURVEY	Meander Zachodni 7
 .NAME	MEZA7
-.PATH	495-Interessante
 .STATUS	2560
 .SURVEY	Partie Jana Sopiñskiego
 .NAME	PAJANA
-.PATH	495-Interessante
 .STATUS	2560
 .SURVEY	Partie Kawowe
 .NAME	PAKAW
-.PATH	495-Interessante
 .STATUS	2560
 .SURVEY	Partie Krokodylka
 .NAME	PAKROK
-.PATH	495-Interessante
 .STATUS	2560
 .SURVEY	Studnia na rozdrozu
 .NAME	STNAROZ
-.PATH	495-Interessante
 .STATUS	2560
 .SURVEY	Studnia pod Wisz¹c¹ Pó³k¹
 .NAME	STPWIP
-.PATH	495-Interessante
 .STATUS	2560
 .ENDBOOK
 .BOOK	[496] Kraina Deszczowcow Land der Regenmenschacht
