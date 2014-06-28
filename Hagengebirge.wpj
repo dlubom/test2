@@ -331,7 +331,7 @@
 .ENDBOOK
 .BOOK	[491] W Czerwonych Kamieniach Hohle in Roten Steinen J1
 .NAME	491CZ
-.STATUS	2569
+.STATUS	2568
 .REF	5266334.650 353747.350 33 -1.435 1880 1 47 32 2.284 13 3 24.458 27 "WGS 1984"
 .SURVEY	491_Hohle_in_Roten_Steinen_profile_2009.pdf
 .NAME	491_Hohle_in_Roten_Steinen_profile_2009.pdf
@@ -392,17 +392,21 @@
 .ENDBOOK
 .BOOK	[492] Koralowa Korallenhohle A3-8 P04
 .NAME	492KOR
-.STATUS	2568
+.STATUS	2569
 .REF	5266123.240 352500.680 33 -1.447 2040 1 47 31 54.425 13 2 25.119 27 "WGS 1984"
 .SURVEY	492_Korallenhohle_plan_2006.gif
 .NAME	492_Korallenhohle_plan_2006.gif
+.PATH	492_Korallenhohle
 .STATUS	327688
 .SURVEY	p04a
 .NAME	492
+.PATH	492_Korallenhohle
 .SURVEY	pow
 .NAME	492POW
+.PATH	492_Korallenhohle
 .SURVEY	P04
 .NAME	492P04
+.PATH	492_Korallenhohle
 .ENDBOOK
 .BOOK	[493] Lodowka Eisschrank A3-86
 .NAME	493LOD
