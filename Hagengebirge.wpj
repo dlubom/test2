@@ -45,7 +45,8 @@
 .ENDBOOK
 .BOOK	Plynacych Kamieni
 .NAME	PLKAM
-.STATUS	8
+.PATH	Plynacych-Kamieni
+.STATUS	9
 .SURVEY	Plynacych Kamieni
 .NAME	KAMIEN
 .STATUS	8
@@ -228,7 +229,7 @@
 .ENDBOOK
 .BOOK	[482] Niebieskich Mgie³ Hohle der blaunen Nebel
 .NAME	482BL
-.STATUS	1352
+.STATUS	1353
 .SURVEY	482_Hohle_der_blaunen_Nebel_plan&profile_2003.gif
 .NAME	482_Hohle_der_blaunen_Nebel_plan&profile_2003.gif
 .PATH	482-Hohle_der_blaunen_Nebel
@@ -236,7 +237,7 @@
 .ENDBOOK
 .BOOK	[483] WH2
 .NAME	483WH2
-.STATUS	2561
+.STATUS	2560
 .REF	5265951.420 352846.550 33 -1.444 2025 1 47 31 49.145 13 2 41.858 27 "WGS 1984"
 .SURVEY	WH2 [483]
 .NAME	WH2
