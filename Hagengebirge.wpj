@@ -422,7 +422,7 @@
 .ENDBOOK
 .BOOK	[494] Respektschacht
 .NAME	494_RESP
-.STATUS	2569
+.STATUS	2568
 .REF	5265835.960 354049.930 33 -1.432 2025 1 47 31 46.384 13 3 39.518 27 "WGS 1984"
 .SURVEY	494_Respektschacht_plan_2008.jpg
 .NAME	494_Respektschacht_plan_2008.jpg
@@ -708,16 +708,19 @@
 .ENDBOOK
 .BOOK	[496] Kraina Deszczowcow Land der Regenmenschacht
 .NAME	496DESZ
-.STATUS	2568
+.STATUS	2569
 .REF	5266275.190 353975.560 33 -1.433 2010 1 47 32 0.544 13 3 35.439 27 "WGS 1984"
 .SURVEY	496_Land_der_Regenmenschacht_plan&profile_2009.pdf
 .NAME	496_Land_der_Regenmenschacht_plan&profile_2009.pdf
+.PATH	496_Land_der_Regenmenschacht
 .STATUS	327688
 .SURVEY	Deszcz2009
 .NAME	496D9
+.PATH	496_Land_der_Regenmenschacht
 .STATUS	8
 .SURVEY	Deszcz
 .NAME	496DD
+.PATH	496_Land_der_Regenmenschacht
 .STATUS	8
 .ENDBOOK
 .BOOK	[497] Hohle mit Oliphant
