@@ -3,3 +3,5 @@
 #note a497	/Hohle mit Oliphant [497]
 #flag	a497	/GPS Location
 #FIX  a497  E13:2.95  N47:31.916667   1968m     ;dm
+;TODO fikcyjny strzal
+a497	a497.1	30	0	-90

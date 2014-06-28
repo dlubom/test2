@@ -23,7 +23,7 @@
 .ENDBOOK
 .BOOK	A4-1
 .NAME	A4-1
-.STATUS	2569
+.STATUS	2568
 .REF	5266605.200 352204.110 33 -1.450 2006 1 47 32 9.786 13 2 10.359 27 "WGS 1984"
 .SURVEY	A4-1_plan.gif
 .NAME	A4-1_plan.gif
@@ -727,13 +727,15 @@
 .ENDBOOK
 .BOOK	[497] Hohle mit Oliphant
 .NAME	497
-.STATUS	2568
+.STATUS	2569
 .REF	5265981.470 353321.780 33 -1.439 1968 1 47 31 50.505 13 3 4.538 27 "WGS 1984"
 .SURVEY	497
 .NAME	497SR
+.PATH	497-Hohle_mit_Oliphant
 .STATUS	8
 .SURVEY	497_Hohle_mit_Oliphant_plan&profile_2006.gif
 .NAME	497_Hohle_mit_Oliphant_plan&profile_2006.gif
+.PATH	497-Hohle_mit_Oliphant
 .STATUS	327688
 .ENDBOOK
 .BOOK	[498] Meander Pod Kosowka Maander unter dem Laschen
