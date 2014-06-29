@@ -1,6 +1,7 @@
 #Units Meters Order=DAV
 ;Dariusz Bartoszewski, Marek Wierzbowski
 #date 2005-08-16
+;dane wykomentowane do grad
 cg94	cg95	8.56	101.00	-80.10	;-89.00
 cg95	cg96	2.24	311.00	9.90	;11.00
 cg96	cg97	9.25	164.00	-76.50	;-85.00

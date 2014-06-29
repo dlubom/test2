@@ -1,6 +1,7 @@
 #Units Meters Order=DAV
 ;Radoslaw Paternoga, Szymon Matysiak
 #date 2005-08-16
+;dane wykomentowane do grad
 cg40	cg41	5.92	38.00	-7.20	;-8.00
 cg41	cg42	4.22	40.00	-17.10	;-19.00
 cg42	cg43	1.03	357.00	-8.10	;-9.00

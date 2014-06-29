@@ -1,7 +1,7 @@
 #Units Meters Order=DAV
 ;Zbigniew Tabaczynski, Zoltar
 #date 2005-08-15
-;TODO co to za liczby ?
+;dane wykomentowane do grad
 cg24	cg25	1.00	160.00	-36.00	;-40.00
 cg25	cg26	3.23	135.00	-9.00	;-10.00
 cg26	cg27	5.98	100.00	-21.60	;-24.00
