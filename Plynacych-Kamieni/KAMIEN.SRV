@@ -3,6 +3,7 @@
 ;TODO nie wpisana do katastra
 #prefix kam
 #note pk01	/Plynacych Kamieni
+#flag	pk01	/GPS Location
 #FIX   pk01   E13:03:29.55564  N47:31:58.38138   1990m     ;dm
 pk01	pk02	7.57	170.00	-67.00
 pk02	pk03	2.33	75.00	-68.00
