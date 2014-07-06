@@ -1,5 +1,5 @@
 #units meters order=AVD
-
+#units A=D V=D
 #date 2012-10-07
 #segment /Partie Powrotu
 ;Michal Humielnik (palm /disto), Bartek Berdel (sprej/disto), Tomek Olczak (sprej)
