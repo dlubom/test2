@@ -1,0 +1,13 @@
+encoding  utf-8
+survey index \
+-title "Jaskinia Ciekawa" -namespace off
+input all.th
+input ../[280]Alvermannschacht/280_alvermannschacht.th
+
+centerline
+  station 000@all "entrance" entrance
+  cs UTM33
+     fix 000@all 353208.94 5266268.3 1932.4
+endcenterline
+endsurvey
+

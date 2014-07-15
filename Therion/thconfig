@@ -1,0 +1,11 @@
+encoding  utf-8
+source Data/index.th
+export model -enable all -fmt survex -o Output/Ciekawa.3d
+export model -enable all -o Output/Ciekawa.lox
+export model -enable all -o Output/Ciekawa.vrml
+export model -output Output/Ciekawa.plt  
+export model -output Output/Ciekawa.kml
+export model -output Output/Ciekawa.3dmf  
+export model -output Output/Ciekawa.dxf
+export map -projection plan -output Output/Ciekawa.svg
+export survey-list -output Output/lst.html

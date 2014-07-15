@@ -1,0 +1,13 @@
+set xth(ctrl,cp,datlist) {}
+xth_cp_data_tree_insert 1 {} 0   "" "" "length: 12891.59m (surface 0.00m, duplicated 0.00m)\nvertical range: 452.10m (from al1@jcienia.index at 1977.38m to al107@jcienia.index at 1525.28m)\nnorth-south range: 1442.15m (from al70@jcienia.index at 5266970.96m to bg021.02@all.index at 5265528.81m)\neast-west range: 1085.55m (from nt002@all.index at 353254.54m to wm260@all.index at 352168.99m)\nnumber of shots: 5245\nnumber of stations: 5209"
+xth_cp_data_tree_insert 8 1 1 index index "Jaskinia Ciekawa" "Jaskinia Ciekawa" "length: 12891.59m (surface 0.00m, duplicated 0.00m)\nvertical range: 452.10m (from al1@jcienia.index at 1977.38m to al107@jcienia.index at 1525.28m)\nnorth-south range: 1442.15m (from al70@jcienia.index at 5266970.96m to bg021.02@all.index at 5265528.81m)\neast-west range: 1085.55m (from nt002@all.index at 353254.54m to wm260@all.index at 352168.99m)\nnumber of shots: 5245\nnumber of stations: 5209"
+xth_cp_data_tree_insert 10 8 2 all all.index "Wszystkie ciągi" "Wszystkie ciagi" "length: 12182.59m (surface 0.00m, duplicated 0.00m)\nvertical range: 383.84m (from 000@all.index at 1932.40m to am035@all.index at 1548.56m)\nnorth-south range: 1048.22m (from wt101.1@all.index at 5266577.03m to bg021.02@all.index at 5265528.81m)\neast-west range: 1085.55m (from nt002@all.index at 353254.54m to wm260@all.index at 352168.99m)\nnumber of shots: 5143\nnumber of stations: 5106"
+xth_cp_data_tree_insert 14 8 2 jcienia jcienia.index "[280] Alvermannschacht" "[280] Alvermannschacht" "length: 709.00m (surface 0.00m, duplicated 0.00m)\nvertical range: 452.10m (from al1@jcienia.index at 1977.38m to al107@jcienia.index at 1525.28m)\nnorth-south range: 97.95m (from al70@jcienia.index at 5266970.96m to al107@jcienia.index at 5266873.01m)\neast-west range: 142.34m (from al107@jcienia.index at 352490.46m to al11@jcienia.index at 352348.12m)\nnumber of shots: 102\nnumber of stations: 103"
+xth_cp_data_tree_create
+set xth(ctrl,cp,maplist) {}
+xth_cp_map_tree_insert projection 0 p1 {} 0 plan {} {} {}
+xth_cp_map_tree_create
+xth_cp_comp_stat 12892 0
+set xth(th_exit_state) 2
+set xth(th_exit_number) 1405450367
+
