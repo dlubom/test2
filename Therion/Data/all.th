@@ -751,6 +751,7 @@ date 2010.08.04
     ws039.04 ws039.05   2.1 131     7.8 
     ws039.05 ws039.06   2.5  94     1.9 
     ws039.06 ws039.07   8.5 136.2 -41.4 
+data normal from to compass clino length
 date 2011.07.31
 #Gang Bialych Kamieni 3
 #Tomasz Olczak, Aleksandra Puchalska
@@ -768,6 +769,7 @@ date 2011.07.31
   ws038.06 ws038.07 31.54 -1.33 1.681 #domiar - ciasno
   ws038.02 w38.02.1 86.7 -60.65 4.956
   w38.02.1 w38.02.2 339.35 -64.99 5.139
+data normal from to  length compass clino  
 date 2011.08.08
 #Gang Bialych Kamieni 4 remake
 #Maciej Dziurka, Dariusz Lubomski, Bartosz Grancow
@@ -963,6 +965,7 @@ date 2011.08.06
     ws015.g ws015.h   5.8 309.9  53.5 
     ws015.e w15.e.1   2.7 245.5 -16.9 
     ws015.e w15.e.2  13.7 316.6 -76.6 
+data normal from to compass   clino length
 date 2011.08.11
 #Gang Bialych Kamieni domiary 3 remake
 #Oliwia Rysnik, Mirek Kopertowski, Michal Humienik, Arek Swieczkowski
@@ -976,6 +979,7 @@ date 2011.08.11
   ws008.05 w08.05.1 27.65 59.61 20.47 #domiar
   ws008.05 ws008.06 266.71 -33.59 1.569
   ws008.06 w08.06.1 50.28 -85.07 16.74 #domiar
+data normal from to length compass clino 
 date 2010.08.07
 #Meander Zachodni - domiary
 #Maciej Dziurka, Tomasz Olczak, Michal Humienik , Szymon Matysiak
