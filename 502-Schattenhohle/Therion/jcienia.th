@@ -1,15 +1,16 @@
 encoding  utf-8
 
-survey jcienia -title "[502] Jaskinia Cienia Schattenhohle"
+survey jcienia -title "[502] Jaskinia Cienia"
 input jcienia.th2
 map jcieniaMP
   scrap1
   scrap2
+  break
   scrap3
+  break
   scrap4
   break
   scrap5
-  scrap6
 endmap
 centreline
   date 2012.08.16
@@ -50,7 +51,7 @@ centreline
         24.0     25.0 182.64  -22.63  2.889
         25.0     26.0 142.62  -68.33  12.88 
         26.0     27.0 92.11  -34.88  5.46 
-        26.0        - 319.88  46.54  6.85 
+        26.0     -    319.88  46.54  6.85   
         27.0     28.0 133.77  -56.4   8.14  #uwaga domiar
 endcentreline
 endsurvey
