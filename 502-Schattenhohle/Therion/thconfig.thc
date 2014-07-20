@@ -1,11 +1,12 @@
 encoding  utf-8
 layout my_layout
-  grid-size 10 10 10 m
+  #grid-size 10 10 10 m
   scale 1 200
-  transparency on
-  opacity 90
+  base-scale 1 200
+  #transparency on
+  #opacity 90
   language pl
-  legend on
+  #legend on
   debug off
 endlayout
 source jcienia.th

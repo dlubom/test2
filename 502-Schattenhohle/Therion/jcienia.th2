@@ -1,6 +1,6 @@
 encoding  utf-8
-##XTHERION## xth_me_area_adjust -129.0 -167.25 1804.75 797.291338583
-##XTHERION## xth_me_area_zoom_to 400
+##XTHERION## xth_me_area_adjust -132.0 -170.0 1815.0 797.291338583
+##XTHERION## xth_me_area_zoom_to 100
 ##XTHERION## xth_me_image_insert {22.6377952756 1 1.0} {129.645669291 0.0} shadow_p.xvi 0 {}
 
 
@@ -174,7 +174,7 @@ line wall
   1231.75 413.5 1232.5 408.0 1235.25 398.5
   1238.0 389.0 1238.0 378.5 1237.5 373.75
   1237.0 369.0 1235.5 351.75 1236.0 344.5
-  1236.5 337.25 1236.12 328.75 1236.0 326.0
+  1236.5 337.25 1237.12 322.25 1237.0 319.5
   smooth off
 endline
 
@@ -292,7 +292,30 @@ endscrap
 
 scrap scrap3 -projection plan -scale [22.63779527559055 129.64566929133858 193.34779527559056 105.74566929133857 0.0 0.0 5 5 m]
 
-point 1675.5 -38.0 continuation
+point 1064.0 328.0 continuation
+
+point 1681.5 -37.25 continuation
+
+point 1111.0 555.0 continuation
+
+line wall
+  1183.5 253.0
+  1171.0 271.0
+  1148.0 286.0
+  1115.0 301.0
+  1106.0 307.0
+endline
+
+line wall
+  1211.0 309.0
+  1158.0 315.0
+  1135.0 318.0
+  1105.0 326.0
+endline
+
+point 577.25 452.0 continuation
+
+point 622.75 411.5 continuation
 
 line wall
 endline
@@ -552,12 +575,6 @@ line wall
 endline
 
 point 738.107795276 425.585669291 station -name 12.0
-
-endscrap
-
-
-
-scrap scrap6 -projection plan -scale [22.63779527559055 129.64566929133858 193.34779527559056 105.74566929133857 0.0 0.0 5 5 m]
 
 endscrap
 
