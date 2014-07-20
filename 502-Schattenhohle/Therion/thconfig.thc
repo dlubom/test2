@@ -1,13 +1,14 @@
 encoding  utf-8
 layout my_layout
-  #grid-size 10 10 10 m
+  map-header 0 0 nw
+  grid off
   scale 1 200
-  base-scale 1 200
-  #transparency on
-  #opacity 90
   language pl
-  #legend on
+  legend on
   debug off
+  #symbol-hide point cave-station
+  #symbol-hide line survey
+  doc-author "Dariusz Lubomski"
 endlayout
 source jcienia.th
 export model -fmt survex -o Output/502_Jaskinia_Cienia.3d
