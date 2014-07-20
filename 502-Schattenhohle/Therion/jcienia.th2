@@ -292,6 +292,11 @@ endscrap
 
 scrap scrap3 -projection plan -scale [22.63779527559055 129.64566929133858 193.34779527559056 105.74566929133857 0.0 0.0 5 5 m]
 
+line water-flow
+  1375.0 289.0
+  1341.0 255.0
+endline
+
 point 1064.0 328.0 continuation
 
 point 1681.5 -37.25 continuation
@@ -360,9 +365,6 @@ endline
 
 line wall
 endline
-
-area water
-endarea
 
 line pit -id studnia -close on -clip off
   1196.25 294.0
