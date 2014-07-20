@@ -1,0 +1,18 @@
+encoding  utf-8
+layout my_layout
+  grid-size 10 10 10 m
+  scale 1 200
+  transparency on
+  opacity 90
+  language pl
+  legend on
+  debug off
+endlayout
+source jcienia.th
+export model -fmt survex -o Output/502_Jaskinia_Cienia.3d
+export model -o Output/502_Jaskinia_Cienia.lox
+export model -o Output/502_Jaskinia_Cienia.vrml
+export map -projection plan -enc utf-8 -o Output/502_Jaskinia_Cienia_Plan.pdf -layout my_layout
+export map -projection plan -o Output/502_Jaskinia_Cienia_Plan.xhtml -layout my_layout
+export map -projection plan -o Output/502_Jaskinia_Cienia_Plan.svg -layout my_layout
+export map -projection plan -output Output/502_Jaskinia_Cienia_Plan.kml
