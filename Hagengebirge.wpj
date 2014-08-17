@@ -3,6 +3,13 @@
 .NAME	PROJECT
 .STATUS	2563
 .REF	5266134.620 353373.320 33 -1.439 1940 1 47 31 55.505 13 3 6.818 27 "WGS 1984"
+.BOOK	Biwakko
+.NAME	BIWAKK
+.STATUS	8
+.SURVEY	2014-08-13
+.NAME	BIWAK
+.STATUS	8
+.ENDBOOK
 .BOOK	340
 .NAME	340
 .STATUS	2568
@@ -42,6 +49,14 @@
 .NAME	BAZAPK
 .PATH	Baza
 .STATUS	2560
+.ENDBOOK
+.BOOK	Gerollenheim
+.NAME	GERO
+.PATH	Gerollenheim
+.STATUS	8
+.SURVEY	Gerollenheim
+.NAME	GEROLL
+.STATUS	8
 .ENDBOOK
 .BOOK	Plynacych Kamieni
 .NAME	PLKAM
@@ -87,6 +102,14 @@
 .NAME	280_A1S
 .PATH	280-Alvermannschacht
 .STATUS	2568
+.ENDBOOK
+.BOOK	[421] Tschikpausenhohle
+.NAME	421
+.PATH	421-Tschikpausenhohle
+.STATUS	8
+.SURVEY	Tschikpausenhohle
+.NAME	NA1
+.STATUS	8
 .ENDBOOK
 .BOOK	[425] St. Blasius-Labyrinth
 .NAME	425BL
@@ -460,8 +483,32 @@
 .ENDBOOK
 .BOOK	[495] Ciekawa Interessante Höhle
 .NAME	495CIE
-.STATUS	2568
+.STATUS	2569
 .REF	5266134.620 353373.320 33 -1.439 1940 0 47 31 55.505 13 3 6.818 27 "WGS 1984"
+.SURVEY	2014-08-13 - Kaskady Lafiryndy
+.NAME	140813KL
+.PATH	495-Interessante
+.STATUS	8
+.SURVEY	2014-08-13 - Meander pogadajmy o kobietach
+.NAME	140814PK
+.PATH	495-Interessante
+.STATUS	8
+.SURVEY	2014-08-14 - Gambki - Studnia z meandrem
+.NAME	140813GK
+.PATH	495-Interessante
+.STATUS	8
+.SURVEY	Re 2
+.NAME	140808R2
+.PATH	495-Interessante
+.STATUS	10
+.SURVEY	Re 3
+.NAME	140810R3
+.PATH	495-Interessante
+.STATUS	10
+.SURVEY	2014-08-08 - Jeziorko
+.NAME	140808JE
+.PATH	495-Interessante
+.STATUS	8
 .SURVEY	!_Uwaga
 .NAME	UWAGA
 .PATH	495-Interessante
@@ -633,7 +680,7 @@
 .SURVEY	2013-08-13 - Studnia RT
 .NAME	130813RT
 .PATH	495-Interessante
-.STATUS	10
+.STATUS	8
 .SURVEY	2013-08-14 - Zach dom
 .NAME	130814JD
 .PATH	495-Interessante
@@ -641,6 +688,93 @@
 .SURVEY	2013-08-16 - Pietro Kutasow
 .NAME	080816KT
 .PATH	495-Interessante
+.STATUS	8
+.SURVEY	2014-07-22 - Gstryczne dolny meander
+.NAME	140722PD
+.PATH	495-Interessante
+.STATUS	8
+.SURVEY	2014-07-22 - Partie Gastryczne Przekop
+.NAME	140722PP
+.PATH	495-Interessante
+.STATUS	8
+.SURVEY	2014-07-27 - Gastryczne - Kontynuacja
+.NAME	140727KO
+.PATH	495-Interessante
+.STATUS	8
+.SURVEY	2014-07-28 - Fantazja
+.NAME	140728FA
+.PATH	495-Interessante
+.STATUS	8
+.SURVEY	2014-07-29 - Boki Trawers
+.NAME	140729BT
+.PATH	495-Interessante
+.STATUS	8
+.SURVEY	2014-07-30 - Kolorowe ska³y - bok1
+.NAME	140730K1
+.PATH	495-Interessante\140730K1
+.STATUS	8
+.SURVEY	2014-07-30 - Kolorowe ska³y - bok2
+.NAME	140730K2
+.PATH	495-Interessante\140730K2
+.STATUS	8
+.SURVEY	2014-07-31 - Kaskady Viktorii
+.NAME	140731KV
+.PATH	495-Interessante\140731KV
+.STATUS	8
+.SURVEY	2014-08-02 - Baltazar Petla
+.NAME	140802GA
+.PATH	495-Interessante
+.STATUS	8
+.SURVEY	2014-08-02 - Domiary do Pochylnie bez Pradu
+.NAME	140802TK
+.PATH	495-Interessante
+.STATUS	8
+.SURVEY	2014-08-03 - Czarna Pochylnia
+.NAME	140803CZ
+.PATH	495-Interessante
+.STATUS	8
+.SURVEY	2014-08-03 - Fantazja 2
+.NAME	140803F2
+.PATH	495-Interessante
+.STATUS	8
+.SURVEY	2014-08-03 - Obejscie 60
+.NAME	140803OB
+.PATH	495-Interessante
+.STATUS	8
+.SURVEY	2014-08-03 - Woda w Meandrze
+.NAME	140803WM
+.PATH	495-Interessante
+.STATUS	8
+.SURVEY	2014-08-05 - Kaskady Viktorii 2
+.NAME	140805V2
+.PATH	495-Interessante\140805V2
+.STATUS	8
+.SURVEY	2014-08-05 - Poprawki
+.NAME	140805PO
+.PATH	495-Interessante
+.STATUS	8
+.SURVEY	2014-08-06 - Kaskady Viktorii 3
+.NAME	140806V3
+.PATH	495-Interessante\140806V3
+.STATUS	8
+.SURVEY	2014-08-07 - Partie gastryczne - meanderek
+.NAME	140807GM
+.PATH	495-Interessante\140807GM
+.STATUS	8
+.SURVEY	2014-08-08 - meander odbytniczy
+.NAME	MEANODB
+.STATUS	8
+.SURVEY	2014-08-10 - niegryzie
+.NAME	NIEGRYZ
+.STATUS	8
+.SURVEY	2014-08-11 - Obejœcie do Nik¹d - Chuja tam wiedz¹ jak pod³¹czyæ
+.NAME	ZAKR
+.STATUS	8
+.SURVEY	2014-08-12 - st - do podlaczenia w mea. zach. po pomiarach 1.4-1.5
+.NAME	ST
+.STATUS	8
+.SURVEY	2014-08-12 - Brzytwa 2
+.NAME	BRZYTW
 .STATUS	8
 .SURVEY	Bok od Sali z tyrolk¹
 .NAME	BOKTYR
@@ -785,6 +919,10 @@
 .NAME	PAKROK
 .PATH	495-Interessante
 .STATUS	2560
+.SURVEY	Re
+.NAME	140804RE
+.PATH	495-Interessante
+.STATUS	10
 .SURVEY	Studnia na rozdrozu
 .NAME	STNAROZ
 .PATH	495-Interessante
@@ -856,6 +994,10 @@
 .NAME	B3-6
 .STATUS	2568
 .REF	5265848.080 353196.670 33 -1.440 2016 1 47 31 46.085 13 2 58.718 27 "WGS 1984"
+.SURVEY	Re - Nazi
+.NAME	NAZI
+.PATH	500-B3-6
+.STATUS	8
 .SURVEY	500_B3-6_plan&profile_2010.pdf
 .NAME	500_B3-6_plan&profile_2010.pdf
 .PATH	500-B3-6

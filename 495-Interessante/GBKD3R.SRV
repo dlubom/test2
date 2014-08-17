@@ -3,7 +3,7 @@
 #date 2011-08-11
 #segment /Gang Bialych Kamieni domiary 3 remake
 ;Oliwia Rysnik, Mirek Kopertowski, Michal Humienik, Arek Swieczkowski
-ws008	ws008.01	242.39	32.48	4.466
+ws008	ws008.01	242.39	32.48	4.466;TODO
 ws008.01	ws008.02	343.83	7.46	6.813
 ws008.02	ws008.03	296.85	-40.69	2.76
 ws008.03	w08.03.1	358.47	-40.23	5.551 ;domiar

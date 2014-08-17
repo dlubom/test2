@@ -1,0 +1,10 @@
+#units meters order=AVD
+#units A=D V=D
+;Filip Filar, Michal Parczewski
+#date 2014-08-13
+#prefix 140813kf
+1.0	140808JE:1.29	0	0	0
+1.0	1.1	41.61	-54.63	2.149
+1.1	1.2	163.83	-67.84	2.741
+1.2	1.3	90.03	-26.46	2.5
+1.3	1.4	144.11	-39.99	4.5
