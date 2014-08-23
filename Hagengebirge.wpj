@@ -5,7 +5,7 @@
 .REF	5266134.620 353373.320 33 -1.439 1940 1 47 31 55.505 13 3 6.818 27 "WGS 1984"
 .BOOK	Biwakko
 .NAME	BIWAKK
-.STATUS	8
+.STATUS	10
 .SURVEY	2014-08-13
 .NAME	BIWAK
 .STATUS	8
@@ -485,30 +485,6 @@
 .NAME	495CIE
 .STATUS	2569
 .REF	5266134.620 353373.320 33 -1.439 1940 0 47 31 55.505 13 3 6.818 27 "WGS 1984"
-.SURVEY	2014-08-13 - Kaskady Lafiryndy
-.NAME	140813KL
-.PATH	495-Interessante
-.STATUS	8
-.SURVEY	2014-08-13 - Meander pogadajmy o kobietach
-.NAME	140814PK
-.PATH	495-Interessante
-.STATUS	8
-.SURVEY	2014-08-14 - Gambki - Studnia z meandrem
-.NAME	140813GK
-.PATH	495-Interessante
-.STATUS	8
-.SURVEY	Re 2
-.NAME	140808R2
-.PATH	495-Interessante
-.STATUS	10
-.SURVEY	Re 3
-.NAME	140810R3
-.PATH	495-Interessante
-.STATUS	10
-.SURVEY	2014-08-08 - Jeziorko
-.NAME	140808JE
-.PATH	495-Interessante
-.STATUS	8
 .SURVEY	!_Uwaga
 .NAME	UWAGA
 .PATH	495-Interessante
@@ -761,6 +737,10 @@
 .NAME	140807GM
 .PATH	495-Interessante\140807GM
 .STATUS	8
+.SURVEY	2014-08-08 - Jeziorko
+.NAME	140808JE
+.PATH	495-Interessante
+.STATUS	8
 .SURVEY	2014-08-08 - meander odbytniczy
 .NAME	MEANODB
 .STATUS	8
@@ -770,11 +750,23 @@
 .SURVEY	2014-08-11 - Obejœcie do Nik¹d - Chuja tam wiedz¹ jak pod³¹czyæ
 .NAME	ZAKR
 .STATUS	8
+.SURVEY	2014-08-12 - Brzytwa 2
+.NAME	BRZYTW
+.STATUS	8
 .SURVEY	2014-08-12 - st - do podlaczenia w mea. zach. po pomiarach 1.4-1.5
 .NAME	ST
 .STATUS	8
-.SURVEY	2014-08-12 - Brzytwa 2
-.NAME	BRZYTW
+.SURVEY	2014-08-13 - Kaskady Lafiryndy
+.NAME	140813KL
+.PATH	495-Interessante
+.STATUS	8
+.SURVEY	2014-08-13 - Meander pogadajmy o kobietach
+.NAME	140814PK
+.PATH	495-Interessante
+.STATUS	8
+.SURVEY	2014-08-14 - Gambki - Studnia z meandrem
+.NAME	140813GK
+.PATH	495-Interessante
 .STATUS	8
 .SURVEY	Bok od Sali z tyrolk¹
 .NAME	BOKTYR
@@ -922,7 +914,15 @@
 .SURVEY	Re
 .NAME	140804RE
 .PATH	495-Interessante
-.STATUS	10
+.STATUS	8
+.SURVEY	Re 2
+.NAME	140808R2
+.PATH	495-Interessante
+.STATUS	8
+.SURVEY	Re 3
+.NAME	140810R3
+.PATH	495-Interessante
+.STATUS	8
 .SURVEY	Studnia na rozdrozu
 .NAME	STNAROZ
 .PATH	495-Interessante
@@ -997,7 +997,7 @@
 .SURVEY	Re - Nazi
 .NAME	NAZI
 .PATH	500-B3-6
-.STATUS	8
+.STATUS	10
 .SURVEY	500_B3-6_plan&profile_2010.pdf
 .NAME	500_B3-6_plan&profile_2010.pdf
 .PATH	500-B3-6
@@ -1066,9 +1066,9 @@
 .SURVEY	TerenX
 .NAME	TERENXX
 .PATH	Teren
-.STATUS	10
+.STATUS	8
 .SURVEY	TerenY
 .NAME	TERENX
 .PATH	Teren
-.STATUS	10
+.STATUS	8
 .ENDBOOK
