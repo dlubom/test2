@@ -43,7 +43,7 @@
 .ENDBOOK
 .BOOK	Baza
 .NAME	BAZA
-.STATUS	2568
+.STATUS	2569
 .REF	5266700.180 352625.710 33 -1.446 1850 1 47 32 13.205 13 2 30.399 27 "WGS 1984"
 .SURVEY	Baza
 .NAME	BAZAPK
@@ -252,7 +252,11 @@
 .ENDBOOK
 .BOOK	[482] Niebieskich Mgie³ Hohle der blaunen Nebel
 .NAME	482BL
-.STATUS	1352
+.STATUS	9
+.SURVEY	482
+.NAME	482
+.PATH	482-Hohle_der_blaunen_Nebel
+.STATUS	8
 .SURVEY	482_Hohle_der_blaunen_Nebel_plan&profile_2003.gif
 .NAME	482_Hohle_der_blaunen_Nebel_plan&profile_2003.gif
 .PATH	482-Hohle_der_blaunen_Nebel
