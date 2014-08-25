@@ -2,6 +2,7 @@
 #units A=D V=D
 #date 2014-08-04
 #prefix re
+;Dariusz Lubomski(palm), Nazi(Disto), Maciej Dziurka(spray)
 :hg104	:hg104.1	162.34	-19.05	5.576
 :hg104.1	:hg105	179.88	-9.97	6.969
 :hg105	:hg105.1	65.38	-27.12	0.399
