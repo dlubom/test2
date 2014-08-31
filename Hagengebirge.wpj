@@ -43,7 +43,7 @@
 .ENDBOOK
 .BOOK	Baza
 .NAME	BAZA
-.STATUS	2569
+.STATUS	2568
 .REF	5266700.180 352625.710 33 -1.446 1850 1 47 32 13.205 13 2 30.399 27 "WGS 1984"
 .SURVEY	Baza
 .NAME	BAZAPK
@@ -252,7 +252,7 @@
 .ENDBOOK
 .BOOK	[482] Niebieskich Mgie³ Hohle der blaunen Nebel
 .NAME	482BL
-.STATUS	9
+.STATUS	8
 .SURVEY	482
 .NAME	482
 .PATH	482-Hohle_der_blaunen_Nebel
@@ -751,13 +751,13 @@
 .SURVEY	2014-08-10 - niegryzie
 .NAME	NIEGRYZ
 .STATUS	8
-.SURVEY	2014-08-11 - Obejœcie do Nik¹d - Chuja tam wiedz¹ jak pod³¹czyæ
+.SURVEY	2014-08-11 - Obejœcie do Nik¹d
 .NAME	ZAKR
 .STATUS	8
 .SURVEY	2014-08-12 - Brzytwa 2
 .NAME	BRZYTW
 .STATUS	8
-.SURVEY	2014-08-12 - st - do podlaczenia w mea. zach. po pomiarach 1.4-1.5
+.SURVEY	2014-08-12 - st
 .NAME	ST
 .STATUS	8
 .SURVEY	2014-08-13 - Kaskady Lafiryndy
@@ -776,10 +776,6 @@
 .NAME	BOKTYR
 .PATH	495-Interessante
 .STATUS	2560
-.SURVEY	Ci¹g wejœciowy - podmeander
-.NAME	CW_POD
-.PATH	495-Interessante
-.STATUS	2562
 .SURVEY	Ci¹g wejœciowy 1
 .NAME	C_WEJ_1
 .PATH	495-Interessante
@@ -927,10 +923,6 @@
 .NAME	140810R3
 .PATH	495-Interessante
 .STATUS	10
-.SURVEY	Studnia na rozdrozu
-.NAME	STNAROZ
-.PATH	495-Interessante
-.STATUS	2560
 .SURVEY	Studnia pod Wisz¹c¹ Pó³k¹
 .NAME	STPWIP
 .PATH	495-Interessante
@@ -1070,9 +1062,9 @@
 .SURVEY	TerenX
 .NAME	TERENXX
 .PATH	Teren
-.STATUS	10
+.STATUS	8
 .SURVEY	TerenY
 .NAME	TERENX
 .PATH	Teren
-.STATUS	10
+.STATUS	8
 .ENDBOOK
