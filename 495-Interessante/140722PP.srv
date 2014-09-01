@@ -2,6 +2,7 @@
 #units A=D V=D
 #date 2014-07-22
 ;delta Disto = 0.5
+;Karol Makowski(Palm), Marcin Slowik(spray, Disto)
 gh125	gh126	251.44	-18.91	2.036;powtorzony
 gh126	gh127	244.78	-62.62	4.104;powtorzony
 gh127	gh127a	243.99	-7.3	2.683
