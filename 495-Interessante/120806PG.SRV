@@ -3,7 +3,7 @@
 #segment /Partie Gastryczne
 ;Maciej Dziurka (obsluga Disto-X), Tomasz Olczak (kartowanie)
 ;Disto-X + Palm
-:zg033	gh001	1.038333333	198.99	32.67333333
+zg033	gh001	1.038333333	198.99	32.67333333
 gh001	gh002	3.109333333	214.5633333	-69.78666667
 gh002	-	1.848	200.45	-3.7
 gh002	-	8.529	153.56	1.18

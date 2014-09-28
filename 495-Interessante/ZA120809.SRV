@@ -3,7 +3,7 @@
 #segment /Zachodni - meanderek
 ;Jan Dudziec (obsluga Disto-X), Michal Humienik (kartowanie)
 ;Disto-X + Palm
-:wm280	wt001	2.55667	339.15	-1.19667
+wm280	wt001	2.55667	339.15	-1.19667
 wt001	wt002	1.29	2.65333	6.29333
 wt002	-	1.170	71.41	71.53
 wt002	-	0.800	147.30	9.61

@@ -3,7 +3,7 @@
 #segment /Zachodni - Komin Michala
 ;Jan Dudziec (obsluga Disto-X), Michal Humienik (kartowanie)
 ;Disto-X + Palm
-:wm282	wm282.01	3.913333333	183.9333333	20.86666667
+wm282	wm282.01	3.913333333	183.9333333	20.86666667
 wm282.01	wm282.02	3.68	131.2666667	36.7
 wm282.02	-	8.16	82.2	51.9
 wm282.02	wm282.03	1.26	172.7333333	62.16666667
