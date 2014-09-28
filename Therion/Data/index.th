@@ -7,6 +7,7 @@ input 140727KO.th
 input 140728FA.th
 input 140729BT.th
 input 140722PP.th
+input 140730K1.th
 input ../[280]Alvermannschacht/280_alvermannschacht.th
 
 centerline
@@ -18,6 +19,7 @@ centerline
   equate gh166@140727PG_dolny_meander_kontynuacja gh166@140722PG_dolny_meander
   equate wt101@all wt101@140728FA
   equate wm172@all wm172@140729BT_boki_trawers
+  equate ws104@all ws104@140730K1
 endcenterline
 endsurvey
 
