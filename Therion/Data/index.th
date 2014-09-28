@@ -6,16 +6,18 @@ input 140722PG_dolny_meander.th
 input 140727KO.th
 input 140728FA.th
 input 140729BT.th
+input 140722PP.th
 input ../[280]Alvermannschacht/280_alvermannschacht.th
 
 centerline
   station 000@all "entrance" entrance
   cs UTM33
      fix 000@all 353208.94 5266268.3 1932.4
-  equate gh138@all 1.2@140722PG_dolny_meander
-  equate 1.0@140727PG_dolny_meander_kontynuacja 1.134@140722PG_dolny_meander
-  equate wt100@all 1.0@140728FA
-  equate wm172@all 1.20@140729BT_boki_trawers
+  equate gh138@all gh138@140722PG_dolny_meander
+  equate gh127@all gh127@140722PP
+  equate gh166@140727PG_dolny_meander_kontynuacja gh166@140722PG_dolny_meander
+  equate wt101@all wt101@140728FA
+  equate wm172@all wm172@140729BT_boki_trawers
 endcenterline
 endsurvey
 
