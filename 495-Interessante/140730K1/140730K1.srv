@@ -2,7 +2,7 @@
 #units A=D V=D
 ;Marcin Slowik (kartowanie), Mahyar Kafash (Disto)
 #date 2014-07-30
-ws103	ws104	109.19	7.93	4.846;powtorzony
+;ws103	ws104	109.19	7.93	4.846;powtorzony
 ws104	-	334.05	-19.76	6.59
 ws104	-	130.0	7.37	2.821
 ws104	-	143.29	10.06	1.5

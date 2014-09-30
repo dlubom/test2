@@ -2,7 +2,7 @@
 #units A=D V=D
 ;Marcin Slowik (kartowanie), Mahyar Kafash (Disto)
 #date 2014-07-31
-gh164	gh165	267.8	-0.16	6.064
+;gh164	gh165	267.8	-0.16	6.064;powtorzony
 gh165	-	122.76	-86.09	1.76
 gh165	-	154.57	-12.47	1.5
 gh165	-	345.79	5.92	2.47

@@ -3,8 +3,8 @@
 ;Karol Makowski (kartowanie), Mahyar Kafash (Disto), Krzysztof Kolodziejczyk (spray)
 ;delta Disto = 0.4
 #date 2014-08-06
-kv021	kv022	168.62	-5.17	5.973
-kv022	kv023	223.22	-68.86	4.929
+;kv021	kv022	168.62	-5.17	5.973;powtorzony
+;kv022	kv023	223.22	-68.86	4.929;powtorzony
 kv023	-	98.97	72.28	4.277
 kv023	-	81.36	84.67	2.222
 kv023	-	87.7	53.4	2.463
