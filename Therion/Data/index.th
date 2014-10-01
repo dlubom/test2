@@ -13,6 +13,7 @@ input 140731KV.th
 input 140802GA.th
 input 140802TK.th
 input 140803CZ.th
+input 140803F2.th
 input ../[280]Alvermannschacht/280_alvermannschacht.th
 
 centerline
@@ -33,6 +34,7 @@ centerline
   equate rs008@140802TK rs008@all
   equate gh148.2@140803CZ gh148.2@140722PG_dolny_meander
   equate gh140@140803CZ gh140@140722PG_dolny_meander
+  equate wt112@140803F2 wt112@140728FA
 endcenterline
 endsurvey
 
