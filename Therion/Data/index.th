@@ -22,6 +22,8 @@ input 140806V3.th
 input 140807GM.th
 input 140808JE.th
 input MEANODB.th
+input NIEGRYZ.th
+input ZAKR.th
 input ../[280]Alvermannschacht/280_alvermannschacht.th
 
 centerline
@@ -51,6 +53,10 @@ centerline
   equate gh164@140807GM gh164@140722PG_dolny_meander
   equate kv0110@140808JE kv0110@140806V3
   equate wt165@MEANODB wt165@140803F2
+  equate wt119@NIEGRYZ wt119@140803F2
+  equate ob004@ZAKR ob004@140803OB
+  equate ob009@ZAKR ob009@140803OB
+  equate ob018@ZAKR ob018@140803OB
 endcenterline
 endsurvey
 
