@@ -1,0 +1,15 @@
+encoding  utf-8
+survey 140813KL -title "2014-08-13 - Kaskady Lafiryndy"
+centreline
+    units compass degrees
+    units clino degrees
+    units tape m
+data normal from to      compass   clino length
+date 2014.08.13
+#Filip Filar, Michal Parczewski
+kv0149	kv0150	41.61	-54.63	2.149
+kv0150	kv0151	163.83	-67.84	2.741
+kv0151	kv0152	90.03	-26.46	2.5
+kv0152	kv0153	144.11	-39.99	4.5
+endcentreline
+endsurvey
