@@ -24,6 +24,7 @@ input 140808JE.th
 input MEANODB.th
 input NIEGRYZ.th
 input ZAKR.th
+input BRZYTW.th
 input ../[280]Alvermannschacht/280_alvermannschacht.th
 
 centerline
@@ -57,6 +58,7 @@ centerline
   equate ob004@ZAKR ob004@140803OB
   equate ob009@ZAKR ob009@140803OB
   equate ob018@ZAKR ob018@140803OB
+  equate wm172.20@BRZYTW wm172.20@140729BT_boki_trawers
 endcenterline
 endsurvey
 
