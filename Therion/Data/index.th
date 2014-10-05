@@ -27,6 +27,8 @@ input ZAKR.th
 input BRZYTW.th
 input ST.th
 input 140813KL.th
+input 140814PK.th
+input 140813GK.th
 input ../[280]Alvermannschacht/280_alvermannschacht.th
 
 centerline
@@ -63,6 +65,9 @@ centerline
   equate wm172.20@BRZYTW wm172.20@140729BT_boki_trawers
   equate wm199@ST wm199@all
   equate kv0149@140813KL kv0149@140808JE
+  equate kv0201@140814PK kv0201@140808JE
+  equate bg018@140813GK bg018@all
+  equate bg037@140813GK bg037@all
 endcenterline
 endsurvey
 
