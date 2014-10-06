@@ -29,7 +29,7 @@ input ST.th
 input 140813KL.th
 input 140814PK.th
 input 140813GK.th
-input ../[280]Alvermannschacht/280_alvermannschacht.th
+#input ../[280]Alvermannschacht/280_alvermannschacht.th
 
 centerline
   station 000@all "entrance" entrance
