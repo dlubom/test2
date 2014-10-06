@@ -76,8 +76,8 @@ nt016  nt017  3.80  357.30  6.40
 nt017  nt018  8.45  285.20  46.20
 nt018  nt019  2.88  232.00  61.30
 #"Ciągi Północne 3"
-  date 2009.08.15
-  #Maciek Dziurka, Lukasz Kralczynski
+date 2009.08.15
+#Maciek Dziurka, Lukasz Kralczynski
 nt019  nt019.01  1.39  228.90  -57.90
 nt019.01  nt019.02  1.57  312.10  -41.20
 nt019.02  nt019.03  16.40  188.30  -87.80
@@ -306,7 +306,7 @@ cw038.14  cw038.15  290.62  13.13  1.615
 data normal from to length compass clino 
 #Meander 1
 #data jest przypuszczalna
-  date 2009.08.05
+date 2009.08.05
 cw040  hg001  3.31  158.00  22.00
 hg001  hg002  2.73  148.00  -29.00
 hg002  hg003  7.34  151.00  -22.00
