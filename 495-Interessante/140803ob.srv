@@ -3,7 +3,7 @@
 #date 2014-08-03
 ;Rafal Klimara(Palm), Arkadiusz Kus(Disto-X),Tomasz Olczak(spray)
 ob000	-	200.39	-0.83	7.02
-ob000	-	243.17	0.79	9.03
+ob000	ob000.1	243.17	0.79	9.03;domiar
 ob000	-	275.2	8.87	3.93
 ob000	-	233.16	60.86	13.63
 ob000	ob001	325.21	-7.18	4.999
