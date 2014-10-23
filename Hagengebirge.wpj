@@ -487,16 +487,16 @@
 .ENDBOOK
 .BOOK	[495] Ciekawa Interessante Höhle
 .NAME	495CIE
-.STATUS	2568
+.STATUS	2569
 .REF	5266134.622 353373.317 33 -1.437 1932 0 47 31 55.505 13 3 6.818 27 "WGS 1984"
 .SURVEY	!_Uwaga
 .NAME	UWAGA
 .PATH	495-Interessante
 .STATUS	8
-.SURVEY	495_Interessante_plan_2013.pdf
-.NAME	495_Interessante_plan_2013.pdf
+.SURVEY	495_Interessante_plan_2014.pdf
+.NAME	495_Interessante_plan_2014.pdf
 .PATH	495-Interessante
-.STATUS	327688
+.STATUS	65544
 .SURVEY	495_Interessante_profile_2012.pdf
 .NAME	495_Interessante_profile_2012.pdf
 .PATH	495-Interessante
