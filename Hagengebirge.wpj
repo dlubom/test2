@@ -684,7 +684,7 @@
 .STATUS	8
 .SURVEY	2014-07-29 - Boki Trawers
 .NAME	140729BT
-.PATH	495-Interessante
+.PATH	495-Interessante\140729BT
 .STATUS	8
 .SURVEY	2014-07-30 - Kolorowe ska³y - bok1
 .NAME	140730K1
@@ -708,7 +708,7 @@
 .STATUS	8
 .SURVEY	2014-08-03 - Czarna Pochylnia
 .NAME	140803CZ
-.PATH	495-Interessante
+.PATH	495-Interessante\140803CZ
 .STATUS	8
 .SURVEY	2014-08-03 - Fantazja 2
 .NAME	140803F2
