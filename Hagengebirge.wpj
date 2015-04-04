@@ -772,7 +772,7 @@
 .STATUS	8
 .SURVEY	2014-08-14 - Gambki - Studnia z meandrem
 .NAME	140813GK
-.PATH	495-Interessante
+.PATH	495-Interessante\140813GK
 .STATUS	8
 .SURVEY	Bok od Sali z tyrolk¹
 .NAME	BOKTYR
@@ -915,7 +915,7 @@
 .STATUS	2560
 .SURVEY	Re
 .NAME	140804RE
-.PATH	495-Interessante
+.PATH	495-Interessante\140804RE
 .STATUS	8
 .SURVEY	Re 2
 .NAME	140808R2
