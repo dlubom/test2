@@ -1,3 +1,4 @@
+002 lej z przewiewem
 020 mia³o byæ sprawdzone przez braci J i DB
 021 mia³o byæ sprawdzone przez braci J i DB
 022 mia³o byæ sprawdzone przez braci J i DB
@@ -33,7 +34,6 @@
 145 niewielka niecka z odbijaj¹cym b. ciasnym meandrem, bez przewiewu
 147 ciasna cipa o g³êb. 6 m, wymagany zjazd dla szczup³ej osoby
 148 studnia do sprawdzenia o zas³anym wantami dnie
-149 ???
 340 Lodowa studnia
 341 sprawdzane MW
 342 sprawdzane MW
@@ -63,6 +63,14 @@ A14 Hohle_393 Höhle A-14 [393], d³ugoœæ: 20 m, g³êbokoœæ: 0 m
 A2 Du¿y otwór zjazdowy, œr. ok. 4 m, g³êbokoœæ 16 m, zalega œnieg, nie wieje, zjecha³ Mirek,  wróciæ jak nie bêdzie œniegu
 A2 Hohle_381 Höhle A-2 [381], d³ugoœæ: 10 m, g³êbokoœæ: 5 m
 A3 Hohle_382 Höhle A-3  [382], d³ugoœæ: 10 m, g³êbokoœæ: 10 m
+A3-100 Niewielka ok 5 m studzienka pod du¿¹ wanta, nad du¿ym lejem. Na dnie pochylnia, pewnie zawantowana. Nie zje¿d¿ana.
+A3-101 Problem sprawdzany w 2002-2004. Du¿y wysoki meander, ³adnie myty pod lit¹ wysok¹ œcian¹. Niestety zawantowany na dnie.
+A3-102 Pochylnia ok 4 metry przechodzi przez ma³y w¹ski pro¿ek w doœæ du¿¹ salkê o wymiarach ok 6x4 m. Na œcianach ³adne jamki wirowe, nieco mleka wapiennego. Pewne mo¿liwoœci eksploracyjne.
+A3-103 W ryglu. W niewielkiej œciance charakterystyczny podwójny otwór jakby przekrój meandra. Pod wiêkszym otwarta szczelina ok 5 m zjazdu (nie zje¿d¿ana) prowadzi pod zawantowany œrodek kocio³ka.
+A3-104 3 studzienki na jednej szczelinie, ³adne, ale zaprane sniegiem.
+A3-105 Skoœna szczelina. Mo¿na zejœæ ok 5 m dalej prowadzi, ale trzeba by odgarn¹æ.
+A3-107 Niemal pionowa szczelina na wierzcho³ku wzniesienia z kosówk¹. G³êbokoœæ ok 5-7 m. Zjazd uniemo¿liwia wisz¹ca rozklinowana wanta do usuniêcia.
+A3-108 Kilkunastometrowej g³êbokoœci myta studzienka. Dno zawantowane, ale mo¿liwe boki. Zje¿d¿a³a Ola
 A3-11 Kilkumetrowej g³êbokoœci szczelina powsta³a na rozwiniêciu pêkniêcia, zakoñczona zawaliskiem.
 A3-12 Jaskinia oznaczona jako zaklipiona (2002 r.). Niewielka studzienka, bez szans na eksploracjê.
 A3-13 Rozszerzenie w szczelinie zakoñczone zawaliskiem.
@@ -215,7 +223,6 @@ B1-2 bardzo ciasny meander, nie da siê wejœæ
 B1-3 na dnie studni wantowisko, mo¿na rozebraæ, poni¿ej pochylnia, klipi siê na ok. -25 [2012r.]
 B1-4 zjazd pomiêdzy wantami, zawalone
 B2 znaleziony z WH
-B2- znaleziony z WH
 B3 znaleziony z WH
 B3-20 b. ciasny myty korytarz prawdopodobnie przechodz¹cy na wylot
 B3-21 w wielkim leju obszerny fragment starego meandra, zaprany
@@ -241,13 +248,11 @@ Baza
 Baza Austriacka
 Baza Wysuniêta
 Bergspiegel_47 Bergspiegelhöhle [47], d³ugoœæ: 366 m, g³êbokoœæ: 97 m
-bg014 punkt w Jaskini Ciekawej
-bg030 punkt w Jaskini Ciekawej
-B- znaleziony z WH
 Biwakhöhle 
 Biwakhohle_220 Biwakhöhle am Hochfeldkopf [220], d³ugoœæ: 6 m
-BIWAKKO2 du¿a pozioma sala z niewielkimi bokami
+Biwakko_503 Biwakko [503], d³ugoœæ: 37 m, g³êbokoœæ: 5,5 m
 BIWAKO sprawdzone z DB i JO
+Blauen Nebel_482 Höhle der blaunen Nebel [482], d³ugoœæ: 70 m, g³êbokoœæ: 45 m
 Boom Du¿y lej, kamienisty, pochylnia w dó³ zasypana œniegiem ok. 5 m, salka przy otworze wejœciowym, zawalone g³azami, ale widaæ przeœwity
 Brackofen_216 Brackofen [216], d³ugoœæ: 20 m, g³êbokoœæ: 5 m
 Bramasofen_173 Bramasofenkopfloch [173], d³ugoœæ: 35 m, g³êbokoœæ: 14 m
@@ -284,11 +289,11 @@ Cav1 jaskinia z mapy Bergfex
 Cav2 jaskinia z mapy Bergfex
 Cav3 jaskinia z mapy Bergfex
 Cave? byæ mo¿e nie sprawdzana
-Ciekawa_495 Ciekawa Interessante [495], d³ugoœæ 9516 m, g³êbokoœæ: 384 m
+Ciekawa_495 Ciekawa Interessante [495], d³ugoœæ 15202 m, g³êbokoœæ: 583 m
 CL-5 otwory sprawdzane pod Kasztanow¹ MW
 Comeback-h_480 Comeback-höhle A3-36 [480], d³ugoœæ 176 m, g³êbokoœæ: 46 m
 CZERW najdalszy sprawdzony otwór przez MW korek œnie¿ny
-CzerwoneKa_491 W Czerwonych Kamieniach Hohle in Roten Steinen J1 [491], d³ugoœæ: 1717 m, g³êbokoœæ: 855 m
+CzerwoneKa_491 W Czerwonych Kamieniach Hohle in Steinen J1 [491], d³ugoœæ: 1717 m, g³êbokoœæ: 855 m
 D1 sprawdzono
 D2 sprawdzono
 D2 Schacht [395] ? d³ugoœæ: 11 m, g³êbokoœæ: 11 m
@@ -307,7 +312,6 @@ DB--1 sprawdzone z DB i JO
 DEFG-Schac_416 D.E.F.G.-Schacht [416], studnia 55 m 
 die Brettln nazwa geograficzna
 die Kasern nazwa geograficzna
-dolne_ciagi dó³ dolnych Ci¹gów – punkt w Jaskini Ciekawej
 Doppelscha_202 Doppelschacht Nr.1 [202], d³ugoœæ: 37 m, g³êbokoœæ: 37 m
 Drei-Jager_73 Drei-Jäger-Höhle [73], d³ugoœæ: 60 m, szerokoœæ: 5 m
 Dreiherrn-E_63 Dreiherrn-Eishöhle [63], d³ugoœæ: 74 m, g³êbokoœæ: 22 m
@@ -340,15 +344,9 @@ G1-SL8 myte du¿e, pod œciankê schodz¹ wanty
 Gamsbocksch_28 Gamsbockschacht [28], d³ugoœæ: 72 m, szerokoœæ: 72 m
 Gamstranke-_77 Gamstränke-Schafstall [77], d³ugoœæ: 8 m
 Gelbkreuzh_165 Gelbkreuzhöhle [165], d³ugoœæ: 30 m
-Gerollheim_426 Geröllheimer [426], d³ugoœæ: 103 m, szerokoœæ: 12 m
+Gerollheim_426 Geröllheimer [426], d³ugoœæ: 261 m, szerokoœæ: 47 m
 Gewittersc_203 Gewitterschacht [203], d³ugoœæ: 65 m, szerokoœæ: 65 m
-gh031 punkt w Jaskini Ciekawej
-gh110 punkt w Jaskini Ciekawej
-gh127.01 punkt w Jaskini Ciekawej
-gh138.01 punkt w Jaskini Ciekawej
 Gipfelscha_113 Gipfelschacht LS-2 [113], d³ugoœæ: 30 m, szerokoœæ: 20 m
-gh17.3 punkt w Jaskini Ciekawej
-gh17.53 punkt w Jaskini Ciekawej
 glatzet Brett nazwa geograficzna
 Gotzen-Bein_75 Gotzen-Beinhöhle [75], d³ugoœæ: 330 m, szerokoœæ: 85 m
 Graflschluml nazwa geograficzna
@@ -358,8 +356,6 @@ H1 studnia niesprawdzana – oznakowanie nie nasze
 Hachelgrabe_43 Hachelgrabenkluft [43], d³ugoœæ: 53 m, g³êbokoœæ: 43 m
 Hagenloch_18 Hagenloch [18], d³ugoœæ: 411 m, g³êbokoœæ: 20 m
 Helikopeter nowe lotnisko
-hg059 punkt w Jaskini Ciekawej
-hg112 punkt w Jaskini Ciekawej
 Hinterkehr nazwa geograficzna
 Hinterlangtal nazwa geograficzna
 Hinterschl_249 Hinterschlumalmhöhle B-2 Hohle [249], d³ugoœæ: 20 m, g³êbokoœæ: 10 m
@@ -374,7 +370,6 @@ Hohle Lengt_12 Höhle unter Lengtalschneid [12], d³ugoœæ: 80 m
 Hohle Wasse_58 Höhle am Wasserfall [58], d³ugoœæ: 30 m, d³ugoœæ: 7 m
 Hollriedlla_27 Hollriedllabyrinth Labyrinthöhle [27], d³ugoœæ: 470 m, g³êbokoœæ: 20 m
 Hungercany_117 Hungercanyon [117], d³ugoœæ: 15 m
-hv044 punkt w Jaskini Ciekawej
 J3 sprawdzono
 J5 prawdopodobnie sprawdzono
 J6A prawdopodobnie sprawdzono
@@ -389,12 +384,11 @@ Kalbergrube_70 Kälbergruben-Windloch [70], d³ugoœæ: 1235 m, g³êbokoœæ: 77 m
 Kalte Hall_159 Kalte Halle [159], d³ugoœæ: 20 m
 Kasztanowa_479 Kasztanowa Kastanienhöhle [479], d³ugoœæ: 1186 m, g³êbokoœæ: 270 m
 Kitzgraben nazwa geograficzna
-Kitzgraben_501 Kitzgrabenwasserschacht [501], d³ugoœæ: 225 m, g³êbokoœæ: 123 m 
+Kitzgraben_501 Kitzgrabenwasserschacht [501], d³ugoœæ: 337 m, g³êbokoœæ: 133 m 
 Kitzgrabenhöh nazwa geograficzna
 Klapperloc_191 Klapperloch [191], d³ugoœæ: 30 m
 Kniebeisse_417 Kniebeisser [417], d³ugoœæ: 30 m, g³êbokoœæ: 5 m
 Koliba punkt orientacyjny (schron)
-kolorowe_skaly Kolorowe Ska³y – punkt w Jaskini Ciekawej
 Komoschacht_33 Komoschacht [33], d³ugoœæ: 15 m, g³êbokoœæ: 15 m
 Koniec autostr Koniec autostrady, punkt orientacyjny
 Korallenho_414 Korallenhöhle [414], d³ugoœæ: 95 m, g³êbokoœæ: 20 m
@@ -404,7 +398,6 @@ Kotlinka punkt orientacyjny
 Kraina Des_496 Kraina Deszczowcow Land der Regenmenschacht [496], d³ugoœæ: 185 m, g³êbokoœæ: 129 m
 Kroatenhohle_2 Kroatenhöhle [2], d³ugoœæ: 120 m, g³êbokoœæ: 46 m
 Kroczek punkt orientacyjny
-krokodyl_konie koniec Krokodylka – punkt w Jaskini Ciekawej
 Krolicza Nora Królicza Nora D4/1, Nieznaczny wywiew, ciasno, zapchane, Tabaka, 5 m
 Krolowej S_487 Królowej Œniegu Schneeköniginhöhle A4-36 [487] d³ugoœæ: 112 m, g³êbokoœæ: 73 m
 Kucherloch_34 Kucherloch [34], d³ugoœæ: ?? m, g³êbokoœæ: ?? m
@@ -419,6 +412,7 @@ Latschensch_83 Latschenschacht [83], d³ugoœæ: ?? m, g³êbokoœæ: ?? m
 Leichenhal_223 Leichenhalle [223], d³ugoœæ: 74 m
 Lej01 lej z internetu – do sprawdzenia
 Lej02 lej z internetu – do sprawdzenia
+Leje kilka lejów z przewiewem na polance, jeden kopany
 Lengtalalml_10 Lengtalalmlöcher [10], d³ugoœæ: 35 m, g³êbokoœæ: 12 m
 Lengtals Gr_81 Lengtalschartlhöhle, Gr. [81], d³ugoœæ: 35 m
 Lengtals Kl_82 Lengtalschartlhöhle, Kl. [82], d³ugoœæ: 20 m
@@ -448,12 +442,19 @@ M4A nie puszcza, sprawdzono przez £ukasza
 M5A nie puszcza, sprawdzono przez £ukasza
 Malerwinkel_65 Malerwinkelhöhle [65], d³ugoœæ: 108 m
 Mannlhöh szczyt 2049
+Mara cave studnia w kosówce ok 20 m g³êbokoœci. nie zjechana. Mo¿e to byæ 065 sprawdzane przez marka, ale nie musi
 Martwych Swist Martwych Œwistaków D6/1, Tabaka tam d³ugo siedzia³, raczej zawantowane - najwy¿szy sensowny otwór, znaleziono sporo czaszek
 Maulwurfsb_167 Maulwurfsbau [167], d³ugoœæ: 60 m, g³êbokoœæ: 15 m
 Modrzew punkt orientacyjny
 Munchner Ei_96 Münchner Eistopf [96], d³ugoœæ: 210 m, g³êbokoœæ: 15 m
 N23 mia³o byæ sprawdzone przez braci J i DB
 N24 mia³o byæ sprawdzone przez braci J i DB
+Na1 studzienka ok 6-7 m, myta, zawalisko na dnie + lekki przewiew. Sporo œniegu
+Na2 dziura nie myliæ z A3-73. Namierzone w 2013 r. odgruzowano wejœcie na skraju ma³ego leju. Zawaliskowa niska salka i ok 5 m mytej studni. Mo¿na zejœæ bez liny. Dno zawalone rumoszem skalnym. Brak œniegu, przewiew s³aby.
+Na3 otwór ok 2 m nad ziemi¹, pochylnia ok 4-5m (lina przydatna) doprowadza do du¿ej sali. Na sp¹gu sporo œniegu. W œcianach kilka przeziorów nie do przejœcia przez które wpada œwiat³o. W rogu sali ma³o widoczne wejœcie do g¹bczastego w miarê obszernego korytarza o d³. ok  30m. Na koñcu polewy, misy i du¿y stalagnat.
+Na4 nic ciekawego, brak przewiewu
+Na5 parumetrowa pochylnia doprowadza do  sali. Na wprost przy sp¹gu ciasny korytarzyk z silnym przewiewem do odgruzowania. Na lewo czo³ganie po ostrych wantach do drugiej wiêkszej sali, dalej rury do góry. Ca³oœæ ma ok 25m.d³ugoœci.
+Naro hole rozmyta szczelina ok 7-8 m g³êbokoœci. Wejœcie pod wielkim kamieniem, bez perspektyw
 Nasenloche?_84 Nasenlöcher ? [84], d³ugoœæ: 70 m, g³êbokoœæ: 18 m
 Nasenlocher_84 Nasenlöcher [84], d³ugoœæ: 70 m, g³êbokoœæ: 18 m
 NIC studzienka bez szans zawalone kamieniami dno
@@ -488,24 +489,18 @@ OL1SPR sprawdzony przez nas, bez perspektyw
 Oli-grn szczelina nad Oliphantem, nie puszcza, wieje prawdopodobnie z Oliphanta
 Oliphant_497 JO-2 Höhle mit Oliphant [497]
 Olivs do sprawdzenia
-opty_kopanie punkt w Partiach Optymistycznych w Jaskini Ciekawej
-opty_studnie1 punkt w Partiach Optymistycznych w Jaskini Ciekawej
-opty_studnie2 punkt w Partiach Optymistycznych w Jaskini Ciekawej
 P04A A3-8 drugi twór Koralowej
-partie_kawowe Partie Kawowe w Jaskini Ciekawej
 Patrickhoh_428 Patrickhöhle [428], d³ugoœæ: 543 m, g³êbokoœæ: 80 m
 Pelischach_184 Pelischacht [184], d³ugoœæ: 90 m, g³êbokoœæ: 90 m
 Perlkammer_49 Perlkammer [49], d³ugoœæ: 24 m, g³êbokoœæ: 10 m
 Petrefakte_128 Petrefaktencanyon E4 [128], otwór systemu Jägerbrunntrogsystem
 Pffafenkopf nazwa geograficzna
-pg1.52 punkt w Jaskini Ciekawej
-pgmo1.22 punkt w Jaskini Ciekawej
-pgmo1.38 punkt w Jaskini Ciekawej
 Phreatisch_265 Phreatischer Knoten [265], d³ugoœæ: 70 m, g³êbokoœæ: 8 m
 Platformaheliko Przygotowane ladowisko do helikoptera 
 Plymouth1_105 Plymouth-Cave 1 [105], d³ugoœæ: 500 m, g³êbokoœæ: 90 m
 Plymouth2_105 Plymouth-Cave 2 [105], d³ugoœæ: 500 m, g³êbokoœæ: 90 m
 Plymouth3_105 Plymouth-Cave 3 [105], d³ugoœæ: 500 m, g³êbokoœæ: 90 m
+Plyn_kamieni P³yn¹cych kamieni
 PodKosowka_498 Menander pod Kosówk¹ Mäander unter dem Laschen [498], d³ugoœæ: 204 m, g³êbokoœæ: 105 m
 POK poni¿ej studzienki zawalony rumoszem korytarz, wieje, ale temat trudny
 Prze³¹czka punkt orientacyjny
@@ -516,19 +511,12 @@ Reinersbergsan Reinersbergsand, nazwa geograficzna
 Respektsch_494 Respektschacht [494], d³ugoœæ: 418 m, g³êbokoœæ: 256 m
 Riesendoli_135 Riesendoline am Sulzkopf [135], d³ugoœæ: 120 m, g³êbokoœæ: 30 m
 Rk5 w zagruzowanym leju puszcza studzienka, lekki przewiew
-Rk6 g³êboka szczelina
+Rk6 studzienka ok 5 m brak œniegu, brak przewiewu
 Rotalm-Pon_151 Rötalm-Ponor [151], d³ugoœæ: 10 m, g³êbokoœæ: 8 m
 Roten Steiner die Roten Steiner, nazwa geograficzna
-rozdroze Rozdro¿e – punkt w Jaskinie Ciekawej
 RUINY
 RUINY2
 Saarhohle_5 Saarhöhle [5], d³ugoœæ: 80 m, g³êbokoœæ: 18 m
-sala_skosna Sala Skoœna – punkt w Jaskini Ciekawej
-sala_z_nacieki Sala z naciekiem – punkt w Jaskini Ciekawej
-sala_z_pytonem Sala z Pytonem – punkt w Jaskini Ciekawej
-sala_zawalisko Sala Zawaliskowa – punkt w Jaskini Ciekawej
-Sala Skoœna punkt w Jaskini Ciekawej
-Sala Zawalisko Sala Zawaliskowa, punkt w Jaskini Ciekawej
 Sch01 studnia z mapy Bergfex (napis SCHACHT)
 Sch02 studnia z mapy Bergfex (napis SCHACHT)
 Sch03 studnia z mapy Bergfex (napis SCHACHT)
@@ -594,6 +582,7 @@ Steinbruck_261 Steinbrückenhöhle Nr34 [261], d³ugoœæ: 130 m, g³êbokoœæ: 100 m
 Steinwurfs_115 Steinwurfschacht [115], d³ugoœæ: 20 m, g³êbokoœæ: 20 m
 STJ-biwak
 StudniazDziura Niespenetrowana do koñca. Obszerna, lecz p³ytka studnia z ciekawym, charakterystycznym oknem
+Studzienka studnia ok 5m bez przewiewu
 Sulzenkarle_74 Sulzenkarleishöhle E3 [74], otwór systemu Jägerbrunntrogsystem
 SZ1 pozioma ok. 5 m jaskinia – bez szans
 SZ10 w¹skie dwie studzienki (myte), ciekawe ale trudne?
@@ -636,22 +625,18 @@ Tierfalle_188 Tierfalle [188], d³ugoœæ: 15 m, g³êbokoœæ: 15 m
 Torturhohle_72 Torturhöhle [72], d³ugoœæ: 150 m, g³êbokoœæ: 36 m
 Tristkar-Ei_32 Tristkar-Eisloch [32], d³ugoœæ: 31 m, g³êbokoœæ: 5 m
 Tropftopf_168 Tropftopf [168], d³ugoœæ: 40 m, g³êbokoœæ: 10 m
-Tschikpaus_421 Tschikpausenhöhle [421], d³ugoœæ: 50 m, g³êbokoœæ: 20 m
+Tschikpaus_421 Tschikpausenhöhle [421], d³ugoœæ: 108 m, g³êbokoœæ: 47,5 m
 Umgang-Eish_21 Umgang-Eishöhle [21], d³ugoœæ: 192 m, g³êbokoœæ: 10 m
 Untere Roit_38 Untere Roitnerkamin Höhle [38], d³ugoœæ: 410 m, g³êbokoœæ: 52 m
 Unterwinkl nazwa geograficzna
-ut013.02 punkt w Jaskini Ciekawej
-uts001 punkt w Jaskini Ciekawej
 Villa Atlantis?
 Vogelbeersc_60 Vogelbeerschacht [60], d³ugoœæ: 125 m, g³êbokoœæ: 100 m
 W otwór znaleziony z WK
 W A3-10 Jaskinia oznaczona jako zaklipiona (2002 r.). Kilkumetrowej g³êbokoœci rozwiniecie szczeliny.
 W1 A3-34 Jaskinia oznaczona jako do sprawdzenia (2002 r.). D³uga szczelina z wieloma otworami. Wszystkie mocno zablokowane wantami.
 W2 A3-3 Jaskinia oznaczona jako zaklipiona (2002 r.). Jaskinia obok moreny bocznej, ok. 40 metrów d³ugoœci. Z koñcowej salki za zaciskiem odchodzi kilkumetrowy zawalony korytarzyk. Ciasno. Obok drugi otwór posiadaj¹cy po³¹czenie akustyczne z wstêpnymi partiami A3-3.
-w28717.1 punkt w Jaskini Ciekawej
 W3 A3-5 Jaskinia oznaczona jako do sprawdzenia (2002 r.). Wielki lej zawalony œniegiem, bez wyraŸnych wywiewu.
 W4 otwór znaleziony z WK
-w57.05.6 punkt w Jaskini Ciekawej
 W80 otwór znaleziony z WK
 W9 otwór znaleziony z WK
 W90 otwór znaleziony z WK
@@ -668,26 +653,8 @@ Windscharte prze³êcz
 Windschartenko Windschartenkopf szczyt 2211 m npm
 wKahlersbergu1 obszerna sala z wielkim zawaliskiem
 wKahlersbergu2
-wm020 punkt w Jaskini Ciekawej
-wm147 punkt w Jaskini Ciekawej
-wm203 punkt w Jaskini Ciekawej
-wm268 punkt w Jaskini Ciekawej
-wm279 punkt w Jaskini Ciekawej
-wm287 punkt w Jaskini Ciekawej
-wm292 punkt w Jaskini Ciekawej
 Wolfsschach_48 Wolfsschacht [48], d³ugoœæ: 30 m, g³êbokoœæ: 20 m
 Wolfsschach_50 Wolfsschacht [50], d³ugoœæ: 30 m, g³êbokoœæ: 20 m
-ws008 punkt w Jaskini Ciekawej
-ws031 punkt w Jaskini Ciekawej
-ws057 punkt w Jaskini Ciekawej
-ws061 punkt w Jaskini Ciekawej
-ws079 punkt w Jaskini Ciekawej
-ws092 punkt w Jaskini Ciekawej
-ws094 punkt w Jaskini Ciekawej
-ws101 punkt w Jaskini Ciekawej
-ws112 punkt w Jaskini Ciekawej
-ws112.02 punkt w Jaskini Ciekawej
-wt069.01 punkt w Jaskini Ciekawej
 Wysoka_499 Wysoka Z27 Hoher Schacht [499], d³ugoœæ: 122 m, g³êbokoœæ: 71 m
 Wywiew_Macka 
 Xaverschac_193 Xaverschacht [193], d³ugoœæ: 350 m, g³êbokoœæ: 124 m
@@ -702,13 +669,8 @@ Z Echem D6/3 Du¿a studnia, lita fi 2m 35 m g³êboka, na dole œnieg, jeden z naj³a
 Z28 studnia – myta – sprawdziæ
 Z29 otwór obok Szparki, ze œniegiem
 Z3 prawdopodobnie znalezione przez braci zaklipione przez MW i SM
-zach_przodek_N Meander Zachodni przodek pó³nocny – punkt w Jaskini Ciekawej
-zachodni_koni Meander Zachodni przodek zachodni – punkt w Jaskini Ciekawej
 Zeltschach_156 Zeltschacht [156], d³ugoœæ: 40 m
 Zentrumsho_100 Zentrumshöhle [100], d³ugoœæ: 1415 m, g³êbokoœæ: 557 m
-zg012 punkt w Jaskini Ciekawej
-zg032 punkt w Jaskini Ciekawej
-zg052 punkt w Jaskini Ciekawej
 Zirbenhohle_45 Zirbenhöhle [45], d³ugoœæ: 85 m, g³êbokoœæ: 31 m
 Zuckerguss_418 Zuckerguß-Eishöhle [418], d³ugoœæ: 147 m, g³êbokoœæ: 30 m
 Zwillingsc_170 Zwillingschacht E1 [170] – otwór systemu Jägerbrunntrogsystem

@@ -1,9 +1,9 @@
 #Units Meters Order=DAV
 #date 2012-08-12
 #segment /Partie Gastryczne - Meander w Oknie
-;Miroslaw  Kopertowski (obsluga Disto-X), Dariusz Lubomski (kartowanie)
+;Miroslaw  Kopertowski (obsluga Disto-X), Dariusz Lubomski (kartowanie); Maciej Dziurka
 ;Disto-X + Palm
-:gh053	gh101	9.75	257.17	-68.69
+gh053	gh101	9.75	257.17	-68.69
 gh101	gh102	10.50333333	251.54	-19.21333333
 gh102	-	1.730	274.02	78.84
 gh102	-	2.160	6.94	-2.66
@@ -126,7 +126,6 @@ gh126	-	1.530	144.68	50.62
 gh126	-	0.720	136.03	0.62
 gh126	-	0.860	130.74	-83.84
 gh126	gh127	4.103333333	247.5	-61.31
-gh127	gh127.01	4.150	244.93	-2.44; kopanie ?
 gh127	-	6.690	162.61	-26.14
 gh127	gh127.02	21.490	156.58	50.71
 gh127	-	2.740	236.46	10.1
@@ -176,4 +175,3 @@ gh138	-	0.960	251.85	6.49
 gh138	-	1.100	244.31	61.95
 gh138	-	4.900	158.62	19.59
 gh138	-	3.070	148.55	2.14
-gh138	gh138.01	4.040	311.07	-19.11;domiar

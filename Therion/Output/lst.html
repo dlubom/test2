@@ -1,0 +1,70 @@
+<html>
+<head>
+<title>therion table output</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<script language="javascript">
+function xTree(node)
+{
+  var fsub = true;
+  var show = false;
+  var last = node.length;
+  var all = document.getElementsByTagName("tr");
+  for(i = 1; i < all.length; i++) {
+    if ((all[i].id.length > node.length) && (all[i].id.substr(0, node.length) == node)) {
+      if (fsub) {
+        fsub = false;
+        show = (all[i].style.display == "none");
+        last = all[i].id.lastIndexOf(".");
+      }
+      if (show) {
+        if (all[i].id.lastIndexOf(".") == last)
+        all[i].style.display = "";
+      } else {
+        all[i].style.display = "none";
+      }
+    }
+  }
+}
+</script>
+<style type="text/css">
+body {font-family: Verdana, Helvetica, Arial, sans-serif; line-height: 1.5;}
+table {font-size:80%; border-spacing: 0px;}
+th {border-bottom:2px solid #a7a9aa; padding-left:8px; padding-right:8px; padding-top:0px; padding-bottom:1px;}
+td {border-bottom:1px solid #a7a9aa; padding-left:8px; padding-right:8px; padding-top:0px; padding-bottom:0px;}
+</style>
+</head>
+<body>
+<table>
+<tr><th align="left">Title</th><th align="right">Length</th><th align="right">Depth</th><th align="right">Explored</th><th align="right">Approx.</th><th align="right">Duplicate</th><th align="right">Surface</th><th align="right">Shots</th><th align="right">Stations</th></tr>
+<tr id="index"><td align="left" style="padding-left:+0"><a href="javascript:xTree('index')">Jaskinia Ciekawa</a></td><td align="right">15159</td><td align="right">583</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">8252</td><td align="right">8234</td></tr>
+<tr id="index.all"><td align="left" style="padding-left:+12">Wszystkie ciągi</td><td align="right">12441</td><td align="right">383</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">5496</td><td align="right">5455</td></tr>
+<tr id="index.140722PG_dolny_meander"><td align="left" style="padding-left:+12">140722 Partie Gastryczne - Dolny Meander</td><td align="right">134</td><td align="right">21</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">123</td><td align="right">124</td></tr>
+<tr id="index.140727PG_dolny_meander_kontynuacja"><td align="left" style="padding-left:+12">140727 Partie Gastryczne - Dolny Meander - Kontynuacja</td><td align="right">140</td><td align="right">21</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">93</td><td align="right">94</td></tr>
+<tr id="index.140728FA"><td align="left" style="padding-left:+12">2014-07-28 - Fantazja</td><td align="right">124</td><td align="right">91</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">51</td><td align="right">52</td></tr>
+<tr id="index.140729BT_boki_trawers"><td align="left" style="padding-left:+12">2014-07-29 - Boki Trawers</td><td align="right">106</td><td align="right">32</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">161</td><td align="right">161</td></tr>
+<tr id="index.140722PP"><td align="left" style="padding-left:+12">2014-07-22 - Partie Gastryczne Przekop</td><td align="right">8</td><td align="right">1</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">3</td><td align="right">4</td></tr>
+<tr id="index.140730K1"><td align="left" style="padding-left:+12">2014-07-30 - Kolorowe skały - bok1</td><td align="right">27</td><td align="right">15</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">21</td><td align="right">22</td></tr>
+<tr id="index.140730K2"><td align="left" style="padding-left:+12">2014-07-30 - Kolorowe skały - bok2</td><td align="right">101</td><td align="right">16</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">74</td><td align="right">75</td></tr>
+<tr id="index.140731KV"><td align="left" style="padding-left:+12">2014-07-31 - Kaskady Viktorii</td><td align="right">55</td><td align="right">18</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">96</td><td align="right">97</td></tr>
+<tr id="index.140802GA"><td align="left" style="padding-left:+12">2014-08-02 - Baltazar Petla</td><td align="right">94</td><td align="right">14</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">107</td><td align="right">109</td></tr>
+<tr id="index.140802TK"><td align="left" style="padding-left:+12">2014-08-02 - Domiary do Pochylnie bez Pradu</td><td align="right">58</td><td align="right">7</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">67</td><td align="right">68</td></tr>
+<tr id="index.140803CZ"><td align="left" style="padding-left:+12">2014-08-03 - Czarna Pochylnia</td><td align="right">118</td><td align="right">26</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">91</td><td align="right">92</td></tr>
+<tr id="index.140803F2"><td align="left" style="padding-left:+12">2014-08-03 - Fantazja 2</td><td align="right">230</td><td align="right">80</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">226</td><td align="right">227</td></tr>
+<tr id="index.140803OB"><td align="left" style="padding-left:+12">2014-08-03 - Obejscie 60</td><td align="right">142</td><td align="right">46</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">107</td><td align="right">108</td></tr>
+<tr id="index.140803WM"><td align="left" style="padding-left:+12">2014-08-03 - Woda w Meandrze</td><td align="right">23</td><td align="right">18</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">16</td><td align="right">17</td></tr>
+<tr id="index.140805V2"><td align="left" style="padding-left:+12">2014-08-05 - Kaskady Viktorii 2</td><td align="right">199</td><td align="right">30</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">365</td><td align="right">362</td></tr>
+<tr id="index.130813RT"><td align="left" style="padding-left:+12">2013-08-13 - Studnia RT</td><td align="right">61</td><td align="right">32</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">82</td><td align="right">83</td></tr>
+<tr id="index.140806V3"><td align="left" style="padding-left:+12">2014-08-06 - Kaskady Viktorii 3</td><td align="right">127</td><td align="right">57</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">158</td><td align="right">159</td></tr>
+<tr id="index.140807GM"><td align="left" style="padding-left:+12">2014-08-07 - Partie gastryczne - meanderek</td><td align="right">103</td><td align="right">24</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">148</td><td align="right">149</td></tr>
+<tr id="index.140808JE"><td align="left" style="padding-left:+12">2014-08-08 - Jeziorko</td><td align="right">190</td><td align="right">38</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">237</td><td align="right">238</td></tr>
+<tr id="index.MEANODB"><td align="left" style="padding-left:+12">2014-08-08 - meander odbytniczy</td><td align="right">147</td><td align="right">88</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">37</td><td align="right">38</td></tr>
+<tr id="index.NIEGRYZ"><td align="left" style="padding-left:+12">2014-08-10 - niegryzie</td><td align="right">14</td><td align="right">5</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">13</td><td align="right">14</td></tr>
+<tr id="index.ZAKR"><td align="left" style="padding-left:+12">2014-08-11 - Obejście do Nikąd</td><td align="right">122</td><td align="right">30</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">128</td><td align="right">129</td></tr>
+<tr id="index.BRZYTW"><td align="left" style="padding-left:+12">2014-08-12 - Brzytwa 2</td><td align="right">22</td><td align="right">14</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">31</td><td align="right">32</td></tr>
+<tr id="index.ST"><td align="left" style="padding-left:+12">2014-08-12 - st</td><td align="right">16</td><td align="right">6</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">14</td><td align="right">15</td></tr>
+<tr id="index.140813KL"><td align="left" style="padding-left:+12">2014-08-13 - Kaskady Lafiryndy</td><td align="right">12</td><td align="right">8</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">4</td><td align="right">5</td></tr>
+<tr id="index.140814PK"><td align="left" style="padding-left:+12">2014-08-13 - Meander pogadajmy o kobietach</td><td align="right">159</td><td align="right">11</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">235</td><td align="right">236</td></tr>
+<tr id="index.140813GK"><td align="left" style="padding-left:+12">2014-08-14 - Gambki - Studnia z meandrem</td><td align="right">188</td><td align="right">28</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">0</td><td align="right">68</td><td align="right">69</td></tr>
+</table>
+</body>
+</html>

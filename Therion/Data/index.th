@@ -2,12 +2,72 @@ encoding  utf-8
 survey index \
 -title "Jaskinia Ciekawa" -namespace off
 input all.th
-input ../[280]Alvermannschacht/280_alvermannschacht.th
+input 140722PG_dolny_meander.th
+input 140727KO.th
+input 140728FA.th
+input 140729BT.th
+input 140722PP.th
+input 140730K1.th
+input 140730K2.th
+input 140731KV.th
+input 140802GA.th
+input 140802TK.th
+input 140803CZ.th
+input 140803F2.th
+input 140803OB.th
+input 140803WM.th
+input 140805V2.th
+input 130813RT.th
+input 140806V3.th
+input 140807GM.th
+input 140808JE.th
+input MEANODB.th
+input NIEGRYZ.th
+input ZAKR.th
+input BRZYTW.th
+input ST.th
+input 140813KL.th
+input 140814PK.th
+input 140813GK.th
+#input ../[280]Alvermannschacht/280_alvermannschacht.th
 
 centerline
   station 000@all "entrance" entrance
   cs UTM33
      fix 000@all 353208.94 5266268.3 1932.4
+  equate gh138@all gh138@140722PG_dolny_meander
+  equate gh127@all gh127@140722PP
+  equate gh166@140727PG_dolny_meander_kontynuacja gh166@140722PG_dolny_meander
+  equate wt101@all wt101@140728FA
+  equate wm172@all wm172@140729BT_boki_trawers
+  equate ws104@all ws104@140730K1
+  equate ws104@all ws104@140730K2
+  equate gh165@140722PG_dolny_meander gh165@140731KV
+  equate zg060@140802GA zg060@all
+  equate zg059@140802GA zg059@all
+  equate bg043@140802GA bg043@all
+  equate rs008@140802TK rs008@all
+  equate gh148.2@140803CZ gh148.2@140722PG_dolny_meander
+  equate gh140@140803CZ gh140@140722PG_dolny_meander
+  equate wt112@140803F2 wt112@140728FA
+  equate wt069@140803OB wt069@all
+  equate gh142@140803WM gh142@140722PG_dolny_meander
+  equate kv010@140805V2 kv010@140731KV
+  equate wm041i@130813RT wm041i@all
+  equate kv023@140805V2 kv023@140806V3
+  equate gh163@140807GM gh163@140722PG_dolny_meander
+  equate kv0110@140808JE kv0110@140806V3
+  equate wt165@MEANODB wt165@140803F2
+  equate wt119@NIEGRYZ wt119@140803F2
+  equate ob004@ZAKR ob004@140803OB
+  equate ob009@ZAKR ob009@140803OB
+  equate ob018@ZAKR ob018@140803OB
+  equate wm172.20@BRZYTW wm172.20@140729BT_boki_trawers
+  equate wm199@ST wm199@all
+  equate kv0149@140813KL kv0149@140808JE
+  equate kv0201@140814PK kv0201@140808JE
+  equate bg018@140813GK bg018@all
+  equate bg037@140813GK bg037@all
 endcenterline
 endsurvey
 

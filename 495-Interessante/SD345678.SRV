@@ -3,7 +3,7 @@
 #segment /Zachodni - 286
 ;Jan Dudziec (obsluga Disto-X), Michal Humienik (kartowanie)
 ;Disto-X + Palm
-:wm286	wm286.01	3.67333	342.27	-24.8533
+wm286	wm286.01	3.67333	342.27	-24.8533
 wm286.01	wm286.02	1.55	286.963	-10.9233
 wm286.02	wm286.03	1.17667	280.7	-7.12
 wm286.03	wm286.04	2.550	337.41	-13.75 ;domiar

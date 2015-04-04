@@ -1,0 +1,8 @@
+#units meters order=AVD
+#units A=D V=D
+;Filip Filar, Michal Parczewski
+#date 2014-08-13
+kv0149	kv0150	41.61	-54.63	2.149
+kv0150	kv0151	163.83	-67.84	2.741
+kv0151	kv0152	90.03	-26.46	2.5
+kv0152	kv0153	144.11	-39.99	4.5

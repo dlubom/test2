@@ -2,9 +2,8 @@
 #units A=D V=D
 #date 2013-08-10
 ;Dariusz Lubomski (kartowanie), Tomasz Biela i Michal Humienik(Disto + spray)
-:ws096	ws096.01	58.09	-60.11	8.873
-;:ws096	-	337.11	16.07	4.28;powielenie ciagu z poprzednich lat
-:ws096	-	62.79	-60.57	8.93
+ws096	ws096.01	58.09	-60.11	8.873
+ws096	-	62.79	-60.57	8.93
 ws096.01	ws096.02	28.69	-31.92	4.123
 ws096.01	ws096.1a	181.73	-11.54	3.62;domiar
 ws096.01	-	224.96	12.02	2.309
