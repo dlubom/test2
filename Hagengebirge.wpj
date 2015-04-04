@@ -668,19 +668,19 @@
 .STATUS	8
 .SURVEY	2014-07-22 - Gstryczne dolny meander
 .NAME	140722PD
-.PATH	495-Interessante
+.PATH	495-Interessante\140722PD
 .STATUS	8
 .SURVEY	2014-07-22 - Partie Gastryczne Przekop
 .NAME	140722PP
-.PATH	495-Interessante
+.PATH	495-Interessante\140722PP
 .STATUS	8
 .SURVEY	2014-07-27 - Gastryczne - Kontynuacja
 .NAME	140727KO
-.PATH	495-Interessante
+.PATH	495-Interessante\140727KO
 .STATUS	8
 .SURVEY	2014-07-28 - Fantazja
 .NAME	140728FA
-.PATH	495-Interessante
+.PATH	495-Interessante\140728FA
 .STATUS	8
 .SURVEY	2014-07-29 - Boki Trawers
 .NAME	140729BT
