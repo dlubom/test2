@@ -490,12 +490,12 @@
 .NAME	495_Interessante_plan_2014.pdf
 .PATH	495-Interessante
 .STATUS	327688
-.SURVEY	495_Interessante_profile_2014.png
-.NAME	495_Interessante_profile_2014.png
-.PATH	495-Interessante
-.STATUS	327688
 .SURVEY	495_Interessante_profile_2012.pdf
 .NAME	495_Interessante_profile_2012.pdf
+.PATH	495-Interessante
+.STATUS	327688
+.SURVEY	495_Interessante_profile_2014.png
+.NAME	495_Interessante_profile_2014.png
 .PATH	495-Interessante
 .STATUS	327688
 .SURVEY	2012-07-31 - Amazonka
@@ -722,6 +722,10 @@
 .NAME	140803WM
 .PATH	495-Interessante\140803WM
 .STATUS	8
+.SURVEY	2014-08-04 - Re
+.NAME	140804RE
+.PATH	495-Interessante\140804RE
+.STATUS	8
 .SURVEY	2014-08-05 - Kaskady Viktorii 2
 .NAME	140805V2
 .PATH	495-Interessante\140805V2
@@ -913,13 +917,9 @@
 .NAME	PAKROK
 .PATH	495-Interessante
 .STATUS	2560
-.SURVEY	2014-08-04 - Re
-.NAME	140804RE
-.PATH	495-Interessante\140804RE
-.STATUS	8
-.SURVEY	Re 2
+.SURVEY	2014-08-08 - Re2
 .NAME	140808R2
-.PATH	495-Interessante
+.PATH	495-Interessante\140808R2
 .STATUS	8
 .SURVEY	Re 3
 .NAME	140810R3
