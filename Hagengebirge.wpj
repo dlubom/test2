@@ -3,6 +3,56 @@
 .NAME	PROJECT
 .STATUS	2563
 .REF	5266134.620 353373.320 33 -1.439 1940 1 47 31 55.505 13 3 6.818 27 "WGS 1984"
+.BOOK	37
+.NAME	37
+.PATH	37
+.STATUS	8
+.SURVEY	150810
+.NAME	150810
+.STATUS	8
+.SURVEY	150809c
+.NAME	150809C
+.STATUS	8
+.SURVEY	150809b
+.NAME	150809B
+.STATUS	8
+.SURVEY	150809a
+.NAME	150809A
+.STATUS	8
+.ENDBOOK
+.BOOK	[494] Respektschacht
+.NAME	494_RESP
+.STATUS	2568
+.REF	5265835.960 354049.930 33 -1.432 2025 1 47 31 46.384 13 3 39.518 27 "WGS 1984"
+.SURVEY	494_Respektschacht_plan_2008.jpg
+.NAME	494_Respektschacht_plan_2008.jpg
+.PATH	494_Respektschacht
+.STATUS	327688
+.SURVEY	494_Respektschacht_profile_2008.gif
+.NAME	494_Respektschacht_profile_2008.gif
+.PATH	494_Respektschacht
+.STATUS	327688
+.SURVEY	obok_Mysiej_d
+.NAME	494_OMD
+.PATH	494_Respektschacht
+.STATUS	2568
+.SURVEY	obok_mysiej_g
+.NAME	494_OBG
+.PATH	494_Respektschacht
+.STATUS	2560
+.SURVEY	ponizej_studni
+.NAME	494_PS
+.PATH	494_Respektschacht
+.STATUS	2560
+.SURVEY	Studnia
+.NAME	494_ST
+.PATH	494_Respektschacht
+.STATUS	2560
+.SURVEY	Ciag glowny
+.NAME	494_CG
+.PATH	494_Respektschacht
+.STATUS	2560
+.ENDBOOK
 .BOOK	340
 .NAME	340
 .STATUS	2568
@@ -445,43 +495,78 @@
 .NAME	493LOPK
 .PATH	493_Eisschrank
 .ENDBOOK
-.BOOK	[494] Respektschacht
-.NAME	494_RESP
-.STATUS	2568
-.REF	5265835.960 354049.930 33 -1.432 2025 1 47 31 46.384 13 3 39.518 27 "WGS 1984"
-.SURVEY	494_Respektschacht_plan_2008.jpg
-.NAME	494_Respektschacht_plan_2008.jpg
-.PATH	494_Respektschacht
-.STATUS	327688
-.SURVEY	494_Respektschacht_profile_2008.gif
-.NAME	494_Respektschacht_profile_2008.gif
-.PATH	494_Respektschacht
-.STATUS	327688
-.SURVEY	obok_Mysiej_d
-.NAME	494_OMD
-.PATH	494_Respektschacht
-.STATUS	2568
-.SURVEY	obok_mysiej_g
-.NAME	494_OBG
-.PATH	494_Respektschacht
-.STATUS	2560
-.SURVEY	ponizej_studni
-.NAME	494_PS
-.PATH	494_Respektschacht
-.STATUS	2560
-.SURVEY	Studnia
-.NAME	494_ST
-.PATH	494_Respektschacht
-.STATUS	2560
-.SURVEY	Ciag glowny
-.NAME	494_CG
-.PATH	494_Respektschacht
-.STATUS	2560
-.ENDBOOK
 .BOOK	[495] Ciekawa Interessante Höhle
 .NAME	495CIE
-.STATUS	2568
+.STATUS	2569
 .REF	5266134.622 353373.317 33 -1.437 1932 0 47 31 55.505 13 3 6.818 27 "WGS 1984"
+.SURVEY	2015-08-13 - Spl¹tany Meander
+.NAME	150813OK
+.PATH	495-Interessante
+.STATUS	8
+.SURVEY	2015-08-12 - Nie chcê mi siê
+.NAME	150812DW
+.PATH	495-Interessante
+.STATUS	8
+.SURVEY	2015-08-11 - Krêta Galeria
+.NAME	150811MA
+.PATH	495-Interessante
+.STATUS	8
+.SURVEY	2015-08-06 - Wielka Sala
+.NAME	150806SA
+.PATH	C:\Users\SONYVAIO\Desktop\DaneZHagen2015\2015-08-06_KR\wielka sala
+.STATUS	8
+.SURVEY	2015-08-06 - Syfon Dziewicy
+.NAME	150806DZ
+.PATH	C:\Users\SONYVAIO\Desktop\DaneZHagen2015\2015-08-06_KR\syfon dziewicy
+.STATUS	8
+.SURVEY	2015-08-05 - rury
+.NAME	150805RU
+.PATH	495-Interessante
+.STATUS	8
+.SURVEY	2015-08-05 - drugi syfon
+.NAME	150805DS
+.PATH	495-Interessante
+.STATUS	8
+.SURVEY	2015-08-04 - Piêkny Meander
+.NAME	150804PO
+.PATH	495-Interessante
+.STATUS	8
+.SURVEY	2015-08-06 - wspinanie w mendrze
+.NAME	150806WS
+.PATH	495-Interessante
+.STATUS	8
+.SURVEY	2015-08-05 - Meander Malina
+.NAME	150805MA
+.PATH	495-Interessante
+.STATUS	8
+.SURVEY	2015-08-01 - g¹bki za biwakiem 4
+.NAME	150801Z4
+.PATH	495-Interessante
+.STATUS	8
+.SURVEY	2015-08-01 - g¹bki za biwakiem 3
+.NAME	150801Z3
+.PATH	495-Interessante
+.STATUS	8
+.SURVEY	2015-08-01 - g¹bki za biwakiem 2
+.NAME	150801Z2
+.PATH	495-Interessante
+.STATUS	8
+.SURVEY	2015-08-01 - g¹bki za biwakiem 1
+.NAME	150801AT
+.PATH	495-Interessante
+.STATUS	8
+.SURVEY	2015-08-02 - partie za przekopem
+.NAME	150802ZP
+.PATH	495-Interessante
+.STATUS	8
+.SURVEY	2015-07-28 - Meander za Morzem Guinessa
+.NAME	150728G1
+.PATH	495-Interessante\150728G1
+.STATUS	8
+.SURVEY	2015-07-22 - Partie za wschodnim biwakiem
+.NAME	150722E1
+.PATH	495-Interessante\150722E1
+.STATUS	8
 .SURVEY	!_Uwaga
 .NAME	UWAGA
 .PATH	495-Interessante
@@ -492,10 +577,6 @@
 .STATUS	327688
 .SURVEY	495_Interessante_profile_2012.pdf
 .NAME	495_Interessante_profile_2012.pdf
-.PATH	495-Interessante
-.STATUS	327688
-.SURVEY	495_Interessante_profile_2014.png
-.NAME	495_Interessante_profile_2014.png
 .PATH	495-Interessante
 .STATUS	327688
 .SURVEY	2012-07-31 - Amazonka
@@ -554,6 +635,10 @@
 .NAME	ZA098765
 .PATH	495-Interessante
 .STATUS	8
+.SURVEY	495_Interessante_profile_2014.png
+.NAME	495_Interessante_profile_2014.png
+.PATH	495-Interessante
+.STATUS	327688
 .SURVEY	2012-08-12 - Partie Gastryczne - Meander w oknie
 .NAME	120812PM
 .PATH	495-Interessante
@@ -992,6 +1077,10 @@
 .NAME	B3-6
 .STATUS	2568
 .REF	5265848.080 353196.670 33 -1.440 2016 1 47 31 46.085 13 2 58.718 27 "WGS 1984"
+.SURVEY	b3.6
+.NAME	150809
+.PATH	500-B3-6
+.STATUS	8
 .SURVEY	500_B3-6_plan&profile_2010.pdf
 .NAME	500_B3-6_plan&profile_2010.pdf
 .PATH	500-B3-6
@@ -999,7 +1088,7 @@
 .SURVEY	B3-6 Wejsciowy
 .NAME	B3-6W
 .PATH	500-B3-6
-.STATUS	2560
+.STATUS	2562
 .ENDBOOK
 .BOOK	[501] Kitzgrabenwasserschacht
 .NAME	501KIT
