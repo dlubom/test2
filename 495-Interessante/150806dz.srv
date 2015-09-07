@@ -2,7 +2,7 @@
 #units A=D V=D
 #date 2015-08-06
 #prefix sd
-;TODO pytanie czy to jest dobrze podlaczone
+;Rafal Klimara(Palm), Jakub Nowak(Disto-X)
 :kv0153	1.20	0	0	0
 1.0	-	152.11	-9.48	5.095
 1.0	1.1	151.88	-9.55	5.188
