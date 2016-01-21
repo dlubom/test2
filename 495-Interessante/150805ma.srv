@@ -1,6 +1,5 @@
 #units meters order=AVD
 #units A=D V=D
-#prefix MAL
 ;Arek Kus, Joanna Stepinska
 #date 2015-08-05
 :gh229	gh230	243.27	56.42	5.869
