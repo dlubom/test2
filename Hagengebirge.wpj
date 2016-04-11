@@ -1,4 +1,4 @@
-;WALLS Project file
+;WALLS Project File
 .BOOK	Hagengebirge Project
 .NAME	PROJECT
 .STATUS	2563
@@ -7,6 +7,12 @@
 .NAME	37
 .PATH	37
 .STATUS	8
+.SURVEY	37-profile-2015.pdf
+.NAME	37-profile-2015.pdf
+.STATUS	327688
+.SURVEY	37-plan-2015.pdf
+.NAME	37-plan-2015.pdf
+.STATUS	327688
 .SURVEY	150810
 .NAME	150810
 .STATUS	8
@@ -19,39 +25,6 @@
 .SURVEY	150809a
 .NAME	150809A
 .STATUS	8
-.ENDBOOK
-.BOOK	[494] Respektschacht
-.NAME	494_RESP
-.STATUS	2568
-.REF	5265835.960 354049.930 33 -1.432 2025 1 47 31 46.384 13 3 39.518 27 "WGS 1984"
-.SURVEY	494_Respektschacht_plan_2008.jpg
-.NAME	494_Respektschacht_plan_2008.jpg
-.PATH	494_Respektschacht
-.STATUS	327688
-.SURVEY	494_Respektschacht_profile_2008.gif
-.NAME	494_Respektschacht_profile_2008.gif
-.PATH	494_Respektschacht
-.STATUS	327688
-.SURVEY	obok_Mysiej_d
-.NAME	494_OMD
-.PATH	494_Respektschacht
-.STATUS	2568
-.SURVEY	obok_mysiej_g
-.NAME	494_OBG
-.PATH	494_Respektschacht
-.STATUS	2560
-.SURVEY	ponizej_studni
-.NAME	494_PS
-.PATH	494_Respektschacht
-.STATUS	2560
-.SURVEY	Studnia
-.NAME	494_ST
-.PATH	494_Respektschacht
-.STATUS	2560
-.SURVEY	Ciag glowny
-.NAME	494_CG
-.PATH	494_Respektschacht
-.STATUS	2560
 .ENDBOOK
 .BOOK	340
 .NAME	340
@@ -315,7 +288,7 @@
 .ENDBOOK
 .BOOK	[484] Neuhauserschacht
 .NAME	484
-.STATUS	10
+.STATUS	8
 .REF	5267504.610 356664.510 33 -1.407 1543 1 47 32 42.501 13 5 42.539 27 "WGS 1984"
 .SURVEY	484
 .NAME	484N
@@ -494,6 +467,39 @@
 .SURVEY	Lodowka
 .NAME	493LOPK
 .PATH	493_Eisschrank
+.ENDBOOK
+.BOOK	[494] Respektschacht
+.NAME	494_RESP
+.STATUS	2568
+.REF	5265835.960 354049.930 33 -1.432 2025 1 47 31 46.384 13 3 39.518 27 "WGS 1984"
+.SURVEY	494_Respektschacht_plan_2008.jpg
+.NAME	494_Respektschacht_plan_2008.jpg
+.PATH	494_Respektschacht
+.STATUS	327688
+.SURVEY	494_Respektschacht_profile_2008.gif
+.NAME	494_Respektschacht_profile_2008.gif
+.PATH	494_Respektschacht
+.STATUS	327688
+.SURVEY	obok_Mysiej_d
+.NAME	494_OMD
+.PATH	494_Respektschacht
+.STATUS	2568
+.SURVEY	obok_mysiej_g
+.NAME	494_OBG
+.PATH	494_Respektschacht
+.STATUS	2560
+.SURVEY	ponizej_studni
+.NAME	494_PS
+.PATH	494_Respektschacht
+.STATUS	2560
+.SURVEY	Studnia
+.NAME	494_ST
+.PATH	494_Respektschacht
+.STATUS	2560
+.SURVEY	Ciag glowny
+.NAME	494_CG
+.PATH	494_Respektschacht
+.STATUS	2560
 .ENDBOOK
 .BOOK	[495] Ciekawa Interessante Höhle
 .NAME	495CIE
@@ -1075,7 +1081,7 @@
 .ENDBOOK
 .BOOK	[500] B3-6
 .NAME	B3-6
-.STATUS	2568
+.STATUS	2569
 .REF	5265848.080 353196.670 33 -1.440 2016 1 47 31 46.085 13 2 58.718 27 "WGS 1984"
 .SURVEY	b3.6
 .NAME	150809
@@ -1156,9 +1162,9 @@
 .SURVEY	TerenX
 .NAME	TERENXX
 .PATH	Teren
-.STATUS	8
+.STATUS	10
 .SURVEY	TerenY
 .NAME	TERENX
 .PATH	Teren
-.STATUS	8
+.STATUS	10
 .ENDBOOK
