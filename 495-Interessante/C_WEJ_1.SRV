@@ -3,7 +3,7 @@
 #date 2008-08-01
 #note 000	/495 Ciekawa
 #flag	000	/GPS Location
-#FIX    000   E13:02:58.8 N47:31:59.7   1932.36m
+#FIX    000   E13.04974326 N47.53329551   1928.12m
 #segment /Ciag wejsciowy 1
 000	cw001	9.76	94.00	-70.00
 cw001	cw002	1.89	24.00	-62.00

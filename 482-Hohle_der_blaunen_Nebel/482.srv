@@ -1,7 +1,7 @@
 #units meters order=AVD
 #units A=D V=D
 #prefix 482
-#note 482	/482
+#note 482	/482 Niebieskich Mgiel
 #flag	482	/GPS Location
 #FIX	482	E13:02.559	N47:32.031   1978m     ;dm
 482	482.1	0	-90	45
