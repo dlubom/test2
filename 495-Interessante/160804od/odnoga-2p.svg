@@ -1,0 +1,136 @@
+<svg width="-19800" height="-19800"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg" >
+<!-- SVG created by TopoDroid v. 3.1.4 -->
+  <defs>
+    <marker id="Triangle" viewBox="0 0 10 10" refX="0" refY="5" 
+      markerUnits="strokeWidth" markerWidth="4" markerHeight="3" orient="auto" >
+      <path d="M 0 0 L 10 5 L 0 10 z" />
+    </marker>
+  </defs>
+<g>
+<g style="fill:none;stroke-opacity:0.6;stroke:red" >
+  <path stroke-width="1" stroke="black" d="M 126.26 122.95 L 100.00 120.00" />
+  <path stroke-width="1" stroke="black" d="M 100.00 120.00 L 120.42 131.60" />
+  <path stroke-width="1" stroke="black" d="M 120.42 131.60 L 277.44 85.38" />
+  <path stroke-width="1" stroke="black" d="M 277.44 85.38 L 328.40 -5.48" />
+  <path stroke-width="1" stroke="black" d="M 120.42 131.60 L 172.32 178.15" />
+  <path stroke-width="1" stroke="black" d="M 197.56 136.05 L 126.26 122.95" />
+  <path stroke-width="1" stroke="black" d="M 240.37 125.73 L 197.56 136.05" />
+  <path stroke-width="1" stroke="black" d="M 279.82 108.90 L 240.37 125.73" />
+  <path stroke-width="1" stroke="black" d="M 307.03 166.93 L 279.82 108.90" />
+  <path stroke-width="1" stroke="black" d="M 357.29 217.52 L 307.03 166.93" />
+  <path stroke-width="1" stroke="black" d="M 384.04 262.13 L 357.29 217.52" />
+  <path stroke-width="1" stroke="black" d="M 404.92 281.01 L 384.04 262.13" />
+  <path stroke-width="1" stroke="black" d="M 386.98 280.91 L 404.92 281.01" />
+  <path stroke-width="1" stroke="black" d="M 342.00 325.35 L 386.98 280.91" />
+  <path stroke-width="1" stroke="black" d="M 264.42 411.78 L 342.00 325.35" />
+  <path stroke-width="1" stroke="black" d="M 115.16 482.26 L 264.42 411.78" />
+  <path stroke-width="1" stroke="black" d="M 50.91 468.47 L 115.16 482.26" />
+  <path stroke-width="1" stroke="black" d="M 20.98 417.29 L 50.91 468.47" />
+  <path stroke-width="1" stroke="black" d="M -99.54 381.05 L 20.98 417.29" />
+  <path stroke-width="1" stroke="grey" d="M 20.98 417.29 L -19.79 432.72" />
+  <path stroke-width="1" stroke="grey" d="M 20.98 417.29 L 60.68 425.42" />
+  <path stroke-width="1" stroke="grey" d="M 50.91 468.47 L 42.89 471.81" />
+  <path stroke-width="1" stroke="grey" d="M 50.91 468.47 L 68.87 463.12" />
+  <path stroke-width="1" stroke="grey" d="M 50.91 468.47 L 27.98 469.50" />
+  <path stroke-width="1" stroke="grey" d="M 115.16 482.26 L 96.79 508.53" />
+  <path stroke-width="1" stroke="grey" d="M 115.16 482.26 L 63.96 342.70" />
+  <path stroke-width="1" stroke="grey" d="M 115.16 482.26 L 138.24 422.47" />
+  <path stroke-width="1" stroke="grey" d="M 115.16 482.26 L 166.77 394.39" />
+  <path stroke-width="1" stroke="grey" d="M 115.16 482.26 L 147.78 513.91" />
+  <path stroke-width="1" stroke="grey" d="M 115.16 482.26 L 221.68 449.34" />
+  <path stroke-width="1" stroke="grey" d="M 115.16 482.26 L 193.18 461.34" />
+  <path stroke-width="1" stroke="grey" d="M 115.16 482.26 L 196.61 445.68" />
+  <path stroke-width="1" stroke="grey" d="M 115.16 482.26 L 195.24 434.48" />
+  <path stroke-width="1" stroke="grey" d="M 264.42 411.78 L 254.25 398.57" />
+  <path stroke-width="1" stroke="grey" d="M 264.42 411.78 L 262.16 343.62" />
+  <path stroke-width="1" stroke="grey" d="M 264.42 411.78 L 265.47 420.41" />
+  <path stroke-width="1" stroke="grey" d="M 264.42 411.78 L 279.77 336.68" />
+  <path stroke-width="1" stroke="grey" d="M 342.00 325.35 L 349.78 335.13" />
+  <path stroke-width="1" stroke="grey" d="M 342.00 325.35 L 346.73 334.48" />
+  <path stroke-width="1" stroke="grey" d="M 342.00 325.35 L 345.66 329.21" />
+  <path stroke-width="1" stroke="grey" d="M 342.00 325.35 L 404.93 349.26" />
+  <path stroke-width="1" stroke="grey" d="M 386.98 280.91 L 405.64 306.45" />
+  <path stroke-width="1" stroke="grey" d="M 386.98 280.91 L 387.63 275.26" />
+  <path stroke-width="1" stroke="grey" d="M 386.98 280.91 L 322.47 290.88" />
+  <path stroke-width="1" stroke="grey" d="M 386.98 280.91 L 439.84 251.08" />
+  <path stroke-width="1" stroke="grey" d="M 386.98 280.91 L 407.27 269.46" />
+  <path stroke-width="1" stroke="grey" d="M 386.98 280.91 L 371.31 296.89" />
+  <path stroke-width="1" stroke="grey" d="M 386.98 280.91 L 389.05 315.57" />
+  <path stroke-width="1" stroke="grey" d="M 386.98 280.91 L 346.98 404.58" />
+  <path stroke-width="1" stroke="grey" d="M 386.98 280.91 L 391.37 288.49" />
+  <path stroke-width="1" stroke="grey" d="M 386.98 280.91 L 379.50 303.02" />
+  <path stroke-width="1" stroke="grey" d="M 386.98 280.91 L 393.28 286.65" />
+  <path stroke-width="1" stroke="grey" d="M 386.98 280.91 L 390.98 284.01" />
+  <path stroke-width="1" stroke="grey" d="M 386.98 280.91 L 405.26 280.40" />
+  <path stroke-width="1" stroke="grey" d="M 404.92 281.01 L 393.44 284.51" />
+  <path stroke-width="1" stroke="grey" d="M 404.92 281.01 L 395.40 265.91" />
+  <path stroke-width="1" stroke="grey" d="M 404.92 281.01 L 400.30 280.98" />
+  <path stroke-width="1" stroke="grey" d="M 404.92 281.01 L 389.19 277.66" />
+  <path stroke-width="1" stroke="grey" d="M 404.92 281.01 L 385.53 252.42" />
+  <path stroke-width="1" stroke="grey" d="M 384.04 262.13 L 381.71 274.54" />
+  <path stroke-width="1" stroke="grey" d="M 384.04 262.13 L 386.39 252.88" />
+  <path stroke-width="1" stroke="grey" d="M 384.04 262.13 L 376.28 211.87" />
+  <path stroke-width="1" stroke="grey" d="M 384.04 262.13 L 392.29 265.62" />
+  <path stroke-width="1" stroke="grey" d="M 357.29 217.52 L 342.40 228.71" />
+  <path stroke-width="1" stroke="grey" d="M 357.29 217.52 L 351.03 221.22" />
+  <path stroke-width="1" stroke="grey" d="M 357.29 217.52 L 365.94 248.22" />
+  <path stroke-width="1" stroke="grey" d="M 357.29 217.52 L 342.19 207.40" />
+  <path stroke-width="1" stroke="grey" d="M 357.29 217.52 L 387.13 248.45" />
+  <path stroke-width="1" stroke="grey" d="M 307.03 166.93 L 281.28 167.29" />
+  <path stroke-width="1" stroke="grey" d="M 307.03 166.93 L 324.75 169.69" />
+  <path stroke-width="1" stroke="grey" d="M 307.03 166.93 L 340.96 177.47" />
+  <path stroke-width="1" stroke="grey" d="M 307.03 166.93 L 276.12 100.06" />
+  <path stroke-width="1" stroke="grey" d="M 279.82 108.90 L 278.52 127.27" />
+  <path stroke-width="1" stroke="grey" d="M 279.82 108.90 L 267.35 106.04" />
+  <path stroke-width="1" stroke="grey" d="M 279.82 108.90 L 269.06 120.49" />
+  <path stroke-width="1" stroke="grey" d="M 279.82 108.90 L 278.04 159.95" />
+  <path stroke-width="1" stroke="grey" d="M 279.82 108.90 L 298.61 122.54" />
+  <path stroke-width="1" stroke="grey" d="M 279.82 108.90 L 241.72 125.39" />
+  <path stroke-width="1" stroke="grey" d="M 240.37 125.73 L 246.19 135.76" />
+  <path stroke-width="1" stroke="grey" d="M 240.37 125.73 L 154.93 66.69" />
+  <path stroke-width="1" stroke="grey" d="M 240.37 125.73 L 237.67 96.48" />
+  <path stroke-width="1" stroke="grey" d="M 240.37 125.73 L 193.28 142.26" />
+  <path stroke-width="1" stroke="grey" d="M 240.37 125.73 L 236.83 113.13" />
+  <path stroke-width="1" stroke="grey" d="M 197.56 136.05 L 188.68 130.53" />
+  <path stroke-width="1" stroke="grey" d="M 197.56 136.05 L 146.62 122.97" />
+  <path stroke-width="1" stroke="grey" d="M 197.56 136.05 L 224.32 110.33" />
+  <path stroke-width="1" stroke="grey" d="M 197.56 136.05 L 206.45 106.75" />
+  <path stroke-width="1" stroke="grey" d="M 126.26 122.95 L 82.92 44.72" />
+  <path stroke-width="1" stroke="grey" d="M 126.26 122.95 L 89.40 108.16" />
+  <path stroke-width="1" stroke="grey" d="M 126.26 122.95 L 128.89 114.82" />
+  <path stroke-width="1" stroke="grey" d="M 126.26 122.95 L 141.03 98.60" />
+  <path stroke-width="1" stroke="grey" d="M 126.26 122.95 L 154.41 127.63" />
+  <path stroke-width="1" stroke="grey" d="M 100.00 120.00 L 102.61 134.80" />
+  <path stroke-width="1" stroke="grey" d="M 100.00 120.00 L 53.36 122.11" />
+  <path stroke-width="1" stroke="grey" d="M 100.00 120.00 L 86.32 120.84" />
+  <path stroke-width="1" stroke="grey" d="M 100.00 120.00 L 95.85 69.88" />
+  <path stroke-width="1" stroke="grey" d="M 100.00 120.00 L 127.21 112.82" />
+  <path stroke-width="1" stroke="grey" d="M 120.42 131.60 L 217.88 167.80" />
+  <path stroke-width="1" stroke="grey" d="M 120.42 131.60 L 165.67 124.31" />
+  <path stroke-width="1" stroke="grey" d="M 120.42 131.60 L 170.75 74.98" />
+  <path stroke-width="1" stroke="grey" d="M 120.42 131.60 L 116.23 9.49" />
+  <path stroke-width="1" stroke="grey" d="M 120.42 131.60 L 147.84 119.01" />
+  <path stroke-width="1" stroke="grey" d="M 120.42 131.60 L 272.94 88.37" />
+  <path stroke-width="1" stroke="grey" d="M 120.42 131.60 L 326.45 -4.27" />
+  <path stroke-width="1" stroke="grey" d="M 120.42 131.60 L 220.11 59.12" />
+  <path stroke-width="1" stroke="grey" d="M 120.42 131.60 L 302.72 106.07" />
+  <path stroke-width="1" stroke="grey" d="M 120.42 131.60 L 259.21 132.15" />
+  <path stroke-width="1" stroke="grey" d="M 120.42 131.60 L 170.01 185.70" />
+  <path stroke-width="1" stroke="grey" d="M 277.44 85.38 L 280.43 89.07" />
+  <path stroke-width="1" stroke="grey" d="M 277.44 85.38 L 275.10 18.86" />
+  <path stroke-width="1" stroke="grey" d="M 277.44 85.38 L 230.46 79.91" />
+  <path stroke-width="1" stroke="grey" d="M 277.44 85.38 L 261.05 72.41" />
+  <path stroke-width="1" stroke="grey" d="M 328.40 -5.48 L 282.97 -185.91" />
+  <path stroke-width="1" stroke="grey" d="M 328.40 -5.48 L 326.52 -56.34" />
+  <path stroke-width="1" stroke="grey" d="M 328.40 -5.48 L 255.91 -56.09" />
+  <path stroke-width="1" stroke="grey" d="M 328.40 -5.48 L 250.28 -35.32" />
+  <path stroke-width="1" stroke="grey" d="M 328.40 -5.48 L 209.03 -20.70" />
+  <path stroke-width="1" stroke="grey" d="M 172.32 178.15 L 92.94 277.66" />
+  <path stroke-width="1" stroke="grey" d="M 172.32 178.15 L 150.44 237.41" />
+  <path stroke-width="1" stroke="grey" d="M 172.32 178.15 L 138.34 246.00" />
+  <path stroke-width="1" stroke="grey" d="M 172.32 178.15 L 106.03 241.01" />
+</g>
+</g>
+</svg>
