@@ -1,4 +1,21 @@
+001 do sprawdzenia
 002 lej z przewiewem
+003 do sprawdzenia
+004 kubaturowa 40 m studnia (z plakietk¹) i niebezpiecznymi wantami, mo¿na wróciæ z ³awkami i wspi¹æ siê do dalszej czêœci gangu, trudno powidzieæ czy ktoœ tam by³, jeœli tak to przy pomocy drabiny  
+005 jaskinia z tabliczk¹ „77”
+007 do sprawdzenia
+008 do sprawdzenia
+009 nie wygl¹da super, ale mo¿na sprawdziæ
+010 nie wygl¹da super, ale mo¿na sprawdziæ
+011 nie wygl¹da super, ale mo¿na sprawdziæ
+012 nie wygl¹da super, ale mo¿na sprawdziæ
+013 nie wygl¹da super, ale mo¿na sprawdziæ
+014 nie wygl¹da super, ale mo¿na sprawdziæ
+015 nie wygl¹da super, ale mo¿na sprawdziæ
+016 nie wygl¹da super, ale mo¿na sprawdziæ
+017-019 zawalone wantami, ciê¿ki temat
+018 nie wygl¹da super, ale mo¿na sprawdziæ
+019 zawalone wantami, ciê¿ki temat
 020 mia³o byæ sprawdzone przez braci J i DB
 021 mia³o byæ sprawdzone przez braci J i DB
 022 mia³o byæ sprawdzone przez braci J i DB
@@ -8,8 +25,22 @@
 026 do sprawdzenia
 027 do sprawdzenia
 028 mo¿e warto zjechaæ, wia³o
+029 wejœcie w kotlince, korytarz schodz¹cy w dó³, warto
+030 w leju, ale w bocznej œciance, ciasna pochylnia w dó³, trzeba wejœæ i sprawdziæ
 030 Mirek do sprawdzenia
-031 Mirek do sprawdzenia	
+031 w górze kot³a, pozioma stosunkowo wygodna, chyba znana, mo¿na sprawdziæ
+032 do sprawdzenia
+031 Mirek do sprawdzenia
+033 Studnia w wielkim leju u góry, trzeba odgruzowaæ
+034 Jaskinia z mostkiem, dolna, ok. -10 m, na dole jêzor lodu, zalodze, górna, -10 m, te¿ beza wiêkszych szans
+035 Kika metrów, klipi siê, wanty i nie do przejœcia
+036 Pochylnia zablokowana du¿ymi wantami
+37_504 37 [504], d³ugoœæ: 361 m, g³êbokoœæ: 233 m
+037 do sprawdzenia
+038 do sprawdzenia
+039 do sprawdzenia
+040 do sprawdzenia
+041 do sprawdzenia	
 049 jaskinia z wod¹
 064 sprawdzane przez MW
 065 sprawdzane przez MW
@@ -168,7 +199,7 @@ A4-23 Jaskinia oznaczona jako zaklipiona (2002 r.). Szczelina zwê¿aj¹ca siê ku d
 A4-24 Otwór w „pêkniêciu tektonicznym”, zawalony kamieniami, ale lekko wieje. 
 A4-25 Kamieñ leci oko³o 10 m, otwór czêœciowo rozebrany z want. Problem podobny trochê od A4-51.
 A4-26 „Jaskinia Rafa³a - Willego”, szczelina pomiêdzy œcian¹ i œniegiem, na dnie du¿e wanty, oko³o 12 m d³ugoœci.
-A4-27 Kilka otworów totalnie zawalonych œniegiem. Nie wytapia.
+A4-27 Kilka otworów totalnie zawalonych œniegiem. Nie wytapia. [2015] Komora pod œniegiem 2m, dalej ciasno, do odgruzowania, trzeba wykopaæ œnieg nad komor¹ aby dobrze siê pracowa³o 
 A4-28 Myta szczelina, du¿o kamieni.
 A4-29 Pozioma jaskinia o niskim sp¹gu, trzeba wybieraæ kamienie. Mo¿na próbowaæ szczêœcia.
 A4-3_485 A4-3 [485] Kilkumetrowej œrednicy studnia w ca³oœci przykryta czapk¹ œnie¿n¹ (koniec lipca 2004 r.). Pochy³y korytarz z ogromn¹ iloœci¹ kamieni. Takie te¿ jest dno jaskini. Jaskinia zosta³a skartowana: d³ugoœæ: 22 m, g³êbokoœæ: 16 m.
@@ -206,6 +237,8 @@ A7 Hohle_386 Höhle A-7 [386], d³ugoœæ: 70 m, g³êbokoœæ: 58 m
 A8 Hohle_387 Höhle A-8 [387], d³ugoœæ: 50 m, g³êbokoœæ: 20 m
 A9 Hohle_388 Höhle A-9 [388], d³ugoœæ: 10 m, g³êbokoœæ: 10 m
 Ab1 Du¿a otwarta studnia, w dnie szczelina ze studzienk¹ zjazdow¹ ok 5 m
+abc studnia, raczej nic ale zabrak³o liny, jest zielona kropka, ale trzeba zjechaæ
+AK1_506 AK1 [506], d³ugoœæ: 85 m, g³êbokoœæ: 52 m
 Alblhöh szczyt 1959 m npm
 Alimentari_413 Alimentari-Schacht [413], d³ugoœæ: 50 m, g³êbokoœæ: 30 m
 Altamira_405 Altamira-Höhle [405], d³ugoœæ: 69 m, g³êbokoœæ: 6 m
@@ -214,6 +247,11 @@ Alvermanns_280 Alvermannschacht [280], d³ugoœæ: 709 m, g³êbokoœæ: 452 m
 AMBONA
 Angeralmbl_402 Angeralmblickschichtfugendurchgangshöhle [402], d³ugoœæ: 101 m, g³êbokoœæ: 6 m
 Angerschach_46 Angerschacht [46], d³ugoœæ: ?? m, g³êbokoœæ: ?? m
+ASIA1 Jaskinia - po dwóch studniach meander z przewiewem, ciasno ale warto
+ASIA2 korek œnie¿ny silny przewiew, pomiêdzy wantami wyraŸna kontynuacja, nie wymaga du¿o pracy
+ASIA3 ³adna studnia warto sprawdziæ
+ASIA4 korek sniezny, warto sprawdziæ 
+ASIA5 kiedyœ sprawdzana, ³adna studnia z korkiem œnieznym, hsa i zielon¹ kropk¹, warto wróciæ 
 Atschiloc1_158 Ätschiloch [158], d³ugoœæ: 194 m, g³êbokoœæ: 90 m
 Atschiloch_158 Ätschiloch [158], d³ugoœæ: 194 m, g³êbokoœæ: 90 m
 Auschartenh_24 Auschartenhöhle [24], d³ugoœæ: 26 m, g³êbokoœæ: 15 m
@@ -228,7 +266,7 @@ B3-20 b. ciasny myty korytarz prawdopodobnie przechodz¹cy na wylot
 B3-21 w wielkim leju obszerny fragment starego meandra, zaprany
 B3-3 obszerny meander wcinaj¹cy siê w œcianê typ KuŸnia, trzeba by zejœæ
 B3-4_490 B3-4 [490], d³ugoœæ: 49 m, g³êbokoœæ: 27 m
-B3-6_500 B3-6 [500], d³ugoœæ: 170 m, g³êbokoœæ: 66,5 m
+B3-6_500 B3-6 [500], d³ugoœæ: 246 m, g³êbokoœæ: 139 m
 B3-7
 B4 znaleziony z WH
 B4-5 ³adna studnia – sprawdzone przez RP - nie puszcza
@@ -289,7 +327,7 @@ Cav1 jaskinia z mapy Bergfex
 Cav2 jaskinia z mapy Bergfex
 Cav3 jaskinia z mapy Bergfex
 Cave? byæ mo¿e nie sprawdzana
-Ciekawa_495 Ciekawa Interessante [495], d³ugoœæ 15202 m, g³êbokoœæ: 583 m
+Ciekawa_495 Ciekawa Interessante [495], d³ugoœæ 19032 m, g³êbokoœæ: 639 m
 CL-5 otwory sprawdzane pod Kasztanow¹ MW
 Comeback-h_480 Comeback-höhle A3-36 [480], d³ugoœæ 176 m, g³êbokoœæ: 46 m
 CZERW najdalszy sprawdzony otwór przez MW korek œnie¿ny
@@ -460,6 +498,10 @@ Nasenlocher_84 Nasenlöcher [84], d³ugoœæ: 70 m, g³êbokoœæ: 18 m
 NIC studzienka bez szans zawalone kamieniami dno
 NIC1 studzienka bez szans zawalone kamieniami dno
 Niedriges_190 Niedriges Loch [190], d³ugoœæ: 30 m
+NL1 Studnia 5 m, zagruzowane dno, brak przewiewu, nie rokuje
+NL2 Otwór wczeœniej sprawdzan. 3 m studzienka zagruzowana, bez przewiewu, nie rokuje
+NL3 Studnia 10 m, zagruzowane dno, brak przewiewu, nie rokuje. Obok lej, który schodzi w okolice NL3
+NL4 Rura i ciasny zakamieniony korytarzyk schodz¹cy w dó³. Mo¿na kopaæ. Przewiew
 Nr10_206 Schacht Nr. 10 [206], d³ugoœæ: 20 m, g³êbokoœæ: 10 m
 Nr11_207 Schacht Nr. 11 [207], d³ugoœæ: 12 m, g³êbokoœæ: 12 m
 Nr12_208 Schacht Nr. 12 [208], d³ugoœæ: 20 m, g³êbokoœæ: 20 m
@@ -488,8 +530,7 @@ Ofenauerloc_36 Ofenauerloch [36], d³ugoœæ: 47 m, g³êbokoœæ: 7 m
 OL1SPR sprawdzony przez nas, bez perspektyw
 Oli-grn szczelina nad Oliphantem, nie puszcza, wieje prawdopodobnie z Oliphanta
 Oliphant_497 JO-2 Höhle mit Oliphant [497]
-Olivs do sprawdzenia
-P04A A3-8 drugi twór Koralowej
+P04A A3-8 drugi otwór Koralowej
 Patrickhoh_428 Patrickhöhle [428], d³ugoœæ: 543 m, g³êbokoœæ: 80 m
 Pelischach_184 Pelischacht [184], d³ugoœæ: 90 m, g³êbokoœæ: 90 m
 Perlkammer_49 Perlkammer [49], d³ugoœæ: 24 m, g³êbokoœæ: 10 m
@@ -543,12 +584,12 @@ Schacht Ei_403 Schacht beim Eisseekeller [403], studnia: 53 m
 Schacht Pe_129 Schacht neben dem Petrefaktencanyon [129], otwór systemu Jägerbrunntrogsystem
 Schacht Sc_258 Schacht in der Schreck [258], d³ugoœæ: ?? m, g³êbokoœæ: ?? m
 Schacht/Len_11 Schacht / Lengtalschneid [11], d³ugoœæ: ?? m, g³êbokoœæ: ?? m
-Schacht1 studnia w œcianie, poni¿ej studni gruzowisko – jest mo¿liwoœæ przejœcia, ale doœæ niebezpiecznie
 Schacht2 wejœcie jak ma³y lej po meteorycie, 2 otwory – ma³a salka z studni¹, mo¿na zjechaæ, ale jest doœæ niezabezpieczenie
 Schachthohl_17 Schachthöhle Westlich der Lengtalscharte [17], d³ugoœæ: 660 m, g³êbokoœæ: 40 m
 Schafhutten_69 Schafhüttenlabyrinth [69], d³ugoœæ: 88 m
 Schattenho_502 Schattenhöhle [502], d³ugoœæ: 115 m, g³êbokoœæ: 60 m
 Scheukofen_4 Scheukofen [4], d³ugoœæ: 1400 m, g³êbokoœæ: 120 m
+Schin_fake_163 Schinderloch [163], patrz: [Schachthohl_17] [FAKE]
 Schinderlo_163 Schinderloch [163], patrz: [Schachthohl_17]
 SchlingerN_132 Schlinger Diti N [132], d³ugoœæ: 345 m, g³êbokoœæ: 143 m
 SchlingerS_132 Schlinger Diti S [132], d³ugoœæ: 345 m, g³êbokoœæ: 143 m
@@ -581,8 +622,10 @@ Steinbockho_39 Steinbockhoöhle [39], d³ugoœæ: 175 m, g³êbokoœæ: 35 m
 Steinbruck_261 Steinbrückenhöhle Nr34 [261], d³ugoœæ: 130 m, g³êbokoœæ: 100 m
 Steinwurfs_115 Steinwurfschacht [115], d³ugoœæ: 20 m, g³êbokoœæ: 20 m
 STJ-biwak
+StudniaX_507 Studnia X [507], d³ugoœæ: 278 m, g³êbokoœæ: -56 m
 StudniazDziura Niespenetrowana do koñca. Obszerna, lecz p³ytka studnia z ciekawym, charakterystycznym oknem
-Studzienka studnia ok 5m bez przewiewu
+Studzienka studnia ok 5m bez przewiew
+Stupodglaz_505 Schacht unter dem Stein Studnia pod G³azem [505] d³ugoœæ: 220 m, g³êbokoœæ: -33 m
 Sulzenkarle_74 Sulzenkarleishöhle E3 [74], otwór systemu Jägerbrunntrogsystem
 SZ1 pozioma ok. 5 m jaskinia – bez szans
 SZ10 w¹skie dwie studzienki (myte), ciekawe ale trudne?
@@ -674,3 +717,4 @@ Zentrumsho_100 Zentrumshöhle [100], d³ugoœæ: 1415 m, g³êbokoœæ: 557 m
 Zirbenhohle_45 Zirbenhöhle [45], d³ugoœæ: 85 m, g³êbokoœæ: 31 m
 Zuckerguss_418 Zuckerguß-Eishöhle [418], d³ugoœæ: 147 m, g³êbokoœæ: 30 m
 Zwillingsc_170 Zwillingschacht E1 [170] – otwór systemu Jägerbrunntrogsystem
+
