@@ -3,54 +3,6 @@
 .NAME	PROJECT
 .STATUS	2563
 .REF	5266134.620 353373.320 33 -1.439 1940 1 47 31 55.505 13 3 6.818 27 "WGS 1984"
-.BOOK	Schacht under dem Stein
-.NAME	SCH1
-.PATH	Schacht1
-.STATUS	8
-.SURVEY	Schacht unter dem Stein.pdf
-.NAME	Schacht unter dem Stein.pdf
-.STATUS	196616
-.SURVEY	Schacht unter dem Stein.JPG
-.NAME	Schacht unter dem Stein.JPG
-.STATUS	196616
-.SURVEY	Schacht unter dem Stein W-E.pdf
-.NAME	Schacht unter dem Stein W-E.pdf
-.STATUS	196616
-.SURVEY	Schacht unter dem Stein W-E.JPG
-.NAME	Schacht unter dem Stein W-E.JPG
-.STATUS	196616
-.SURVEY	schacht_1
-.NAME	SCH_1
-.STATUS	8
-.ENDBOOK
-.BOOK	Studnia-X
-.NAME	STDX
-.PATH	Studnia-X
-.STATUS	8
-.SURVEY	der x_schacht_grundriss_aufriss_1_500_DE.pdf
-.NAME	der x_schacht_grundriss_aufriss_1_500_DE.pdf
-.STATUS	327688
-.SURVEY	Studnia-X_2
-.NAME	STDX02
-.STATUS	8
-.SURVEY	Studnia-X
-.NAME	STDX01
-.STATUS	8
-.ENDBOOK
-.BOOK	AK1
-.NAME	AK1
-.PATH	AK1
-.STATUS	8
-.SURVEY	AK-1-profile.pdf
-.NAME	AK-1-profile.pdf
-.STATUS	327688
-.SURVEY	AK-1-plan.pdf
-.NAME	AK-1-plan.pdf
-.STATUS	327688
-.SURVEY	160806
-.NAME	160806
-.STATUS	8
-.ENDBOOK
 .BOOK	37
 .NAME	37
 .PATH	37
@@ -108,6 +60,20 @@
 .PATH	A4-1
 .STATUS	8
 .ENDBOOK
+.BOOK	AK1
+.NAME	AK1
+.PATH	AK1
+.STATUS	8
+.SURVEY	AK-1-profile.pdf
+.NAME	AK-1-profile.pdf
+.STATUS	327688
+.SURVEY	AK-1-plan.pdf
+.NAME	AK-1-plan.pdf
+.STATUS	327688
+.SURVEY	160806
+.NAME	160806
+.STATUS	8
+.ENDBOOK
 .BOOK	Baza
 .NAME	BAZA
 .STATUS	2568
@@ -131,6 +97,20 @@
 .STATUS	8
 .SURVEY	Plynacych Kamieni
 .NAME	KAMIEN
+.STATUS	8
+.ENDBOOK
+.BOOK	Studnia-X
+.NAME	STDX
+.PATH	Studnia-X
+.STATUS	8
+.SURVEY	der x_schacht_grundriss_aufriss_1_500_DE.pdf
+.NAME	der x_schacht_grundriss_aufriss_1_500_DE.pdf
+.STATUS	327688
+.SURVEY	Studnia-X_2
+.NAME	STDX02
+.STATUS	8
+.SURVEY	Studnia-X
+.NAME	STDX01
 .STATUS	8
 .ENDBOOK
 .BOOK	[280] Alvermannschacht
@@ -1252,6 +1232,26 @@
 .STATUS	327688
 .SURVEY	2014-08-13 - Biwakko
 .NAME	BIWAK
+.STATUS	8
+.ENDBOOK
+.BOOK	[508] Schacht under dem Stein
+.NAME	SCH1
+.PATH	508_Schacht_unter_dem_Stein
+.STATUS	8
+.SURVEY	Schacht unter dem Stein W-E.JPG
+.NAME	Schacht unter dem Stein W-E.JPG
+.STATUS	327688
+.SURVEY	Schacht unter dem Stein W-E.pdf
+.NAME	Schacht unter dem Stein W-E.pdf
+.STATUS	327688
+.SURVEY	Schacht unter dem Stein.JPG
+.NAME	Schacht unter dem Stein.JPG
+.STATUS	327688
+.SURVEY	Schacht unter dem Stein.pdf
+.NAME	Schacht unter dem Stein.pdf
+.STATUS	327688
+.SURVEY	schacht_1
+.NAME	SCH_1
 .STATUS	8
 .ENDBOOK
 .SURVEY	Poziomice
