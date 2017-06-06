@@ -99,20 +99,6 @@
 .NAME	KAMIEN
 .STATUS	8
 .ENDBOOK
-.BOOK	Studnia-X
-.NAME	STDX
-.PATH	Studnia-X
-.STATUS	8
-.SURVEY	der x_schacht_grundriss_aufriss_1_500_DE.pdf
-.NAME	der x_schacht_grundriss_aufriss_1_500_DE.pdf
-.STATUS	327688
-.SURVEY	Studnia-X_2
-.NAME	STDX02
-.STATUS	8
-.SURVEY	Studnia-X
-.NAME	STDX01
-.STATUS	8
-.ENDBOOK
 .BOOK	[280] Alvermannschacht
 .NAME	280ALV
 .STATUS	2568
@@ -1232,6 +1218,29 @@
 .STATUS	327688
 .SURVEY	2014-08-13 - Biwakko
 .NAME	BIWAK
+.STATUS	8
+.ENDBOOK
+.BOOK	[507] X-Schacht
+.NAME	STDX
+.PATH	507_X-Schacht
+.STATUS	8
+.SURVEY	der x_schacht_grundriss_aufriss_1_500_DE.pdf
+.NAME	der x_schacht_grundriss_aufriss_1_500_DE.pdf
+.PATH	..\507_X-Schacht
+.STATUS	327688
+.SURVEY	der x_schacht_grundriss_1_500_DE.pdf
+.NAME	der x_schacht_grundriss_1_500_DE.pdf
+.PATH	..\507_X-Schacht
+.STATUS	327688
+.SURVEY	der x_schacht_aufriss_1_500_DE.pdf
+.NAME	der x_schacht_aufriss_1_500_DE.pdf
+.PATH	..\507_X-Schacht
+.STATUS	327688
+.SURVEY	Studnia-X_2
+.NAME	STDX02
+.STATUS	8
+.SURVEY	Studnia-X
+.NAME	STDX01
 .STATUS	8
 .ENDBOOK
 .BOOK	[508] Schacht under dem Stein
