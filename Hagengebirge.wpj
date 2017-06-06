@@ -356,7 +356,7 @@
 .ENDBOOK
 .BOOK	[491] W Czerwonych Kamieniach Hohle in Roten Steinen J1
 .NAME	491CZ
-.STATUS	2569
+.STATUS	2568
 .REF	5266334.650 353747.350 33 -1.435 1880 1 47 32 2.284 13 3 24.458 27 "WGS 1984"
 .SURVEY	491_Hohle_in_Roten_Steinen_profile_2010.pdf
 .NAME	491_Hohle_in_Roten_Steinen_profile_2010.pdf
@@ -482,30 +482,26 @@
 .NAME	495CIE
 .STATUS	2568
 .REF	5266134.622 353373.317 33 -1.437 1932 0 47 31 55.505 13 3 6.818 27 "WGS 1984"
+.SURVEY	plan16_PL_v3_big.png
+.NAME	plan16_PL_v3_big.png
+.PATH	495-Interessante\_Plan_Profile
+.STATUS	327688
+.SURVEY	plan16_deutsch_v3.png
+.NAME	plan16_deutsch_v3.png
+.PATH	495-Interessante\_Plan_Profile
+.STATUS	327688
+.SURVEY	interessante_section_deutch_2016_pl.png
+.NAME	interessante_section_deutch_2016_pl.png
+.PATH	495-Interessante\_Plan_Profile
+.STATUS	327688
+.SURVEY	interessante_section_deutch_2016_de.png
+.NAME	interessante_section_deutch_2016_de.png
+.PATH	495-Interessante\_Plan_Profile
+.STATUS	327688
 .SURVEY	!_Uwaga
 .NAME	UWAGA
 .PATH	495-Interessante
 .STATUS	8
-.SURVEY	495 Interessante plan 2016 de
-.NAME	495_Interessante_plan_2016_de.png
-.PATH	495-Interessante
-.STATUS	327688
-.SURVEY	495 Interessante plan 2016 pl
-.NAME	495_Interessante_plan_2016_pl.png
-.PATH	495-Interessante
-.STATUS	327688
-.SURVEY	495_Interessante_plan_2014.pdf
-.NAME	495_Interessante_plan_2014.pdf
-.PATH	495-Interessante
-.STATUS	327688
-.SURVEY	495_Interessante_profile_2012.pdf
-.NAME	495_Interessante_profile_2012.pdf
-.PATH	495-Interessante
-.STATUS	327688
-.SURVEY	495_Interessante_profile_2014.png
-.NAME	495_Interessante_profile_2014.png
-.PATH	495-Interessante
-.STATUS	327688
 .SURVEY	2012-07-31 - Amazonka
 .NAME	120731AM
 .PATH	495-Interessante
