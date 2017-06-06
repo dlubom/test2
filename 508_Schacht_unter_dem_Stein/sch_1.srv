@@ -7,7 +7,7 @@
 #Units Meters A=Degrees
 #prefix sch1
 #FIX   sch1   E13:03.194  N47:31.684   2048m
-#note sch1	/sch1
+#note sch1	/[508] Schacht under dem Stein
 #flag	sch1	/GPS Location
 sch1	0	0	0	0
 0	-	0.24	55.2	0.8
