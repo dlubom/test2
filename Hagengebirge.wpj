@@ -1093,6 +1093,10 @@
 .NAME	499_WYS
 .STATUS	2568
 .REF	5265554.560 352635.700 33 -1.446 2145 1 47 31 36.126 13 2 32.258 27 "WGS 1984"
+.SURVEY	499_Hoher_Schacht_plan&profile_2009.pdf
+.NAME	499_Hoher_Schacht_plan&profile_2009.pdf
+.PATH	499_Hoher_Schacht
+.STATUS	65544
 .SURVEY	499_Hoher_Schacht_plan&profile_2009.png
 .NAME	499_Hoher_Schacht_plan&profile_2009.png
 .PATH	499_Hoher_Schacht
