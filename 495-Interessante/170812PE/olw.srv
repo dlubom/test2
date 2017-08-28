@@ -1,6 +1,8 @@
 #units meters order=AVD
 #units A=D V=D
 #prefix	TNT
+#date 2017-08-12
+;Dariusz Lubomski (Palm), Adam Wladzinski(Disto-X), Tomasz Olczak(spray)
 :wm020.01	1.0	0	0	0
 1.25	:wm036.02	0	0	0
 1.26	:wm036.01	0	0	0

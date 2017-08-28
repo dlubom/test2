@@ -1,7 +1,9 @@
 #units meters order=AVD
 #units A=D V=D
 #date 2017-08-11
-#prefix bok
+#prefix bokod
+#date 2017-08-11
+;Dariusz Lubomski (Palm), Adam Wladzinski(Disto-X), Tomasz Olczak(spray)
 :ws086	1.0	0	0	0
 1.0	1.1	128.81	-19.85	6.59
 1.1	1.2	156.36	-5.54	2.195
@@ -66,4 +68,4 @@
 1.14	-	328.07	-2.62	1.402
 1.14	-	227.35	-10.43	0.928
 1.14	-	68.24	0.15	1.184
-1.14	-	175.53	-65.17	3.698
+1.14	1.14.a	175.53	-65.17	3.698;domiar
