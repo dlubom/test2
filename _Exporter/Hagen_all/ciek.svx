@@ -1,0 +1,11 @@
+*begin
+*case preserve
+;*entrance 000
+;*cs UTM33N
+*cs out UTM33N
+;*fix 000 353214.832 5266273.242 1928.12
+*cs LONG-LAT
+;*fix 000 13.04974326 47.53329551 1928
+;*include 495Cieka.dat
+*include Hagengebirge.MAK
+*end
