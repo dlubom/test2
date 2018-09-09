@@ -1,28 +1,3 @@
-BU:1.2 - BU:1.3
-Pierwodna długość   5.68m (  1 odcinków), przesunięto o   0.10m ( 0.10m/odcinek). Błąd   1.69%
-1.076906
-H: 1.408575 V: 0.116134
-
-BV:1.28 - BV:1.29
-Pierwodna długość   5.72m (  1 odcinków), przesunięto o   0.10m ( 0.10m/odcinek). Błąd   1.83%
-1.167992
-H: 1.523797 V: 0.119660
-
-BU:1.1 - BU:1.2
-Pierwodna długość   1.26m (  1 odcinków), przesunięto o   0.04m ( 0.04m/odcinek). Błąd   2.86%
-0.499316
-H: 0.393574 V: 0.677699
-
-BV:1.27 - BV:1.28
-Pierwodna długość   1.25m (  1 odcinków), przesunięto o   0.04m ( 0.04m/odcinek). Błąd   2.82%
-0.488255
-H: 0.416770 V: 0.628454
-
-BO:18 - BO:19
-Pierwodna długość   6.87m (  1 odcinków), przesunięto o   0.08m ( 0.08m/odcinek). Błąd   1.14%
-0.817178
-H: 1.029845 V: 0.182798
-
 BB:1.15 - BB:1.16
 Pierwodna długość   5.09m (  1 odcinków), przesunięto o   0.14m ( 0.14m/odcinek). Błąd   2.69%
 1.445962
@@ -238,76 +213,6 @@ Pierwodna długość   7.75m (  1 odcinków), przesunięto o   0.04m ( 0.04m/odc
 0.318932
 H: 0.401103 V: 0.077999
 
-BV:1.26 - BV:1.27
-Pierwodna długość   2.04m (  1 odcinków), przesunięto o   0.06m ( 0.06m/odcinek). Błąd   2.93%
-0.796828
-H: 0.909790 V: 0.095198
-
-H:1.23 - H:1.25 - H:1.26 - H:1.27 - H:1.28 - H:1.29 - H:1.30 - H:1.31 - H:1.32 - H:1.33 - H:1.34 - H:1.35 - H:1.36 - H:1.23
-Pierwodna długość  33.62m ( 13 odcinków), przesunięto o   1.50m ( 0.12m/odcinek). Błąd   4.47%
-5.358356
-H: 5.079922 V: 5.896518
-
-H:1.23 - H:1.22 - H:1.21 - H:1.20 - H:1.19 - H:1.18 - H:1.17 - H:1.15 - H:1.11 - H:1.10 - H:1.9 - H:1.6 - H:1.5 - H:1.4 - H:1.3 - H:1.2 - H:1.1 - H:ger
-Pierwodna długość  66.73m ( 17 odcinków), przesunięto o   0.00m ( 0.00m/odcinek). Błąd   0.00%
-0.000000
-H: 0.000000 V: 0.000000
-
-a17 - s7 - s6 - s5 - s4 - s3 - s2 - s1 - s0 - a20 - a19 - a18 - a17
-Pierwodna długość  86.62m ( 12 odcinków), przesunięto o   2.58m ( 0.22m/odcinek). Błąd   2.98%
-6.138861
-H: 0.088293 V: 9.489518
-
-b7 - b8 - b9 - b10 - b11
-Pierwodna długość  32.85m (  4 odcinków), przesunięto o   4.54m ( 1.14m/odcinek). Błąd  13.82%
-20.131500
-H: 21.941354 V: 15.029783
-
-b11 - z23 - z22 - z21 - z20 - z19 - z18 - z17 - z16 - z15 - z11 - z10 - z9 - z8 - z7 - z6 - z5 - z4 - z3 - z2 - z1 - mp21 - mp20 - mp19 - mp18 - mp17 - mp16 - mp15 - mp14 - mp13 - mp12 - mp11 - mp10 - mp9 - mp8 - mp7 - mp6 - mp5 - mp4 - mp3 - mp2 - b"9 - b"8 - b7
-Pierwodna długość 195.72m ( 43 odcinków), przesunięto o   3.48m ( 0.08m/odcinek). Błąd   1.78%
-5.939103
-H: 4.276049 V: 8.292068
-
-n37 - n38 - 100 - 99 - 98 - 97 - 96 - 95 - 94 - 93 - 92 - 91 - 90 - 89 - 88 - 87 - 86 - 85 - 84 - 83 - 82 - 20 - 1' - 6 - 7 - 8 - 9 - 10 - 11 - 12 - 13
-Pierwodna długość 243.74m ( 30 odcinków), przesunięto o   0.00m ( 0.00m/odcinek). Błąd   0.00%
-0.000000
-H: 0.000000 V: 0.000000
-
-n27 - n28 - n29 - n30 - n31 - n32 - n33 - n34 - n35 - n36 - n37
-Pierwodna długość  51.45m ( 10 odcinków), przesunięto o   2.21m ( 0.22m/odcinek). Błąd   4.30%
-7.242046
-H: 9.203998 V: 1.230758
-
-n27 - on7 - on6 - on5 - on4 - on3 - on2 - on1 - n37
-Pierwodna długość  60.49m (  8 odcinków), przesunięto o   4.34m ( 0.54m/odcinek). Błąd   7.18%
-12.904202
-H: 15.145170 V: 4.238548
-
-n1 - n2 - n3 - n4 - n5 - n6 - n7 - n8 - n9 - n10 - n11 - n12 - n13 - n14 - n15 - n16 - n17 - n18 - n19 - n20 - n21 - n22 - n23 - n24 - n25 - n26 - n27
-Pierwodna długość 120.31m ( 26 odcinków), przesunięto o   0.00m ( 0.00m/odcinek). Błąd   0.00%
-0.000000
-H: 0.000000 V: 0.000000
-
-n1 - b14 - b13 - b12 - b11
-Pierwodna długość  20.73m (  4 odcinków), przesunięto o   2.05m ( 0.51m/odcinek). Błąd   9.89%
-11.089798
-H: 13.981758 V: 2.455896
-
-n1 - b2 - b3 - b4 - b5 - b6 - b7
-Pierwodna długość  30.14m (  6 odcinków), przesunięto o   3.40m ( 0.57m/odcinek). Błąd  11.28%
-14.958868
-H: 18.253355 V: 4.300357
-
-cg87 - cg86 - cg85 - cg84 - cg83 - cg82 - cg81 - cg80 - cg79 - cg78 - cg77 - cg76 - cg75 - cg74 - cg73 - cg72 - cg71 - cg70 - cg69 - cg68 - cg67 - cg66 - cg65 - cg64 - cg63 - cg62 - cg61 - cg60 - cg59 - cg58 - cg57 - cg56 - cg55 - cg54 - cg53 - cg52 - cg51 - cg50 - cg49 - cg48 - cg47 - cg46 - cg45 - cg44 - cg43 - cg42 - cg41 - cg40 - cg39 - cg38 - cg37 - cg36 - cg35 - cg34 - cg33 - cg32 - cg31 - cg30 - cg29 - cg28 - cg27 - cg26 - cg25 - cg24 - cg23 - cg22 - cg21 - cg20 - cg19 - cg18 - cg17 - cg16 - cg15 - cg14 - cg13 - cg12 - cg11 - cg10 - cg09 - cg08 - cg07 - cg06 - cg05 - cg04 - cg03 - cg02 - cg01
-Pierwodna długość 458.43m ( 86 odcinków), przesunięto o   0.00m ( 0.00m/odcinek). Błąd   0.00%
-0.000000
-H: 0.000000 V: 0.000000
-
-cg87 - czw1 - czw2 - czw3 - czw4 - czw5 - czw6 - czw7 - czw8 - czw9 - czw10 - czw11 - czw12 - dw22 - dw21 - dw20 - dw19 - dw18 - dw17 - dw16 - dw15 - dw14 - dw13 - dw12 - dw6 - dw5 - dw4 - dw3 - dw2 - dw1 - 6_3 - 6_2 - cg109 - cg108 - cg107 - cg106 - cg105 - cg104 - cg103 - cg102 - cg101 - cg100 - cg99 - cg98 - cg97 - cg96 - cg95 - cg94 - cg93 - cg92 - cg91 - cg90 - cg89 - cg88 - cg87
-Pierwodna długość 370.26m ( 54 odcinków), przesunięto o   6.75m ( 0.13m/odcinek). Błąd   1.82%
-8.492940
-H: 9.911778 V: 2.768778
-
 R:1.45 - R:1.46 - R:1.47 - S:1.3 - S:1.4 - S:1.5 - S:1.6 - S:1.7 - S:1.8
 Pierwodna długość  36.54m (  8 odcinków), przesunięto o   0.20m ( 0.03m/odcinek). Błąd   0.55%
 0.772259
@@ -400,8 +305,8 @@ H: 1.089746 V: 0.850554
 
 gh030 - gh029 - gh028 - gh027 - gh026 - gh025 - gh024
 Pierwodna długość  24.04m (  6 odcinków), przesunięto o   0.38m ( 0.06m/odcinek). Błąd   1.58%
-1.715811
-H: 2.061502 V: 0.575990
+1.715812
+H: 2.061503 V: 0.575990
 
 gh69 - gh68 - gh67 - gh66 - gh65 - gh64 - gh63 - gh62 - gh61 - gh60 - gh030
 Pierwodna długość  44.94m ( 10 odcinków), przesunięto o   0.56m ( 0.06m/odcinek). Błąd   1.25%
@@ -431,7 +336,7 @@ H: 1.254153 V: 0.391298
 zg013 - gh90 - gh69.05
 Pierwodna długość  14.14m (  2 odcinków), przesunięto o   0.04m ( 0.02m/odcinek). Błąd   0.27%
 0.217433
-H: 0.275747 V: 0.057236
+H: 0.275747 V: 0.057235
 
 bg014 - bg013 - bg012 - bg011 - bg009 - bg008 - bg007 - bg006 - bg001 - zg058
 Pierwodna długość  39.82m (  9 odcinków), przesunięto o   0.29m ( 0.03m/odcinek). Błąd   0.73%
@@ -506,7 +411,7 @@ H: 2.364631 V: 1.230546
 sm010 - sm011 - sm012 - sm013 - sm014 - sm015 - sm015.01 - sm015.02 - sm015.03 - sm015.04 - sm015.05 - sm015.06 - hv033 - hv032 - hv031 - hv030
 Pierwodna długość  71.34m ( 15 odcinków), przesunięto o   1.73m ( 0.12m/odcinek). Błąd   2.43%
 4.852777
-H: 6.007679 V: 0.323983
+H: 6.007678 V: 0.323983
 
 kt053 - kt060.10 - kt060.09 - kt060.08 - kt060.07 - kt060.06 - kt060.05 - kt060.04 - kt060.03 - kt060.02 - kt060.01 - kt060
 Pierwodna długość  35.19m ( 11 odcinków), przesunięto o   1.15m ( 0.10m/odcinek). Błąd   3.27%
@@ -605,8 +510,8 @@ H: 0.000000 V: 0.000000
 
 gh140 - gh139 - gh138 - gh137 - gh136 - gh135 - gh134 - gh133 - gh132 - gh131 - gh130 - gh129 - gh128 - gh115 - gh114 - gh113 - gh112 - gh111 - gh110 - gh109 - gh108 - gh107 - gh106 - gh105 - gh104 - gh103 - gh102 - gh101 - gh053 - gh052 - gh051 - gh050 - gh049 - gh048 - gh047 - gh046 - gh045 - gh044 - gh043 - gh042 - gh041 - gh040 - gh039 - gh038 - gh037 - gh036 - gh035 - gh034 - gh033 - gh032 - gh031 - gh030
 Pierwodna długość 260.06m ( 51 odcinków), przesunięto o   0.00m ( 0.00m/odcinek). Błąd   0.00%
-0.000000
-H: 0.000000 V: 0.000000
+0.000001
+H: 0.000001 V: 0.000000
 
 gh148 - gh148.1 - gh148.2 - gh148.3 - gh148.4 - gh148.5 - gh148.6 - gh148.12 - gh148.13 - gh148.14 - gh148.15 - gh148.16 - gh148.17 - gh148.18 - gh148.19 - gh140
 Pierwodna długość  79.90m ( 15 odcinków), przesunięto o   0.46m ( 0.03m/odcinek). Błąd   0.58%
@@ -640,13 +545,13 @@ H: 2.463104 V: 0.211165
 
 hg115.3 - hg115.2 - hg115.1 - hg115 - hg114 - hg113 - hg112 - hg111.1 - hg111 - hg110 - hg109 - hg108 - hg107 - hg106 - hg105.1 - hg105
 Pierwodna długość  95.62m ( 15 odcinków), przesunięto o   0.00m ( 0.00m/odcinek). Błąd   0.00%
-0.000000
-H: 0.000000 V: 0.000000
+0.000001
+H: 0.000001 V: 0.000000
 
 ws015 - ws013 - ws012 - ws011 - ws010.2 - ws010 - ws009 - ws008 - ws007 - ws006 - ws005 - ws004 - ws003 - ws002 - ws001 - hg116 - hg115.3
 Pierwodna długość  86.74m ( 16 odcinków), przesunięto o   0.00m ( 0.00m/odcinek). Błąd   0.00%
 0.000000
-H: 0.000000 V: 0.000000
+H: 0.000001 V: 0.000000
 
 ws022 - ws015.11 - ws015.10 - ws015.09 - ws015.08 - ws015.07 - ws015.06 - ws015.05 - ws015.04 - ws015.03 - ws015.02 - ws015.01 - ws015
 Pierwodna długość  56.15m ( 12 odcinków), przesunięto o   0.56m ( 0.05m/odcinek). Błąd   0.99%
@@ -666,7 +571,7 @@ H: 0.834446 V: 0.092102
 hg090 - hg099d - hg099c - hg099b - hg099a - hg099
 Pierwodna długość  31.80m (  5 odcinków), przesunięto o   0.26m ( 0.05m/odcinek). Błąd   0.81%
 0.958030
-H: 1.241540 V: 0.107197
+H: 1.241540 V: 0.107196
 
 kv012 - kv011 - kv010
 Pierwodna długość   7.26m (  2 odcinków), przesunięto o   0.00m ( 0.00m/odcinek). Błąd   0.06%
@@ -751,7 +656,7 @@ H: 8.536411 V: 0.084452
 ws030 - ws029 - ws028 - ws027 - ws026 - ws025 - ws024 - ws023 - ws022
 Pierwodna długość  68.58m (  8 odcinków), przesunięto o   0.00m ( 0.00m/odcinek). Błąd   0.00%
 0.000000
-H: 0.000000 V: 0.000000
+H: 0.000001 V: 0.000000
 
 ob039 - ob041 - ob042 - ob043 - ob044 - ob045 - ob048 - ob049 - ob050 - ob018 - ob015 - ob014 - ob012 - ob011 - ob010 - ob009
 Pierwodna długość  66.67m ( 15 odcinków), przesunięto o   0.36m ( 0.02m/odcinek). Błąd   0.54%
@@ -775,7 +680,7 @@ H: 0.405214 V: 0.157595
 
 AI:1.3 - AI:1.2 - AI:1.1 - AI:1.0 = kv0224 - kv0223 - kv0222 - kv0221 - kv0220 - kv0219 - kv0218 - kv0217 - kv0216 - kv0215 - kv0214 - kv0213 - kv0212 - kv0211 - kv0210 - kv0209 - kv0208 - kv0207 - kv0206
 Pierwodna długość 124.69m ( 21 odcinków), przesunięto o   0.53m ( 0.03m/odcinek). Błąd   0.43%
-1.129976
+1.129977
 H: 1.377792 V: 0.358009
 
 AI:1.6 - AI:1.7 - AI:1.8
@@ -865,7 +770,7 @@ H: 1.297415 V: 16.208534
 
 AL:1.0 - AL:1.1 - AL:1.2 - AL:1.3 - AL:1.4 - AL:1.5 - AL:1.6 - AL:1.7 - AL:1.8 - AL:1.9 - AL:1.10 - AL:1.11 - AL:1.12 - AL:1.13 - AL:1.14 - AL:1.15 = AJ:1.29
 Pierwodna długość  60.96m ( 15 odcinków), przesunięto o   0.34m ( 0.02m/odcinek). Błąd   0.55%
-0.990584
+0.990583
 H: 0.996137 V: 0.978352
 
 AK:1.5 - AK:1.6 - AK:1.7 - AK:1.8 - AK:1.9 - AK:1.10 - AK:1.11 - AK:1.12 - AK:1.13 - AK:1.14 - AK:1.15 - AK:1.16 = AI:1.9
@@ -885,13 +790,13 @@ H: 0.547592 V: 0.507406
 
 gh192 - gh191 - gh190 - gh189 - gh183 - gh182 - gh181 - gh180 - gh179 - gh178 - gh177 - gh176 - gh175 - gh174 - gh173 - gh172 - gh171 - gh170 - gh169 - gh168 - gh167 - gh166 - gh165
 Pierwodna długość 123.60m ( 22 odcinków), przesunięto o   0.00m ( 0.00m/odcinek). Błąd   0.00%
-0.000000
-H: 0.000000 V: 0.000000
+0.000001
+H: 0.000001 V: 0.000000
 
 gh211 - gh218 - gh219 - gh220 - gh221 - gh222 - gh223 - gh224 - gh225 - gh226 - gh227 - gh228 - gh229 - gh230 - gh231 - gh232 - gh233 - gh234 - gh235 - gh236 - gh237 - gh238 - gh239 - gh240 - gh241 - gh242 - gh243 - gh244 - gh245 - gh246 - gh247 - gh248 - gh249 - gh250 - gh251 - AT:gh252 - AT:gh253 - AT:gh254 - AT:gh255 - AT:gh256 - AT:gh257 - AT:gh258 - AT:gh259 - AT:gh260 - AT:gh261 - AT:gh262 - AT:gh263 - AT:gh264 - AT:gh265 - AT:gh266 - AT:gh267 = AU:1.2 - AU:1.3 - AU:1.4 - AU:1.5 - AU:1.6 - AU:1.7 - AU:1.8 - AU:1.9 - AU:1.10 - AU:1.11 - AU:1.12 - AU:1.13 - AU:1.14 - AU:1.15 - AU:1.16 - AU:1.17 - AU:1.18 - AU:1.19 - AU:1.20 - AU:1.21 - AU:1.22 = X:0.0 - X:1.0 - X:2.0 - X:3.0 - X:4.0 - X:5.0 - X:6.0 - X:7.0 - X:8.0 - X:9.0 - X:10.0 - X:11.0 - X:12.0
 Pierwodna długość 463.98m ( 82 odcinków), przesunięto o   0.00m ( 0.00m/odcinek). Błąd   0.00%
-0.000000
-H: 0.000000 V: 0.000000
+0.000001
+H: 0.000001 V: 0.000000
 
 gh211 - gh217 - gh216 - gh215 - gh214 - gh213 - gh212 - gh192
 Pierwodna długość  33.65m (  7 odcinków), przesunięto o   0.10m ( 0.01m/odcinek). Błąd   0.29%
@@ -975,7 +880,7 @@ H: 2.665137 V: 0.004049
 
 Y:1.5 - Y:1.51 - Y:1.52 - Y:1.53 = X:12.0
 Pierwodna długość  22.21m (  3 odcinków), przesunięto o   0.26m ( 0.09m/odcinek). Błąd   1.17%
-1.279780
+1.279779
 H: 1.609265 V: 0.327424
 
 AD:1.1 - AD:1.0 = X:36.0
@@ -996,7 +901,7 @@ H: 2.612326 V: 0.689405
 AD:1.16 - AD:1.17 = U:1.37
 Pierwodna długość   7.99m (  1 odcinków), przesunięto o   0.25m ( 0.25m/odcinek). Błąd   3.10%
 2.101846
-H: 2.608142 V: 0.733286
+H: 2.608143 V: 0.733286
 
 AD:1.16 - AD:1.15 - AD:1.14 - AD:1.13 - AD:1.12 - AD:1.11 - AD:1.10 - AD:1.9 - AD:1.8 - AD:1.7 - AD:1.6 - AD:1.5 - AD:1.4 - AD:1.3
 Pierwodna długość  82.26m ( 13 odcinków), przesunięto o   0.00m ( 0.00m/odcinek). Błąd   0.00%
@@ -1080,8 +985,8 @@ H: 0.198421 V: 0.429146
 
 cw040 - cw039 - cw038 - cw037 - cw036 - cw035 - cw034 - cw033 - cw032 - cw031 - cw030 - cw029 - cw028 = cw027 - cw026 - cw025 - cw024 - cw023 - cw022 - cw021 - cw020 - cw019 - cw018 - cw017 - cw016 - cw015 - cw014 - cw013 - cw012 - cw011 - cw010 - cw009 - cw008 - cw007 - cw006 - cw005 - cw004 - cw003 - cw002 - cw001 - 000
 Pierwodna długość 191.72m ( 39 odcinków), przesunięto o   0.00m ( 0.00m/odcinek). Błąd   0.00%
-0.000000
-H: 0.000000 V: 0.000000
+0.000001
+H: 0.000001 V: 0.000000
 
 nt030 - nt030.01 - nt030.02 - nt031 - nt030
 Pierwodna długość  18.79m (  4 odcinków), przesunięto o   0.24m ( 0.06m/odcinek). Błąd   1.27%
@@ -1186,7 +1091,7 @@ H: 0.000000 V: 0.000000
 hg005 - hg004 - hg003
 Pierwodna długość  14.11m (  2 odcinków), przesunięto o   0.57m ( 0.28m/odcinek). Błąd   4.03%
 3.553586
-H: 3.672197 V: 3.357058
+H: 3.672196 V: 3.357058
 
 hg005 - hg005.01 - hg005.02 - hg005.03 - hg005.04 - hg005.05 - hg005.06 - hg003.03 - hg003.02 - hg003.01 - hg003
 Pierwodna długość  40.07m ( 10 odcinków), przesunięto o   2.31m ( 0.23m/odcinek). Błąd   5.77%
@@ -1195,13 +1100,13 @@ H: 8.089371 V: 8.410008
 
 hg042 - hg041 - hg040 - hg039 - hg038 - hg037 - hg036 - hg035 - hg034 - hg033 - hg032 - hg031 - hg030 - hg029 - hg028 - hg027 - hg026 - hg025 - hg024 - hg023 - hg022 - hg021 - hg020 - hg019 - hg018 - hg017 - hg016 - hg015 - hg014 - hg013 - hg012 - hg011 - hg010 - hg009 - hg008 - hg007 - hg006 - hg005
 Pierwodna długość 184.04m ( 37 odcinków), przesunięto o   0.00m ( 0.00m/odcinek). Błąd   0.00%
-0.000000
-H: 0.000000 V: 0.000000
+0.000001
+H: 0.000001 V: 0.000000
 
 hg046 - hg045 - hg044 - hg043 - hg042
 Pierwodna długość  11.50m (  4 odcinków), przesunięto o   0.06m ( 0.01m/odcinek). Błąd   0.49%
 0.355655
-H: 0.290554 V: 0.492407
+H: 0.290555 V: 0.492407
 
 hg046 - h42.01.1 - hg042.01 - hg042
 Pierwodna długość  15.21m (  3 odcinków), przesunięto o   0.06m ( 0.02m/odcinek). Błąd   0.42%
@@ -1210,8 +1115,8 @@ H: 0.314092 V: 0.505207
 
 hg063 - hg062 - hg061 - hg060 - hg059 - hg058 - hg057 - hg056 - hg055 - hg054 - hg053 - hg052 - hg051 - hg050 - hg049 - hg048 - hg047 - hg046
 Pierwodna długość 131.89m ( 17 odcinków), przesunięto o   0.00m ( 0.00m/odcinek). Błąd   0.00%
-0.000000
-H: 0.000000 V: 0.000000
+0.000001
+H: 0.000001 V: 0.000000
 
 hg066 - kp001 - kp002 - kp003 - kp004 - kp005 - kp005.01 - kp005.02 - kp005.03 - kp005.04 - kp005.05 - kp005.06 - kp005.07 - hg063
 Pierwodna długość  63.60m ( 13 odcinków), przesunięto o   2.07m ( 0.16m/odcinek). Błąd   3.26%
@@ -1225,13 +1130,13 @@ H: 4.099098 V: 1.565834
 
 hg080 - hg079 - hg078 - hg077 - hg076 - hg075 - hg074 - hg073 - hg072 - hg071 - hg070 - hg069 - hg068 - hg067 - hg066
 Pierwodna długość 121.57m ( 14 odcinków), przesunięto o   0.00m ( 0.00m/odcinek). Błąd   0.00%
-0.000000
-H: 0.000000 V: 0.000000
+0.000001
+H: 0.000001 V: 0.000000
 
 hg082 - hg083 - hg084 - hg085 - hg086 - hg087 - hg088 - hg089 - hg090a - hg090
 Pierwodna długość  53.48m (  9 odcinków), przesunięto o   0.00m ( 0.00m/odcinek). Błąd   0.00%
-0.000000
-H: 0.000000 V: 0.000000
+0.000001
+H: 0.000001 V: 0.000000
 
 hg082 - hg082.01 - hg080.12 - hg080.11 - hg080.10 - hg080.09 - hg080.08 - hg080.07 - hg080.06 - hg080.05 - hg080.04 - hg080.03 - hg080.02 - hg080.01 - hg080
 Pierwodna długość  75.75m ( 14 odcinków), przesunięto o   0.60m ( 0.04m/odcinek). Błąd   0.79%
@@ -1250,8 +1155,8 @@ H: 0.548271 V: 0.061785
 
 hg105 - hg104.1 - hg104 - hg103 - hg102 - hg101 - hg100 - hg100a - 
 Pierwodna długość  58.93m (  8 odcinków), przesunięto o   0.00m ( 0.00m/odcinek). Błąd   0.00%
-0.000000
-H: 0.000000 V: 0.000000
+0.000001
+H: 0.000001 V: 0.000000
 
 kt004 - kt005 - kt006 - kt007 - kt008 - kt009 - kt010 - kt011 - kt012 - kt013 - kt014 - kt015 - kt016 - kt017 - kt018 - kt019 - kt020 - kt021 - kt022 - kt023 - kt024 - kt025 - kt026 - kt027 - kt028 - kt029 - kt030 - kt031 - kt032 - kt033 - kt034 - kt035 - kt036 - kt037 - kt038 - kt039 - kt040 - kt041 - kt042 - kt043 - kt044 - kt045 - kt046 - kt047 - kt048 - kt049 - kt050 - kt051 - kt052 - kt053
 Pierwodna długość 186.07m ( 49 odcinków), przesunięto o   1.77m ( 0.04m/odcinek). Błąd   0.95%
@@ -1347,54 +1252,4 @@ wm293 - wm293.1 - wm299.6 - wm299.5 - wm299.4 - wm299.3 - wm299.2 - wm299.1 - wm
 Pierwodna długość  53.76m ( 14 odcinków), przesunięto o   0.45m ( 0.03m/odcinek). Błąd   0.84%
 1.415716
 H: 1.706416 V: 0.090933
-
-BM:1.0 - BM:1.1 = BL:1.8 - BL:1.7
-Pierwodna długość   4.34m (  2 odcinków), przesunięto o   0.05m ( 0.03m/odcinek). Błąd   1.20%
-0.491024
-H: 0.586338 V: 0.051198
-
-BO:18 - BO:17 - BO:16 - BO:15 - BO:14 - BO:13 - BO:12 - BO:11 - BO:10 - BO:9 - BO:8 - BO:7 - BO:6 - BO:5 - BO:4 - BO:3 - BO:2 - BO:1 - BO:0 = BP:1.15 - BP:1.14 - BP:1.13 - BP:1.12 - BP:1.11 - BP:1.10 - BP:1.9 - BP:1.8 - BP:1.7 - BP:1.6 - BP:1.5 - BP:1.4 - BP:1.3 - BP:1.2 - BP:1.1 - BP:1.0 = BS:6.2 - BS:6.1 - BS:6.0 = BS:1.12 - BS:1.11 - BS:1.10 - BS:1.9 - BS:1.8 - BS:1.7 - BS:1.6 - BS:1.5 - BS:1.4 - BS:1.3 - BS:1.2 - BS:1.1 - BS:1.0 = BR:1.2 - BR:1.1 - BR:1.0 = BQ:1.29 - BQ:1.28 - BQ:1.27 - BQ:1.26 - BQ:1.25 - BQ:1.24 - BQ:1.23 - BQ:1.22 - BQ:1.18 - BQ:1.17 - BQ:1.16 - BQ:1.12 - BQ:1.11 - BQ:1.5 - BQ:1.4 - BQ:1.3 - BQ:1.2 - BQ:1.1 - BQ:37
-Pierwodna długość 270.72m ( 67 odcinków), przesunięto o   0.00m ( 0.00m/odcinek). Błąd   0.00%
-0.000000
-H: 0.000000 V: 0.000000
-
-BO:19 - BO:20 - BO:21 = BM:0.0 - BM:0.1 - BM:1.0
-Pierwodna długość  58.70m (  4 odcinków), przesunięto o   0.00m ( 0.00m/odcinek). Błąd   0.00%
-0.000000
-H: 0.000000 V: 0.000000
-
-BN:1.1 - BN:1.0 = BO:18
-Pierwodna długość   6.90m (  1 odcinków), przesunięto o   0.08m ( 0.08m/odcinek). Błąd   1.17%
-0.841205
-H: 1.061989 V: 0.161493
-
-BM:1.0 - BM:1.2 - BM:1.3 - BM:1.4 = BK:1.0 - BK:1.1 - BK:1.2 = BK:3.0 - BK:3.1 - BK:3.2 - BK:3.3 = BK:4.0 - BK:4.1 = BL:1.0 - BL:1.1 - BL:1.2 - BL:1.3 - BL:1.4 - BL:1.5 - BL:1.6 - BL:1.7
-Pierwodna długość  87.06m ( 16 odcinków), przesunięto o   0.63m ( 0.04m/odcinek). Błąd   0.72%
-1.681121
-H: 1.633381 V: 1.776930
-
-BV:1.63 - BV:1.62 - BV:1.61 - BV:1.56 - BV:1.55 - BV:1.54 - BV:1.53 - BV:1.39 - BV:1.38 - BV:1.37 - BV:1.36 - BV:1.35 - BV:1.34 - BV:1.33
-Pierwodna długość  38.50m ( 13 odcinków), przesunięto o   0.08m ( 0.01m/odcinek). Błąd   0.22%
-0.286218
-H: 0.229460 V: 0.373753
-
-BU:1.0 - BU:1.1
-Pierwodna długość   2.08m (  1 odcinków), przesunięto o   0.06m ( 0.06m/odcinek). Błąd   3.03%
-0.839239
-H: 0.957057 V: 0.142075
-
-BV:1.29 - BV:1.30 = BU:1.4 - BU:1.3
-Pierwodna długość   2.60m (  2 odcinków), przesunięto o   0.03m ( 0.02m/odcinek). Błąd   1.21%
-0.309299
-H: 0.325774 V: 0.295379
-
-BV:1.19 - BV:1.20 - BV:1.23 - BV:1.24 - BV:1.25 - BV:1.26
-Pierwodna długość  19.67m (  5 odcinków), przesunięto o   0.00m ( 0.00m/odcinek). Błąd   0.00%
-0.000000
-H: 0.000000 V: 0.000000
-
-BV:1.19 - BV:1.18 - BV:1.17 - BV:1.16 - BV:1.15 - BV:1.14 - BV:1.13 - BV:1.12 - BV:1.11 - BV:1.10 - BV:1.2 - BV:1.1 - BV:1.0
-Pierwodna długość  80.59m ( 12 odcinków), przesunięto o   0.00m ( 0.00m/odcinek). Błąd   0.00%
-0.000000
-H: 0.000000 V: 0.000000
 

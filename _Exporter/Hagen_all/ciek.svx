@@ -1,11 +1,57 @@
 *begin
 *case preserve
-;*entrance 000
-;*cs UTM33N
+
+*entrance 000
+
 *cs out UTM33N
-;*fix 000 353214.832 5266273.242 1928.12
+
 *cs LONG-LAT
-;*fix 000 13.04974326 47.53329551 1928
-;*include 495Cieka.dat
-*include Hagengebirge.MAK
+
+*fix 000 13.04974326 47.53329551 1928
+*fix al1 13.0380667  47.5393  1977.38
+
+*include 280Alver.DAT
+;*include 340.DAT
+;*include 343.DAT
+;*include 421Tschi.DAT
+;*include 425StBla.DAT
+;*include 429Grenz.DAT
+;*include 479Kaszt.DAT
+;*include 480Comeb.DAT
+;*include 481Szpar.DAT
+;*include 482Niebi.DAT
+;*include 483WH2.DAT
+;*include 485A43.DAT
+;*include 486A410.DAT
+;*include 487Krolo.DAT
+;*include 488A440.DAT
+;*include 489Q1A32.DAT
+;*include 490B34.DAT
+;*include 491WCzer.DAT
+;*include 492Koral.DAT
+;*include 493Lodow.DAT
+;*include 494Respe.DAT
+*include 495Cieka.DAT
+;*include 496Krain.DAT
+;*include 497Hohle.DAT
+;*include 498Meand.DAT
+;*include 499Wysok.DAT
+;*include 500B36.DAT
+;*include 501Kitzg.DAT
+;*include 502Jaski.DAT
+;*include 503Biwak.DAT
+;*include 50437.DAT
+;*include 506AK1.DAT
+;*include 507XScha.DAT
+;*include 508Schac.DAT
+;*include A41.DAT
+;*include Baza.DAT
+;*include German1.DAT
+;*include Gerollen.DAT
+;*include Kahl1.DAT
+;*include Kahl2.DAT
+;*include Plynacyc.DAT
+;*include SZ38.DAT
+;*include T4.DAT
+
 *end
