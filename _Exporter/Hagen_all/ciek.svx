@@ -2,6 +2,7 @@
 *case preserve
 
 *entrance 000
+*entrance al1
 
 *cs out UTM33N
 
@@ -9,6 +10,53 @@
 
 *fix 000 13.04974326 47.53329551 1928
 *fix al1 13.0380667  47.5393  1977.38
+;TODO dodawac kolejne w tym formacie, uwaga bo musza byc unikalne wiec trzeba to poprawic w walls
+
+;340/340SR.SRV:8:#FIX  340   E13:02.83  N47:31.68333   2015m     ;dm
+;343/343SV.SRV:8:#FIX  343   E13:02.80500  N47:31.68500   2022m     ;dm
+;421-Tschikpausenhohle/na1.srv:7:#FIX   t1  E13:03.965  N47:32.158   1950m     ;dm
+;425-St.Blasius-Labyrinth/425BLPKT.SRV:8:#FIX   bl20   E13:02.579  N47:31.664   2090m     ;dm
+;429-Grenzlandruine/429GR001.SRV:6:#FIX  0  E13:02.863  N47:31.288   2136m     ;dm
+;479-Kastanienhohle/479DZ.SRV:5:#FIX  13   E13:02:35.4  N47:32:20.5   1964.47m     ;dm
+;480-Comeback-h/480_CB_C.SRV:10:#FIX   cbh39   E13:02.388  N47:32.163   1981m     ;dm
+;480-Comeback-h/480_CB_C.SRV:11:;#FIX   cbh33   E13:02.402  N47:32.177                     ;dm TODO brak wysokosci
+;481-Spaltchen/481_CG.SRV:7:#FIX   sz0   E13.03888333333  N47.53071666667   2130m     ;d
+;482-Hohle_der_blaunen_Nebel/482.srv:6:#FIX      482     E13:02.559      N47:32.031   1978m     ;dm
+;483-WH2/WH2.SRV:6:#FIX  wh2_1   E13:02.572  N47:31.894   2025m     ;dm
+;484_Neuhauserschacht/484N.SRV:4:#FIX  a484   E13:5.583333  N47:32.783333  1543m ;dm
+;485-A4-3/485A4-3P.SRV:5:#FIX  a403-0   E13:02.095  N47:32.177   2025m     ;dm
+;486-A4-10/486_10.SRV:6:#FIX  a4010-0   E13:02.095  N47:32.177   2025m     ;dm
+;487-Schneekoniginhohle/KROSNI.SRV:6:#FIX   ks1   E13.03811666667  N47.53608333333   1968m     ;d
+;488-A4-40/488A440P.SRV:5:#FIX  a440-0   E13:02.263  N47:32.185   1954m     ;dm
+;489-Q1/489Q1P.SRV:4:#FIX   Q1   E13:02.368  N47:32.055   2015m     ;dm
+;490-B3-4/490.SRV:4:#FIX  a490   E13:2.566667  N47:31.8  2046m     ;dm
+;491-Hohle_in_Roten_Steinen/491CG1.SRV:6:#FIX  cg01   E13:03.282  N47:32.113   1880m     ;dm
+;492_Korallenhohle/492P04.SRV:5:#FIX  p04_1   E13:02.293  N47:31.982  2040m     ;dm
+;493_Eisschrank/493LOPK.SRV:5:#FIX  ld0   E13:02.492  N47:32.272  1985m     ;dm
+;494_Respektschacht/494_CG.SRV:5:#FIX   RC1   E13:03.533  N47:31.848   2025m     ;dm
+;496_Land_der_Regenmenschacht/496DD.SRV:6:#FIX  Deszcz   E13:03.465  N47:32.084  2010m     ;dm
+;497-Hohle_mit_Oliphant/497SR.SRV:5:#FIX  a497  E13:2.95  N47:31.916667   1968m     ;dm
+;498_Maander_unter_dem_Laschen/498PKP.SRV:6:#FIX  podk   E13:02.995  N47:32.037   1924m     ;dm
+;499_Hoher_Schacht/499WYSO.SRV:6:#FIX   wys1.0   E13:02.412  N47:31.677   2145m     ;dm
+;500-B3-6/150809.SRV:11:#FIX   B3-6   E13:02:51.0  N47:31:50.6   2011.47m
+;500-B3-6/OLD/B3-6W.SRV:5:#FIX   B3-6   E13:02:51.0  N47:31:50.6   2011.47m
+;501-Kitzgrabenwasserschacht/501KITPK.SRV:8:#FIX  0   E13:03.815  N47:32.076   2008m     ;dm
+;502-Schattenhohle/120816SH.SRV:9:#FIX  sh   E13.054573  N47.537469   1886.36m
+;503-Biwakko/BIWAK.SRV:9:#FIX   biwakko   E13:03.010  N47:31.939   1932m     ;dm
+;504_37/150809a.srv:6:#FIX   37   E13.0531636  N47.5294392 2012.17m
+;506_AK-1/160806.srv:6:#FIX   ak1   E13:03.139  N47:31.655   2072m
+;507_X-Schacht/stdx01.srv:6:#FIX   stx   E13:03.254  N47:31.641   2058m
+;508_Schacht_unter_dem_Stein/sch_1.srv:9:#FIX   sch1   E13:03.194  N47:31.684   2048m
+;A4-1/A4_1.SRV:7:#FIX  a401-0   E13:02.047  N47:32.238   2006m     ;dm
+;Baza/BAZAPK.SRV:4:#FIX   baza   E13:02.381  N47:32.295   1935m     ;dm
+;German_1/german_1.srv:8:#FIX  ger_1   E13:02.360  N47:31.288   2081m     ;dm
+;Gerollenheim/geroll.srv:7:#FIX   ger  E13:02.632  N47:31.582   2052m     ;dm
+;Kahl_1/180807dt.srv:7:#FIX   k1  E13.03667357  N47.52919456   2233m
+;Kahl_2/180808.srv:7:#FIX   k2  E13.03702461  N47.52895325   2221m
+;Plynacych-Kamieni/KAMIEN.SRV:7:#FIX   pk01   E13:03:29.55564  N47:31:58.38138   1990m     ;dm
+;SZ38/lka7.srv:9:#FIX 1.0 E13:02.257 N47:31.8 2124m
+;T4/exp.srv:9:#FIX 0 E13:03.485 N47:31.921 1992m
+
 
 *include 280Alver.DAT
 ;*include 340.DAT
