@@ -1,0 +1,8 @@
+*begin _2
+*date 2018.08.15
+*team T4
+*data normal from to tape compass clino ignoreall
+0	1	26.000	196.000	-61.000
+1	2	21.000	252.000	-90.000
+*flags splay
+*end _2

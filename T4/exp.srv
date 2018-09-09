@@ -1,0 +1,11 @@
+#units meters order=DAV
+#Units A=D V=D
+#Prefix 2
+
+#date 2018-08-15
+;team Filip Filar(Telefon), Marek Wierzbowski, Dariusz Lubomski
+#flag	0	/GPS Location
+#note 0	/T4
+#FIX 0 E13:03.485 N47:31.921 1992m
+0	1	26.000	196.000	-61.000
+1	2	21.000	252.000	-90.000
