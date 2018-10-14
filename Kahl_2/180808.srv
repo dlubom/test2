@@ -2,10 +2,10 @@
 #units A=D V=D
 #date 2018-08-08
 ; DariuszLubomski (Palm), Marta Katafiasz (Disto)
-#prefix k2
-#flag	k2	/GPS Location
-#FIX   k2  E13.03702461  N47.52895325   2221m
-k2	1.0	0	0	0
+#prefix LW563
+#flag	1.0	/GPS Location
+#note 1.0	/LewaWScia_563
+#FIX   1.0  E13.0371167  N47.5290333   2188m
 1.0	1.1	237.38	-88.59	2.41
 1.1	1.2	209.45	-69.11	8.73
 1.2	1.3	193.66	-70.45	7.481

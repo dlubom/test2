@@ -5,7 +5,7 @@
 ;team Strasser, Gluck, Zehetner, Dachs
 #flag	1.0	/GPS Location
 #note 1.0	/428
-#FIX  1.0   E13:03.017  N47:31.267   2075m     ;dm
+#FIX  1.0   E13:03.017  N47:31.267   2075m
 1	2	3.3	208	-12
 2	3	6.2	294	-30
 3	4	9.1	324	1
