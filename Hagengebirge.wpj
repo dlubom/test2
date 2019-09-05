@@ -3,6 +3,14 @@
 .NAME	PROJECT
 .STATUS	2563
 .REF	5266134.620 353373.320 33 -1.439 1940 1 47 31 55.505 13 3 6.818 27 "WGS 1984"
+.BOOK	Gerollenheim
+.NAME	GERO
+.PATH	German_1\..\Gerollenheim
+.STATUS	8
+.SURVEY	Gerollenheim
+.NAME	GEROLL
+.STATUS	8
+.ENDBOOK
 .BOOK	340
 .NAME	340
 .STATUS	2568
@@ -51,28 +59,12 @@
 .NAME	GERMAN_1
 .STATUS	8
 .ENDBOOK
-.BOOK	Gerollenheim
-.NAME	GERO
-.PATH	Gerollenheim
-.STATUS	8
-.SURVEY	Gerollenheim
-.NAME	GEROLL
-.STATUS	8
-.ENDBOOK
 .BOOK	Plynacych Kamieni
 .NAME	PLKAM
 .PATH	Plynacych-Kamieni
 .STATUS	8
 .SURVEY	Plynacych Kamieni
 .NAME	KAMIEN
-.STATUS	8
-.ENDBOOK
-.BOOK	[562] Himmelfahr
-.NAME	T4
-.PATH	T4
-.STATUS	9
-.SURVEY	T4
-.NAME	EXP
 .STATUS	8
 .ENDBOOK
 .BOOK	[280] Alvermannschacht
@@ -506,6 +498,30 @@
 .NAME	495CIE
 .STATUS	2568
 .REF	5266134.622 353373.317 33 -1.437 1932 0 47 31 55.505 13 3 6.818 27 "WGS 1984"
+.SURVEY	2019-07-31 - Sala przed sal¹ z wodospadem
+.NAME	190731PW
+.PATH	495-Interessante\190731PW
+.STATUS	8
+.SURVEY	2019-08-01 - Nie mam pojêcia
+.NAME	190801NP
+.PATH	495-Interessante\190801NP
+.STATUS	8
+.SURVEY	2019-07-31 - Gangbang
+.NAME	190731GB
+.PATH	495-Interessante\190731GB
+.STATUS	8
+.SURVEY	2019-07-30 - Pod wodospad
+.NAME	190730PW
+.PATH	495-Interessante\190730PW
+.STATUS	8
+.SURVEY	2018-07-31 - Podwójny meander
+.NAME	190731KK
+.PATH	495-Interessante\190731KK
+.STATUS	8
+.SURVEY	2019-07-24 - Mender pod jednej nocy
+.NAME	190724KT
+.PATH	495-Interessante\190724
+.STATUS	8
 .SURVEY	2018-08-12 - Urodziny 2
 .NAME	180812ME
 .PATH	495-Interessante\180812me
@@ -572,19 +588,19 @@
 .STATUS	8
 .SURVEY	plan16_PL_v3_big.png
 .NAME	plan16_PL_v3_big.png
-.PATH	495-Interessante\_Plan_Profile
+.PATH	_Plan_Profile
 .STATUS	327688
 .SURVEY	plan16_deutsch_v3.png
 .NAME	plan16_deutsch_v3.png
-.PATH	495-Interessante\_Plan_Profile
+.PATH	_Plan_Profile
 .STATUS	327688
 .SURVEY	interessante_section_deutch_2016_pl.png
 .NAME	interessante_section_deutch_2016_pl.png
-.PATH	495-Interessante\_Plan_Profile
+.PATH	_Plan_Profile
 .STATUS	327688
 .SURVEY	interessante_section_deutch_2016_de.png
 .NAME	interessante_section_deutch_2016_de.png
-.PATH	495-Interessante\_Plan_Profile
+.PATH	_Plan_Profile
 .STATUS	327688
 .SURVEY	!_Uwaga
 .NAME	UWAGA
@@ -1376,6 +1392,14 @@
 .STATUS	327688
 .SURVEY	schacht_1
 .NAME	SCH_1
+.STATUS	8
+.ENDBOOK
+.BOOK	[562] Himmelfahr
+.NAME	T4
+.PATH	T4
+.STATUS	8
+.SURVEY	T4
+.NAME	EXP
 .STATUS	8
 .ENDBOOK
 .BOOK	[563] Lewa w Scianie
