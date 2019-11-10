@@ -1,0 +1,18 @@
+pomiary ozyskane z Disto przez Mateusza
+
+od 347?
+
+Marta: ", Tomek Olczak zapamiętał że było ok. 167-186 pomiarów ściągniętych na palma, mi za to kołacze się, że łączna długość skartowanego meandra wynosiła ok. 85 m."
+
+Mateusz:
+
+"Cześć,
+
+W załączniku zrzut pamięci Disto.
+
+Ostatni pomiar to ten w wierszu 522 (z gwiazdką w kolumnie "I"). Bufor jest
+cykliczny, a zatem przedostatni pomiar jest o jeden wiersz wyżej, trzeci od
+końca w wierszu 520 itp itp aż do wiersza 2. I dalej - ten pomiar, który był
+przed wierszem 2 jest w wierszu 1026 (ostatnim).
+Wcześniejszy przed nim jest w przedostatnim wierszu (1025) i tak dalej aż do
+wiersza 523 (i w nim jest najdawniejszy zapamiętany pomiar).  Chyba."
