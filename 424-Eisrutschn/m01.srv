@@ -1,9 +1,9 @@
 #units meters order=DAV
 #Units A=D V=D
 #Prefix 9
-#note 0	/[424] Eisrutschn
-#flag	0	/GPS Location
-#FIX   0   E13:02.975  N47:31.279   2072m     ;dm
+#note 23	/[424] Eisrutschn
+#flag	23	/GPS Location
+#FIX   23   E13:02.975  N47:31.279   2072m     ;dm
 #date 2019-08-09
 ;team K plus Asystent
 0	1	16.517	87.944	71.127
