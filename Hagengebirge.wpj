@@ -495,6 +495,10 @@
 .NAME	494_Respektschacht_profile_2008.gif
 .PATH	494_Respektschacht
 .STATUS	327688
+.SURVEY	Ciag glowny
+.NAME	494_CG
+.PATH	494_Respektschacht
+.STATUS	2560
 .SURVEY	obok_Mysiej_d
 .NAME	494_OMD
 .PATH	494_Respektschacht
@@ -511,14 +515,10 @@
 .NAME	494_ST
 .PATH	494_Respektschacht
 .STATUS	2560
-.SURVEY	Ciag glowny
-.NAME	494_CG
-.PATH	494_Respektschacht
-.STATUS	2560
 .ENDBOOK
 .BOOK	[495] Ciekawa Interessante Höhle
 .NAME	495CIE
-.STATUS	2569
+.STATUS	2568
 .REF	5266134.622 353373.317 33 -1.437 1932 0 47 31 55.505 13 3 6.818 27 "WGS 1984"
 .SURVEY	2020-07-31 - NK
 .NAME	3107NADK
@@ -543,10 +543,6 @@
 .SURVEY	2020-07-28 - RP
 .NAME	200728RP
 .PATH	495-Interessante\200728RP
-.STATUS	8
-.SURVEY	2019-08-?? - Odzyskane z Disto
-.NAME	LOST
-.PATH	495-Interessante\1908____
 .STATUS	8
 .SURVEY	2019-08-10 - obwodoijt
 .NAME	19810
