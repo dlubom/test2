@@ -1,4 +1,4 @@
-*begin survey
+*begin survey*date 2019.08.02
 *data normal from to compass clino tape
 
 1_0	1_1	204.76	68.86	6.615
