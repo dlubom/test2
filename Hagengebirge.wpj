@@ -3,549 +3,296 @@
 .NAME	PROJECT
 .STATUS	2563
 .REF	5266134.620 353373.320 33 -1.439 1940 1 47 31 55.505 13 3 6.818 27 "WGS 1984"
-.BOOK	Stary Meander Wschodni
-.NAME	STM
-.PATH	StMeWs
-.STATUS	9
-.SURVEY	pietro 1
-.NAME	PI1
+.BOOK	[567] Alte Westmaander
+.NAME	567AW
+.PATH	567-Alte_Westmaander
 .STATUS	8
-.SURVEY	pietro 0
-.NAME	PI0
-.STATUS	8
-.ENDBOOK
-.BOOK	340
-.NAME	340
-.STATUS	2569
-.REF	5265695.790 353006.270 33 -1.440 2015 2 47 31 41.000 13 2 49.800 27 "WGS 1984"
-.SURVEY	340
-.NAME	340SR
-.PATH	340
+.SURVEY	Alte_Westmaander_plan&profile_v2.pdf
+.NAME	Alte_Westmaander_plan&profile_v2.pdf
+.STATUS	65544
+.SURVEY	STMEZACH
+.NAME	STMEZACH
 .STATUS	8
 .ENDBOOK
-.BOOK	343
-.NAME	343
-.STATUS	2568
-.REF	5265699.670 352974.980 33 -1.441 2022 2 47 31 41.100 13 2 48.300 27 "WGS 1984"
-.SURVEY	343
-.NAME	343SV
-.PATH	343
+.BOOK	[565] PodGrzybem
+.NAME	SZ38
+.PATH	SZ38
+.STATUS	8
+.SURVEY	lka7
+.NAME	LKA7
 .STATUS	8
 .ENDBOOK
-.BOOK	A4-1
-.NAME	A4-1
-.STATUS	2568
-.REF	5266605.200 352204.110 33 -1.450 2006 1 47 32 9.786 13 2 10.359 27 "WGS 1984"
-.SURVEY	A4-1_plan.gif
-.NAME	A4-1_plan.gif
-.PATH	A4-1
+.BOOK	[564] Prawa w Scianie
+.NAME	KAHL_1
+.PATH	Kahl_1
+.STATUS	8
+.SURVEY	180807
+.NAME	180807DT
+.STATUS	8
+.ENDBOOK
+.BOOK	[563] Lewa w Scianie
+.NAME	KAHL_2
+.PATH	Kahl_2
+.STATUS	8
+.SURVEY	180808
+.NAME	180808
+.STATUS	8
+.ENDBOOK
+.BOOK	[562] Himmelfahr
+.NAME	T4
+.PATH	T4
+.STATUS	8
+.SURVEY	T4
+.NAME	EXP
+.STATUS	8
+.ENDBOOK
+.BOOK	[508] Schacht under dem Stein
+.NAME	SCH1
+.PATH	508_Schacht_unter_dem_Stein
+.STATUS	8
+.SURVEY	Schacht unter dem Stein W-E.JPG
+.NAME	Schacht unter dem Stein W-E.JPG
 .STATUS	327688
-.SURVEY	a4-1
-.NAME	A4_1
-.PATH	A4-1
-.STATUS	8
-.ENDBOOK
-.BOOK	Baza
-.NAME	BAZA
-.STATUS	2568
-.REF	5266700.180 352625.710 33 -1.446 1850 1 47 32 13.205 13 2 30.399 27 "WGS 1984"
-.SURVEY	Baza
-.NAME	BAZAPK
-.PATH	Baza
-.STATUS	2560
-.ENDBOOK
-.BOOK	German_1
-.NAME	GER
-.PATH	German_1
-.STATUS	8
-.SURVEY	ger
-.NAME	GERMAN_1
-.STATUS	8
-.ENDBOOK
-.BOOK	Gerollenheim
-.NAME	GERO
-.PATH	German_1\..\Gerollenheim
-.STATUS	8
-.SURVEY	Gerollenheim
-.NAME	GEROLL
-.STATUS	8
-.ENDBOOK
-.BOOK	Plynacych Kamieni
-.NAME	PLKAM
-.PATH	Plynacych-Kamieni
-.STATUS	8
-.SURVEY	Plynacych Kamieni
-.NAME	KAMIEN
-.STATUS	8
-.ENDBOOK
-.BOOK	[30] Tantalhohle
-.NAME	30TANT
-.PATH	30-Tantalhohle
-.STATUS	8
-.SURVEY	1
-.NAME	1
-.STATUS	8
-.ENDBOOK
-.BOOK	[158] Atschiloch
-.NAME	158AT
-.PATH	158_Atschiloch
-.STATUS	8
-.SURVEY	900810 - Aust
-.NAME	900810
-.STATUS	8
-.SURVEY	190802
-.NAME	190802
-.STATUS	8
-.ENDBOOK
-.BOOK	[280] Alvermannschacht
-.NAME	280ALV
-.STATUS	2568
-.REF	5266819.940 352506.990 33 -1.447 1983 1 47 32 16.985 13 2 24.580 27 "WGS 1984"
-.SURVEY	280_Alvermannschacht_plan_2003.gif
-.NAME	280_Alvermannschacht_plan_2003.gif
-.PATH	280-Alvermannschacht
+.SURVEY	Schacht unter dem Stein W-E.pdf
+.NAME	Schacht unter dem Stein W-E.pdf
 .STATUS	327688
-.SURVEY	280_Alvermannschacht_profile_2003.gif
-.NAME	280_Alvermannschacht_profile_2003.gif
-.PATH	280-Alvermannschacht
+.SURVEY	Schacht unter dem Stein.JPG
+.NAME	Schacht unter dem Stein.JPG
 .STATUS	327688
-.SURVEY	Alvermann - sesja 6
-.NAME	280ALS6
-.PATH	280-Alvermannschacht
-.STATUS	2568
-.SURVEY	Alvermann - sesja 5
-.NAME	280ALS5
-.PATH	280-Alvermannschacht
-.STATUS	2568
-.SURVEY	Alvermann - sesja 4
-.NAME	280_ALS4
-.PATH	280-Alvermannschacht
-.STATUS	2568
-.SURVEY	Alvermann - sesja 3
-.NAME	280ALS3
-.PATH	280-Alvermannschacht
-.STATUS	2568
-.SURVEY	Alvermann - Sesja 2
-.NAME	280_ALS2
-.PATH	280-Alvermannschacht
-.STATUS	2568
-.SURVEY	Alvermann - 1 sesja
-.NAME	280_A1S
-.PATH	280-Alvermannschacht
-.STATUS	2568
-.ENDBOOK
-.BOOK	[408] Kitzgraben
-.NAME	KITZ
-.PATH	408-Kitzgraben
-.STATUS	8
-.SURVEY	2020-08-12 - k2
-.NAME	KITZT02
-.PATH	200812k2
-.STATUS	8
-.SURVEY	Kitz-01
-.NAME	KITZGR01
+.SURVEY	Schacht unter dem Stein.pdf
+.NAME	Schacht unter dem Stein.pdf
+.STATUS	327688
+.SURVEY	schacht_1
+.NAME	SCH_1
 .STATUS	8
 .ENDBOOK
-.BOOK	[421] Tschikpausenhohle
-.NAME	421
-.PATH	421-Tschikpausenhohle
+.BOOK	[507] X-Schacht
+.NAME	STDX
+.PATH	507_X-Schacht
 .STATUS	8
-.SURVEY	Tschikpausenhohle
-.NAME	NA1
+.SURVEY	der x_schacht_grundriss_aufriss_1_500_DE.pdf
+.NAME	der x_schacht_grundriss_aufriss_1_500_DE.pdf
+.PATH	..\507_X-Schacht
+.STATUS	327688
+.SURVEY	der x_schacht_grundriss_1_500_DE.pdf
+.NAME	der x_schacht_grundriss_1_500_DE.pdf
+.PATH	..\507_X-Schacht
+.STATUS	327688
+.SURVEY	der x_schacht_aufriss_1_500_DE.pdf
+.NAME	der x_schacht_aufriss_1_500_DE.pdf
+.PATH	..\507_X-Schacht
+.STATUS	327688
+.SURVEY	Studnia-X_2
+.NAME	STDX02
+.STATUS	8
+.SURVEY	Studnia-X
+.NAME	STDX01
 .STATUS	8
 .ENDBOOK
-.BOOK	[424] Eisrutschn
-.NAME	424E
-.PATH	424-Eisrutschn
+.BOOK	[506] AK-1
+.NAME	AK1
+.PATH	506_AK-1
 .STATUS	8
-.SURVEY	aust
-.NAME	AUST
-.STATUS	8
-.SURVEY	marta klipi mi przodki
-.NAME	M01
+.SURVEY	AK-1-profile.pdf
+.NAME	AK-1-profile.pdf
+.STATUS	327688
+.SURVEY	AK-1-plan.pdf
+.NAME	AK-1-plan.pdf
+.STATUS	327688
+.SURVEY	160806
+.NAME	160806
 .STATUS	8
 .ENDBOOK
-.BOOK	[425] St. Blasius-Labyrinth
-.NAME	425BL
-.PATH	425-St.Blasius-Labyrinth
+.BOOK	[504] 37
+.NAME	37
+.PATH	504_37
+.STATUS	8
+.SURVEY	20180812
+.NAME	MEANDER
+.PATH	37-20180812
+.STATUS	8
+.SURVEY	180806 - obejscie
+.NAME	180806OB
+.PATH	37-20180806-obejscie-do-pierwszego-dna
+.STATUS	8
+.SURVEY	180806 Na 180
+.NAME	180806NA
+.PATH	37-20180806-na-180
+.STATUS	8
+.SURVEY	180806 Ciag g³ówny
+.NAME	180806CG
+.PATH	37-20180806-ciag-glowny
+.STATUS	8
+.SURVEY	180801
+.NAME	180801
+.PATH	37-20180801
+.STATUS	8
+.SURVEY	37
+.NAME	160808
+.STATUS	8
+.SURVEY	37-plan-2015.pdf
+.NAME	37-plan-2015.pdf
+.STATUS	327688
+.SURVEY	37-profile-2015.pdf
+.NAME	37-profile-2015.pdf
+.STATUS	327688
+.SURVEY	37-profile-2016.pdf
+.NAME	37-profile-2016.pdf
+.STATUS	327688
+.SURVEY	150809a
+.NAME	150809A
+.STATUS	8
+.SURVEY	150809b
+.NAME	150809B
+.STATUS	8
+.SURVEY	150809c
+.NAME	150809C
+.STATUS	8
+.SURVEY	150810
+.NAME	150810
+.STATUS	8
+.ENDBOOK
+.BOOK	[503] Biwakko
+.NAME	503
+.PATH	503-Biwakko
+.STATUS	8
+.SURVEY	503_Biwakko_plany_and_profile_2014.pdf
+.NAME	503_Biwakko_plany_and_profile_2014.pdf
+.STATUS	327688
+.SURVEY	2014-08-13 - Biwakko
+.NAME	BIWAK
+.STATUS	8
+.ENDBOOK
+.BOOK	[502] Jaskinia Cienia Schattenhöhle
+.NAME	SHD
 .STATUS	2568
-.REF	5265525.200 352844.600 33 -1.444 2090 1 47 31 35.346 13 2 42.278 27 "WGS 1984"
-.SURVEY	St. Blasius-Labyrinth [425]
-.NAME	425BLPKT
+.REF	5266731.350 353590.810 33 -1.435 1884 2 47 32 15.000 13 3 16.500 27 "WGS 1984"
+.SURVEY	502_Schattenhohle_plan&profile_2012.pdf
+.NAME	502_Schattenhohle_plan&profile_2012.pdf
+.PATH	502-Schattenhohle
+.STATUS	327688
+.SURVEY	2012-08-16 - Shadow
+.NAME	120816SH
+.PATH	502-Schattenhohle
+.STATUS	8
 .ENDBOOK
-.BOOK	[428] Patrickhohle TODO
-.NAME	428-PAT
-.PATH	428-Patrickhohle
+.BOOK	[501] Kitzgrabenwasserschacht
+.NAME	501KIT
+.STATUS	8
+.SURVEY	501_Kizgrabenwasserschacht_plan_2013.svg
+.NAME	501_Kizgrabenwasserschacht_plan_2013.svg
+.PATH	501-Kitzgrabenwasserschacht
+.STATUS	327688
+.SURVEY	501_Kizgrabenwasserschacht_profile_2013.svg
+.NAME	501_Kizgrabenwasserschacht_profile_2013.svg
+.PATH	501-Kitzgrabenwasserschacht
+.STATUS	327688
+.SURVEY	501_Kizgrabenwasserschacht_plan_2013.pdf
+.NAME	501_Kizgrabenwasserschacht_plan_2013.pdf
+.PATH	501-Kitzgrabenwasserschacht
+.STATUS	327688
+.SURVEY	501_Kizgrabenwasserschacht_profile_2013.pdf
+.NAME	501_Kizgrabenwasserschacht_profile_2013.pdf
+.PATH	501-Kitzgrabenwasserschacht
+.STATUS	327688
+.SURVEY	2013-08-08 - Do drugiego syfonu
+.NAME	501KITTM
+.PATH	501-Kitzgrabenwasserschacht
+.STATUS	8
+.SURVEY	2013-08-06
+.NAME	KIC1
+.PATH	501-Kitzgrabenwasserschacht
 .STATUS	10
-.SURVEY	pat
-.NAME	PAT
+.SURVEY	2012-08-13 - Do syfonu
+.NAME	DS201208
+.PATH	501-Kitzgrabenwasserschacht
 .STATUS	8
+.SURVEY	2012-08-13 - Rura
+.NAME	KI201201
+.PATH	501-Kitzgrabenwasserschacht
+.STATUS	8
+.SURVEY	Kitzgrabenwasserschacht
+.NAME	501KITPK
+.PATH	501-Kitzgrabenwasserschacht
 .ENDBOOK
-.BOOK	[429] Grenzlandruine
-.NAME	429GR
+.BOOK	[500] B3-6
+.NAME	B3-6
 .STATUS	2568
-.REF	5264819.820 353183.370 33 -1.438 2136 1 47 31 12.786 13 2 59.317 27 "WGS 1984"
-.SURVEY	429_Grenzlandruine_2.JPG
-.NAME	429_Grenzlandruine_2.JPG
-.PATH	429-Grenzlandruine
+.REF	5265848.080 353196.670 33 -1.440 2016 1 47 31 46.085 13 2 58.718 27 "WGS 1984"
+.SURVEY	500_B3-6_plan&profile_2010.pdf
+.NAME	500_B3-6_plan&profile_2010.pdf
+.PATH	500-B3-6
 .STATUS	327688
-.SURVEY	429_Grenzlandruine_1.JPG
-.NAME	429_Grenzlandruine_1.JPG
-.PATH	429-Grenzlandruine
+.SURVEY	500_B3-6_plan&profile_2015.png
+.NAME	500_B3-6_plan&profile_2015.png
+.PATH	500-B3-6
 .STATUS	327688
-.SURVEY	Grenzlandruine
-.NAME	429GR001
-.PATH	429-Grenzlandruine
+.SURVEY	b3.6
+.NAME	150809
+.PATH	500-B3-6
+.STATUS	8
 .ENDBOOK
-.BOOK	[479] Kasztanowa Kastanienhohle
-.NAME	479KAST
+.BOOK	[499] Wysoka Z27 Hoher Schacht
+.NAME	499_WYS
 .STATUS	2568
-.REF	5266773.140 352892.370 33 -1.444 1970 1 47 32 15.785 13 2 43.059 27 "WGS 1984"
-.SURVEY	479_Kastanienhohle_plan_2004.gif
-.NAME	479_Kastanienhohle_plan_2004.gif
-.PATH	479-Kastanienhohle
+.REF	5265554.560 352635.700 33 -1.446 2145 1 47 31 36.126 13 2 32.258 27 "WGS 1984"
+.SURVEY	499_Hoher_Schacht_plan&profile_2009.pdf
+.NAME	499_Hoher_Schacht_plan&profile_2009.pdf
+.PATH	499_Hoher_Schacht
+.STATUS	65544
+.SURVEY	499_Hoher_Schacht_plan&profile_2009.png
+.NAME	499_Hoher_Schacht_plan&profile_2009.png
+.PATH	499_Hoher_Schacht
 .STATUS	327688
-.SURVEY	479_Kastanienhohle_profile_2004.gif
-.NAME	479_Kastanienhohle_profile_2004.gif
-.PATH	479-Kastanienhohle
-.STATUS	327688
-.SURVEY	Petla nad Dziurawym Kominem
-.NAME	479KOM
-.PATH	479-Kastanienhohle
-.STATUS	8
-.SURVEY	Od Dziurawej Studni do grifonu
-.NAME	479GRIF
-.PATH	479-Kastanienhohle
-.STATUS	8
-.SURVEY	Syfony
-.NAME	479SYFO
-.PATH	479-Kastanienhohle
-.STATUS	8
-.SURVEY	Do Œródsyfonu
-.NAME	479SROD
-.PATH	479-Kastanienhohle
-.STATUS	8
-.SURVEY	Przez Studbniê z Want¹ do Hydrozagadki
-.NAME	479HYDRO
-.PATH	479-Kastanienhohle
-.STATUS	8
-.SURVEY	Od Salki na Rozdzielu do dna nastepnej studni
-.NAME	479NAST
-.PATH	479-Kastanienhohle
-.STATUS	8
-.SURVEY	Meander do Ty³u i Salka Zachwytu
-.NAME	479ZACH
-.PATH	479-Kastanienhohle
-.STATUS	8
-.SURVEY	Korytarz z wod¹ do Studni St³uczonego Ty³ka
-.NAME	479WTYL
-.PATH	479-Kastanienhohle
-.STATUS	8
-.SURVEY	Obejœcie gór¹ od Studni St³uczonego Ty³ka
-.NAME	479TYL
-.PATH	479-Kastanienhohle
-.STATUS	8
-.SURVEY	Ci¹g g³ówny od Studni Kryszta³owej do Salki na Rozdro¿u
-.NAME	479ROZ
-.PATH	479-Kastanienhohle
-.STATUS	8
-.SURVEY	Bok
-.NAME	479BOK
-.PATH	479-Kastanienhohle
-.STATUS	8
-.SURVEY	Pomiar z Vaskiem przyrzadami stopnie plus grad
-.NAME	479VAS
-.PATH	479-Kastanienhohle
-.STATUS	8
-.SURVEY	Kasztanowa Sopocka Busola Pierwszy pomiar
-.NAME	479SOP
-.PATH	479-Kastanienhohle
-.STATUS	8
-.SURVEY	Darek i Zbyszek
-.NAME	479DZ
-.PATH	479-Kastanienhohle
-.STATUS	8
+.SURVEY	wysdol
+.NAME	499WDOL
+.PATH	499_Hoher_Schacht
+.SURVEY	Wysoka
+.NAME	499WYSO
+.PATH	499_Hoher_Schacht
 .ENDBOOK
-.BOOK	[480] Comeback-hohle A3-36
-.NAME	480CB
+.BOOK	[498] Meander Pod Kosowka Maander unter dem Laschen
+.NAME	498PK
 .STATUS	2568
-.REF	5266455.470 352628.310 33 -1.446 1981 1 47 32 5.285 13 2 30.819 27 "WGS 1984"
-.SURVEY	480_Comeback-hohle_profile_2002.jpg
-.NAME	480_Comeback-hohle_profile_2002.jpg
-.PATH	480-Comeback-h
+.REF	5266202.920 353383.830 33 -1.439 1924 1 47 31 57.725 13 3 7.239 27 "WGS 1984"
+.SURVEY	498_Maander_unter_dem_Laschen_plan&profile_2009.png
+.NAME	498_Maander_unter_dem_Laschen_plan&profile_2009.png
+.PATH	498_Maander_unter_dem_Laschen
 .STATUS	327688
-.SURVEY	480_Comeback-hohle_plan_2002.jpg
-.NAME	480_Comeback-hohle_plan_2002.jpg
-.PATH	480-Comeback-h
-.STATUS	327688
-.SURVEY	Comeback-hohle
-.NAME	480_CB_C
-.PATH	480-Comeback-h
-.STATUS	2560
-.ENDBOOK
-.BOOK	[481] Szparka Spaltchen
-.NAME	481_SZP
-.STATUS	1288
-.REF	5265864.520 352544.350 33 -1.447 2130 1 47 31 46.086 13 2 27.518 27 "WGS 1984"
-.SURVEY	481_Spaltchen_profile_2003.gif
-.NAME	481_Spaltchen_profile_2003.gif
-.PATH	481-Spaltchen
-.STATUS	327688
-.SURVEY	481_Spaltchen_plan_2003.gif
-.NAME	481_Spaltchen_plan_2003.gif
-.PATH	481-Spaltchen
-.STATUS	327688
-.SURVEY	ciag do wantowiska
-.NAME	481_CDW
-.PATH	481-Spaltchen
-.STATUS	2560
-.SURVEY	ciag lewy
-.NAME	481_CL
-.PATH	481-Spaltchen
-.STATUS	2560
-.SURVEY	ciag horyzontalny
-.NAME	481CH
-.PATH	481-Spaltchen
-.STATUS	2560
-.SURVEY	ciag glowny
-.NAME	481_CG
-.PATH	481-Spaltchen
-.STATUS	2560
-.ENDBOOK
-.BOOK	[482] Niebieskich Mgie³ Hohle der blaunen Nebel
-.NAME	482BL
+.SURVEY	podkosowka
+.NAME	498PKP
+.PATH	498_Maander_unter_dem_Laschen
 .STATUS	8
-.SURVEY	482
-.NAME	482
-.PATH	482-Hohle_der_blaunen_Nebel
-.STATUS	8
-.SURVEY	482_Hohle_der_blaunen_Nebel_plan&profile_2003.gif
-.NAME	482_Hohle_der_blaunen_Nebel_plan&profile_2003.gif
-.PATH	482-Hohle_der_blaunen_Nebel
-.STATUS	327688
 .ENDBOOK
-.BOOK	[483] WH2
-.NAME	483WH2
-.STATUS	2560
-.REF	5265951.420 352846.550 33 -1.444 2025 1 47 31 49.145 13 2 41.858 27 "WGS 1984"
-.SURVEY	WH2 [483]
-.NAME	WH2
-.PATH	483-WH2
-.ENDBOOK
-.BOOK	[484] Neuhauserschacht
-.NAME	484
-.STATUS	10
-.REF	5267504.610 356664.510 33 -1.407 1543 1 47 32 42.501 13 5 42.539 27 "WGS 1984"
-.SURVEY	484
-.NAME	484N
-.PATH	484_Neuhauserschacht
+.BOOK	[497] Hohle mit Oliphant
+.NAME	497
 .STATUS	2568
-.SURVEY	484_Neuhauserschacht_plan&profile_2003.gif
-.NAME	484_Neuhauserschacht_plan&profile_2003.gif
-.PATH	484_Neuhauserschacht
+.REF	5265981.470 353321.780 33 -1.439 1968 1 47 31 50.505 13 3 4.538 27 "WGS 1984"
+.SURVEY	497
+.NAME	497SR
+.PATH	497-Hohle_mit_Oliphant
+.STATUS	8
+.SURVEY	497_Hohle_mit_Oliphant_plan&profile_2006.gif
+.NAME	497_Hohle_mit_Oliphant_plan&profile_2006.gif
+.PATH	497-Hohle_mit_Oliphant
 .STATUS	327688
 .ENDBOOK
-.BOOK	[485] A4-3
-.NAME	485A4-3
+.BOOK	[496] Kraina Deszczowcow Land der Regenmenschacht
+.NAME	496DESZ
 .STATUS	2568
-.REF	5266518.850 352247.110 33 -1.450 2007 1 47 32 7.025 13 2 12.519 27 "WGS 1984"
-.SURVEY	485_A4-3_plan_2004.gif
-.NAME	485_A4-3_plan_2004.gif
-.PATH	485-A4-3
+.REF	5266275.190 353975.560 33 -1.433 2010 1 47 32 0.544 13 3 35.439 27 "WGS 1984"
+.SURVEY	496_Land_der_Regenmenschacht_plan&profile_2009.pdf
+.NAME	496_Land_der_Regenmenschacht_plan&profile_2009.pdf
+.PATH	496_Land_der_Regenmenschacht
 .STATUS	327688
-.SURVEY	A4-3
-.NAME	485A4-3P
-.PATH	485-A4-3
-.ENDBOOK
-.BOOK	[486] A4-10
-.NAME	486A410
-.STATUS	2568
-.REF	5266490.690 352261.460 33 -1.450 2025 1 47 32 6.126 13 2 13.239 27 "WGS 1984"
-.SURVEY	486_A4-10_plan_2004.gif
-.NAME	486_A4-10_plan_2004.gif
-.PATH	486-A4-10
-.STATUS	327688
-.SURVEY	a4-10
-.NAME	486_10
-.PATH	486-A4-10
-.ENDBOOK
-.BOOK	[487] Krolowej Sniegu Schneekoniginhohle A4-36
-.NAME	487KROS
-.STATUS	2568
-.REF	5266462.370 352501.720 33 -1.447 1968 0 47 32 5.405 13 2 24.759 27 "WGS 1984"
-.SURVEY	487_Schneekoniginhohle_profile.gif
-.NAME	487_Schneekoniginhohle_profile.gif
-.PATH	487-Schneekoniginhohle
-.STATUS	327688
-.SURVEY	487_Schneekoniginhohle_plan.gif
-.NAME	487_Schneekoniginhohle_plan.gif
-.PATH	487-Schneekoniginhohle
-.STATUS	327688
-.SURVEY	Krolowej Sniegu
-.NAME	KROSNI
-.PATH	487-Schneekoniginhohle
-.STATUS	2560
-.ENDBOOK
-.BOOK	[488] A4-40
-.NAME	488A440
+.SURVEY	Deszcz2009
+.NAME	496D9
+.PATH	496_Land_der_Regenmenschacht
 .STATUS	8
-.REF	5266500.180 352472.550 33 -1.448 1954 1 47 32 6.605 13 2 23.319 27 "WGS 1984"
-.SURVEY	488_A4-40_plan_2004.gif
-.NAME	488_A4-40_plan_2004.gif
-.PATH	488-A4-40
-.STATUS	327688
-.SURVEY	A4-40
-.NAME	488A440P
-.PATH	488-A4-40
-.ENDBOOK
-.BOOK	[489] Q1 A3-2
-.NAME	489Q1
-.STATUS	2568
-.SURVEY	489_Q1_plan&profile_2006.gif
-.NAME	489_Q1_plan&profile_2006.gif
-.PATH	489-Q1
-.STATUS	327688
-.SURVEY	Q1 A3-2 [489]
-.NAME	489Q1P
-.PATH	489-Q1
-.STATUS	2560
-.ENDBOOK
-.BOOK	[490] B3-4
-.NAME	490B3_4
-.STATUS	2568
-.REF	5265777.480 352835.470 33 -1.444 2046 1 47 31 43.505 13 2 41.538 27 "WGS 1984"
-.SURVEY	490
-.NAME	490
-.PATH	490-B3-4
+.SURVEY	Deszcz
+.NAME	496DD
+.PATH	496_Land_der_Regenmenschacht
 .STATUS	8
-.SURVEY	490_B3-4_plan&profile_2006.gif
-.NAME	490_B3-4_plan&profile_2006.gif
-.PATH	490-B3-4
-.STATUS	327688
-.ENDBOOK
-.BOOK	[491] W Czerwonych Kamieniach Hohle in Roten Steinen J1
-.NAME	491CZ
-.STATUS	2568
-.REF	5266334.650 353747.350 33 -1.435 1880 1 47 32 2.284 13 3 24.458 27 "WGS 1984"
-.SURVEY	491_Hohle_in_Roten_Steinen_profile_2010.pdf
-.NAME	491_Hohle_in_Roten_Steinen_profile_2010.pdf
-.PATH	491-Hohle_in_Roten_Steinen
-.STATUS	327688
-.SURVEY	491_Hohle_in_Roten_Steinen_plan_2010.pdf
-.NAME	491_Hohle_in_Roten_Steinen_plan_2010.pdf
-.PATH	491-Hohle_in_Roten_Steinen
-.STATUS	327688
-.SURVEY	dookola woda
-.NAME	491DKW
-.PATH	491-Hohle_in_Roten_Steinen
-.STATUS	8
-.SURVEY	26nc6w2a
-.NAME	491_26
-.PATH	491-Hohle_in_Roten_Steinen
-.STATUS	8
-.SURVEY	Za meandrem
-.NAME	491ZAMEA
-.PATH	491-Hohle_in_Roten_Steinen
-.STATUS	8
-.SURVEY	Meander
-.NAME	491MEA
-.PATH	491-Hohle_in_Roten_Steinen
-.STATUS	8
-.SURVEY	Do dna
-.NAME	491DD
-.PATH	491-Hohle_in_Roten_Steinen
-.STATUS	8
-.SURVEY	W dol do syfonu
-.NAME	491WDDS
-.PATH	491-Hohle_in_Roten_Steinen
-.STATUS	8
-.SURVEY	2006
-.NAME	4912006
-.PATH	491-Hohle_in_Roten_Steinen
-.STATUS	8
-.SURVEY	Ci¹g za Wod¹
-.NAME	491CZW
-.PATH	491-Hohle_in_Roten_Steinen
-.STATUS	8
-.SURVEY	Ci¹g G³ówny Suchy
-.NAME	491CGS
-.PATH	491-Hohle_in_Roten_Steinen
-.STATUS	8
-.SURVEY	Ci¹g G³ówny Meander Gimnastyczny
-.NAME	491CGMG
-.PATH	491-Hohle_in_Roten_Steinen
-.STATUS	8
-.SURVEY	Ci¹g G³ówny pomiary 2
-.NAME	491CG2
-.PATH	491-Hohle_in_Roten_Steinen
-.STATUS	8
-.SURVEY	Ci¹g G³ówny pomiary 1
-.NAME	491CG1
-.PATH	491-Hohle_in_Roten_Steinen
-.STATUS	8
-.ENDBOOK
-.BOOK	[492] Koralowa Korallenhohle A3-8 P04
-.NAME	492KOR
-.STATUS	2568
-.REF	5266123.240 352500.680 33 -1.447 2040 1 47 31 54.425 13 2 25.119 27 "WGS 1984"
-.SURVEY	492_Korallenhohle_plan_2006.gif
-.NAME	492_Korallenhohle_plan_2006.gif
-.PATH	492_Korallenhohle
-.STATUS	327688
-.SURVEY	p04a
-.NAME	492
-.PATH	492_Korallenhohle
-.SURVEY	pow
-.NAME	492POW
-.PATH	492_Korallenhohle
-.SURVEY	P04
-.NAME	492P04
-.PATH	492_Korallenhohle
-.ENDBOOK
-.BOOK	[493] Lodowka Eisschrank A3-86
-.NAME	493LOD
-.STATUS	2568
-.REF	5266654.060 352763.860 33 -1.445 1985 1 47 32 11.825 13 2 37.059 27 "WGS 1984"
-.SURVEY	493_Eisschrank_plan_2006.gif
-.NAME	493_Eisschrank_plan_2006.gif
-.PATH	493_Eisschrank
-.STATUS	327688
-.SURVEY	Lodowka
-.NAME	493LOPK
-.PATH	493_Eisschrank
-.ENDBOOK
-.BOOK	[494] Respektschacht
-.NAME	494_RESP
-.STATUS	2568
-.REF	5265835.960 354049.930 33 -1.432 2025 1 47 31 46.384 13 3 39.518 27 "WGS 1984"
-.SURVEY	494_Respektschacht_plan_2008.jpg
-.NAME	494_Respektschacht_plan_2008.jpg
-.PATH	494_Respektschacht
-.STATUS	327688
-.SURVEY	494_Respektschacht_profile_2008.gif
-.NAME	494_Respektschacht_profile_2008.gif
-.PATH	494_Respektschacht
-.STATUS	327688
-.SURVEY	Ciag glowny
-.NAME	494_CG
-.PATH	494_Respektschacht
-.STATUS	2560
-.SURVEY	obok_Mysiej_d
-.NAME	494_OMD
-.PATH	494_Respektschacht
-.STATUS	2568
-.SURVEY	obok_mysiej_g
-.NAME	494_OBG
-.PATH	494_Respektschacht
-.STATUS	2560
-.SURVEY	ponizej_studni
-.NAME	494_PS
-.PATH	494_Respektschacht
-.STATUS	2560
-.SURVEY	Studnia
-.NAME	494_ST
-.PATH	494_Respektschacht
-.STATUS	2560
 .ENDBOOK
 .BOOK	[495] Ciekawa Interessante Höhle
 .NAME	495CIE
@@ -1259,296 +1006,560 @@
 .PATH	495-Interessante
 .STATUS	2560
 .ENDBOOK
-.BOOK	[496] Kraina Deszczowcow Land der Regenmenschacht
-.NAME	496DESZ
+.BOOK	[494] Respektschacht
+.NAME	494_RESP
 .STATUS	2568
-.REF	5266275.190 353975.560 33 -1.433 2010 1 47 32 0.544 13 3 35.439 27 "WGS 1984"
-.SURVEY	496_Land_der_Regenmenschacht_plan&profile_2009.pdf
-.NAME	496_Land_der_Regenmenschacht_plan&profile_2009.pdf
-.PATH	496_Land_der_Regenmenschacht
+.REF	5265835.960 354049.930 33 -1.432 2025 1 47 31 46.384 13 3 39.518 27 "WGS 1984"
+.SURVEY	494_Respektschacht_plan_2008.jpg
+.NAME	494_Respektschacht_plan_2008.jpg
+.PATH	494_Respektschacht
 .STATUS	327688
-.SURVEY	Deszcz2009
-.NAME	496D9
-.PATH	496_Land_der_Regenmenschacht
+.SURVEY	494_Respektschacht_profile_2008.gif
+.NAME	494_Respektschacht_profile_2008.gif
+.PATH	494_Respektschacht
+.STATUS	327688
+.SURVEY	Ciag glowny
+.NAME	494_CG
+.PATH	494_Respektschacht
+.STATUS	2560
+.SURVEY	obok_Mysiej_d
+.NAME	494_OMD
+.PATH	494_Respektschacht
+.STATUS	2568
+.SURVEY	obok_mysiej_g
+.NAME	494_OBG
+.PATH	494_Respektschacht
+.STATUS	2560
+.SURVEY	ponizej_studni
+.NAME	494_PS
+.PATH	494_Respektschacht
+.STATUS	2560
+.SURVEY	Studnia
+.NAME	494_ST
+.PATH	494_Respektschacht
+.STATUS	2560
+.ENDBOOK
+.BOOK	[493] Lodowka Eisschrank A3-86
+.NAME	493LOD
+.STATUS	2568
+.REF	5266654.060 352763.860 33 -1.445 1985 1 47 32 11.825 13 2 37.059 27 "WGS 1984"
+.SURVEY	493_Eisschrank_plan_2006.gif
+.NAME	493_Eisschrank_plan_2006.gif
+.PATH	493_Eisschrank
+.STATUS	327688
+.SURVEY	Lodowka
+.NAME	493LOPK
+.PATH	493_Eisschrank
+.ENDBOOK
+.BOOK	[492] Koralowa Korallenhohle A3-8 P04
+.NAME	492KOR
+.STATUS	2568
+.REF	5266123.240 352500.680 33 -1.447 2040 1 47 31 54.425 13 2 25.119 27 "WGS 1984"
+.SURVEY	492_Korallenhohle_plan_2006.gif
+.NAME	492_Korallenhohle_plan_2006.gif
+.PATH	492_Korallenhohle
+.STATUS	327688
+.SURVEY	p04a
+.NAME	492
+.PATH	492_Korallenhohle
+.SURVEY	pow
+.NAME	492POW
+.PATH	492_Korallenhohle
+.SURVEY	P04
+.NAME	492P04
+.PATH	492_Korallenhohle
+.ENDBOOK
+.BOOK	[491] W Czerwonych Kamieniach Hohle in Roten Steinen J1
+.NAME	491CZ
+.STATUS	2568
+.REF	5266334.650 353747.350 33 -1.435 1880 1 47 32 2.284 13 3 24.458 27 "WGS 1984"
+.SURVEY	491_Hohle_in_Roten_Steinen_profile_2010.pdf
+.NAME	491_Hohle_in_Roten_Steinen_profile_2010.pdf
+.PATH	491-Hohle_in_Roten_Steinen
+.STATUS	327688
+.SURVEY	491_Hohle_in_Roten_Steinen_plan_2010.pdf
+.NAME	491_Hohle_in_Roten_Steinen_plan_2010.pdf
+.PATH	491-Hohle_in_Roten_Steinen
+.STATUS	327688
+.SURVEY	dookola woda
+.NAME	491DKW
+.PATH	491-Hohle_in_Roten_Steinen
 .STATUS	8
-.SURVEY	Deszcz
-.NAME	496DD
-.PATH	496_Land_der_Regenmenschacht
+.SURVEY	26nc6w2a
+.NAME	491_26
+.PATH	491-Hohle_in_Roten_Steinen
+.STATUS	8
+.SURVEY	Za meandrem
+.NAME	491ZAMEA
+.PATH	491-Hohle_in_Roten_Steinen
+.STATUS	8
+.SURVEY	Meander
+.NAME	491MEA
+.PATH	491-Hohle_in_Roten_Steinen
+.STATUS	8
+.SURVEY	Do dna
+.NAME	491DD
+.PATH	491-Hohle_in_Roten_Steinen
+.STATUS	8
+.SURVEY	W dol do syfonu
+.NAME	491WDDS
+.PATH	491-Hohle_in_Roten_Steinen
+.STATUS	8
+.SURVEY	2006
+.NAME	4912006
+.PATH	491-Hohle_in_Roten_Steinen
+.STATUS	8
+.SURVEY	Ci¹g za Wod¹
+.NAME	491CZW
+.PATH	491-Hohle_in_Roten_Steinen
+.STATUS	8
+.SURVEY	Ci¹g G³ówny Suchy
+.NAME	491CGS
+.PATH	491-Hohle_in_Roten_Steinen
+.STATUS	8
+.SURVEY	Ci¹g G³ówny Meander Gimnastyczny
+.NAME	491CGMG
+.PATH	491-Hohle_in_Roten_Steinen
+.STATUS	8
+.SURVEY	Ci¹g G³ówny pomiary 2
+.NAME	491CG2
+.PATH	491-Hohle_in_Roten_Steinen
+.STATUS	8
+.SURVEY	Ci¹g G³ówny pomiary 1
+.NAME	491CG1
+.PATH	491-Hohle_in_Roten_Steinen
 .STATUS	8
 .ENDBOOK
-.BOOK	[497] Hohle mit Oliphant
-.NAME	497
+.BOOK	[490] B3-4
+.NAME	490B3_4
 .STATUS	2568
-.REF	5265981.470 353321.780 33 -1.439 1968 1 47 31 50.505 13 3 4.538 27 "WGS 1984"
-.SURVEY	497
-.NAME	497SR
-.PATH	497-Hohle_mit_Oliphant
+.REF	5265777.480 352835.470 33 -1.444 2046 1 47 31 43.505 13 2 41.538 27 "WGS 1984"
+.SURVEY	490
+.NAME	490
+.PATH	490-B3-4
 .STATUS	8
-.SURVEY	497_Hohle_mit_Oliphant_plan&profile_2006.gif
-.NAME	497_Hohle_mit_Oliphant_plan&profile_2006.gif
-.PATH	497-Hohle_mit_Oliphant
+.SURVEY	490_B3-4_plan&profile_2006.gif
+.NAME	490_B3-4_plan&profile_2006.gif
+.PATH	490-B3-4
 .STATUS	327688
 .ENDBOOK
-.BOOK	[498] Meander Pod Kosowka Maander unter dem Laschen
-.NAME	498PK
+.BOOK	[489] Q1 A3-2
+.NAME	489Q1
 .STATUS	2568
-.REF	5266202.920 353383.830 33 -1.439 1924 1 47 31 57.725 13 3 7.239 27 "WGS 1984"
-.SURVEY	498_Maander_unter_dem_Laschen_plan&profile_2009.png
-.NAME	498_Maander_unter_dem_Laschen_plan&profile_2009.png
-.PATH	498_Maander_unter_dem_Laschen
+.SURVEY	489_Q1_plan&profile_2006.gif
+.NAME	489_Q1_plan&profile_2006.gif
+.PATH	489-Q1
 .STATUS	327688
-.SURVEY	podkosowka
-.NAME	498PKP
-.PATH	498_Maander_unter_dem_Laschen
-.STATUS	8
+.SURVEY	Q1 A3-2 [489]
+.NAME	489Q1P
+.PATH	489-Q1
+.STATUS	2560
 .ENDBOOK
-.BOOK	[499] Wysoka Z27 Hoher Schacht
-.NAME	499_WYS
+.BOOK	[488] A4-40
+.NAME	488A440
+.STATUS	8
+.REF	5266500.180 352472.550 33 -1.448 1954 1 47 32 6.605 13 2 23.319 27 "WGS 1984"
+.SURVEY	488_A4-40_plan_2004.gif
+.NAME	488_A4-40_plan_2004.gif
+.PATH	488-A4-40
+.STATUS	327688
+.SURVEY	A4-40
+.NAME	488A440P
+.PATH	488-A4-40
+.ENDBOOK
+.BOOK	[487] Krolowej Sniegu Schneekoniginhohle A4-36
+.NAME	487KROS
 .STATUS	2568
-.REF	5265554.560 352635.700 33 -1.446 2145 1 47 31 36.126 13 2 32.258 27 "WGS 1984"
-.SURVEY	499_Hoher_Schacht_plan&profile_2009.pdf
-.NAME	499_Hoher_Schacht_plan&profile_2009.pdf
-.PATH	499_Hoher_Schacht
-.STATUS	65544
-.SURVEY	499_Hoher_Schacht_plan&profile_2009.png
-.NAME	499_Hoher_Schacht_plan&profile_2009.png
-.PATH	499_Hoher_Schacht
+.REF	5266462.370 352501.720 33 -1.447 1968 0 47 32 5.405 13 2 24.759 27 "WGS 1984"
+.SURVEY	487_Schneekoniginhohle_profile.gif
+.NAME	487_Schneekoniginhohle_profile.gif
+.PATH	487-Schneekoniginhohle
 .STATUS	327688
-.SURVEY	wysdol
-.NAME	499WDOL
-.PATH	499_Hoher_Schacht
-.SURVEY	Wysoka
-.NAME	499WYSO
-.PATH	499_Hoher_Schacht
+.SURVEY	487_Schneekoniginhohle_plan.gif
+.NAME	487_Schneekoniginhohle_plan.gif
+.PATH	487-Schneekoniginhohle
+.STATUS	327688
+.SURVEY	Krolowej Sniegu
+.NAME	KROSNI
+.PATH	487-Schneekoniginhohle
+.STATUS	2560
 .ENDBOOK
-.BOOK	[500] B3-6
-.NAME	B3-6
+.BOOK	[486] A4-10
+.NAME	486A410
 .STATUS	2568
-.REF	5265848.080 353196.670 33 -1.440 2016 1 47 31 46.085 13 2 58.718 27 "WGS 1984"
-.SURVEY	500_B3-6_plan&profile_2010.pdf
-.NAME	500_B3-6_plan&profile_2010.pdf
-.PATH	500-B3-6
+.REF	5266490.690 352261.460 33 -1.450 2025 1 47 32 6.126 13 2 13.239 27 "WGS 1984"
+.SURVEY	486_A4-10_plan_2004.gif
+.NAME	486_A4-10_plan_2004.gif
+.PATH	486-A4-10
 .STATUS	327688
-.SURVEY	500_B3-6_plan&profile_2015.png
-.NAME	500_B3-6_plan&profile_2015.png
-.PATH	500-B3-6
-.STATUS	327688
-.SURVEY	b3.6
-.NAME	150809
-.PATH	500-B3-6
-.STATUS	8
+.SURVEY	a4-10
+.NAME	486_10
+.PATH	486-A4-10
 .ENDBOOK
-.BOOK	[501] Kitzgrabenwasserschacht
-.NAME	501KIT
-.STATUS	8
-.SURVEY	501_Kizgrabenwasserschacht_plan_2013.svg
-.NAME	501_Kizgrabenwasserschacht_plan_2013.svg
-.PATH	501-Kitzgrabenwasserschacht
+.BOOK	[485] A4-3
+.NAME	485A4-3
+.STATUS	2568
+.REF	5266518.850 352247.110 33 -1.450 2007 1 47 32 7.025 13 2 12.519 27 "WGS 1984"
+.SURVEY	485_A4-3_plan_2004.gif
+.NAME	485_A4-3_plan_2004.gif
+.PATH	485-A4-3
 .STATUS	327688
-.SURVEY	501_Kizgrabenwasserschacht_profile_2013.svg
-.NAME	501_Kizgrabenwasserschacht_profile_2013.svg
-.PATH	501-Kitzgrabenwasserschacht
-.STATUS	327688
-.SURVEY	501_Kizgrabenwasserschacht_plan_2013.pdf
-.NAME	501_Kizgrabenwasserschacht_plan_2013.pdf
-.PATH	501-Kitzgrabenwasserschacht
-.STATUS	327688
-.SURVEY	501_Kizgrabenwasserschacht_profile_2013.pdf
-.NAME	501_Kizgrabenwasserschacht_profile_2013.pdf
-.PATH	501-Kitzgrabenwasserschacht
-.STATUS	327688
-.SURVEY	2013-08-08 - Do drugiego syfonu
-.NAME	501KITTM
-.PATH	501-Kitzgrabenwasserschacht
-.STATUS	8
-.SURVEY	2013-08-06
-.NAME	KIC1
-.PATH	501-Kitzgrabenwasserschacht
+.SURVEY	A4-3
+.NAME	485A4-3P
+.PATH	485-A4-3
+.ENDBOOK
+.BOOK	[484] Neuhauserschacht
+.NAME	484
 .STATUS	10
-.SURVEY	2012-08-13 - Do syfonu
-.NAME	DS201208
-.PATH	501-Kitzgrabenwasserschacht
-.STATUS	8
-.SURVEY	2012-08-13 - Rura
-.NAME	KI201201
-.PATH	501-Kitzgrabenwasserschacht
-.STATUS	8
-.SURVEY	Kitzgrabenwasserschacht
-.NAME	501KITPK
-.PATH	501-Kitzgrabenwasserschacht
-.ENDBOOK
-.BOOK	[502] Jaskinia Cienia Schattenhöhle
-.NAME	SHD
+.REF	5267504.610 356664.510 33 -1.407 1543 1 47 32 42.501 13 5 42.539 27 "WGS 1984"
+.SURVEY	484
+.NAME	484N
+.PATH	484_Neuhauserschacht
 .STATUS	2568
-.REF	5266731.350 353590.810 33 -1.435 1884 2 47 32 15.000 13 3 16.500 27 "WGS 1984"
-.SURVEY	502_Schattenhohle_plan&profile_2012.pdf
-.NAME	502_Schattenhohle_plan&profile_2012.pdf
-.PATH	502-Schattenhohle
+.SURVEY	484_Neuhauserschacht_plan&profile_2003.gif
+.NAME	484_Neuhauserschacht_plan&profile_2003.gif
+.PATH	484_Neuhauserschacht
 .STATUS	327688
-.SURVEY	2012-08-16 - Shadow
-.NAME	120816SH
-.PATH	502-Schattenhohle
+.ENDBOOK
+.BOOK	[483] WH2
+.NAME	483WH2
+.STATUS	2560
+.REF	5265951.420 352846.550 33 -1.444 2025 1 47 31 49.145 13 2 41.858 27 "WGS 1984"
+.SURVEY	WH2 [483]
+.NAME	WH2
+.PATH	483-WH2
+.ENDBOOK
+.BOOK	[482] Niebieskich Mgie³ Hohle der blaunen Nebel
+.NAME	482BL
+.STATUS	8
+.SURVEY	482
+.NAME	482
+.PATH	482-Hohle_der_blaunen_Nebel
+.STATUS	8
+.SURVEY	482_Hohle_der_blaunen_Nebel_plan&profile_2003.gif
+.NAME	482_Hohle_der_blaunen_Nebel_plan&profile_2003.gif
+.PATH	482-Hohle_der_blaunen_Nebel
+.STATUS	327688
+.ENDBOOK
+.BOOK	[481] Szparka Spaltchen
+.NAME	481_SZP
+.STATUS	1288
+.REF	5265864.520 352544.350 33 -1.447 2130 1 47 31 46.086 13 2 27.518 27 "WGS 1984"
+.SURVEY	481_Spaltchen_profile_2003.gif
+.NAME	481_Spaltchen_profile_2003.gif
+.PATH	481-Spaltchen
+.STATUS	327688
+.SURVEY	481_Spaltchen_plan_2003.gif
+.NAME	481_Spaltchen_plan_2003.gif
+.PATH	481-Spaltchen
+.STATUS	327688
+.SURVEY	ciag do wantowiska
+.NAME	481_CDW
+.PATH	481-Spaltchen
+.STATUS	2560
+.SURVEY	ciag lewy
+.NAME	481_CL
+.PATH	481-Spaltchen
+.STATUS	2560
+.SURVEY	ciag horyzontalny
+.NAME	481CH
+.PATH	481-Spaltchen
+.STATUS	2560
+.SURVEY	ciag glowny
+.NAME	481_CG
+.PATH	481-Spaltchen
+.STATUS	2560
+.ENDBOOK
+.BOOK	[480] Comeback-hohle A3-36
+.NAME	480CB
+.STATUS	2568
+.REF	5266455.470 352628.310 33 -1.446 1981 1 47 32 5.285 13 2 30.819 27 "WGS 1984"
+.SURVEY	480_Comeback-hohle_profile_2002.jpg
+.NAME	480_Comeback-hohle_profile_2002.jpg
+.PATH	480-Comeback-h
+.STATUS	327688
+.SURVEY	480_Comeback-hohle_plan_2002.jpg
+.NAME	480_Comeback-hohle_plan_2002.jpg
+.PATH	480-Comeback-h
+.STATUS	327688
+.SURVEY	Comeback-hohle
+.NAME	480_CB_C
+.PATH	480-Comeback-h
+.STATUS	2560
+.ENDBOOK
+.BOOK	[479] Kasztanowa Kastanienhohle
+.NAME	479KAST
+.STATUS	2568
+.REF	5266773.140 352892.370 33 -1.444 1970 1 47 32 15.785 13 2 43.059 27 "WGS 1984"
+.SURVEY	479_Kastanienhohle_plan_2004.gif
+.NAME	479_Kastanienhohle_plan_2004.gif
+.PATH	479-Kastanienhohle
+.STATUS	327688
+.SURVEY	479_Kastanienhohle_profile_2004.gif
+.NAME	479_Kastanienhohle_profile_2004.gif
+.PATH	479-Kastanienhohle
+.STATUS	327688
+.SURVEY	Petla nad Dziurawym Kominem
+.NAME	479KOM
+.PATH	479-Kastanienhohle
+.STATUS	8
+.SURVEY	Od Dziurawej Studni do grifonu
+.NAME	479GRIF
+.PATH	479-Kastanienhohle
+.STATUS	8
+.SURVEY	Syfony
+.NAME	479SYFO
+.PATH	479-Kastanienhohle
+.STATUS	8
+.SURVEY	Do Œródsyfonu
+.NAME	479SROD
+.PATH	479-Kastanienhohle
+.STATUS	8
+.SURVEY	Przez Studbniê z Want¹ do Hydrozagadki
+.NAME	479HYDRO
+.PATH	479-Kastanienhohle
+.STATUS	8
+.SURVEY	Od Salki na Rozdzielu do dna nastepnej studni
+.NAME	479NAST
+.PATH	479-Kastanienhohle
+.STATUS	8
+.SURVEY	Meander do Ty³u i Salka Zachwytu
+.NAME	479ZACH
+.PATH	479-Kastanienhohle
+.STATUS	8
+.SURVEY	Korytarz z wod¹ do Studni St³uczonego Ty³ka
+.NAME	479WTYL
+.PATH	479-Kastanienhohle
+.STATUS	8
+.SURVEY	Obejœcie gór¹ od Studni St³uczonego Ty³ka
+.NAME	479TYL
+.PATH	479-Kastanienhohle
+.STATUS	8
+.SURVEY	Ci¹g g³ówny od Studni Kryszta³owej do Salki na Rozdro¿u
+.NAME	479ROZ
+.PATH	479-Kastanienhohle
+.STATUS	8
+.SURVEY	Bok
+.NAME	479BOK
+.PATH	479-Kastanienhohle
+.STATUS	8
+.SURVEY	Pomiar z Vaskiem przyrzadami stopnie plus grad
+.NAME	479VAS
+.PATH	479-Kastanienhohle
+.STATUS	8
+.SURVEY	Kasztanowa Sopocka Busola Pierwszy pomiar
+.NAME	479SOP
+.PATH	479-Kastanienhohle
+.STATUS	8
+.SURVEY	Darek i Zbyszek
+.NAME	479DZ
+.PATH	479-Kastanienhohle
 .STATUS	8
 .ENDBOOK
-.BOOK	[503] Biwakko
-.NAME	503
-.PATH	503-Biwakko
-.STATUS	8
-.SURVEY	503_Biwakko_plany_and_profile_2014.pdf
-.NAME	503_Biwakko_plany_and_profile_2014.pdf
+.BOOK	[429] Grenzlandruine
+.NAME	429GR
+.STATUS	2568
+.REF	5264819.820 353183.370 33 -1.438 2136 1 47 31 12.786 13 2 59.317 27 "WGS 1984"
+.SURVEY	429_Grenzlandruine_2.JPG
+.NAME	429_Grenzlandruine_2.JPG
+.PATH	429-Grenzlandruine
 .STATUS	327688
-.SURVEY	2014-08-13 - Biwakko
-.NAME	BIWAK
+.SURVEY	429_Grenzlandruine_1.JPG
+.NAME	429_Grenzlandruine_1.JPG
+.PATH	429-Grenzlandruine
+.STATUS	327688
+.SURVEY	Grenzlandruine
+.NAME	429GR001
+.PATH	429-Grenzlandruine
+.ENDBOOK
+.BOOK	[428] Patrickhohle TODO
+.NAME	428-PAT
+.PATH	428-Patrickhohle
+.STATUS	10
+.SURVEY	pat
+.NAME	PAT
 .STATUS	8
 .ENDBOOK
-.BOOK	[504] 37
-.NAME	37
-.PATH	504_37
+.BOOK	[425] St. Blasius-Labyrinth
+.NAME	425BL
+.PATH	425-St.Blasius-Labyrinth
+.STATUS	2568
+.REF	5265525.200 352844.600 33 -1.444 2090 1 47 31 35.346 13 2 42.278 27 "WGS 1984"
+.SURVEY	St. Blasius-Labyrinth [425]
+.NAME	425BLPKT
+.ENDBOOK
+.BOOK	[424] Eisrutschn
+.NAME	424E
+.PATH	424-Eisrutschn
 .STATUS	8
-.SURVEY	20180812
-.NAME	MEANDER
-.PATH	37-20180812
+.SURVEY	aust
+.NAME	AUST
 .STATUS	8
-.SURVEY	180806 - obejscie
-.NAME	180806OB
-.PATH	37-20180806-obejscie-do-pierwszego-dna
-.STATUS	8
-.SURVEY	180806 Na 180
-.NAME	180806NA
-.PATH	37-20180806-na-180
-.STATUS	8
-.SURVEY	180806 Ciag g³ówny
-.NAME	180806CG
-.PATH	37-20180806-ciag-glowny
-.STATUS	8
-.SURVEY	180801
-.NAME	180801
-.PATH	37-20180801
-.STATUS	8
-.SURVEY	37
-.NAME	160808
-.STATUS	8
-.SURVEY	37-plan-2015.pdf
-.NAME	37-plan-2015.pdf
-.STATUS	327688
-.SURVEY	37-profile-2015.pdf
-.NAME	37-profile-2015.pdf
-.STATUS	327688
-.SURVEY	37-profile-2016.pdf
-.NAME	37-profile-2016.pdf
-.STATUS	327688
-.SURVEY	150809a
-.NAME	150809A
-.STATUS	8
-.SURVEY	150809b
-.NAME	150809B
-.STATUS	8
-.SURVEY	150809c
-.NAME	150809C
-.STATUS	8
-.SURVEY	150810
-.NAME	150810
+.SURVEY	marta klipi mi przodki
+.NAME	M01
 .STATUS	8
 .ENDBOOK
-.BOOK	[506] AK-1
-.NAME	AK1
-.PATH	506_AK-1
+.BOOK	[421] Tschikpausenhohle
+.NAME	421
+.PATH	421-Tschikpausenhohle
 .STATUS	8
-.SURVEY	AK-1-profile.pdf
-.NAME	AK-1-profile.pdf
-.STATUS	327688
-.SURVEY	AK-1-plan.pdf
-.NAME	AK-1-plan.pdf
-.STATUS	327688
-.SURVEY	160806
-.NAME	160806
+.SURVEY	Tschikpausenhohle
+.NAME	NA1
 .STATUS	8
 .ENDBOOK
-.BOOK	[507] X-Schacht
-.NAME	STDX
-.PATH	507_X-Schacht
+.BOOK	[408] Kitzgraben
+.NAME	KITZ
+.PATH	408-Kitzgraben
 .STATUS	8
-.SURVEY	der x_schacht_grundriss_aufriss_1_500_DE.pdf
-.NAME	der x_schacht_grundriss_aufriss_1_500_DE.pdf
-.PATH	..\507_X-Schacht
-.STATUS	327688
-.SURVEY	der x_schacht_grundriss_1_500_DE.pdf
-.NAME	der x_schacht_grundriss_1_500_DE.pdf
-.PATH	..\507_X-Schacht
-.STATUS	327688
-.SURVEY	der x_schacht_aufriss_1_500_DE.pdf
-.NAME	der x_schacht_aufriss_1_500_DE.pdf
-.PATH	..\507_X-Schacht
-.STATUS	327688
-.SURVEY	Studnia-X_2
-.NAME	STDX02
+.SURVEY	2020-08-12 - k2
+.NAME	KITZT02
+.PATH	200812k2
 .STATUS	8
-.SURVEY	Studnia-X
-.NAME	STDX01
+.SURVEY	Kitz-01
+.NAME	KITZGR01
 .STATUS	8
 .ENDBOOK
-.BOOK	[508] Schacht under dem Stein
-.NAME	SCH1
-.PATH	508_Schacht_unter_dem_Stein
-.STATUS	8
-.SURVEY	Schacht unter dem Stein W-E.JPG
-.NAME	Schacht unter dem Stein W-E.JPG
+.BOOK	[280] Alvermannschacht
+.NAME	280ALV
+.STATUS	2568
+.REF	5266819.940 352506.990 33 -1.447 1983 1 47 32 16.985 13 2 24.580 27 "WGS 1984"
+.SURVEY	280_Alvermannschacht_plan_2003.gif
+.NAME	280_Alvermannschacht_plan_2003.gif
+.PATH	280-Alvermannschacht
 .STATUS	327688
-.SURVEY	Schacht unter dem Stein W-E.pdf
-.NAME	Schacht unter dem Stein W-E.pdf
+.SURVEY	280_Alvermannschacht_profile_2003.gif
+.NAME	280_Alvermannschacht_profile_2003.gif
+.PATH	280-Alvermannschacht
 .STATUS	327688
-.SURVEY	Schacht unter dem Stein.JPG
-.NAME	Schacht unter dem Stein.JPG
+.SURVEY	Alvermann - sesja 6
+.NAME	280ALS6
+.PATH	280-Alvermannschacht
+.STATUS	2568
+.SURVEY	Alvermann - sesja 5
+.NAME	280ALS5
+.PATH	280-Alvermannschacht
+.STATUS	2568
+.SURVEY	Alvermann - sesja 4
+.NAME	280_ALS4
+.PATH	280-Alvermannschacht
+.STATUS	2568
+.SURVEY	Alvermann - sesja 3
+.NAME	280ALS3
+.PATH	280-Alvermannschacht
+.STATUS	2568
+.SURVEY	Alvermann - Sesja 2
+.NAME	280_ALS2
+.PATH	280-Alvermannschacht
+.STATUS	2568
+.SURVEY	Alvermann - 1 sesja
+.NAME	280_A1S
+.PATH	280-Alvermannschacht
+.STATUS	2568
+.ENDBOOK
+.BOOK	[158] Atschiloch
+.NAME	158AT
+.PATH	158_Atschiloch
+.STATUS	8
+.SURVEY	900810 - Aust
+.NAME	900810
+.STATUS	8
+.SURVEY	190802
+.NAME	190802
+.STATUS	8
+.ENDBOOK
+.BOOK	[30] Tantalhohle
+.NAME	30TANT
+.PATH	30-Tantalhohle
+.STATUS	8
+.SURVEY	1
+.NAME	1
+.STATUS	8
+.ENDBOOK
+.BOOK	Stary Meander Wschodni
+.NAME	STM
+.PATH	StMeWs
+.STATUS	8
+.SURVEY	pietro 1
+.NAME	PI1
+.STATUS	8
+.SURVEY	pietro 0
+.NAME	PI0
+.STATUS	8
+.ENDBOOK
+.BOOK	Plynacych Kamieni
+.NAME	PLKAM
+.PATH	Plynacych-Kamieni
+.STATUS	8
+.SURVEY	Plynacych Kamieni
+.NAME	KAMIEN
+.STATUS	8
+.ENDBOOK
+.BOOK	Gerollenheim
+.NAME	GERO
+.PATH	German_1\..\Gerollenheim
+.STATUS	8
+.SURVEY	Gerollenheim
+.NAME	GEROLL
+.STATUS	8
+.ENDBOOK
+.BOOK	German_1
+.NAME	GER
+.PATH	German_1
+.STATUS	8
+.SURVEY	ger
+.NAME	GERMAN_1
+.STATUS	8
+.ENDBOOK
+.BOOK	Baza
+.NAME	BAZA
+.STATUS	2568
+.REF	5266700.180 352625.710 33 -1.446 1850 1 47 32 13.205 13 2 30.399 27 "WGS 1984"
+.SURVEY	Baza
+.NAME	BAZAPK
+.PATH	Baza
+.STATUS	2560
+.ENDBOOK
+.BOOK	A4-1
+.NAME	A4-1
+.STATUS	2568
+.REF	5266605.200 352204.110 33 -1.450 2006 1 47 32 9.786 13 2 10.359 27 "WGS 1984"
+.SURVEY	A4-1_plan.gif
+.NAME	A4-1_plan.gif
+.PATH	A4-1
 .STATUS	327688
-.SURVEY	Schacht unter dem Stein.pdf
-.NAME	Schacht unter dem Stein.pdf
-.STATUS	327688
-.SURVEY	schacht_1
-.NAME	SCH_1
+.SURVEY	a4-1
+.NAME	A4_1
+.PATH	A4-1
 .STATUS	8
 .ENDBOOK
-.BOOK	[562] Himmelfahr
-.NAME	T4
-.PATH	T4
-.STATUS	8
-.SURVEY	T4
-.NAME	EXP
-.STATUS	8
-.ENDBOOK
-.BOOK	[563] Lewa w Scianie
-.NAME	KAHL_2
-.PATH	Kahl_2
-.STATUS	8
-.SURVEY	180808
-.NAME	180808
+.BOOK	343
+.NAME	343
+.STATUS	2568
+.REF	5265699.670 352974.980 33 -1.441 2022 2 47 31 41.100 13 2 48.300 27 "WGS 1984"
+.SURVEY	343
+.NAME	343SV
+.PATH	343
 .STATUS	8
 .ENDBOOK
-.BOOK	[564] Prawa w Scianie
-.NAME	KAHL_1
-.PATH	Kahl_1
-.STATUS	8
-.SURVEY	180807
-.NAME	180807DT
-.STATUS	8
-.ENDBOOK
-.BOOK	[565] PodGrzybem
-.NAME	SZ38
-.PATH	SZ38
-.STATUS	8
-.SURVEY	lka7
-.NAME	LKA7
+.BOOK	340
+.NAME	340
+.STATUS	2568
+.REF	5265695.790 353006.270 33 -1.440 2015 2 47 31 41.000 13 2 49.800 27 "WGS 1984"
+.SURVEY	340
+.NAME	340SR
+.PATH	340
 .STATUS	8
 .ENDBOOK
-.SURVEY	Poziomice
-.NAME	DEM
+.SURVEY	TerenY
+.NAME	TERENX
 .PATH	Teren
 .STATUS	10
 .SURVEY	TerenX
 .NAME	TERENXX
 .PATH	Teren
 .STATUS	10
-.SURVEY	TerenY
-.NAME	TERENX
+.SURVEY	Poziomice
+.NAME	DEM
 .PATH	Teren
 .STATUS	10
 .ENDBOOK
