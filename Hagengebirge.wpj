@@ -1425,6 +1425,12 @@
 .NAME	KITZ
 .PATH	408-Kitzgraben
 .STATUS	8
+.SURVEY	kitzgraben-W-E.pdf
+.NAME	kitzgraben-W-E.pdf
+.STATUS	327688
+.SURVEY	kitzgraben.pdf
+.NAME	kitzgraben.pdf
+.STATUS	327688
 .SURVEY	2020-08-12 - k2
 .NAME	KITZT02
 .PATH	200812k2
