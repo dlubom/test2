@@ -1576,6 +1576,29 @@
 .NAME	PI0
 .STATUS	8
 .ENDBOOK
+.BOOK	[569] Dreischachtlhöhle
+.PATH	569-Drei
+.STATUS	8
+.SURVEY	Dreischachtlhöhle sektion.pdf
+.NAME	Dreischachtlhöhle sektion.pdf
+.STATUS	327688
+.SURVEY	Dreischachtlhöhle planen.pdf
+.NAME	Dreischachtlhöhle planen.pdf
+.STATUS	327688
+.SURVEY	3s
+.NAME	3S
+.STATUS	8
+.ENDBOOK
+.BOOK	[570] FK-13
+.PATH	570-fk13
+.STATUS	8
+.SURVEY	FK13.pdf
+.NAME	FK13.pdf
+.STATUS	327688
+.SURVEY	fk13
+.NAME	FK13
+.STATUS	8
+.ENDBOOK
 .SURVEY	Poziomice
 .NAME	DEM
 .PATH	Teren
