@@ -1400,6 +1400,12 @@
 .NAME	424E
 .PATH	424-Eisrutschn
 .STATUS	8
+.SURVEY	lodowa przekroj 2020.pdf
+.NAME	lodowa przekroj 2020.pdf
+.STATUS	327688
+.SURVEY	lodowa plan 2020.pdf
+.NAME	lodowa plan 2020.pdf
+.STATUS	327688
 .SURVEY	aust
 .NAME	AUST
 .STATUS	8
