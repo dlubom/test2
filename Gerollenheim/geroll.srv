@@ -2,7 +2,7 @@
 #units A=D V=D
 #date 2014-08-06
 #prefix g1
-#note ger	/Gerollenheim
+#note ger	/[426] Gerollenheim
 #flag	ger	/GPS Location
 #FIX   ger  E13:02.632  N47:31.582   2052m     ;dm
 ger	1.1	282.91	-27.47	3.77

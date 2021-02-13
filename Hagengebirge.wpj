@@ -51,14 +51,6 @@
 .NAME	GERMAN_1
 .STATUS	8
 .ENDBOOK
-.BOOK	Gerollenheim
-.NAME	GERO
-.PATH	German_1\..\Gerollenheim
-.STATUS	8
-.SURVEY	Gerollenheim
-.NAME	GEROLL
-.STATUS	8
-.ENDBOOK
 .BOOK	Plynacych Kamieni
 .NAME	PLKAM
 .PATH	Plynacych-Kamieni
@@ -173,6 +165,14 @@
 .REF	5265525.200 352844.600 33 -1.444 2090 1 47 31 35.346 13 2 42.278 27 "WGS 1984"
 .SURVEY	St. Blasius-Labyrinth [425]
 .NAME	425BLPKT
+.ENDBOOK
+.BOOK	[426] Gerollenheim
+.NAME	GERO
+.PATH	German_1\..\Gerollenheim
+.STATUS	8
+.SURVEY	Gerollenheim
+.NAME	GEROLL
+.STATUS	8
 .ENDBOOK
 .BOOK	[428] Patrickhohle TODO
 .NAME	428-PAT
