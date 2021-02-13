@@ -1577,6 +1577,7 @@
 .STATUS	8
 .ENDBOOK
 .BOOK	[569] Dreischachtlhöhle
+.NAME	569
 .PATH	569-Drei
 .STATUS	8
 .SURVEY	Dreischachtlhöhle sektion.pdf
@@ -1590,6 +1591,7 @@
 .STATUS	8
 .ENDBOOK
 .BOOK	[570] FK-13
+.NAME	570FK13
 .PATH	570-fk13
 .STATUS	8
 .SURVEY	FK13.pdf
