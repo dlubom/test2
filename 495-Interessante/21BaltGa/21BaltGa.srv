@@ -1,11 +1,12 @@
 #units meters order=AVD
 #units A=D V=D
 #date 2021-07-31
+#prefix bat_com
 ;Joanna Gawezka (Notes), Jakub Nowak (DixtoX2); Robert Glod (poreczownie)
 1.0	1.1	95.0	-44.1	2.99	;dowiaznie
 1.1	1.2	121.29	25.3	3.479	;dowiaznie
 1.2	1.3	62.97	-82.6	6.46	;dowiaznie
-1.3	mc008	0	0	0
+1.3	:mc008	0	0	0
 1.3	1.4	289.0	-3.8	4.291
 1.4	1.5	353.7	-21.0	2.86
 1.5	1.6	308.21	43.01	3.19
