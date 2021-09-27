@@ -2,10 +2,10 @@
 #units A=D V=D
 #date 2021-07-30
 ;Iza Przybysz, Tomasz Olczak
-#prefix dupa
-1	2	359.4	-39.7	0.873 	;powtorzony
-2	3	268.68	-30.6	1.715	;powtorzony
-3	4	337.4	-54.09	4.584	;powtorzony
+#prefix 21b3it
+;1	2	359.4	-39.7	0.873 	;powtorzony
+;2	3	268.68	-30.6	1.715	;powtorzony
+;3	4	337.4	-54.09	4.584	;powtorzony
 4	b36:61	0	0	0
 4	5	264.4	-42.8	2.247
 5	6	220.91	-54.6	2.122
