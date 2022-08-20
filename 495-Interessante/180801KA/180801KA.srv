@@ -1,6 +1,7 @@
 #units meters order=AVD
 #units A=D V=D
 #date 2018-08-01
+#segment Meander Stropowy
 #prefix MES1
 ;Karol Makowski (palm + spray), Anna Drapala (DistoX2); Jakub Nowak (poreczownie)
 ;1.0	1.1	71.78	41.71	7.19	powtorzony

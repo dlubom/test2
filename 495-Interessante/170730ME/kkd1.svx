@@ -1,4 +1,4 @@
-*begin survey
+*begin mzb2*date 2017.07.30
 *data normal from to compass clino tape
 
 1_0	1_1	4.84	39.81	2.979
@@ -549,4 +549,4 @@
 1_27	.	267.36	9.36	0.99
 1_27	.	249.06	13.62	0.76
 
-*end survey
+*end mzb2

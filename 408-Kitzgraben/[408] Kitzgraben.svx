@@ -1,0 +1,23 @@
+*begin 408_Kitzgraben
+
+*include 200801k1\Kitzgr01.svx
+*include 200812k2\Kitzgr02.svx 
+*include 21k2popr\Kitzg02p.svx 
+;*include 210726k3\Kitzgr03.svx 
+*include 210803k4\Kitzgr04.svx
+*include 210810k5\Kitzgr05.svx
+*include 210811k6\Kitzgr06.svx
+*include 210812k7\Kitzgr07.svx
+*include 210813k8\Kitzgr08.svx
+*include 210813k9\Kitzgr09.svx
+
+*equate Kitzgr02.1_0	Kitzgr01.1_14
+*equate Kitzg02p.1_17	Kitzgr02.1_17
+*equate Kitzgr04.1_8	Kitzg02p.1_31
+*equate Kitzgr05.0	Kitzgr04.1_18
+*equate Kitzgr06.0	Kitzgr05.4
+*equate Kitzgr07.0	Kitzgr04.1_15
+*equate Kitzgr08.0	Kitzgr07.22
+*equate Kitzgr09.0	Kitzgr07.12
+
+*end 408_Kitzgraben
