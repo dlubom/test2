@@ -1,6 +1,7 @@
 #units meters order=AVD
 #units A=D V=D
 #date 2021-07-31
+#segment Meander Stropowy
 #prefix MES3
 ;Karol Makowski (palm + spray), Adam Wladzinski (DistoX2); Lukasz Stankowski (poreczowanie)
 MES2:1.12	1.1	130.93	80.99	10.104

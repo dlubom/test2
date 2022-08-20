@@ -1,4 +1,4 @@
-*begin survey
+*begin MEST*date 2018.07.26
 *data normal from to compass clino tape
 
 1_0	1_1	276.18	-6.28	5.7
@@ -214,4 +214,4 @@
 1_20	.	147.23	46.18	4.742
 1_20	.	182.91	65.79	2.163
 
-*end survey
+*end MEST

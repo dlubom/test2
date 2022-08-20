@@ -1,6 +1,7 @@
 #units meters order=AVD
 #units A=D V=D
 #date 2017-08-04
+#segment Meander Stropowy
 #prefix mzb3
 ;Karol Makowski i Marcin Slowik
 mzb2:1.27	1.2	0	0	0

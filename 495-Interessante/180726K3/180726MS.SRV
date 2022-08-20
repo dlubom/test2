@@ -1,6 +1,7 @@
 #units meters order=AVD
 #units A=D V=D
 #date 2018-07-26
+#segment Meander Stropowy
 #prefix MEST
 ;Karol Makowski (palm + spray), Krzysztof Chojnacki (DistoX2); Jakub Nowak (poreczownie)
 ;1.0	1.1	276.18	-6.28	5.7	;powtorzony
