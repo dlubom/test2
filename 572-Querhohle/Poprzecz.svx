@@ -1,18 +1,14 @@
 *begin Poprzeczna
-
 *entrance 1_0
-
-;#FIX  1.0   E13:03.538  N47:31.951   2000m     ;dm
-;*fix	1_0	353906.840	5266169.293	2000	;GPS Location UTM
-
-*date 2021.08.16	;czy nie powinno byæ 2021.08.06
-*instrument compass "DistoX2"
-*instrument clino "DistoX2"
-*instrument tape "DistoX2"
+;#FIX  1.0   E13:02.781  N47:31.430    2101m     ;dm
+*fix	1_0	352932.991	5265228.121	2101	;GPS Location UTM
+*date 2021.08.16
 *team "Jakub Nowak" (szkic, Spray, DistoX2)
 *team "Lukasz Stankowski" (szkic, Spray, DistoX2)
 *team "Rafa³ Mateja" (Spray, DistoX2)
-
+*instrument compass "DistoX2"
+*instrument clino "DistoX2"
+*instrument tape "DistoX2"
 *data normal from to compass clino tape
 1_0	1_1	204.59	-40.03	3.938
 1_1	1_2	175.07	-33.51	5.563
