@@ -757,11 +757,9 @@
 .SURVEY	2021-08-09 - Zimny Meander 2
 .NAME	ZIMNYMN2
 .PATH	495-Interessante\21zimnM2
-.STATUS	8
 .SURVEY	2021-08-06 - Zimny Meander 1
 .NAME	ZIMNYMN
 .PATH	495-Interessante\21zimnM1
-.STATUS	8
 .SURVEY	2021-08-06 - Partie z m³otkiem
 .NAME	MLOTEK2
 .PATH	495-Interessante\21mlotek
@@ -769,7 +767,6 @@
 .SURVEY	2021-08-04 - Meander Stropowy 3
 .NAME	21STROP3
 .PATH	495-Interessante\21strop3
-.STATUS	8
 .SURVEY	2021-07-31 - Powrót do Baltazara G¹bki
 .NAME	21BALTGA
 .PATH	495-Interessante\21BaltGa
@@ -777,11 +774,9 @@
 .SURVEY	2021-07-31 - Meander Stropowy 2
 .NAME	21STROP2
 .PATH	495-Interessante\21strop2
-.STATUS	8
 .SURVEY	2021-07-26 - Meander Stropowy 1
 .NAME	21STROP1
 .PATH	495-Interessante\21strop1
-.STATUS	8
 .SURVEY	2020-08-11 - Studnia pod mlotkiem
 .NAME	STPODM
 .PATH	495-Interessante\200811SM
@@ -1665,7 +1660,7 @@
 .BOOK	[571?] Jaskinia Muminkow
 .NAME	571MUMIN
 .PATH	571-Jaskinia_Muminkow
-.STATUS	9
+.STATUS	8
 .REF	5266134.620 353373.320 33 -1.439 1940 1 47 31 55.505 13 3 6.818 27 "WGS 1984"
 .SURVEY	2021-07-30 Jaskinia Muminkow
 .NAME	MUMINKOW
@@ -1690,7 +1685,7 @@
 .BOOK	[574?] Z lustrami
 .NAME	Z_LUSTRA
 .PATH	574-Z_lustrami
-.STATUS	9
+.STATUS	8
 .SURVEY	2021-08-13 - Z Lustrami
 .NAME	LUSTRA
 .STATUS	8
