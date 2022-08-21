@@ -1,6 +1,9 @@
 *begin Kitzg02p
 *date 2021.08.06
 *team Karol Makowski (palm), Adam Wladzinski (DistoX2)
+*instrument compass "DistoX2"
+*instrument clino "DistoX2"
+*instrument tape "DistoX2"
 *data normal from to compass clino tape
 ;1_0	1_1	290.06	-47.29	4.062
 ;1_1	1_2	256.37	-23.82	2.449
