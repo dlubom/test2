@@ -9,7 +9,7 @@
 *entrance 1_29	; Entrance 6
 *entrance 1_31	; Entrance 7
 *date 2021.08.13
-*team "Rafa³ Mateja" (szkic, Spray, DistoX2)
+*team "Rafal Mateja" (szkic, Spray, DistoX2)
 *team "Grzegorz Guziak" (szkic, Spray, DistoX2)
 *instrument compass "DistoX2"
 *instrument clino "DistoX2"
