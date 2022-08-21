@@ -1,8 +1,8 @@
 *begin Kitzgr03
 *date 2021.07.26
 *team Magda Sarapata, Joanna Przymus, Lukasz Stankowski
-;by³ jakiœ problem ze znalesieniem pierwotnych punktów i zosta³y dodane nowe
-;ostatecznie sesja pomiarowa nie powinna byæ pod³¹czana, zamiast tego zosta³y wykonane ponowne pomiary - Kitzg02p, które obejmuj¹ ponwny pomiar sesji Kitzgr02, Kitzgr03, i fragment Kitzgr04
+;by³ jakiœ problem ze znalezieniem pierwotnych punktów i zosta³y dodane nowe
+;ostatecznie sesja pomiarowa nie powinna byæ pod³¹czana, zamiast tego zosta³y wykonane ponowne pomiary - Kitzg02p, które obejmuj¹ ponowny pomiar sesji Kitzgr02, Kitzgr03, i fragment Kitzgr04
 *data normal from to compass clino tape
 1_0	1_1	322.04	48.2	4.061
 1_1	1_2	182.77	-8.77	4.309
