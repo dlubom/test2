@@ -1,6 +1,9 @@
 *begin Zimny_Meander_1
 *date 2021.08.06
-*team Kuba Jarek Tomek 210807
+*team Jakub Grubba, Jaroslaw Paszkiewicz, Tomek Olczak
+*instrument compass "DistoX2"
+*instrument clino "DistoX2"
+*instrument tape "DistoX2"
 *data normal from to tape compass clino ignoreall
 0	1	6.030	310.631	4.005
 1	2	11.379	326.695	-12.940
