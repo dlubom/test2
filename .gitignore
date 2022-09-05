@@ -8,6 +8,10 @@
 *.log
 *.lst
 
+#Survex
+*.err
+*.3d
+
 Thumbs.db
 
 Therion/Output
