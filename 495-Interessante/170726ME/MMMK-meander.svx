@@ -5,12 +5,12 @@
 *instrument clino "DistoX"
 *instrument tape "DistoX"
 *data normal from to compass clino tape
-;1_0	1_1	144.33	1.12	3.21	;powtorzony
-;1_1	1_2	188.41	20.18	5.956	;powtorzony
-;1_2	1_3	183.81	18.44	3.986	;powtorzony
-;1_3	1_4	208.61	7.05	7.719	;powtorzony
-;1_4	1_5	183.36	10.75	4.31	;powtorzony
-;1_5	1_6	213.89	-41.58	2.673	;powtorzony
+;1_0	1_1	144.33	1.12	3.21	; powtorzony
+;1_1	1_2	188.41	20.18	5.956	; powtorzony
+;1_2	1_3	183.81	18.44	3.986	; powtorzony
+;1_3	1_4	208.61	7.05	7.719	; powtorzony
+;1_4	1_5	183.36	10.75	4.31	; powtorzony
+1_5	1_6	213.89	-41.58	2.673
 1_6	1_7	212.98	-22.16	4.896
 1_7	1_8	262.22	-5.03	2.009
 1_8	1_9	131.02	-10.4	3.219
