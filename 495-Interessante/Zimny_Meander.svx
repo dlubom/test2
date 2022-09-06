@@ -1,0 +1,9 @@
+*begin Zimny_Meander
+
+*include 21zimnM1\zimnyMN.svx
+*include 21zimnM2\zimnyMN2.svx 
+
+
+*equate Zimny_Meander_2.22	Zimny_Meander_1.22
+
+*end Zimny_Meander
