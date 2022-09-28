@@ -6,8 +6,13 @@
 *instrument clino "DistoX2"
 *instrument tape "DistoX2"
 *data normal from to tape compass clino ignoreall
-;0	1	4.534	205.005	2.203
-;1	2	5.740	119.572	0.936
+
+*begin
+*flags duplicate
+0	1	4.534	205.005	2.203
+1	2	5.740	119.572	0.936
+*end
+
 ; podlaczyc punkt 2 do punktu 31.0 z pliku 150813ok.srv (Splatany Meander)
 2	3	3.582	264.412	87.991
 3	4	5.488	186.059	-0.300

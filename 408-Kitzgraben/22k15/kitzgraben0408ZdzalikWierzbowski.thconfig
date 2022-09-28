@@ -1,0 +1,15 @@
+encoding utf-8
+
+layout local
+  debug off
+  map-header 0 0 off
+  # symbol-hide group cave-centreline
+endlayout
+
+source "kitzgraben0408ZdzalikWierzbowski.th"
+
+export model -fmt survex -o "kitzgraben0408ZdzalikWierzbowski-th.3d"
+
+# export map -proj plan -layout local -o "kitzgraben0408ZdzalikWierzbowski-plan.pdf"
+
+# export map -proj extended -layout local -o "kitzgraben0408ZdzalikWierzbowski-ee.pdf"

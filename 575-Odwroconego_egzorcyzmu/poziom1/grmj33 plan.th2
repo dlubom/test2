@@ -1,0 +1,5 @@
+encoding utf-8
+
+##XTHERION## xth_me_area_adjust -425,00 -886,83 2550,00 5320,99
+##XTHERION## zoom_to 50
+##XTHERION## xth_me_image_insert {2090.6560111166473 1 1.0} {1806.0058070723608 1} "grmj33 plan.xvi" 0 {}

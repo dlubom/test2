@@ -1,10 +1,11 @@
 #units meters order=DAV
 #Units A=D V=D
 #Prefix zimnyMN3
+;Zimny Meander 3
 
 #date 2022-07-26
 ;team Magda Sitarz (szkic Qave), Jakub Grubba (DistoX2), Karol Makowski (poreczowanie)
-;Zimny Meander 3
+;
 ;0	1	1.505	217.707	-14.114	; zimnyMN2:49 - zimnyMN2:50
 ;1	2	2.227	185.535	-26.827	; zimnyMN2:50 - zimnyMN2:51
 zimnyMN2:51	2	0	0	0

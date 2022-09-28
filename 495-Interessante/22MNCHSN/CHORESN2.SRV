@@ -1,9 +1,12 @@
 #units meters order=AVD
 #units A=D V=D
-#date 2022-07-26
 #prefix MCHS02
-;Arek Kus (Palm + spray), Stanislaw Dacy (DistoX2), Adam Wladzinski (poreczowanie)
-;Wanta, n ktorej byl punkt (MMNJ:1.17) wyjechala, dlatego pomiary zaczynja sie z kolejnego punktu MMNJ:1.18 
+; "Meander Chorych Snow"
+
+#date 2022-07-26
+;team Arek Kus (Palm + spray), Stanislaw Dacy (DistoX2), Adam Wladzinski (poreczowanie)
+;Wanta, na ktorej byl punkt (MMNJ:1.17) wyjechala, dlatego pomiary zaczynja sie z kolejnego punktu MMNJ:1.18
+;
 MMNJ:1.18	1.0	0	0	0
 1.0	1.1	246.13	-15.07	5.031
 1.1	1.2	227.99	12.07	5.024

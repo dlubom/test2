@@ -1,5 +1,5 @@
 *begin St_Zombi2
-;Studnia Zombie - kontynuacja
+*title "Studnia Zombie - kontynuacja"
 *date 2022.08.11
 *team Karol Makowski (szkic Qave), Tomasz Olczak (DistoX2), Jakub Nowak
 *instrument compass "DistoX2"
@@ -16,9 +16,14 @@
 7	8	6.318	263.568	84.023
 8	9	2.981	255.222	29.599
 9	10	2.109	275.746	77.845
+3	3b	2.648	23.016	-10.789	; domiar do waskiego meandra
 ; podlaczyc punkt 10 do punktu 15 z pliku StZombie.svx (ostatni 'X' na scianie, ok. 2 m nad dnem studni)
-;10	11	1.718	254.744	-19.100	; Jakub Nowak podal orientacyjna lokalizacje punktu (brak spraya w sesji Zombie - punkty oznaczne 'X-ami')
-;11	12	13.462	301.170	71.477
+*begin
+*flags duplicate
+10	11	1.718	254.744	-19.100	; Jakub Nowak podal orientacyjna lokalizacje punktu (brak spraya w sesji Zombie - punkty oznaczne 'X-ami')
+11	12	13.462	301.170	71.477
+*end
+
 *flags splay
 0	.	4.365	13.431	-9.388
 0	.	2.388	4.861	0.884
@@ -33,7 +38,6 @@
 2	.	1.196	143.734	-49.993
 2	.	2.058	160.801	-16.683
 3	.	0.900	321.850	-12.689
-3	.	2.648	23.016	-10.789
 3	.	1.562	273.093	-6.010
 3	.	4.135	260.524	-3.384
 3	.	3.453	232.372	-4.433

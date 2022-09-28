@@ -1,10 +1,11 @@
 #units meters order=DAV
 #Units A=D V=D
 #Prefix zimnyMN4
+;Zimny Meander cd
 
 #date 2022-08-08
 ;team Robert Glod, Joanna Gaweska
-;Zimny Meander cd
+;
 ;0	1	4.700	165.789	-37.667	; zimnyMN3:20.15 - zimnyMN3:20.16
 ;1	2	2.936	96.471	-31.005	; zimnyMN3:20.16 - zimnyMN3:20.17
 ;2	3	3.617	54.778	-4.876	; zimnyMN3:20.17 - zimnyMN3:20.18

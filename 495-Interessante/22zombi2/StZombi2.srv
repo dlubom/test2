@@ -1,10 +1,11 @@
 #units meters order=DAV
 #Units A=D V=D
 #Prefix Zombi2
+;Studnia Zombie - kontynuacja
 
 #date 2022-08-11
 ;team Karol Makowski (szkic Qave), Tomasz Olczak (DistoX2)
-;Studnia Zombie - kontynuacja
+;
 0	1	4.094	4.389	-10.525
 1	2	2.667	279.126	64.332
 2	3	3.543	15.313	70.386
@@ -31,7 +32,7 @@
 2	-	1.196	143.734	-49.993
 2	-	2.058	160.801	-16.683
 3	-	0.900	321.850	-12.689
-3	-	2.648	23.016	-10.789
+3	3b	2.648	23.016	-10.789	; domiar do waskiego meandra
 3	-	1.562	273.093	-6.010
 3	-	4.135	260.524	-3.384
 3	-	3.453	232.372	-4.433

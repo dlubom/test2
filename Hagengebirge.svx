@@ -1,0 +1,22 @@
+*begin
+
+;*calibrate compass -2.35
+;*calibrate compass -1.439
+*cs UTM33N
+*cs out UTM33N
+*declination auto 352616.111	5265755.042	2093
+
+;*include goll_teren.svx
+;*include 495_Ciekawa\495.svx
+;*include 500_B3-6\500.svx
+;*include 501_Kitzgrabenwasserschacht\501.svx
+*include "408-Kitzgraben\[408] Kitzgraben.svx"
+*include "571-Jaskinia_Muminkow\[571] Muminkow.svx"
+*include "572-Querhohle\[572] Poprzeczna.svx"
+*include "573-Przekorna_Studnia\[573] Przekorna.svx"
+*include "574-Z_lustrami\[574] Z lustrami.svx"
+*include "575-Odwroconego_egzorcyzmu\[575] Odwroconego_Egzorcyzmu.svx"
+*include "576-Pod_Koziorozcem\[576] Pod koziorozcem.svx"
+*include "Moj_pierwszy_(drugi)_raz\Moj1raz.svx"
+
+*end

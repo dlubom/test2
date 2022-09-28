@@ -1,0 +1,15 @@
+encoding utf-8
+
+layout local
+  debug off
+  map-header 0 0 off
+  # symbol-hide group cave-centreline
+endlayout
+
+source "grmj33.th"
+
+export model -fmt survex -o "grmj33-th.3d"
+
+# export map -proj plan -layout local -o "grmj33-plan.pdf"
+
+# export map -proj extended -layout local -o "grmj33-ee.pdf"

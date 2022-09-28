@@ -1,10 +1,11 @@
 #units meters order=DAV
 #Units A=D V=D
 #Prefix Zombie
+;Studnia Zombie
 
 #date 2022-08-03
 ;team Lukasz Stankowski [Hawran] (szkic Qave), Tomasz Niemiec (DistoX2)
-;Studnia Zombie
+;
 ;0	1	4.534	205.005	2.203	; kr22:29.0 - kr22:30
 ;1	2	5.740	119.572	0.936	; kr22:30.0 - kr22:31
 kr22:31.0	2	0	0	0

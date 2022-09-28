@@ -1,0 +1,5 @@
+date:	2022-07-24
+team:	Karol Makowski (PDA), Joanna Przymus (DistoX2)
+
+Weryfikacja bledu w azymucie w pliku kitzgr02 (z punktu 1.8 do 1.9).
+Okazało się, że celowanie DistoX2 w ciasnym meandrze, z czołowką obok przyrządu pomiarowego, dało błąd azymytu równy 36.57 stopnia! 

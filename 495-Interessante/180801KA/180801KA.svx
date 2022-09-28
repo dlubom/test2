@@ -5,7 +5,12 @@
 *instrument clino "DistoX2"
 *instrument tape "DistoX2"
 *data normal from to compass clino tape
-;1_0	1_1	71.78	41.71	7.19	; powtorzony
+
+*begin
+*flags duplicate
+1_0	1_1	71.78	41.71	7.19	; powtorzony
+*end
+
 1_1	1_2	67.88	0.0	4.438
 1_2	1_3	72.25	35.02	3.053
 1_3	1_4	345.0	-5.74	8.753

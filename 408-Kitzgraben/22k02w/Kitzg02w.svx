@@ -1,0 +1,24 @@
+*begin k02w
+*title "Weryfikacja azymutu w sesji k02 (odcinek 1_8 - 1_9)"
+*date 2022.07.24
+*team Karol Makowski (palm), Joanna Przymus (DistoX2)
+*instrument compass "DistoX2"
+*instrument clino "DistoX2"
+*instrument tape "DistoX2"
+*data normal from to compass clino tape ignoreall
+
+*begin
+*flags duplicate
+1_0	1_1	332.81	1.6	2.932
+1_1	1_2	264.85	-4.5	1.809
+*end
+
+; punkt 1_2 podlaczyc do punktu 1_8 sesji kitzgr02 albo do punktu 1_8 sesji k02p
+1_2	1_3	349.59	-0.88	3.304
+
+*begin
+*flags duplicate
+1_3	1_4	341.71	-83.36	5.426
+*end
+
+*end k02w

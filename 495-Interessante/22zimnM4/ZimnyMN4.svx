@@ -1,13 +1,19 @@
 *begin Zimny_Meander_4
+*title "Zimny Meander 4"
 *date 2022.08.08
 *team Robert Glod, Joanna Gaweska
 *instrument compass "DistoX2"
 *instrument clino "DistoX2"
 *instrument tape "DistoX2"
 *data normal from to tape compass clino ignoreall
-;0	1	4.700	165.789	-37.667	; zimnyMN3:20_15 - zimnyMN3:20_16
-;1	2	2.936	96.471	-31.005	; zimnyMN3:20_16 - zimnyMN3:20_17
-;2	3	3.617	54.778	-4.876	; zimnyMN3:20_17 - zimnyMN3:20_18
+
+*begin
+*flags duplicate
+0	1	4.700	165.789	-37.667	; zimnyMN3:20_15 - zimnyMN3:20_16
+1	2	2.936	96.471	-31.005	; zimnyMN3:20_16 - zimnyMN3:20_17
+2	3	3.617	54.778	-4.876	; zimnyMN3:20_17 - zimnyMN3:20_18
+*end
+
 ; podlaczyc punkt 3 do punktu 20_18 z pliku zimnyMN3
 3	4	3.911	158.505	-42.808
 4	5	4.618	136.130	-27.314
