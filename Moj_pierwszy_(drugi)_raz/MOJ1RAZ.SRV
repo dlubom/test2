@@ -8,8 +8,8 @@
 #flag	0	/Entrance
 #FIX 	0	352650	5266814	1980	;UTM zone 33
 
-#date 2013-06-01	; nieprawidlowa data, powinno byc 2022-08-?? (pierwsza polowa sierpnia 2022)
-;team Magda Sitarz, Jakub Grubba
+#date 2022-08-01
+;team Magda Sitarz (DistoX2), Jakub Grubba (szkic Qave)
 ;
 0	1	3.120	16.441	-60.070
 1	2	3.621	148.824	-40.214

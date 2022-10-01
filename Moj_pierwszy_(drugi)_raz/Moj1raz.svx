@@ -1,11 +1,15 @@
 *begin Moj_pierwszy_drugi_raz
 *title "Moj pierwszy (drugi) raz"
 
+*cs UTM33N
+*cs out UTM33N
+*declination auto 352650	5266814	1980
+
 *entrance	0
 *fix 	0	352650	5266814	1980	;UTM zone 33
 
-*date 2013.06.01	; nieprawidlowa data, powinno byc 2022.08.?? (pierwsza polowa sierpnia 2022)
-*team Magda Sitarz, Jakub Grubba
+*date 2022.08.01
+*team team Magda Sitarz (DistoX2), Jakub Grubba (szkic Qave)
 *instrument tape "DistoX2"
 *instrument compass "DistoX2"
 *instrument clino "DistoX2"
