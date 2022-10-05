@@ -1,14 +1,19 @@
 *begin zlotowka
 *title "Otwor i studnie zlotowe"
 ; gmrj33_8
-*date 2022.07.31
+
+*cs UTM33N
+*cs out UTM33N
+*declination auto 352617.791	5265751.998	2089.4
 
 ;#note 0.1	/[576] Odwroconego Egzorcyzmu
 ;#flag	0.1	/GPS Location
 *entrance	0_1
-;#FIX	0.1	E13:02.518	N47:31.710	2093m	;dm
-*fix	0_1	352616.111	5265755.042	2093	;GPS Location UTM
+;#FIX	0.1	E13:02.518	N47:31.710	2093m	;dm (koordynaty z Garmina)
+;*fix	0_1	352616.111	5265755.042	2093	;GPS Location UTM (koordynaty z Garmina)
+*fix	0_1	352617.791	5265751.998	2089.4	;GPS Location UTM (koordynaty z SAGIS)
 
+*date 2022.07.31
 *team Jagna Kicyla (szkic Qave), Grzegorz Gusiak (DistoX2)
 *instrument tape "DistoX2"
 *instrument compass "DistoX2"

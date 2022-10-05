@@ -3,7 +3,7 @@
 
 *cs UTM33N
 *cs out UTM33N
-*declination auto 352650	5266814	1980
+*declination auto	352650	5266814	1980
 
 *entrance	0
 *fix 	0	352650	5266814	1980	;UTM zone 33

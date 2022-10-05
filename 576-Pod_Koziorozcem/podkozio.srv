@@ -5,7 +5,9 @@
 
 #note 0	/[575] Pod Koziorozcem
 #flag	0	/GPS Location
-#FIX  0   E13:02.534  N47:31.692   2050m     ;dm	;bledna wysokosc
+;#FIX	0	E13:02.534	N47:31.692	2050m	;dm 	;bledna wysokosc (koordynaty ze smartfona)
+#FIX 	0	E13:02.5338	N47:31.69032	2083.1m	;dm 	(koordynaty z SAGIS)
+
 
 #date 2022-07-27
 ;team Jagna Kicyla (DistoX2), Magda Dacy (szkic Qave)
