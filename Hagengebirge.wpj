@@ -1787,7 +1787,7 @@
 .BOOK	[575] Odwroconego Egzorcyzmu
 .NAME	ODWREGZ
 .PATH	575-Odwroconego_egzorcyzmu\otworowe
-.STATUS	9
+.STATUS	8
 .SURVEY	2022-08-13 - Partie przyotworowe
 .NAME	PPRZYOTW
 .PATH	..\Pprzyotw

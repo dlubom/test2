@@ -9,7 +9,7 @@
 *fix 	0	352650	5266814	1980	;UTM zone 33
 
 *date 2022.08.01
-*team team Magda Sitarz (DistoX2), Jakub Grubba (szkic Qave)
+*team Magda Sitarz (DistoX2), Jakub Grubba (szkic Qave)
 *instrument tape "DistoX2"
 *instrument compass "DistoX2"
 *instrument clino "DistoX2"
