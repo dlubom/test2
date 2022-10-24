@@ -1,4 +1,9 @@
 *begin 574_Z_lustrami
+
+*cs UTM33N
+*cs out UTM33N
+*declination auto	352617.699	5265818.017	2086
+
 *entrance 1_0	; Main Entrance
 ;#FIX  1.0   E13:02.518  N47:31.744   2086m     ;dm
 *fix	1_0	352617.699	5265818.017	2086	;GPS Location UTM

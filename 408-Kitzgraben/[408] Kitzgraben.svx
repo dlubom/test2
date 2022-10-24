@@ -1,8 +1,8 @@
 *begin 408_Kitzgraben
 
-;*cs UTM33N
-;*cs out UTM33N
-;*declination auto 353906.840	5266169.293	2000
+*cs UTM33N
+*cs out UTM33N
+*declination auto	353906.840	5266169.293	2000
 
 
 	*include 20k01\Kitzg01.svx
