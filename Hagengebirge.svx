@@ -7,6 +7,7 @@
 	
 	*include "408-Kitzgraben\[408] Kitzgraben.svx"
 	*include "482-Hohle_der_blaunen_Nebel\482.svx"
+	*include "494_Respektschacht\[494] Respektschascht.svx"
 	*include "500-B3-6\[500] B3-6.svx"
 	*include "571-Jaskinia_Muminkow\[571] Muminkow.svx"
 	*include "572-Querhohle\[572] Poprzeczna.svx"

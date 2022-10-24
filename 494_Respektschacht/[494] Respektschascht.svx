@@ -1,0 +1,18 @@
+*begin 494_Respektschacht
+*case preserve
+
+	*include 494_CG.svx
+	*include 494_ST.svx
+	*include 494_OBG.svx
+	*include 494_OMD.svx
+	*include 494_PS.svx
+
+
+
+	*equate Studnia.RC15	Ciag_glowny.RC15
+	*equate Ponizej_studni.RC18	Studnia.RC18
+	*equate Obok_mysiej_g.RC17	Studnia.RC17
+	*equate Obok_mysiej_d.RC18	Studnia.RC18
+
+
+*end 494_Respektschacht

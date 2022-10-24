@@ -1,0 +1,29 @@
+*begin Ciag_glowny
+*title "Respektschacht [494]"
+
+*cs UTM33N
+*cs out UTM33N
+*declination auto	352650	5266814	1980
+
+*entrance	RC1
+;#FIX	RC1	E13:03.533	N47:31.848	2025m	;dm
+*fix	RC1	353895.799	5265978.674	2025	;UTM zone 33N
+
+*date 2007.08.20
+*team Dariusz Bartoszewski, Krzysztof Jablonski, Marcin Kosecki
+*data normal from to tape compass clino ignoreall
+*case preserve
+RC1	RC2	4.95	245.00	-46.00
+RC2	RC4	56.70	0.00	-90.00
+RC4	RC5	3.08	340.00	-20.00
+RC5	RC6	4.48	0.00	-70.00
+RC6	RC7	3.29	303.00	-47.00
+RC7	RC8	1.39	225.00	-13.00
+RC8	RC9	11.86	0.00	-90.00
+RC9	RC10	1.24	0.00	-90.00
+RC9	RC11	5.25	310.00	0.00
+RC11	RC12	17.44	0.00	-90.00
+RC12	RC13	7.27	264.00	4.00
+RC13	RC14	2.13	320.00	25.00
+RC14	RC15	1.07	220.00	10.00
+*end Ciag_glowny
