@@ -6,7 +6,7 @@
 #note 0	/Moj pierwszy (drugi) raz
 #flag	0	/GPS Location
 #flag	0	/Entrance
-#FIX 	0	352650	5266814	1980	;UTM zone 33
+#FIX 	0	352651.14	5266813.91	1978.1	;UTM zone 33N (zweryfikowane w SAGIS przez Marka Wierzbowskiego)
 
 #date 2022-08-01
 ;team Magda Sitarz (DistoX2), Jakub Grubba (szkic Qave)

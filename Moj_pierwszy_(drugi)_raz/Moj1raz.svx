@@ -3,10 +3,10 @@
 
 *cs UTM33N
 *cs out UTM33N
-*declination auto	352650	5266814	1980
+*declination auto	352651.14	5266813.91	1978.1
 
 *entrance	0
-*fix 	0	352650	5266814	1980	;UTM zone 33
+*fix 	0	352651.14	5266813.91	1978.1	;UTM zone 33N (zweryfikowane w SAGIS przez Marka Wierzbowskiego)
 
 *date 2022.08.01
 *team Magda Sitarz (DistoX2), Jakub Grubba (szkic Qave)
