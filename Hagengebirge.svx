@@ -1,12 +1,20 @@
 *begin
+	*case preserve
 
 	*cs UTM33N
 	*cs out UTM33N
-	;*declination auto 352616.111	5265755.042	2093
+;	*declination auto	352471.604	5266842.907	1935	; Baza
 	
 	
+	*include "Baza\BAZAPK.svx"
+	*include "30-Tantalhohle\[30] Tantalhohle.svx"
+	*include "158_Atschiloch\[158] Atschiloch.svx"
+	*include "280-Alvermannschacht\[280] Alvermannschacht.svx"
+	*include "340\[340] SR.svx"
+	*include "343\[343] SV.svx"
 	*include "408-Kitzgraben\[408] Kitzgraben.svx"
-	*include "482-Hohle_der_blaunen_Nebel\482.svx"
+	*include "421-Tschikpausenhohle\[421] Tschikpausenhohle.svx"
+	*include "482-Hohle_der_blaunen_Nebel\[482] Hohle_der_blaunen_Nebel.svx"
 	*include "494_Respektschacht\[494] Respektschascht.svx"
 	*include "500-B3-6\[500] B3-6.svx"
 	*include "571-Jaskinia_Muminkow\[571] Muminkow.svx"

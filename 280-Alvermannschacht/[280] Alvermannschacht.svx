@@ -1,0 +1,18 @@
+*begin 280_Alvermannschacht
+*case preserve
+
+	*include 280_A1S.svx
+	*include 280_ALS2.svx
+	*include 280ALS3.svx
+	*include 280_ALS4.svx
+	*include 280ALS5.svx
+	*include 280ALS6.svx
+
+
+	*equate ALS2.al16	A1S.al16
+	*equate ALS3.al41	ALS2.al41
+	*equate ALS4.al59	ALS3.al59
+	*equate ALS5.al77	ALS4.al77
+	*equate ALS6.al93	ALS5.al93
+
+*end 280_Alvermannschacht

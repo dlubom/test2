@@ -1,0 +1,22 @@
+*begin ALS6
+*title "Alvermann - sesja 6"
+
+*date 2003.08.02
+*team Pawel Skoworodko, William Hunt, Marcin Kaniewski
+*data normal from to tape compass clino ignoreall
+*case preserve
+al94	al93	8.50	320.00	0.00
+al95	al94	6.20	324.00	0.00
+al96	al95	4.70	0.00	90.00
+al97	al96	7.80	332.00	0.00
+al98	al97	5.30	0.00	90.00
+al99	al98	6.25	350.00	0.00
+al100	al99	19.70	0.00	90.00
+al101	al100	5.00	278.00	0.00
+al102	al101	1.40	0.00	90.00
+al103	al102	10.10	360.00	0.00
+al104	al103	5.10	360.00	-10.00
+al105	al104	5.30	348.00	52.00
+al106	al105	8.50	344.00	0.00
+al107	al106	6.00	294.00	82.00
+*end ALS6

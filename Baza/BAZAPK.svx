@@ -1,0 +1,10 @@
+*begin _BAZA
+*title "Baza"
+
+;#FIX   baza   E13:02.381  N47:32.295   1935m     ;dm
+*fix	baza	352471.604	5266842.907	1935	;UTM zone 33N
+
+*data normal from to tape compass clino ignoreall
+*case preserve
+baza	baza1 10	0	0
+*end _BAZA

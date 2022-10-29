@@ -1,0 +1,6 @@
+*begin 30_Tantalhohle
+*case preserve
+
+	*include 1.svx
+
+*end 30_Tantalhohle

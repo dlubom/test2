@@ -1,0 +1,26 @@
+*begin ALS4
+*title "Alvermann - sesja 4"
+
+*date 2003.08.03
+*team Marcin Zamorski, Jaroslaw Jezusek, Maja Juniewicz
+*data normal from to tape compass clino ignoreall
+*case preserve
+al59	al60	1.40	222	-4.00
+al60	al61	7.88	106	-48.00
+al61	al62	1.35	36	18.00
+al62	al63	14.30	96	-82.00
+al63	al64	10.08	348	-84.00
+al64	al65	12.83	360	14.00
+al65	al66	4.18	40	-80.00
+al66	al67	2.39	352	-42.00
+al67	al68	18.20	360	-90.00
+al68	al69	6.37	76	0.00
+al69	al70	2.97	330	-5.00
+al70	al71	4.69	112	6.00
+al71	al72	1.10	130	-18.00
+al72	al73	2.96	136	-50.00
+al73	al74	10.57	118	-64.00
+al74	al75	5.16	18	4.00
+al75	al76	19.70	10	-86.00
+al76	al77	15.74	360	-90.00
+*end ALS4

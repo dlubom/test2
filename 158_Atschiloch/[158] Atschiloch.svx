@@ -1,0 +1,10 @@
+*begin 158_Atschiloch
+*case preserve
+
+	*include 900810.svx
+	*include 2019-08-02achiloch.svx
+
+
+	*equate a190802.1_27	900810.31
+
+*end 158_Atschiloch
