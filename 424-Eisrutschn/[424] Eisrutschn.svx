@@ -1,0 +1,9 @@
+*begin 424_Eisrutschn
+	*case preserve
+
+	*include aust.svx
+	*include m.svx
+
+	*equate martaklipimiprzodki.22	aust.7
+
+*end 424_Eisrutschn

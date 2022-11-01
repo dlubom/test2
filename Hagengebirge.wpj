@@ -73,7 +73,7 @@
 .BOOK	[30] Tantalhohle
 .NAME	30TANT
 .PATH	30-Tantalhohle
-.STATUS	8
+.STATUS	10
 .SURVEY	1
 .NAME	1
 .STATUS	8
@@ -240,7 +240,7 @@
 .BOOK	[424] Eisrutschn
 .NAME	424E
 .PATH	424-Eisrutschn
-.STATUS	8
+.STATUS	9
 .SURVEY	aust
 .NAME	AUST
 .STATUS	8
@@ -251,7 +251,7 @@
 .NAME	lodowa przekroj 2020.pdf
 .STATUS	327688
 .SURVEY	marta klipi mi przodki
-.NAME	M01
+.NAME	M
 .STATUS	8
 .ENDBOOK
 .BOOK	[425] St. Blasius-Labyrinth
@@ -652,36 +652,36 @@
 .SURVEY	2022-08-11 - Studnia Zombie 2
 .NAME	STZOMBI2
 .PATH	495-Interessante\22zombi2
-.STATUS	10
+.STATUS	8
 .SURVEY	2022-08-08 - Zimny Meander 4
 .NAME	ZIMNYMN4
 .PATH	495-Interessante\22zimnM4
-.STATUS	10
+.STATUS	8
 .SURVEY	2022-08-03 - Studnia Zombie
 .NAME	STZOMBIE
 .PATH	495-Interessante\22zombie
-.STATUS	10
+.STATUS	8
 .SURVEY	2022-07-31 - Nowa Nadzieja
 .NAME	NOWNADZI
 .PATH	495-Interessante\22nNadz
-.STATUS	10
+.STATUS	8
 .SURVEY	2022-07-31 - Ciagi z Blotnym Bajorem
 .NAME	BLBAJORO
 .PATH	495-Interessante\22blBajo
-.STATUS	10
+.STATUS	8
 .SURVEY	2022-07-30 - Zachodnie gówno 1
 .NAME	ZACHGOW1
 .PATH	495-Interessante\22zachG1
-.STATUS	10
+.STATUS	8
 .REF	5266134.620 353373.320 33 -1.439 1940 1 47 31 55.505 13 3 6.818 27 "WGS 1984"
 .SURVEY	2022-07-26 - Zimny Meander 3
 .NAME	ZIMNYMN3
 .PATH	495-Interessante\22zimnM3
-.STATUS	10
+.STATUS	8
 .SURVEY	2022-07-26 - Meander Chorych Snów 2
 .NAME	CHORESN2
 .PATH	495-Interessante\22MNCHSN
-.STATUS	10
+.STATUS	8
 .SURVEY	Studnia pod Wisz¹c¹ Pó³k¹
 .NAME	STPWIP
 .PATH	495-Interessante
@@ -852,9 +852,11 @@
 .SURVEY	2021-08-09 - Zimny Meander 2
 .NAME	ZIMNYMN2
 .PATH	495-Interessante\21zimnM2
+.STATUS	8
 .SURVEY	2021-08-06 - Zimny Meander 1
 .NAME	ZIMNYMN
 .PATH	495-Interessante\21zimnM1
+.STATUS	8
 .SURVEY	2021-08-06 - Partie z m³otkiem
 .NAME	MLOTEK2
 .PATH	495-Interessante\21mlotek
@@ -862,6 +864,7 @@
 .SURVEY	2021-08-04 - Meander Stropowy 3
 .NAME	21STROP3
 .PATH	495-Interessante\21strop3
+.STATUS	8
 .SURVEY	2021-07-31 - Powrót do Baltazara G¹bki
 .NAME	21BALTGA
 .PATH	495-Interessante\21BaltGa
@@ -869,9 +872,11 @@
 .SURVEY	2021-07-31 - Meander Stropowy 2
 .NAME	21STROP2
 .PATH	495-Interessante\21strop2
+.STATUS	8
 .SURVEY	2021-07-26 - Meander Stropowy 1
 .NAME	21STROP1
 .PATH	495-Interessante\21strop1
+.STATUS	8
 .SURVEY	2020-08-11 - Studnia pod mlotkiem
 .NAME	STPODM
 .PATH	495-Interessante\200811SM
@@ -967,6 +972,7 @@
 .SURVEY	2018-08-01 - Meander Stropowy
 .NAME	180801KA
 .PATH	495-Interessante\180801KA
+.STATUS	8
 .SURVEY	2018-07-29 - Meander Razy Kilka
 .NAME	180729RK
 .PATH	495-Interessante\180729RK
@@ -978,6 +984,7 @@
 .SURVEY	2018-07-26 - Meander Stropowy
 .NAME	180726MS
 .PATH	495-Interessante\180726K3
+.STATUS	8
 .SURVEY	2017-08-26 - Po³¹czenie
 .NAME	170726MK
 .PATH	495-Interessante\170726MK
@@ -1005,15 +1012,19 @@
 .SURVEY	2017-08-08 - Meander Podstropowy
 .NAME	PODSTROP
 .PATH	495-Interessante\170808KM
+.STATUS	8
 .SURVEY	2017-08-04 - Meander Za Blotospadem 3
 .NAME	170804KM
 .PATH	495-Interessante\170804KM
+.STATUS	8
 .SURVEY	2017-07-30 - Meander Za Blotospadem 2
 .NAME	170730ME
 .PATH	495-Interessante\170730ME
+.STATUS	8
 .SURVEY	2017-07-26 - Meander Za Blotospadem 1
 .NAME	170726ME
 .PATH	495-Interessante\170726ME
+.STATUS	8
 .SURVEY	2016-08-10 - Bez karty
 .NAME	160810BK
 .PATH	495-Interessante\160810bk
@@ -1825,6 +1836,7 @@
 .SURVEY	2022-08-13 - Partie przyotworowe
 .NAME	PPRZYOTW
 .PATH	..\Pprzyotw
+.STATUS	8
 .SURVEY	2022-08-10 - Trawers nad prozkiem
 .NAME	TRAWERS
 .PATH	..\Trawers
@@ -1853,7 +1865,7 @@
 .BOOK	[576] Pod Koziorozcem
 .NAME	PODKOZI
 .PATH	576-Pod_Koziorozcem
-.STATUS	8
+.STATUS	9
 .SURVEY	2022-07-27 - Pod Koziorozcem
 .NAME	PODKOZIO
 .STATUS	8

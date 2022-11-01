@@ -14,6 +14,7 @@
 	*include "343\[343] SV.svx"
 	*include "408-Kitzgraben\[408] Kitzgraben.svx"
 	*include "421-Tschikpausenhohle\[421] Tschikpausenhohle.svx"
+	*include "424-Eisrutschn\[424] Eisrutschn.svx"
 	*include "482-Hohle_der_blaunen_Nebel\[482] Hohle_der_blaunen_Nebel.svx"
 	*include "494_Respektschacht\[494] Respektschascht.svx"
 	*include "500-B3-6\[500] B3-6.svx"
