@@ -1,4 +1,4 @@
-*begin Moj_pierwszy_drugi_raz
+*begin 577_Moj_pierwszy_raz
 *title "Moj pierwszy (drugi) raz"
 
 *cs UTM33N
@@ -95,5 +95,5 @@
 11	.	0.207	296.581	-22.083
 11	.	0.720	294.818	61.216
 11	.	0.759	80.085	-46.802
-*end Moj_pierwszy_drugi_raz
+*end 577_Moj_pierwszy_raz
 

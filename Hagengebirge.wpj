@@ -52,16 +52,6 @@
 .NAME	GERMAN_1
 .STATUS	8
 .ENDBOOK
-.BOOK	Moj pierwszy (drugi) raz
-.NAME	MOJ12RAZ
-.STATUS	520
-.REF	5266814.000 352650.000 33 -1.444 1980 1 47 32 16.910 13 2 31.423 27 "WGS 1984"
-.SURVEY	2022-08-01 Mój pierwszy (drugi) raz
-.NAME	MOJ1RAZ
-.PATH	Moj_pierwszy_(drugi)_raz
-.STATUS	520
-.REF	5266814.000 352650.000 33 -1.444 1980 1 47 32 16.910 13 2 31.423 27 "WGS 1984"
-.ENDBOOK
 .BOOK	Plynacych Kamieni
 .NAME	PLKAM
 .PATH	Plynacych-Kamieni
@@ -240,7 +230,7 @@
 .BOOK	[424] Eisrutschn
 .NAME	424E
 .PATH	424-Eisrutschn
-.STATUS	9
+.STATUS	8
 .SURVEY	aust
 .NAME	AUST
 .STATUS	8
@@ -1763,9 +1753,9 @@
 .NAME	FK13
 .STATUS	8
 .ENDBOOK
-.BOOK	[571] Jaskinia Muminkow
+.BOOK	[571] Jaskinia Muminkow / Muminshohle
 .NAME	571MUMIN
-.PATH	571-Jaskinia_Muminkow
+.PATH	571-Muminshohle
 .STATUS	8
 .REF	5266134.620 353373.320 33 -1.439 1940 1 47 31 55.505 13 3 6.818 27 "WGS 1984"
 .SURVEY	Jaskinia Muminków - przekrój.png
@@ -1795,9 +1785,9 @@
 .NAME	POPRZECZ
 .STATUS	8
 .ENDBOOK
-.BOOK	[573] Przekorna Studnia
+.BOOK	[573] Przekorna Studnia / Widerspenstige Hohle
 .NAME	PRZEKOR
-.PATH	573-Przekorna_Studnia
+.PATH	573-Widerspenstige_Hohle
 .STATUS	8
 .SURVEY	przekorna-ns.pdf
 .NAME	przekorna-ns.pdf
@@ -1815,9 +1805,9 @@
 .NAME	PRZEKORN
 .STATUS	8
 .ENDBOOK
-.BOOK	[574] Z lustrami
+.BOOK	[574] Z lustrami / Hohle mit Spiegeln
 .NAME	Z_LUSTRA
-.PATH	574-Z_lustrami
+.PATH	574-Hohle_mit_Spiegeln
 .STATUS	8
 .SURVEY	JaskiniaZLustrami_Przekroj.png
 .NAME	JaskiniaZLustrami_Przekroj.png
@@ -1829,9 +1819,9 @@
 .NAME	LUSTRA
 .STATUS	8
 .ENDBOOK
-.BOOK	[575] Odwroconego Egzorcyzmu
+.BOOK	[575] Odwroconego Egzorcyzmu / Umgekehrter Exorzismus
 .NAME	ODWREGZ
-.PATH	575-Odwroconego_egzorcyzmu\otworowe
+.PATH	575-Umgekehrter_Exorzismus\otworowe
 .STATUS	8
 .SURVEY	2022-08-13 - Partie przyotworowe
 .NAME	PPRZYOTW
@@ -1862,13 +1852,23 @@
 .PATH	..\poziom1
 .STATUS	8
 .ENDBOOK
-.BOOK	[576] Pod Koziorozcem
+.BOOK	[576] Pod Koziorozcem / Unter dem Steinbock
 .NAME	PODKOZI
-.PATH	576-Pod_Koziorozcem
-.STATUS	9
+.PATH	576-Unter_dem_Steinbock
+.STATUS	8
 .SURVEY	2022-07-27 - Pod Koziorozcem
 .NAME	PODKOZIO
 .STATUS	8
+.ENDBOOK
+.BOOK	[577] Moj pierwszy raz / Das Erste Mal
+.NAME	MOJ12RAZ
+.STATUS	520
+.REF	5266814.000 352650.000 33 -1.444 1980 1 47 32 16.910 13 2 31.423 27 "WGS 1984"
+.SURVEY	2022-08-01 Mój pierwszy (drugi) raz
+.NAME	MOJ1RAZ
+.PATH	577-Das_Erste_Mal
+.STATUS	520
+.REF	5266814.000 352650.000 33 -1.444 1980 1 47 32 16.910 13 2 31.423 27 "WGS 1984"
 .ENDBOOK
 .SURVEY	Poziomice
 .NAME	DEM

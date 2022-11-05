@@ -18,12 +18,12 @@
 	*include "482-Hohle_der_blaunen_Nebel\[482] Hohle_der_blaunen_Nebel.svx"
 	*include "494_Respektschacht\[494] Respektschascht.svx"
 	*include "500-B3-6\[500] B3-6.svx"
-	*include "571-Jaskinia_Muminkow\[571] Muminkow.svx"
+	*include "571-Muminshohle\[571] Muminkow.svx"
 	*include "572-Querhohle\[572] Poprzeczna.svx"
-	*include "573-Przekorna_Studnia\[573] Przekorna.svx"
-	*include "574-Z_lustrami\[574] Z lustrami.svx"
-	*include "575-Odwroconego_egzorcyzmu\[575] Odwroconego_Egzorcyzmu.svx"
-	*include "576-Pod_Koziorozcem\[576] Pod koziorozcem.svx"
-	*include "Moj_pierwszy_(drugi)_raz\Moj1raz.svx"
+	*include "573-Widerspenstige_Hohle\[573] Przekorna.svx"
+	*include "574-Hohle_mit_Spiegeln\[574] Z lustrami.svx"
+	*include "575-Umgekehrter_Exorzismus\[575] Odwroconego_Egzorcyzmu.svx"
+	*include "576-Unter_dem_Steinbock\[576] Pod koziorozcem.svx"
+	*include "577-Das_Erste_Mal\[577] Moj1raz.svx"
 
 *end
