@@ -30,7 +30,7 @@
 
 
 	*equate k02.1_0	k01.1_14
-	*equate k02w.1_2	k02.1_8	; popwawka bledu w azymucie odcinka 1_8 - 1_9 z sesji k02 (zostal zastapiony odpowiednim odcinkiem z sesji k02w)
+	*equate k02w.1_2	k02.1_8	; poprawka bledu w azymucie odcinka 1_8 - 1_9 z sesji k02 (zostal zastapiony odpowiednim odcinkiem z sesji k02w)
 	*equate k02.1_9	k02w.1_3
 ;	*equate k02.1_17	k02p.1_17
 	*equate k02p.1_17	k02.1_17
@@ -45,11 +45,9 @@
 	*equate k07.0	k04p.1_10
 	*equate k08.0	k07.22
 	*equate k09.0	k07.12
-
 	*equate k10.3	k07.28
 	*equate k11.3	k10.32
 	*equate k12.3	k11.33
-	
 	*equate k13.0	k07.12
 	*equate k14.2	k12.33
 	*equate k15.3	k12.6
