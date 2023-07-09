@@ -1,4 +1,4 @@
-;WALLS Project file
+;WALLS Project File
 .BOOK	Hagengebirge Project
 .NAME	PROJECT
 .STATUS	2563
@@ -46,7 +46,7 @@
 .BOOK	Plynacych Kamieni
 .NAME	PLKAM
 .PATH	Plynacych-Kamieni
-.STATUS	9
+.STATUS	8
 .SURVEY	Plynacych Kamieni
 .NAME	KAMIEN
 .STATUS	8
@@ -183,7 +183,7 @@
 .ENDBOOK
 .BOOK	[480] Comeback-hohle A3-36
 .NAME	480CB
-.STATUS	2568
+.STATUS	2569
 .REF	5266455.470 352628.310 33 -1.446 1981 1 47 32 5.285 13 2 30.819 27 "WGS 1984"
 .SURVEY	480_Comeback-hohle_profile_2002.jpg
 .NAME	480_Comeback-hohle_profile_2002.jpg
@@ -229,7 +229,7 @@
 .ENDBOOK
 .BOOK	[482] Niebieskich Mgie³ Hohle der blaunen Nebel
 .NAME	482BL
-.STATUS	1353
+.STATUS	1352
 .SURVEY	482_Hohle_der_blaunen_Nebel_plan&profile_2003.gif
 .NAME	482_Hohle_der_blaunen_Nebel_plan&profile_2003.gif
 .PATH	482-Hohle_der_blaunen_Nebel

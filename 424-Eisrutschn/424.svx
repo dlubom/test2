@@ -1,0 +1,14 @@
+*case preserve
+*begin 424-Eisrutschn
+
+*cs UTM33N
+*cs out UTM33N
+*declination auto	353169.357	5264942.323	2072
+
+
+*include aust.svx
+*include m.svx
+
+*equate martaklipimiprzodki.22	aust.7
+
+*end 424-Eisrutschn

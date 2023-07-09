@@ -1,0 +1,19 @@
+*case preserve
+*begin 343
+*title "343"
+
+*cs UTM33N
+*cs out UTM33N
+*declination auto	352974.982	5265699.670	2022
+
+*entrance	343
+;#FIX	343	E13:02.80500	N47:31.68500	2022m	;dm
+*fix	343	352974.982	5265699.670	2022	;UTM zone 33N
+
+*date 2010.07.28
+*team Adam Mioduszewski - rysowanie, Radoslaw Paternoga - DistoX
+*data normal from to tape compass clino ignoreall
+343	1	15.89	211	-82.7
+1	2	2.69	176.,8	-13.7
+2	3	2	340.8	-82.5
+*end 343

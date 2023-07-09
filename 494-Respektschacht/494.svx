@@ -1,0 +1,21 @@
+*case preserve
+*begin 494-Respektschacht
+
+*cs UTM33N
+*cs out UTM33N
+*declination auto	352650	5266814	1980
+
+
+*include 494_CG.svx
+*include 494_ST.svx
+*include 494_OBG.svx
+*include 494_OMD.svx
+*include 494_PS.svx
+
+
+*equate Studnia.RC15	Ciag_glowny.RC15
+*equate Ponizej_studni.RC18	Studnia.RC18
+*equate Obok_mysiej_g.RC17	Studnia.RC17
+*equate Obok_mysiej_d.RC18	Studnia.RC18
+
+*end 494-Respektschacht

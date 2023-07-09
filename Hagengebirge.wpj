@@ -60,9 +60,9 @@
 .NAME	KAMIEN
 .STATUS	8
 .ENDBOOK
-.BOOK	[30] Tantalhohle
+.BOOK	[030] Tantalhohle
 .NAME	30TANT
-.PATH	30-Tantalhohle
+.PATH	030-Tantalhohle
 .STATUS	10
 .SURVEY	1
 .NAME	1
@@ -70,7 +70,7 @@
 .ENDBOOK
 .BOOK	[158] Atschiloch
 .NAME	158AT
-.PATH	158_Atschiloch
+.PATH	158-Atschiloch
 .STATUS	8
 .SURVEY	190802
 .NAME	190802
@@ -119,7 +119,7 @@
 .BOOK	[408] Kitzgraben
 .NAME	KITZGR
 .PATH	408-Kitzgraben
-.STATUS	1573384
+.STATUS	1573385
 .REF	5266134.622 353373.317 33 -1.437 2000 1 47 31 55.505 13 3 6.818 27 "WGS 1984"
 .SURVEY	2020-08-01 - k01 (partie austriackie)
 .NAME	KITZG01
@@ -616,23 +616,23 @@
 .STATUS	327688
 .SURVEY	Ciag glowny
 .NAME	494_CG
-.PATH	494_Respektschacht
+.PATH	494-Respektschacht
 .STATUS	2560
 .SURVEY	obok_Mysiej_d
 .NAME	494_OMD
-.PATH	494_Respektschacht
+.PATH	494-Respektschacht
 .STATUS	2568
 .SURVEY	obok_mysiej_g
 .NAME	494_OBG
-.PATH	494_Respektschacht
+.PATH	494-Respektschacht
 .STATUS	2560
 .SURVEY	ponizej_studni
 .NAME	494_PS
-.PATH	494_Respektschacht
+.PATH	494-Respektschacht
 .STATUS	2560
 .SURVEY	Studnia
 .NAME	494_ST
-.PATH	494_Respektschacht
+.PATH	494-Respektschacht
 .STATUS	2560
 .ENDBOOK
 .BOOK	[495] Ciekawa Interessante Höhle
@@ -1822,7 +1822,7 @@
 .BOOK	[575] Odwroconego Egzorcyzmu / Umgekehrter Exorzismus
 .NAME	ODWREGZ
 .PATH	575-Umgekehrter_Exorzismus\otworowe
-.STATUS	8
+.STATUS	9
 .SURVEY	2022-08-13 - Partie przyotworowe
 .NAME	PPRZYOTW
 .PATH	..\Pprzyotw

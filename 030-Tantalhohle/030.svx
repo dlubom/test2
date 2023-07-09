@@ -1,0 +1,10 @@
+*case preserve
+*begin 030-Tantalhohle
+
+*cs UTM33N
+*cs out UTM33N
+*declination auto	355462.725	5262084.817	1710
+
+*include 1.svx
+
+*end 030-Tantalhohle

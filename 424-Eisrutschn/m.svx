@@ -1,8 +1,8 @@
 *begin martaklipimiprzodki
 
-*cs UTM33N
-*cs out UTM33N
-*declination auto	353169.357	5264942.323	2072
+;*cs UTM33N
+;*cs out UTM33N
+;*declination auto	353169.357	5264942.323	2072
 
 ;#note 31	/[424] Eisrutschn
 *entrance	31

@@ -1,29 +1,33 @@
+*case preserve
 *begin
-	*case preserve
 
-	*cs UTM33N
-	*cs out UTM33N
-;	*declination auto	352471.604	5266842.907	1935	; Baza
+*cs UTM33N
+*cs out UTM33N
+;*declination auto	352471.604	5266842.907	1935	; Baza
 	
 	
-	*include "Baza\BAZAPK.svx"
-	*include "30-Tantalhohle\[30] Tantalhohle.svx"
-	*include "158_Atschiloch\[158] Atschiloch.svx"
-	*include "280-Alvermannschacht\[280] Alvermannschacht.svx"
-	*include "340\[340] SR.svx"
-	*include "343\[343] SV.svx"
-	*include "408-Kitzgraben\[408] Kitzgraben.svx"
-	*include "421-Tschikpausenhohle\[421] Tschikpausenhohle.svx"
-	*include "424-Eisrutschn\[424] Eisrutschn.svx"
-	*include "482-Hohle_der_blaunen_Nebel\[482] Hohle_der_blaunen_Nebel.svx"
-	*include "494_Respektschacht\[494] Respektschascht.svx"
-	*include "500-B3-6\[500] B3-6.svx"
-	*include "571-Muminshohle\[571] Muminkow.svx"
-	*include "572-Querhohle\[572] Poprzeczna.svx"
-	*include "573-Widerspenstige_Hohle\[573] Przekorna.svx"
-	*include "574-Hohle_mit_Spiegeln\[574] Z lustrami.svx"
-	*include "575-Umgekehrter_Exorzismus\[575] Odwroconego_Egzorcyzmu.svx"
-	*include "576-Unter_dem_Steinbock\[576] Pod koziorozcem.svx"
-	*include "577-Das_Erste_Mal\[577] Moj1raz.svx"
+*include Baza\BAZAPK.svx
+*include 030-Tantalhohle\030.svx
+*include 158-Atschiloch\158.svx
+*include 280-Alvermannschacht\280.svx
+*include 340\340.svx
+*include 343\343.svx
+*include 408-Kitzgraben\408.svx
+*include 421-Tschikpausenhohle\421.svx
+*include 424-Eisrutschn\424.svx
+
+*include 482-Hohle_der_blaunen_Nebel\482.svx
+
+*include 494-Respektschacht\494.svx
+
+*include 500-B3-6\500.svx
+
+*include 571-Muminshohle\571.svx
+*include 572-Querhohle\572.svx
+*include 573-Widerspenstige_Hohle\573.svx
+*include 574-Hohle_mit_Spiegeln\574.svx
+*include 575-Umgekehrter_Exorzismus\575.svx
+*include 576-Unter_dem_Steinbock\576.svx
+*include 577-Das_Erste_Mal\577.svx
 
 *end
