@@ -2,9 +2,14 @@
 *begin 030-Tantalhohle
 
 *cs UTM33N
-*cs out UTM33N
+;*cs out UTM33N
 *declination auto	355462.725	5262084.817	1710
 
-*include 1.svx
+*entrance 01-eingang
+
+*include 1\1.svx
+
+*equate 01-eingang	1.0		; entrance 01
+
 
 *end 030-Tantalhohle

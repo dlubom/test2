@@ -1,0 +1,9 @@
+*cs UTM33N
+*cs out UTM33N
+
+*declination auto 352352.891	5266962.668	1977.3
+
+*include 280.svx
+
+;*fix	280-Alvermannschacht.01-eingang	0	0	0
+*fix	280-Alvermannschacht.01-eingang	352352.891	5266962.668	1977.3	;GPS Location UTM zone 33N`

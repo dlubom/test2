@@ -1,0 +1,8 @@
+*cs UTM33N
+*cs out UTM33N
+
+*declination auto	355462.725	5262084.817	1710
+
+*include 030.svx		; otwor
+;*fix	030-Tantalhohle.01-eingang	0	0	0
+*fix	030-Tantalhohle.01-eingang	355462.725	5262084.817	1710	;UTM zone 33N

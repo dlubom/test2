@@ -1,0 +1,9 @@
+*cs UTM33N
+*cs out UTM33N
+
+*declination auto	354306.335	5265881.318	2025
+
+*include 158.svx
+
+;*fix	158-Atschiloch.01-eingang	0	0	0
+*fix	158-Atschiloch.01-eingang	354306.335	5265881.318	2025	;GPS Location UTM

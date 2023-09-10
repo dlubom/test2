@@ -2,11 +2,11 @@
 *entrance 0
 
 *cs UTM33N
-*cs out UTM33N
+;*cs out UTM33N
 *declination auto	354306.335	5265881.318	2025
 
 ;#FIX	0	E13:03.862	N47:31.801	2025m	;dm
-*fix	0	354306.335	5265881.318	2025	;;UTM zone 33N
+;*fix	0	354306.335	5265881.318	2025	;;UTM zone 33N
 
 *date 1990.08.10
 *data normal from to tape clino compass

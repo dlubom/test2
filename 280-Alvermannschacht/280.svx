@@ -1,14 +1,21 @@
 *case preserve
 *begin 280-Alvermannschacht
 
-*include 280_A1S.svx
-*include 280_ALS2.svx
-*include 280ALS3.svx
-*include 280_ALS4.svx
-*include 280ALS5.svx
-*include 280ALS6.svx
+*cs UTM33N
+;*cs out UTM33N
 
+*declination auto 353012.571	5264558.541	2136.0
 
+*entrance 01-eingang
+
+*include 280_ALS1\280_A1S.svx
+*include 280_ALS2\280_ALS2.svx
+*include 280_ALS3\280ALS3.svx
+*include 280_ALS4\280_ALS4.svx
+*include 280_ALS5\280ALS5.svx
+*include 280_ALS6\280ALS6.svx
+
+*equate 01-eingang	A1S.al1		; entrance 01
 *equate ALS2.al16	A1S.al16
 *equate ALS3.al41	ALS2.al41
 *equate ALS4.al59	ALS3.al59

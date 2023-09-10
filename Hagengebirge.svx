@@ -10,9 +10,9 @@
 	
 	
 *include Baza\BAZAPK.svx
-*include 030-Tantalhohle\030.svx
-*include 158-Atschiloch\158.svx
-*include 280-Alvermannschacht\280.svx
+*include 030-Tantalhohle\030-master.svx
+*include 158-Atschiloch\158-master.svx
+*include 280-Alvermannschacht\280-master.svx
 *include 340\340.svx
 *include 343\343.svx
 *include 408-Kitzgraben\408-master.svx
