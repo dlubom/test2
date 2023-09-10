@@ -1,14 +1,15 @@
 #units meters order=DAV
 #Units A=D V=D
-#Prefix k19
-;Od konca pomiarow Asi i Marka
+#prefix k19
 
+;title "Od konca pomiarow Asi i Marka"
 #date 2022-08-12
 ;team Karolina Gac (DistoX2), Magda Sitarz (szkic Qave)
-;
-;0	1	1.360	167.179	3.988	; k15:68 - k15:69
-;1	2	2.836	222.889	19.713	; k15:69 - k15:70
-;2	3	6.383	131.345	17.606	; k15:70 - k15:71
+;instrument "DistoX2 ?"
+
+;0	1	1.360	167.179	3.988	; powtorzony k15:68 - k15:69
+;1	2	2.836	222.889	19.713	; powtorzony k15:69 - k15:70
+;2	3	6.383	131.345	17.606	; powtorzony k15:70 - k15:71
 k15:71	3	0	0	0	; dowiazanie
 3	4	4.158	110.101	28.663
 4	5	2.383	182.798	16.769

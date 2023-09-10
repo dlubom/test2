@@ -1,15 +1,15 @@
 *begin k09
-*title "Lewy meander"
+*title "Lewy meander (od pt 12 Asi i Michala - sesja k07)"
 *date 2021.08.13
 *team Jacek Szczygiel, Jakub Grubba
-*instrument tape "DistoX2"
-*instrument compass "DistoX2"
-*instrument clino "DistoX2"
+*instrument tape "DistoX2 ?"
+*instrument compass "DistoX2 ?"
+*instrument clino "DistoX2 ?"
 *data normal from to tape compass clino ignoreall
 
 *begin
 *flags duplicate
-; od pt 12 asi i michala (sesja k07)
+; od pt 12 Asi i Michala (sesja k07)
 ; punkt 0 trzeba podlaczyc do punktu 12 w sesji k07
 0	1	3.684	311.664	30.894
 1	2	8.239	349.600	-35.995

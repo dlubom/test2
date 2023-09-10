@@ -2,9 +2,9 @@
 *title "Meanderek przy rozdrozu"
 *date 2022.08.07
 *team Karol Makowski (szkic Qave), Radoslaw Paternoga (DistoX2)
-*instrument tape "DistoX2"
-*instrument compass "DistoX2"
-*instrument clino "DistoX2"
+*instrument tape "DistoX2 ?"
+*instrument compass "DistoX2 ?"
+*instrument clino "DistoX2 ?"
 *data normal from to tape compass clino ignoreall
 
 *begin
@@ -100,8 +100,8 @@
 14	.	0.799	288.303	-7.059
 14	.	0.285	223.369	64.638
 14	.	1.504	356.622	-81.189
-*begin
-*flags not splay
-14	14c	6.558	180.917	18.474	; domiar w kierunku kontynuujacego sie meandra zamieniony na pomiar
-*end
+;*begin
+;*flags not splay
+;14	14c	6.558	180.917	18.474	; domiar w kierunku kontynuujacego sie meandra zamieniony na pomiar
+;*end
 *end k16

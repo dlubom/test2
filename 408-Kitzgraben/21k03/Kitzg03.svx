@@ -1,11 +1,11 @@
 *begin k03
 *date 2021.07.26
 ; Byl problem ze znalezieniem pierwotnych punktow i zosta³y dodane nowe.
-; Ostatecznie sesja pomiarowa nie powinna byc podlaczana, zamiast tego zostaly wykonane ponowne pomiary - k02p, które obejmuja ponowny pomiar sesji k02, k03, i fragment k04.
+; Ostatecznie sesja pomiarowa nie powinna byc podlaczana, zamiast tego zostaly wykonane ponowne pomiary - k02p, ktore obejmuja ponowny pomiar sesji k02, k03 i fragment k04.
 *team Magda Sarapata, Joanna Przymus, Lukasz Stankowski
-*instrument compass "DistoX2"
-*instrument clino "DistoX2"
-*instrument tape "DistoX2"
+*instrument compass "DistoX2 ?"
+*instrument clino "DistoX2 ?"
+*instrument tape "DistoX2 ?"
 *data normal from to compass clino tape ignoreall
 1_0	1_1	322.04	48.2	4.061
 1_1	1_2	182.77	-8.77	4.309

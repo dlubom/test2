@@ -2,26 +2,46 @@
 *begin 575-Odwroconego_Egzorcyzmu
 
 *cs UTM33N
-*cs out UTM33N
+;*cs out UTM33N
 *declination auto 352617.791	5265751.998	2089.4
 
+*entrance 01-eingang
 
-*include Zlotowka\zlotowka.svx		; otwor
+*include Zlotowka\zlotowka.svx			; otwor
 *include poziom1\grmj33.svx
 *include poziom2\poziom2.svx
 *include NadMotyl\NadMotyl.svx
 *include Pprzyotw\Pprzyotw.svx
 *include Trawers\Trawers.svx
 *include Zagranica\Zagranica.svx
+*include Bambik2S\Bambik2S.svx			; 2023
+*include PrzedKoniem\Przed_koniem.svx		; 2023
+*include Studnia13\Studnia_13.svx			; 2023
+*include ObokStudni13\Obok_Studni_13.svx		; 2023
+*include MisjaNaMarsa\Misja_na_Marsa.svx		; 2023
+*include StNiebLin\Studnia_z_niebieska_lina.svx		; 2023
+*include StBabciHani\Studnia_babci_Hani.svx		; 2023
+*include PodStBabciHani\Pod_studnia_babci_Hani.svx	; 2023
 
-
+*equate 01-eingang	zlotowka.0_1		; entrance 01
 *equate grmj33.4	zlotowka.3
-*equate grmj33.21_1	grmj33.1		; zamkniecie petli
+*equate grmj33.21_1	grmj33.1			; zamkniecie petli
 *equate poziom2.0	grmj33.16
 *equate NadMotyl.0	zlotowka.107
 *equate Pprzyotw.0	zlotowka.0_2
 *equate Trawers.11	grmj33.11
 *equate Trawers.11_5_1_3	Trawers.11_4	; zamkniecie petli
 *equate Zagranica.16_46	poziom2.16_46
+*equate Studnia_Bambika-Podwojna_Studnia.28	grmj33.11
+*equate Przed_koniem.2	poziom2.16_10
+*equate Przed_koniem.6	poziom2.16_14
+*equate Studnia13.3	grmj33.13
+*equate Obok_studni_13.13	Studnia13.3
+;*equate Studnia13.8	zlotowka.110		; (zamkniecie petli - nie zamykam z powodu bledu = 6.4m)
+*equate Misja_na_Marsa.0	Zagranica.16_56
+*equate Studnia_z_niebieska_lina.106_666	poziom2.16_9
+*equate Studnia_babci_Hani.14	Zagranica.16_49_1_9
+*equate Pod_studnia_babci_Hani.15	Studnia_babci_Hani.0
+
 
 *end 575-Odwroconego_Egzorcyzmu

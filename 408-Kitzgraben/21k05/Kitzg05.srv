@@ -1,10 +1,11 @@
 #units meters order=DAV
 #Units A=D V=D
-#Prefix k05
+#prefix k05
 
 #date 2021-08-10
 ;team Joanna Zdzalik, Michal Parczewski, Jaroslaw Paszkiewicz
-;
+;instrument "DistoX2 ?"
+
 k04:1.18	0	0	0	0	; do wyjasnienia czy tutaj jest polaczenie
 0	1	2.984	12.149	-48.834
 1	2	6.732	117.169	-54.084

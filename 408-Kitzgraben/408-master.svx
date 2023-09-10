@@ -1,0 +1,8 @@
+*cs UTM33N
+*cs out UTM33N
+
+*declination auto 353907.226	5266168.652	1992
+
+*include 408.svx		; otwor
+;*fix	408-Kitzgraben.01-eingang	0	0	0	;GPS Location UTM
+*fix	408-Kitzgraben.01-eingang	353012.571	5264558.541	2136.0	;GPS Location UTM (po korekcie w SAGIS)

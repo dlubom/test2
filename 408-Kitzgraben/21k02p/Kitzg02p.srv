@@ -4,8 +4,9 @@
 
 #date 2021-08-06
 ;team Karol Makowski (palm), Adam Wladzinski (DistoX2)
+;instrument "DistoX2 ?"
 ;ostatecznie sesja k02w potwierdzila poprawnosc pomiarow w tej sesji, i blad w sesji k02
-;
+
 ;k01:1.14	1.0	0	0	0
 ;1.0	1.1	290.06	-47.29	4.062
 ;1.1	1.2	256.37	-23.82	2.449

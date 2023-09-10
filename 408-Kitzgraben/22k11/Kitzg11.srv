@@ -4,9 +4,10 @@
 
 #date 2022-07-28
 ;team Joanna Zdzalik (SexyTopo), Pawel Zebrowski (DistoX2)
-;
-;1	2	7.586	217.87	-29.73	; k10:30 - k10:31
-;2	3	6.335	185.7	-65.94	; k10:31 - k10:32
+;instrument "DistoX2 ?"
+
+;1	2	7.586	217.87	-29.73	; powtorzony k10:30 - k10:31
+;2	3	6.335	185.7	-65.94	; powtorzony k10:31 - k10:32
 k10:32	3	0	0	0	; dowiazanie
 3	4	17.982	210.1	10.11
 4	-	13.67	45.06	-19.56

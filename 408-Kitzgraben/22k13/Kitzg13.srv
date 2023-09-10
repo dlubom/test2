@@ -1,11 +1,12 @@
 #units meters order=DAV
 #Units A=D V=D
-#Prefix k13
-;Rejoin studni z tyrolka
+#prefix k13
 
+;title "Rejoin studni z tyrolka"
 #date 2022-08-02
 ;team Joanna Zdzalik, Jakub Grubba, Magda Sitarz
-;
+;instrument "DistoX2 ?"
+
 k07:12	0	0	0	0	; dowiazanie
 0	1	3.734	309.080	30.901
 1	2	6.407	12.297	-43.845

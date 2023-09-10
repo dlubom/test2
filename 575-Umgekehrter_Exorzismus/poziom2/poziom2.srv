@@ -1,12 +1,12 @@
 #units meters order=DAV
 #Units A=D V=D
-#Prefix poziomy2
+#prefix poziomy2
 ;title "Gliniaste ciagi poziome"
 
 #date 2022-08-04
 ;team Jaga Kicyla (szkic Qave), Rafal Mateja (DistoX2)
 ;
-gmrj33:16	0	0	0	0
+grmj33:16	0	0	0	0
 0	16.1	8.999	210.120	-85.770
 16.1	16.2	2.926	223.330	-4.352
 16.3	16.2	5.239	76.527	-9.168

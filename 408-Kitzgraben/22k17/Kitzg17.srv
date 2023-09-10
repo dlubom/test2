@@ -1,13 +1,14 @@
 #units meters order=DAV
 #Units A=D V=D
 #prefix k17
-;Koncowka poprzedniej sesji JG-MS (kontynuacja k14)
 
+;title "Koncowka poprzedniej sesji JG-MS (kontynuacja k14)"
 #date 2022-08-07
 ;team Jakub Ggrubba, Magda Sitarz
-;
-;0	1	1.959	46.780	-17.239	; k14:2.9 - k14:2.10
-;1	2	3.688	272.428	-14.775	; k14:2.10 - k14:2.11
+;instrument "DistoX2 ?"
+
+;0	1	1.959	46.780	-17.239	; powtorzony k14:2.9 - k14:2.10
+;1	2	3.688	272.428	-14.775	; powtorzony k14:2.10 - k14:2.11
 k14:2.11	2	0	0	0	; dowiazanie
 2	3	3.608	330.416	-37.454
 3	4	2.889	254.938	-22.269

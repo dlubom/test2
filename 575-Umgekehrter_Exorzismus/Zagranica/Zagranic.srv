@@ -1,6 +1,6 @@
 #units meters order=DAV
 #Units A=D V=D
-#Prefix zagranic
+#prefix zagranic
 ;title "Ciagi od przejscia granicznego"
 
 #date 2022-08-07

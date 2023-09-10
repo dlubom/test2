@@ -1,0 +1,9 @@
+*begin 26
+*date 2003.08.16	;bledna data
+*data normal from to tape compass clino ignoreall
+TS_04	TT1	1.98	113.00	-51.00
+TT1	TT2	2.05	25.00	-52.00
+TT2	TT3	3.91	21.00	-76.00
+TT3	TT4	5.60	125.00	-70.00
+
+*end 26

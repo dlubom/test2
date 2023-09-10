@@ -1,0 +1,8 @@
+*cs UTM33N
+*cs out UTM33N
+
+*declination auto 353053.087	5264811.803	2140.0
+
+*include 579.svx		; otwor
+;*fix	579-Vorderer_Kragenkopf_Eishohle.01-eingang	0	0	0
+*fix	579-Vorderer_Kragenkopf_Eishohle.01-eingang	353053.087	5264811.803	2140.0	;GPS Location UTM (koordynaty i wysokość ze smartfona)

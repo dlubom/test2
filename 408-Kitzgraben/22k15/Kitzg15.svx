@@ -1,9 +1,10 @@
 *begin k15
+*title "Syfon Kujona"
 *date 2022.08.04
 *team Joanna Zdzalik, Marek Wierzbowski
-*instrument tape "DistoX2"
-*instrument compass "DistoX2"
-*instrument clino "DistoX2"
+*instrument tape "DistoX2 ?"
+*instrument compass "DistoX2 ?"
+*instrument clino "DistoX2 ?"
 *data normal from to tape compass clino ignoreall
 *alias station - ..
 

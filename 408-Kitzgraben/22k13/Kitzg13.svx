@@ -2,9 +2,9 @@
 *title "Rejoin studni z tyrolka"
 *date 2022.08.02
 *team Joanna Zdzalik, Jakub Grubba, Magda Sitarz
-*instrument tape "DistoX2"
-*instrument compass "DistoX2"
-*instrument clino "DistoX2"
+*instrument tape "DistoX2 ?"
+*instrument compass "DistoX2 ?"
+*instrument clino "DistoX2 ?"
 *data normal from to tape compass clino ignoreall
 
 ; punkt 0 trzeba podlaczyc do punktu 12 w sesji k07

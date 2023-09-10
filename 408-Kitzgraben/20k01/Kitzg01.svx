@@ -3,14 +3,14 @@
 *entrance 1_0
 
 ;#FIX  1.0   E13:03.538  N47:31.951   2000m     ;dm
-*fix	1_0	353906.840	5266169.293	2000	;GPS Location UTM
+;*fix	1_0	353906.840	5266169.293	2000	;GPS Location UTM
 
 *date 2020.08.01
-*instrument compass "DistoX2"
-*instrument clino "DistoX2"
-*instrument tape "DistoX2"
 *team "Karol Makowski" (kartowanie PDA, Spray)
 *team "Lukasz Stankowski" DistoX2
+*instrument compass "DistoX2 ?"
+*instrument clino "DistoX2 ?"
+*instrument tape "DistoX2 ?"
 *data normal from to compass clino tape ignoreall
 1_0	1_1	270.64	-71.31	9.01
 1_1	1_2	359.84	7.72	2.537

@@ -1,15 +1,16 @@
 #units meters order=AVD
 #units A=D V=D
 #prefix k04p
-;Ponownie zmierzona studnia Zbycha Rybaka oraz Wielka Studnia
 
+;title "Ponownie zmierzona studnia Zbycha Rybaka oraz Wielka Studnia"
 #date 2022-07-24
 ;team Karol Makowski (szkic), Joanna Przymus (DistoX2)
-;
-;1.0	1.1	14.75	-81.5	7.679	; k02p:1.27 - k02p:1.28
-;1.1	1.2	164.65	3.95	4.468	; k02p:1.28 - k02p:1.29
-;1.2	1.3	189.44	-46.04	3.88	; k02p:1.29 - k02p:1.30
-;1.3	1.4	279.32	-45.44	2.394	; k02p:1.30 - k02p:1.31
+;instrument "DistoX2 ?"
+
+;1.0	1.1	14.75	-81.5	7.679	; powtorzony k02p:1.27 - k02p:1.28
+;1.1	1.2	164.65	3.95	4.468	; powtorzony k02p:1.28 - k02p:1.29
+;1.2	1.3	189.44	-46.04	3.88	; powtorzony k02p:1.29 - k02p:1.30
+;1.3	1.4	279.32	-45.44	2.394	; powtorzony k02p:1.30 - k02p:1.31
 k02p:1.31	1.4	0	0	0	; dowiazanie
 1.4	1.5	217.7	-73.49	13.045
 1.5	1.6	252.89	-77.09	35.757
@@ -17,8 +18,8 @@ k02p:1.31	1.4	0	0	0	; dowiazanie
 1.7	1.8	138.82	1.78	3.054
 1.8	1.9	186.17	-80.88	52.907
 1.9	1.10	17.75	-60.38	13.063
-;1.10	1.11	152.49	1.04	7.322	; k07:0 - k07:1
-;1.11	1.12	128.34	-12.5	8.512	; k07:1 - k07:2
+;1.10	1.11	152.49	1.04	7.322	; powtorzony k07:0 - k07:1
+;1.11	1.12	128.34	-12.5	8.512	; powtorzony k07:1 - k07:2
 1.4	-	139.35	-0.67	1.547
 1.4	-	224.68	-19.0	5.17
 1.5	-	0.04	3.02	1.498

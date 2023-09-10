@@ -2,9 +2,9 @@
 *title "Szychta czwartkowa"
 *date 2021.08.12
 *team Joanna Zdzalik, Jaroslaw Paszkiewicz
-*instrument tape "DistoX2"
-*instrument compass "DistoX2"
-*instrument clino "DistoX2"
+*instrument tape "DistoX2 ?"
+*instrument compass "DistoX2 ?"
+*instrument clino "DistoX2 ?"
 *data normal from to tape compass clino ignoreall
 
 ;dowiazanie k04:1_15 - nie znaleziono punktow (mozliwe, ze powinien to byc pkt k04:1_16, lub cos w poblizu)

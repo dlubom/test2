@@ -1,9 +1,9 @@
 *begin k05
 *date 2021.08.10
 *team Joanna Zdzalik, Michal Parczewski, Jaroslaw Paszkiewicz
-*instrument tape "DistoX2"
-*instrument compass "DistoX2"
-*instrument clino "DistoX2"
+*instrument tape "DistoX2 ?"
+*instrument compass "DistoX2 ?"
+*instrument clino "DistoX2 ?"
 *data normal from to tape compass clino ignoreall
 
 ; punkt 0 trzeba podlaczyc do punktu 1_18 w sesji k04

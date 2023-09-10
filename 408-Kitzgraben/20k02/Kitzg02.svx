@@ -1,9 +1,9 @@
 *begin k02
 *date 2020.08.12
 *team ?
-*instrument compass "DistoX2"
-*instrument clino "DistoX2"
-*instrument tape "DistoX2"
+*instrument compass "DistoX2 ?"
+*instrument clino "DistoX2 ?"
+*instrument tape "DistoX2 ?"
 *data normal from to compass clino tape
 
 1_0	1_1	289.51	-48.03	4.098

@@ -1,11 +1,12 @@
 #units meters order=DAV
 #Units A=D V=D
-#Prefix k09
-;Lewy meander od pt 12 asi i michala (sesja k07)
+#prefix k09
 
+;title "Lewy meander od pt 12 asi i michala (sesja k07)"
 #date 2021-08-13
 ;team Jacek Szczygiel, Jakub Grubba
-;
+;instrument "DistoX2 ?"
+
 k07:12	0	0	0	0	; dowiazanie
 0	1	3.684	311.664	30.894
 1	2	8.239	349.600	-35.995

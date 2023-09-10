@@ -1,0 +1,44 @@
+*case preserve
+*begin 491-Hohle_in_Roten_Steinen
+
+*cs UTM33N
+;*cs out UTM33N
+
+*declination auto	353373.317	5266134.622	1880
+
+*entrance 01-eingang
+
+;#note cg01	/W Czerwonych Kamieniach Hohle in Roten Steinen J1 [491]
+;#flag	cg01	/GPS Location
+;#FIX  cg01   E13:03.282  N47:32.113   1880m     ;dm
+
+*include 491CG1\491CG1.svx
+*include 491CG2\491CG2.svx
+*include 491CGMG\491CGMG.svx
+*include 491CGS\491CGS.svx
+*include 491CZW\491CZW.svx
+*include 4912006\4912006.svx
+*include 491DD\491DD.svx
+*include 491MEA\491MEA.svx
+*include 491ZAMEA\491ZAMEA.svx
+*include 491_26\491_26.svx
+*include 491DKW\491DKW.svx
+*include 491WDDS\491WDDS.svx
+
+*equate 01-eingang	CG1.cg01		; entrance 01
+*equate CG2.cg24	CG1.cg24
+*equate CGMG.cg40	CG2.cg40
+*equate CGS.cg94	CGMG.cg94
+*equate CZW.cg87	CGMG.cg87
+*equate 2006.cg109	CGS.cg109
+*equate DD.6_32	2006.6_32
+*equate MEA.07_47	DD.07_47
+*equate ZAMEA.TS_16	MEA.TS_16
+*equate 26.TS_04	ZAMEA.TS_04
+*equate DKW.6_3	2006.6_3
+*equate WDDS.6_28	2006.6_28
+*equate DKW.czw12	CZW.czw12
+
+
+*end 491-Hohle_in_Roten_Steinen
+ 

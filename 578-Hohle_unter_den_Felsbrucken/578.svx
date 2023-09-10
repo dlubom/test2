@@ -1,0 +1,17 @@
+*case preserve
+*begin 578-Hohle_unter_den_Felsbrucken
+
+*cs UTM33N
+;*cs out UTM33N
+
+*declination auto 353012.571	5264558.541	2136.0
+
+
+*entrance 01-eingang
+
+*include 20230811-Pod_skalnymi_mostami\Pod_skalnymi_mostami.svx	; otwor
+
+*equate 01-eingang	20230811-Pod_skalnymi_mostami.0		; entrance 01
+
+
+*end 578-Hohle_unter_den_Felsbrucken

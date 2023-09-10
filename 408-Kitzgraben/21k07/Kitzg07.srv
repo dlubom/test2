@@ -1,11 +1,12 @@
 #units meters order=DAV
 #Units A=D V=D
-#Prefix k07
-;Szychta czwartkowa
+#prefix k07
 
+;title "Szychta czwartkowa"
 #date 2021-08-12
 ;team Joanna Zdzalik, Jaroslaw Paszkiewicz
-;
+;instrument "DistoX2 ?"
+
 k04:1.15	0	0	0	0	; dowiazanie - nie znaleziono punktow (mozliwe, ze powinien to byc pkt k04:1.16, lub cos w poblizu)
 0	1	7.326	154.283	1.192
 1	2	8.551	127.798	-12.409

@@ -1,9 +1,10 @@
 #units meters order=DAV
 #Units A=D V=D
-#Prefix k08
+#prefix k08
 
 #date 2021-08-13
 ;team Jacek Szczygiel, Jakub Grubba
+;instrument "DistoX2 ?"
 
 ; start z pkt 22 pliku Asi i Jarka "sesja czwartkowa" (sesja k07)
 k07:22	0	0	0	0	; dowiazanie

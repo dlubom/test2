@@ -1,13 +1,14 @@
 #units meters order=DAV
 #Units A=D V=D
 #prefix k14
-;Od konca pomiarow Asi I Piotrka
 
+;title "Od konca pomiarow Asi i Piotrka"
 #date 2022-08-03
 ;team Jakub Grubba, Magda Sitarz
-;
-;0	1	1.753	354.252	13.039	; k12:31 - k12:32
-;1	2	3.864	88.092	3.640	; k12:32 - k12:33
+;instrument "DistoX2 ?"
+
+;0	1	1.753	354.252	13.039	; powtorzony k12:31 - k12:32
+;1	2	3.864	88.092	3.640	; powtorzony k12:32 - k12:33
 k12:33	2	0	0	0	; dowiazanie
 2	3	6.219	132.173	28.841
 3	4	3.871	216.379	7.108

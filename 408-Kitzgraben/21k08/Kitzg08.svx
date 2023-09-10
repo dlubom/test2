@@ -1,9 +1,9 @@
 *begin k08
 *date 2021.08.13
 *team Jacek Szczygiel, Jakub Grubba
-*instrument tape "DistoX2"
-*instrument compass "DistoX2"
-*instrument clino "DistoX2"
+*instrument tape "DistoX2 ?"
+*instrument compass "DistoX2 ?"
+*instrument clino "DistoX2 ?"
 *data normal from to tape compass clino ignoreall
 
 ; start z pkt 22 pliku Asi i Jarka "sesja czwartkowa" (sesja k07)

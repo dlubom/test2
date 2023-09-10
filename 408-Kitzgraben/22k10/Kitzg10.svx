@@ -1,9 +1,9 @@
 *begin k10
 *date 2022.07.26
 *team Joanna Zdzalik (szkic SexyTopo), Joanna Przymus (DistoX2)
-*instrument tape "DistoX2"
-*instrument compass "DistoX2"
-*instrument clino "DistoX2"
+*instrument tape "DistoX2 ?"
+*instrument compass "DistoX2 ?"
+*instrument clino "DistoX2 ?"
 *data normal from to tape compass clino ignoreall
 *alias station - ..
 

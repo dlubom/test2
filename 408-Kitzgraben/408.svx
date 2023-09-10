@@ -2,9 +2,12 @@
 *begin 408-Kitzgraben
 
 *cs UTM33N
-*cs out UTM33N
-*declination auto	353906.840	5266169.293	2000
+;*cs out UTM33N
+;*declination auto	353906.840	5266169.293	2000
+*declination auto	353907.226	5266168.652	1992	; po korekcie w SAGIS
 
+
+*entrance 01-eingang
 
 *include 20k01\Kitzg01.svx
 *include 20k02\Kitzg02.svx
@@ -24,12 +27,26 @@
 *include 22k13\Kitzg13.svx
 *include 22k14\Kitzg14.svx
 *include 22k15\Kitzg15.svx
-*include 22k16\Kitzg16.svx
+*include 22k16\Kitzg16.svx	; Meanderek przy rozdrozu
 *include 22k17\Kitzg17.svx
 *include 22k18\Kitzg18.svx	; Korytarz nad trawersem
 *include 22k19\Kitzg19.svx
+*include 23k20\Kitzg20.svx	; Kroczek
+*include 23k21\Kitzg21.svx	; Studnie pod Kroczkiem
+*include 23k22\Kitzg22.svx	; Dzien Paluszka
+*include 23k23\Kitzg23.svx	; Studnie pod Kroczkiem 2
+*include 23k24\Kitzg24.svx	; Kitz meander
+*include 23k25\Kitzg25.svx	; Za kokosnkami 1
+*include 23k26\Kitzg26.svx	; Za Kolektorem
+*include 23k27\Kitzg27.svx	; Nad Kolektorem
+*include 23k28\Kitzg28.svx	; Studnia jubilata (Kolektor)
+*include 23k29\Kitzg29.svx	; Meanderek przy rozdrozu - kontynuacja
+*include 23k30\Kitzg30.svx	; Korytarz grzybowski
+*include 23k31\Kitzg31.svx	; Skazni na Showshank (pod studnią jubilata)
+*include 23k32\Kitzg32.svx	; Suche błota(kontynuacja Kotytarza grzybowskiego)
 
 
+*equate 01-eingang	k01.1_0	; entrance 01
 *equate k02.1_0	k01.1_14
 *equate k02w.1_2	k02.1_8	; poprawka bledu w azymucie odcinka 1_8 - 1_9 z sesji k02 (zostal zastapiony odpowiednim odcinkiem z sesji k02w)
 *equate k02.1_9	k02w.1_3
@@ -57,6 +74,20 @@
 *equate k17.2	k14.2_11
 *equate k18.3	k11.32
 *equate k19.3	k15.71
+*equate k20.1	k07.8
+*equate k21.1_12	k20.13
+*equate k22.1_0	k13.13
+*equate k23.1_8	k21.1_0
+*equate k24.1_4	k23.1_6
+*equate k25.3	k19.6
+*equate k26.12	k24.1_0	; ze szkicu sesji k26 wynika, że do k24.1_0 powinien być dołączony punkt k26.12
+*equate k27.1	k23.1_1
+*equate k28.1_12	k26.0
+*equate k29.1_4	k16.14
+*equate k30.1	k15.58
+*equate k31.1_0	k28.1_0
+*equate k32.0	k30.44
 
 
 *end 408-Kitzgraben
+ 

@@ -1,13 +1,14 @@
 #units meters order=DAV
 #Units A=D V=D
 #prefix k16
-;Meanderek przy rozdrozu
 
 #date 2022-08-07
 ;team Karol Makowski (szkic Qave), Radoslaw Paternoga (DistoX2)
+;title "Meanderek przy rozdrozu"
+;instrument "DistoX2 ?"
 ;
-;0	1	10.443	99.534	7.026	; k15:5 - k15:6
-;1	2	2.026	148.411	-31.241	; k15:6 - k15:7
+;0	1	10.443	99.534	7.026	; powtorzony k15:5 - k15:6
+;1	2	2.026	148.411	-31.241	; powtorzony k15:6 - k15:7
 k15:7	2	0	0	0	; dowiazanie
 2	3	2.512	241.763	-14.573
 3	4	2.711	293.611	-14.462
@@ -94,4 +95,4 @@ k15:7	2	0	0	0	; dowiazanie
 14	-	0.799	288.303	-7.059
 14	-	0.285	223.369	64.638
 14	-	1.504	356.622	-81.189
-14	14c	6.558	180.917	18.474	; domiar w kierunku kontynuujacego sie meandra zamieniony na pomiar
+;14	14c	6.558	180.917	18.474	; domiar w kierunku kontynuujacego sie meandra zamieniony na pomiar

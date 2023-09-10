@@ -1,9 +1,10 @@
 #units meters order=DAV
 #Units A=D V=D
-#Prefix k06
+#prefix k06
 
 #date 2021-08-11
 ;team Joanna Zdzalik, Jaroslaw Paszkiewicz
+;instrument "DistoX2 ?"
 
 ; start z pkt 4 w poprzedniej sesji k05
 k05:4	0	0	0	0	; dowiazanie

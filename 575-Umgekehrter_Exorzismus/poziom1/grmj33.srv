@@ -1,11 +1,12 @@
 #units meters order=DAV
 #units A=D V=D
-#prefix gmrj33
-;title "Ciagi poziome"
+#prefix grmj33
 
+;title "Ciagi poziome"
 #date 2022-07-29
 ;team Joanna Przymus (szkic SexyTopo), Jagna Kicyla (DistoX2)
-;
+;instrument "DistoX2 ?"
+
 1	-	3.633	13.96	26.46
 1	-	1.035	351.31	17.11
 1	-	4.091	331.37	-15.78
@@ -29,7 +30,7 @@
 3	-	1.552	326.01	-86.65
 3	-	1.327	36.36	8.82
 3	-	0.385	184.23	-17.14
-zlotowka:3	4	0	0	0
+zlotowka:3	4	0	0	0	; dowiazanie
 3	4	5.764	277.21	0.9
 4	-	3.093	68.85	-42.21
 4	-	1.919	109.44	-31.98

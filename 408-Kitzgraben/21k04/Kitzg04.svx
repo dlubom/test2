@@ -2,9 +2,9 @@
 *title "Studnia Zbycha Rybaka i Wielka Studnia"
 *date 2021.08.03
 *team Joanna Gawezka (Notes), Jaroslaw Paszkiewicz (DistoX2), Radoslaw Paternoga (poreczowanie)
-*instrument compass "DistoX2"
-*instrument clino "DistoX2"
-*instrument tape "DistoX2"
+*instrument compass "DistoX2 ?"
+*instrument clino "DistoX2 ?"
+*instrument tape "DistoX2 ?"
 *data normal from to compass clino tape
 
 *begin

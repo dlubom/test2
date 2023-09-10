@@ -1,0 +1,81 @@
+#units meters order=DAV
+#Units A=D V=D
+#Prefix Studn13
+
+;title "Studnia 13"
+#date 2023-07-25
+;team Jagna Kicyla, Kamila Roter
+;instrument "DistoX2 H10"
+
+;0	1	17.236	5.793	-35.645	; powtorzone grmj33:4 - grmj33.5
+;1	2	7.102	129.677	10.637	; powtorzone grmj33:5 - grmj33:12
+;2	3	3.719	34.100	7.580	; powtorzone grmj33:12 - grmj33:13 (przenumerowanie 13 na 3)
+grmj33:13	3	0	0	0	; dowiazanie
+3	4	5.737	172.050	-82.390	; przenumerowanie 13 na 3 oraz 13.1 na 4
+4	5	4.881	97.940	-32.810	; przenumerowanie 13.1 na 4 oraz 13.2 na 5
+5	5.1	4.936	135.430	-20.130	; przenumerowanie 13.2 na 5 oraz 13.2.1 na 5.1
+5.1	5.666	4.181	205.980	-62.490	; przenumerowanie 13.2.1 na 5.1 oraz 13.2.666 na 5.666
+5.1	5.1.1	2.764	35.169	0.802	; przenumerowanie 13.2.1 na 5.1 oraz 13.2.1.1 na 5.1.1
+5.1.1	5.1.2	11.558	254.821	56.885	; przenumerowanie 13.2.1.1 na 5.1.1 oraz 13.2.1.2 na 5.1.2
+5.1.1	5.1.1.1	8.565	275.449	60.749	; przenumerowanie 13.2.1.1 na 5.1.1 oraz 13.2.1.1.1 na 5.1.1.1
+5	6	16.015	186.470	-84.590	; przenumerowanie 13.2 na 5 oraz 13.3 na 6
+6	7	18.836	141.820	-62.620	; przenumerowanie 13.3 na 6 oraz 13.4 na 7
+7	8	3.101	54.540	-15.353	; przenumerowanie 13.4 na 7 oraz 13.5 na 8
+;8	zlotowka:110	0	0	0	; przenumerowanie 13.5 na 8 (zamkniecie petli - nie zamykam z powodu bledu = 6.4m)
+;8	9	2.411	30.024	19.312	; powtorzone zlotowka:110 - zlotowka:111 (przenumerowanie 13.5 na 8 oraz 13.6 na 9)
+;9	10	2.689	79.944	-37.533	; powtorzone zlotowka:111 - zlotowka:112 (przenumerowanie 13.6 na 9 oraz 13.7 na 10)
+0	-	17.448	5.713	-35.327
+2	-	0.971	350.129	-0.198
+2	-	1.885	23.615	12.755
+2	-	1.661	318.450	-84.551
+2	-	8.708	255.388	78.596
+3	-	0.373	292.610	7.251	; przenumerowanie 13 na 3
+3	-	2.328	211.036	80.826	; przenumerowanie 13 na 3
+3	-	1.593	216.392	-74.344	; przenumerowanie 13 na 3
+3	-	3.460	207.795	2.543	; przenumerowanie 13 na 3
+3	-	1.715	212.525	-1.450	; przenumerowanie 13 na 3
+3	-	1.688	212.673	-2.219	; przenumerowanie 13 na 3
+3	-	3.426	204.478	-1.005	; przenumerowanie 13 na 3
+3	-	2.619	197.875	0.846	; przenumerowanie 13 na 3
+3	-	2.321	184.340	-2.758	; przenumerowanie 13 na 3
+3	-	1.057	169.816	6.801	; przenumerowanie 13 na 3
+4	-	3.055	99.553	1.022	; przenumerowanie 13.1 na 4
+4	-	3.657	82.277	1.555	; przenumerowanie 13.1 na 4
+4	-	3.048	58.167	1.252	; przenumerowanie 13.1 na 4
+4	-	2.862	26.779	3.796	; przenumerowanie 13.1 na 4
+4	-	3.146	2.082	6.405	; przenumerowanie 13.1 na 4
+4	-	2.552	329.799	9.937	; przenumerowanie 13.1 na 4
+5	-	4.931	128.320	-17.776	; przenumerowanie 13.1 na 4
+5.1	-	3.086	307.820	15.051	; przenumerowanie 13.2.1 na 5.1
+5.1	-	2.520	298.070	17.397	; przenumerowanie 13.2.1 na 5.1
+5.1	-	2.313	287.644	15.007	; przenumerowanie 13.2.1 na 5.1
+5.1	-	1.755	85.248	2.856	; przenumerowanie 13.2.1 na 5.1
+5.1	-	3.118	15.057	2.175	; przenumerowanie 13.2.1 na 5.1
+5.1	-	2.800	352.617	6.454	; przenumerowanie 13.2.1 na 5.1
+5.1	-	4.113	318.181	11.755	; przenumerowanie 13.2.1 na 5.1
+5.1	-	3.077	309.166	12.898	; przenumerowanie 13.2.1 na 5.1
+5.1.1	-	1.461	254.932	-62.748	; przenumerowanie 13.2.1.1 na 5.1.1
+6	-	1.867	191.404	5.471	; przenumerowanie 13.3 na 6
+6	-	1.261	91.670	51.773	; przenumerowanie 13.3 na 6
+6	-	2.520	31.503	43.709	; przenumerowanie 13.3 na 6
+6	-	5.356	340.719	40.248	; przenumerowanie 13.3 na 6
+6	-	4.366	322.278	44.654	; przenumerowanie 13.3 na 6
+6	-	3.481	281.926	48.378	; przenumerowanie 13.3 na 6
+6	-	3.332	244.622	47.955	; przenumerowanie 13.3 na 6
+6	-	4.416	220.386	39.985	; przenumerowanie 13.3 na 6
+6	-	5.104	204.417	30.526	; przenumerowanie 13.3 na 6
+6	-	3.520	190.009	35.294	; przenumerowanie 13.3 na 6
+6	-	1.841	167.091	7.894	; przenumerowanie 13.3 na 6
+6	-	3.570	153.303	0.390	; przenumerowanie 13.3 na 6
+6	-	7.472	150.820	-4.576	; przenumerowanie 13.3 na 6
+6	-	8.982	146.245	-3.137	; przenumerowanie 13.3 na 6
+6	-	13.434	142.125	-6.438	; przenumerowanie 13.3 na 6
+6	-	7.718	138.895	-3.071	; przenumerowanie 13.3 na 6
+6	-	18.816	135.978	-62.413	; przenumerowanie 13.3 na 6
+6	-	18.764	142.311	-63.155	; przenumerowanie 13.3 na 6
+6	-	18.720	133.605	-53.954	; przenumerowanie 13.4 na 7 (domiar przesuniety do pkt 6)
+6	-	18.697	141.597	-63.089	; przenumerowanie 13.4 na 7 (domiar przesuniety do pkt 6)
+6	-	18.695	141.361	-62.924	; przenumerowanie 13.4 na 7 (domiar przesuniety do pkt 6)
+6	-	18.408	142.048	-62.743	; przenumerowanie 13.4 na 7 (domiar przesuniety do pkt 6)
+6	-	18.612	141.735	-62.600	; przenumerowanie 13.4 na 7 (domiar przesuniety do pkt 6)
+6	-	18.680	143.295	-58.293	; przenumerowanie 13.4 na 7 (domiar przesuniety do pkt 6)

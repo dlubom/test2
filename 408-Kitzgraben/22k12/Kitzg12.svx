@@ -1,9 +1,9 @@
 *begin k12
 *date 2022.07.31
 *team Piotr Kopera (szkic SexyTopo), Joanna Zdzalik ((DistoX2)
-*instrument tape "DistoX2"
-*instrument compass "DistoX2"
-*instrument clino "DistoX2"
+*instrument tape "DistoX2 ?"
+*instrument compass "DistoX2 ?"
+*instrument clino "DistoX2 ?"
 *data normal from to tape compass clino ignoreall
 *alias station - ..
 

@@ -2,9 +2,9 @@
 *title "Weryfikacja azymutu w sesji k02 (odcinek 1_8 - 1_9)"
 *date 2022.07.24
 *team Karol Makowski (palm), Joanna Przymus (DistoX2)
-*instrument compass "DistoX2"
-*instrument clino "DistoX2"
-*instrument tape "DistoX2"
+*instrument compass "DistoX2 ?"
+*instrument clino "DistoX2 ?"
+*instrument tape "DistoX2 ?"
 *data normal from to compass clino tape ignoreall
 
 *begin

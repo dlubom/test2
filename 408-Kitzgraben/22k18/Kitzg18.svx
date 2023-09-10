@@ -2,9 +2,9 @@
 *title "Korytarz nad trawersem"
 *date 2022.08.11
 *team Joanna Gaweska, Robert Glod
-*instrument tape "DistoX2"
-*instrument compass "DistoX2"
-*instrument clino "DistoX2"
+*instrument tape "DistoX2 ?"
+*instrument compass "DistoX2 ?"
+*instrument clino "DistoX2 ?"
 *data normal from to tape compass clino ignoreall
 
 *begin

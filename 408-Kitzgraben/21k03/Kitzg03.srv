@@ -1,14 +1,16 @@
 #units meters order=AVD
 #units A=D V=D
 #prefix k03
-; Byl problem ze znalezieniem pierwotnych punktow i zostały dodane nowe.
-; Ostatecznie sesja pomiarowa nie powinna byc podlaczana, zamiast tego zostaly wykonane ponowne pomiary - k02p, które obejmuja ponowny pomiar sesji k02, k03, i fragment k04.
+
+; Byl problem ze znalezieniem pierwotnych punktow i zostaly dodane nowe.
+; Ostatecznie sesja pomiarowa nie powinna byc podlaczana, zamiast tego zostaly wykonane ponowne pomiary - k02p, ktore obejmuja ponowny pomiar sesji k02, k03 i fragment k04.
 
 #date 2021-07-26
 ;team Magda Sarapata, Joanna Przymus, Lukasz Stankowski
-;
-;1.0	1.1	322.04	48.2	4.061	; k02:1.16 - k02:1.17
-;1.1	1.2	182.77	-8.77	4.309	; k02:1.17 - k02:1.18
+;instrument "DistoX2 ?"
+
+;1.0	1.1	322.04	48.2	4.061	; powtorzony k02:1.16 - k02:1.17
+;1.1	1.2	182.77	-8.77	4.309	; powtorzony k02:1.17 - k02:1.18
 k02:1.18	1.3	149.44	-9.6	2.789
 1.3	1.4	125.7	30.73	1.507
 1.4	1.5	159.8	-8.77	1.43
