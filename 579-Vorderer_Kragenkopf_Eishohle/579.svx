@@ -4,7 +4,7 @@
 *cs UTM33N
 ;*cs out UTM33N
 
-*declination auto 353053.087	5264811.803	2140.0
+*declination auto 353051	5264811	2134
 
 
 *entrance 01-eingang

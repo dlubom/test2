@@ -4,7 +4,7 @@
 *cs UTM33N
 ;*cs out UTM33N
 
-*declination auto 353012.571	5264558.541	2136.0
+*declination auto 353001	5264558	2132	;GPS Location UTM (SAGIS)
 
 
 *entrance 01-eingang

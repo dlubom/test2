@@ -4,8 +4,10 @@
 
 #note 0	/[578] Pod Skalnymi Mostami
 #flag	0	/GPS Location
-;#FIX	0	E13:02:51.468	N47:31:4.188	2126m	;dms
-#FIX 	0	E13:02.8578	N47:31.0698	2126m	;dm
+;#FIX	0	E13:02:51.468	N47:31:4.188	2136m	;dms
+;#FIX 	0	E13:02.8578	N47:31.0698	2136m	;dm
+;#FIX 	0	353001	5264558	2132m	;GPS Location UTM (SAGIS)
+#FIX 	0	E13:02.8486	N47:31.0694	2132m	;dm WGS84 (SAGIS)
 
 ;title "Pod Skalnymi Mostami"
 #date 2023-08-11

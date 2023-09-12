@@ -9,6 +9,7 @@
 *entrance	0
 *entrance	6_3
 ;*fix	0	353053.087	5264811.803	2140.0	;GPS Location UTM (koordynaty i wysokość ze smartfona)
+;*fix	0	353051	5264811	2134	;GPS Location UTM (SAGIS)
 
 *data normal from to tape compass clino ignoreall
 0	1	1.620	346.132	-57.861

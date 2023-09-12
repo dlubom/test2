@@ -5,7 +5,9 @@
 #note 0	/[579] Vorderer Kragenkopf Eishohle
 #flag	0	/GPS Location
 ;#FIX	0	E13:02:53.100	N47:31:12.420	2140m	;dms
-#FIX 	0	E13:02.885000	N47:31.207000	2140m	;dm
+;#FIX 	0	E13:02.885000	N47:31.207000	2140m	;dm
+;#FIX 	0	353051 		5264811 		2134	;GPS Location UTM (SAGIS)
+#FIX 	0	E13:02.883354	N47:31.206539	2134m	;dm WGS84 (SAGIS)
 
 ;title "Vorderer Kragenkopf Eishohle"
 #date 2023-08-08

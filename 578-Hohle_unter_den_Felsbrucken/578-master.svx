@@ -5,4 +5,5 @@
 
 *include 578.svx		; otwor
 ;*fix	578-Hohle_unter_den_Felsbrucken.01-eingang	0	0	0
-*fix	578-Hohle_unter_den_Felsbrucken.01-eingang	353012.571	5264558.541	2136.0	;GPS Location UTM (koordynaty i wysokość ze smartfona)
+;*fix	578-Hohle_unter_den_Felsbrucken.01-eingang	353012.571	5264558.541	2136.0	;GPS Location UTM (koordynaty i wysokość ze smartfona)
+*fix	578-Hohle_unter_den_Felsbrucken.01-eingang	353001	5264558	2132	;GPS Location UTM (SAGIS)
