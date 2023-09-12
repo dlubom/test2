@@ -1,0 +1,9 @@
+*cs UTM33N
+*cs out UTM33N
+
+*declination auto	354452.013	5266539.329	1950
+
+*include 421.svx
+
+;#FIX	t1	E13:03.965	N47:32.15	1950m	;dm
+*fix	421-Tschikpausenhohle.01-eingang	354452.013	5266539.329	1950	;UTM zone 33N

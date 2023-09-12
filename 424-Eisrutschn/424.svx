@@ -2,13 +2,15 @@
 *begin 424-Eisrutschn
 
 *cs UTM33N
-*cs out UTM33N
+;*cs out UTM33N
 *declination auto	353169.357	5264942.323	2072
 
+*entrance	01-eingang
 
-*include aust.svx
-*include m.svx
+*include aust\aust.svx
+*include martaklipimiprzodki\m.svx
 
+*equate 01-eingang	martaklipimiprzodki.31		; entrance 01
 *equate martaklipimiprzodki.22	aust.7
 
 *end 424-Eisrutschn

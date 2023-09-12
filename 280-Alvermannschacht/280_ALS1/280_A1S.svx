@@ -1,9 +1,9 @@
 *begin A1S
 *title "Alvermann - 1 sesja"
 
-*cs UTM33N
+;*cs UTM33N
 ;*cs out UTM33N
-*declination auto	352352.891	5266962.668	1977.3
+;*declination auto	352352.891	5266962.668	1977.3
 
 *entrance	al1
 ;#FIX	al1	E13:02.284	N47:32.358	1977.38m	;dm

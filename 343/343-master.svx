@@ -1,0 +1,9 @@
+*cs UTM33N
+*cs out UTM33N
+
+*declination auto	352974.982	5265699.670	2022
+
+*include 343.svx
+
+;#FIX	343	E13:02.80500	N47:31.68500	2022m	;dm
+*fix	343.01-eingang	352974.982	5265699.670	2022	;UTM zone 33N

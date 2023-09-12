@@ -12,8 +12,7 @@
 
 *include 900810\900810.svx
 *include 2019-08-02achiloch\2019-08-02achiloch.svx
-
-
+	
 *equate 01-eingang	900810.0		; entrance 01
 *equate a190802.1_27	900810.31
 

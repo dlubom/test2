@@ -1,0 +1,9 @@
+*cs UTM33N
+*cs out UTM33N
+
+*declination auto	353006.266	5265695.788	2015
+
+*include 340.svx
+
+;#FIX	340	E13:02.83	N47:31.68333	2015m	;dm
+*fix	340.01-eingang	353006.266	5265695.788	2015	;UTM zone 33N

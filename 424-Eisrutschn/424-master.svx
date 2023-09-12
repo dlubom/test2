@@ -1,0 +1,8 @@
+*cs UTM33N
+*cs out UTM33N
+
+*declination auto	353169.357	5264942.323	2072
+
+*include 424.svx
+;#FIX	31	E13:02.975  N47:31.279	2072m	;dm
+*fix	424-Eisrutschn.01-eingang	353169.357	5264942.323	2072	;UTM zone 33N
