@@ -1,0 +1,7 @@
+*cs UTM33N
+*cs out UTM33N
+
+*declination auto	352651.14	5266813.91	1978.1
+
+*include	577.svx
+*fix 	577-Moj_pierwszy_raz.01-eingang	352651.14	5266813.91	1978.1	;UTM zone 33N (zweryfikowane w SAGIS przez Marka Wierzbowskiego)

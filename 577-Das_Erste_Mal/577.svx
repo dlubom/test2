@@ -3,11 +3,13 @@
 *title "Moj pierwszy (drugi) raz"
 
 *cs UTM33N
-*cs out UTM33N
+;*cs out UTM33N
 *declination auto	352651.14	5266813.91	1978.1
 
-*entrance	0
-*fix 	0	352651.14	5266813.91	1978.1	;UTM zone 33N (zweryfikowane w SAGIS przez Marka Wierzbowskiego)
+*entrance	01-eingang
+;*fix 	0	352651.14	5266813.91	1978.1	;UTM zone 33N (zweryfikowane w SAGIS przez Marka Wierzbowskiego)
+
+*equate 01-eingang	0	; Entrance 01
 
 *date 2022.08.01
 *team Magda Sitarz (DistoX2), Jakub Grubba (szkic Qave)
