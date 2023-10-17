@@ -1,0 +1,8 @@
+*cs UTM33N
+*cs out UTM33N
+
+*declination auto	353042.556	5265990.801	2009
+
+*include 500.svx
+;#FIX	500-B3-6.01-eingang	E13:02.853	N47:31.843	2009m
+*fix	500-B3-6.01-eingang	353042.556	5265990.801	2009	;GPS Location UTM

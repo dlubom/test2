@@ -10,9 +10,9 @@
 ;#prefix b36
 ;#note B3-6	/B3-6
 ;#flag	B3-6	/GPS Location
-*entrance 	B3-6
+*entrance 	0
 ;#FIX   B3-6   E13:02.853  N47:31.843   2009m
-*fix	B3-6	353042.556	5265990.801	2009	;GPS Location UTM
+;*fix	B3-6	353042.556	5265990.801	2009	;GPS Location UTM
 
 *team Dariusz Lubomski, Radoslaw Paternoga
 *instrument compass "DistoX2"

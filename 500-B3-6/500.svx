@@ -2,14 +2,16 @@
 *begin 500-B3-6
 
 *cs UTM33N
-*cs out UTM33N
+;*cs out UTM33N
 *declination auto	353042.556	5265990.801	2009
 
+*entrance 01-eingang
 
-*include 150809.svx
+*include 150809\150809.svx
 *include 21b3-6\21b3it.svx  
 
 
+*equate 01-eingang	B3-6.0	; entrance 01
 *equate 21b3it.4	B3-6.61
 
 *end 500-B3-6
