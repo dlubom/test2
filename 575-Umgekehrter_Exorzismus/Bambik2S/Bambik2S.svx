@@ -1,5 +1,9 @@
 *begin Studnia_Bambika-Podwojna_Studnia
 *title "Studnia Bambika - Podwojna Studnia"
+
+*cs UTM33N
+*declination auto 352617.791	5265751.998	2089.4
+
 *date 2023.07.23
 *team Tomasz Olczak, Rafal Mateja
 *instrument tape "DistoX2 ?"

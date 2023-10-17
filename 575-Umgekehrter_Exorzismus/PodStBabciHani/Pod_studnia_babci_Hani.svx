@@ -1,5 +1,9 @@
 *begin Pod_studnia_babci_Hani
 *title "Pod studnią babci Hani"
+
+*cs UTM33N
+*declination auto 352617.791	5265751.998	2089.4
+
 *date 2023.08.11
 *team Karol Makowski, Sylwia Dendys
 *instrument tape "DistoX2 MAGDA"

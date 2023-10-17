@@ -1,9 +1,5 @@
 *begin Przed_koniem
 *title "Przed koniem"
-
-*cs UTM33N
-*declination auto 352617.791	5265751.998	2089.4
-
 *date 2023.07.24
 *team Joanna Gaweska, Jakub Nowak
 *instrument tape "DistoX2 H11"
@@ -17,7 +13,7 @@
 1	2	3.265	210.024	4.006
 *end
 
-2	2_1	2.790	103.940	-48.510	; punkt 2 podlaczyc do poziom2.16_10
+2	2_1	2.790	103.940	-48.510
 2_1	2_2	3.395	47.195	-56.107
 2_2	2_3	5.916	33.503	-48.133
 2_3	2_4	2.740	63.001	-49.587
@@ -27,16 +23,13 @@
 
 *begin
 *flags duplicate
-*SD tape 1 metres	; duza wartosc odchylenia standardowego, zeby po zamknieciu petli w punktach 2 oraz 6, caly blad zostal rozrzucony po tym zduplikowanym ciagu, a cavern nie zmodyfikowal starego ciagu 
-*SD compass 90 degrees	;
-*SD clino 90 degrees	;
 2	3	9.438	187.291	7.491
 3	4	10.198	168.580	7.165
 4	5	7.779	126.790	0.317
 5	6	8.863	169.920	-11.451
 *end
 
-6	6_1	4.419	66.660	-1.110	; punkt 6 podlaczyc do poziom2.16_14
+6	6_1	4.419	66.660	-1.110
 6_1	6_2	9.143	64.935	-21.473
 6_2	6_3	7.244	41.039	-24.789
 *flags splay

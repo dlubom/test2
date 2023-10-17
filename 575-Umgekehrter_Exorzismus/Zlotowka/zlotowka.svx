@@ -2,9 +2,8 @@
 *title "Otwor i studnie zlotowe"
 ; gmrj33_8
 
-;;*cs UTM33N
-;;*cs out UTM33N
-;;*declination auto 352617.791	5265751.998	2089.4
+*cs UTM33N
+*declination auto 352617.791	5265751.998	2089.4
 
 ;#note 0.1	/[576] Odwroconego Egzorcyzmu
 ;#flag	0.1	/GPS Location

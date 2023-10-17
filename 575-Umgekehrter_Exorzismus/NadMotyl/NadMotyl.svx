@@ -1,5 +1,9 @@
 *begin NadMotyl
 *title "Partie nad Studnia Motyla"
+
+*cs UTM33N
+*declination auto 352617.791	5265751.998	2089.4
+
 *date 2022.08.04
 *team Jarek Paszkiewicz (DistoX2), Wanda Cacha (szkic Qave)
 *instrument tape "DistoX2"

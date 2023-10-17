@@ -1,8 +1,10 @@
+*case preserve
 *cs UTM33N
 *cs out UTM33N
 
 *declination auto 352617.791	5265751.998	2089.4
 
-*include 575.svx
+
 ;*fix	575-Odwroconego_Egzorcyzmu.01-eingang	0	0	0
 *fix	575-Odwroconego_Egzorcyzmu.01-eingang	352617.791	5265751.998	2089.4	;GPS Location UTM
+*include 575.svx

@@ -1,10 +1,21 @@
 *begin Obok_studni_13
 *title "Obok Studni 13"
+
+*cs UTM33N
+*declination auto 352617.791	5265751.998	2089.4
+
 *date 2023.07.27
 *team Jagna Kicyla, Kamila Roter
 *instrument tape "DistoX2 H10"
 *instrument compass "DistoX2 H10"
 *instrument clino "DistoX2 H10"
+
+; podejrzenie duzego azymutu, ktory ujawnil sie po zamknieciu petli zawierajacej ciagi "Studnia13" i "Zlotowka"; blad poziomy rowny 6.4 m w petli o dlugosci 119.7 m (5.36%);
+; ta sesja pomiarowa byla wykonywana w tym samym skladzie i przy uzyciu tych samych przyrzadow, co sesja "Studnia13"
+*SD tape 0.1 metres	; umiarkowany blad odleglosci
+*SD compass 90 degrees	; bardzo duzy blad azymutu
+*SD clino 10 degrees	; umiarkowany blad upadu
+
 *data normal from to tape compass clino ignoreall
 13	13_101	3.097	173.020	43.430
 13_101	13_102	3.867	201.750	46.110

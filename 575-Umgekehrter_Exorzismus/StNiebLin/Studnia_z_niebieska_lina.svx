@@ -1,5 +1,9 @@
 *begin Studnia_z_niebieska_lina
 *title "Studnia z niebieską liną"
+
+*cs UTM33N
+*declination auto 352617.791	5265751.998	2089.4
+
 *date 2023.07.29
 *team Jagna Kicyla, Piotr Kopera
 *instrument tape "DistoX2 MAGDA"

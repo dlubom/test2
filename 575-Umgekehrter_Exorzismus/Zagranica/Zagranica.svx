@@ -1,5 +1,9 @@
 *begin Zagranica
 *title "Ciagi od przejscia granicznego"
+
+*cs UTM33N
+*declination auto 352617.791	5265751.998	2089.4
+
 *date 2022.08.07
 *team Jaga Kicyla (szkic Qave), Rafal Mateja (DistoX2)
 *instrument tape "DistoX2"

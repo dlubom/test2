@@ -1,10 +1,20 @@
 *begin Studnia13
 *title "Studnia 13"
+
+*cs UTM33N
+*declination auto 352617.791	5265751.998	2089.4
+
 *date 2023.07.25
 *team Jagna Kicyla, Kamila Roter
 *instrument tape "DistoX2 H10"
 *instrument compass "DistoX2 H10"
 *instrument clino "DistoX2 H10"
+
+; podejrzenie duzego azymutu, ktory ujawnil sie po zamknieciu petli zawierajacej ciagi "Studnia13" i "Zlotowka"; blad poziomy rowny 6.4 m w petli o dlugosci 119.7 m (5.36%)
+;;*SD tape 0.0001 metres	; umiarkowany blad odleglosci
+;;*SD compass 90 degrees	; bardzo duzy blad azymutu (duzy blad standardowy tej sesji pomiarowej mowi Survexowi, aby wiekszosc bledu rozrzucic po odcinkach tej sesji pomiarowej i niewiele zmieniac kierunek starego ciagu)
+;;*SD clino 90 degrees	; umiarkowany blad upadu
+
 *data normal from to tape compass clino ignoreall
 
 *begin
@@ -24,7 +34,7 @@
 5	6	16.015	186.470	-84.590	; przenumerowanie 13_2 na 5 oraz 13_3 na 6
 6	7	18.836	141.820	-62.620	; przenumerowanie 13_3 na 6 oraz 13_4 na 7
 7	8	3.101	54.540	-15.353	; przenumerowanie 13_4 na 7 oraz 13_5 na 8
-;*equate Studnia13.8	zlotowka.110	; (zamkniecie petli - nie zamykam z powodu bledu = 6.4m)
+;*equate Studnia13.8	zlotowka.110	; (zamkniecie petli; blad = 6.4m)
 
 *begin
 *flags duplicate

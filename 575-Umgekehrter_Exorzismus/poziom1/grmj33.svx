@@ -1,5 +1,9 @@
 *begin grmj33
 *title "Ciagi poziome"
+
+*cs UTM33N
+*declination auto 352617.791	5265751.998	2089.4
+
 *date 2022.07.29
 *team Joanna Przymus (szkic SexyTopo), Jagna Kicyla (DistoX2)
 *instrument tape "DistoX2 ?"

@@ -1,5 +1,9 @@
 *begin Trawers
 *title "Trawers nad prozkiem"
+
+*cs UTM33N
+*declination auto 352617.791	5265751.998	2089.4
+
 *date 2022.08.10
 *team Jagna Kicyla (szkic Qave), Rafal Mateja (DistoX2), Radoslaw Paternoga (DistoX2)
 *instrument tape "DistoX2"
