@@ -2,18 +2,27 @@
 *begin 574-Z_lustrami
 
 *cs UTM33N
-*cs out UTM33N
+;*cs out UTM33N
 *declination auto	352617.699	5265818.017	2086
 
-*entrance 1_0	; Main Entrance
+*entrance 01-eingang	; Main Entrance
 ;#FIX  1.0   E13:02.518  N47:31.744   2086m     ;dm
-*fix	1_0	352617.699	5265818.017	2086	;GPS Location UTM
-*entrance 2_0	; Entrance 2
-*entrance 1_11	; Entrance 3
-*entrance 1_20	; Entrance 4
-*entrance 1_22	; Entrance 5
-*entrance 1_29	; Entrance 6
-*entrance 1_31	; Entrance 7
+;*fix	1_0	352617.699	5265818.017	2086	;GPS Location UTM
+*entrance 02-eingang	; Entrance 2
+*entrance 03-eingang	; Entrance 3
+*entrance 04-eingang	; Entrance 4
+*entrance 05-eingang	; Entrance 5
+*entrance 06-eingang	; Entrance 6
+*entrance 07-eingang	; Entrance 7
+
+*equate 01-eingang	1_0	; Main Entrance
+*equate 02-eingang	2_0	; Entrance 2
+*equate 03-eingang	1_11	; Entrance 3
+*equate 04-eingang	1_20	; Entrance 4
+*equate 05-eingang	1_22	; Entrance 5
+*equate 06-eingang	1_29	; Entrance 6
+*equate 07-eingang	1_31	; Entrance 7
+
 *date 2021.08.13
 *team "Rafal Mateja" (szkic, Spray, DistoX2)
 *team "Grzegorz Guziak" (szkic, Spray, DistoX2)
