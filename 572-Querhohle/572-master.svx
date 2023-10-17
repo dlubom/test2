@@ -1,0 +1,8 @@
+*cs UTM33N
+*cs out UTM33N
+
+*declination auto	352932.991	5265228.121	2101
+
+*include 572.svx
+;#FIX	572-Poprzeczna.01-eingang	E13:02.781	N47:31.430	2101m	;dm
+*fix	572-Poprzeczna.01-eingang	352932.991	5265228.121	2101	;GPS Location UTM

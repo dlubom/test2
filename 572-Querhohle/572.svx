@@ -2,12 +2,15 @@
 *begin 572-Poprzeczna
 
 *cs UTM33N
-*cs out UTM33N
+;*cs out UTM33N
 *declination auto	352932.991	5265228.121	2101
 
-*entrance 1_0
+*entrance 01-eingang
 ;#FIX  1.0   E13:02.781  N47:31.430    2101m     ;dm
-*fix	1_0	352932.991	5265228.121	2101	;GPS Location UTM
+;*fix	1_0	352932.991	5265228.121	2101	;GPS Location UTM
+
+*equate 01-eingang	1_0
+
 *date 2021.08.16
 *team "Jakub Nowak" (szkic, Spray, DistoX2)
 *team "Lukasz Stankowski" (szkic, Spray, DistoX2)
