@@ -2,17 +2,18 @@
 *begin 494-Respektschacht
 
 *cs UTM33N
-*cs out UTM33N
+;*cs out UTM33N
 *declination auto	352650	5266814	1980
 
+*entrance	01-eingang
 
-*include 494_CG.svx
-*include 494_ST.svx
-*include 494_OBG.svx
-*include 494_OMD.svx
-*include 494_PS.svx
+*include 494_CG\494_CG.svx
+*include 494_ST\494_ST.svx
+*include 494_OBG\494_OBG.svx
+*include 494_OMD\494_OMD.svx
+*include 494_PS\494_PS.svx
 
-
+*equate 01-eingang	Ciag_glowny.RC1
 *equate Studnia.RC15	Ciag_glowny.RC15
 *equate Ponizej_studni.RC18	Studnia.RC18
 *equate Obok_mysiej_g.RC17	Studnia.RC17

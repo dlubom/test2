@@ -1,0 +1,8 @@
+*cs UTM33N
+*cs out UTM33N
+
+*declination auto	352650	5266814	1980
+
+*include 494.svx
+;#FIX	494-Respektschacht.01-eingang	E13:03.533	N47:31.848	2025m	;dm
+*fix	494-Respektschacht.01-eingang	353895.799	5265978.674	2025	;UTM zone 33N

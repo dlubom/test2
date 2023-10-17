@@ -1,3 +1,4 @@
+*case preserve
 *begin Ciag_glowny
 *title "Respektschacht [494]"
 
@@ -7,12 +8,11 @@
 
 *entrance	RC1
 ;#FIX	RC1	E13:03.533	N47:31.848	2025m	;dm
-*fix	RC1	353895.799	5265978.674	2025	;UTM zone 33N
+;*fix	RC1	353895.799	5265978.674	2025	;UTM zone 33N
 
 *date 2007.08.20
 *team Dariusz Bartoszewski, Krzysztof Jablonski, Marcin Kosecki
 *data normal from to tape compass clino ignoreall
-*case preserve
 RC1	RC2	4.95	245.00	-46.00
 RC2	RC4	56.70	0.00	-90.00
 RC4	RC5	3.08	340.00	-20.00
