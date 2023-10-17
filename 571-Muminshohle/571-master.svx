@@ -1,0 +1,8 @@
+*cs UTM33N
+*cs out UTM33N
+
+*declination auto	353386.197	5264677.968	2090
+
+*include 571.svx
+;#FIX	571-Muminkow.01-eingang	E13:03.153	N47:31.1393	2090m
+*fix	571-Muminkow.01-eingang	353386.197	5264677.968	2090	;GPS Location UTM

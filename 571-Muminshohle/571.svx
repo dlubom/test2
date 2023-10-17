@@ -3,13 +3,15 @@
 *date 2021.07.30
 
 *cs UTM33N
-*cs out UTM33N
+;*cs out UTM33N
 *declination auto	353386.197	5264677.968	2090
 
-*entrance	1_0
+*entrance	01-eingang
 ;#note 1.0	/[571] Muminkow
 ;#FIX 1.0 E13:03.153 N47:31.1393 2090m
-*fix	1_0	353386.197	5264677.968	2090	;GPS Location UTM
+;*fix	1_0	353386.197	5264677.968	2090	;GPS Location UTM
+
+*equate 01-eingang	1_0	; entrance 01
 
 *instrument compass "DistoX2"
 *instrument clino "DistoX2"
