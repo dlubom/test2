@@ -1,0 +1,8 @@
+*cs UTM33N
+*cs out UTM33N
+
+*declination auto	352682.533	5266348.297	1978
+
+*include 482.svx
+;#FIX	482-Hohle_der_blaunen_Nebel.01-eingang	E13:02.559	N47:32.031	1978m	;dm
+*fix 	482-Hohle_der_blaunen_Nebel.01-eingang	352682.533	5266348.297	1978	;UTM zone 3301-eingang
