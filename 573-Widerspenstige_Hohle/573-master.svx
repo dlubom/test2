@@ -1,0 +1,8 @@
+*cs UTM33N
+*cs out UTM33N
+
+*declination auto	353083.641	5266226.997	1973
+
+*include 573.svx
+;#FIX	573-Przekorna_Studnia.01-eingang	E13:02.881	N47:31.971	1973m	;dm
+*fix	573-Przekorna_Studnia.01-eingang	353083.641	5266226.997	1973	;GPS Location UTM
