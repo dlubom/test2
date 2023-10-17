@@ -19,21 +19,21 @@
 *include 421-Tschikpausenhohle\421-master.svx
 *include 424-Eisrutschn\424-master.svx
 
-*include 482-Hohle_der_blaunen_Nebel\482.svx
+*include 482-Hohle_der_blaunen_Nebel\482-master.svx
 
 *include 491-Hohle_in_Roten_Steinen\491-master.svx
 
-*include 494-Respektschacht\494.svx
+*include 494-Respektschacht\494-master.svx
 
-*include 500-B3-6\500.svx
+*include 500-B3-6\500-master.svx
 
-*include 571-Muminshohle\571.svx
-*include 572-Querhohle\572.svx
-*include 573-Widerspenstige_Hohle\573.svx
-*include 574-Hohle_mit_Spiegeln\574.svx
+*include 571-Muminshohle\571-master.svx
+*include 572-Querhohle\572-master.svx
+*include 573-Widerspenstige_Hohle\573-master.svx
+*include 574-Hohle_mit_Spiegeln\574-master.svx
 *include 575-Umgekehrter_Exorzismus\575-master.svx
-*include 576-Unter_dem_Steinbock\576.svx
-*include 577-Das_Erste_Mal\577.svx
+*include 576-Unter_dem_Steinbock\576-master.svx
+*include 577-Das_Erste_Mal\577-master.svx
 
 *include 578-Hohle_unter_den_Felsbrucken\578-master.svx
 *include 579-Vorderer_Kragenkopf_Eishohle\579-master.svx

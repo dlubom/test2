@@ -470,7 +470,7 @@
 .ENDBOOK
 .BOOK	[482] Niebieskich Mgie³ Hohle der blaunen Nebel
 .NAME	482BL
-.STATUS	2570
+.STATUS	2568
 .REF	5266348.297 352682.533 33 -1.444 1978 1 47 32 1.860 13 2 33.540 27 "WGS 1984"
 .SURVEY	482
 .NAME	482
@@ -674,7 +674,7 @@
 .ENDBOOK
 .BOOK	[494] Respektschacht
 .NAME	494_RESP
-.STATUS	2570
+.STATUS	2568
 .REF	5265982.472 353892.128 33 -1.432 2025 1 47 31 51.000 13 3 31.800 27 "WGS 1984"
 .SURVEY	494_Respektschacht_plan_2008.jpg
 .NAME	494_Respektschacht_plan_2008.jpg
@@ -686,23 +686,23 @@
 .STATUS	327688
 .SURVEY	Ciag glowny
 .NAME	494_CG
-.PATH	494-Respektschacht
+.PATH	494-Respektschacht\494_CG
 .STATUS	2560
 .SURVEY	obok_Mysiej_d
 .NAME	494_OMD
-.PATH	494-Respektschacht
+.PATH	494-Respektschacht\494_OMD
 .STATUS	2568
 .SURVEY	obok_mysiej_g
 .NAME	494_OBG
-.PATH	494-Respektschacht
+.PATH	494-Respektschacht\494_OBG
 .STATUS	2560
 .SURVEY	ponizej_studni
 .NAME	494_PS
-.PATH	494-Respektschacht
+.PATH	494-Respektschacht\494_PS
 .STATUS	2560
 .SURVEY	Studnia
 .NAME	494_ST
-.PATH	494-Respektschacht
+.PATH	494-Respektschacht\494_ST
 .STATUS	2560
 .ENDBOOK
 .BOOK	[495] Ciekawa Interessante Höhle
@@ -1554,7 +1554,7 @@
 .ENDBOOK
 .BOOK	[500] B3-6
 .NAME	B3-6
-.STATUS	2570
+.STATUS	2568
 .REF	5265994.536 353041.395 33 -1.440 2009 1 47 31 50.700 13 2 51.120 27 "WGS 1984"
 .SURVEY	500_B3-6_plan&profile_2010.pdf
 .NAME	500_B3-6_plan&profile_2010.pdf
@@ -1570,7 +1570,7 @@
 .STATUS	8
 .SURVEY	b3.6
 .NAME	150809
-.PATH	500-B3-6
+.PATH	500-B3-6\150809
 .STATUS	8
 .ENDBOOK
 .BOOK	[501] Kitzgrabenwasserschacht
@@ -1844,7 +1844,7 @@
 .BOOK	[571] Jaskinia Muminkow / Muminshohle
 .NAME	571MUMIN
 .PATH	571-Muminshohle
-.STATUS	2570
+.STATUS	2568
 .REF	5264677.412 353386.183 33 -1.436 2090 1 47 31 8.340 13 3 9.180 27 "WGS 1984"
 .SURVEY	Jaskinia Muminków - przekrój.png
 .NAME	Jaskinia Muminków - przekrój.png
@@ -1859,7 +1859,7 @@
 .BOOK	[572] Jaskinia Poprzeczna / Querhohle
 .NAME	QUER
 .PATH	572-Querhohle
-.STATUS	2570
+.STATUS	2568
 .REF	5265228.121 352932.991 33 -1.441 2101 1 47 31 25.800 13 2 46.860 27 "WGS 1984"
 .SURVEY	1335_572 Querhöhle_Grundriss.pdf
 .NAME	1335_572 Querhöhle_Grundriss.pdf
@@ -1877,7 +1877,7 @@
 .BOOK	[573] Przekorna Studnia / Widerspenstige Hohle
 .NAME	PRZEKOR
 .PATH	573-Widerspenstige_Hohle
-.STATUS	2570
+.STATUS	2568
 .REF	5266145.686 353081.596 33 -1.440 1973 1 47 31 55.626 13 2 52.860 27 "WGS 1984"
 .SURVEY	przekorna-ns.pdf
 .NAME	przekorna-ns.pdf
