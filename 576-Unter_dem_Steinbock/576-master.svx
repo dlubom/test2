@@ -1,0 +1,9 @@
+*cs UTM33N
+*cs out UTM33N
+
+*declination auto	352635.012	5265718.092	2083.1
+
+*include 576.svx
+;#FIX	576-Pod_koziorozcem.01-eingang	E13:02.534	N47:31.692	2050m	;dm	;bledna wysokosc (koordynaty ze smartfona)
+;*fix	576-Pod_koziorozcem.01-eingang	352635.342	5265721.197	2050	;GPS Location UTM	;bledna wysokosc (koordynaty ze smartfona)
+*fix	576-Pod_koziorozcem.01-eingang	352635.012	5265718.092	2083.1	;GPS Location UTM	;koordynaty z SAGIS
