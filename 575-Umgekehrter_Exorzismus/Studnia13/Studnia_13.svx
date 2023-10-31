@@ -11,9 +11,9 @@
 *instrument clino "DistoX2 H10"
 
 ; podejrzenie duzego azymutu, ktory ujawnil sie po zamknieciu petli zawierajacej ciagi "Studnia13" i "Zlotowka"; blad poziomy rowny 6.4 m w petli o dlugosci 119.7 m (5.36%)
-;;*SD tape 0.0001 metres	; umiarkowany blad odleglosci
+;;*SD tape 0.0001 metres	; bardzo maly blad odleglosci
 ;;*SD compass 90 degrees	; bardzo duzy blad azymutu (duzy blad standardowy tej sesji pomiarowej mowi Survexowi, aby wiekszosc bledu rozrzucic po odcinkach tej sesji pomiarowej i niewiele zmieniac kierunek starego ciagu)
-;;*SD clino 90 degrees	; umiarkowany blad upadu
+;;*SD clino 90 degrees		; bardzo duzy blad upadu
 
 *data normal from to tape compass clino ignoreall
 
