@@ -1,17 +1,11 @@
 *case preserve
 *begin 579-Vorderer_Kragenkopf_Eishohle
 
-*cs UTM33N
-;*cs out UTM33N
-
-*declination auto 353051	5264811	2134
-
 
 *entrance 01-eingang
 *entrance 02-eingang
 
 *include 20230808-Vorderer_Kragenkopf_Eishohle\Vorderer_Kragenkopf_Eishohle.svx	; otwor
-
 *equate 01-eingang	20230808-Vorderer_Kragenkopf_Eishohle.0		; entrance 01
 *equate 02-eingang	20230808-Vorderer_Kragenkopf_Eishohle.6_3		; entrance 01
 

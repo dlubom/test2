@@ -1,15 +1,20 @@
 *begin 20230811-Pod_skalnymi_mostami
 *title "Pod skalnymi mostami"
+
+;*declination	4.4 degrees
+*cs UTM33N
+*declination auto	353001	5264558	2132	;GPS Location UTM (SAGIS)
+
+*entrance	0
+;*fix	0	353012.571	5264558.541	2136.0	;GPS Location UTM (koordynaty i wysokość ze smartfona)
+;*fix	0	353001	5264558	2132	;GPS Location UTM (SAGIS)
+;#FIX 	0	E13:02.8486	N47:31.0694	2132m	;dm WGS84 (SAGIS)
+
 *date 2023.08.11
 *team Radoslaw Paternoga, Jaroslaw Paszkiewicz, Wanda Cacha
 *instrument tape "DistoX2 NEW"
 *instrument compass "DistoX2 NEW"
 *instrument clino "DistoX2 NEW"
-
-*entrance	0
-;*fix	0	353012.571	5264558.541	2136.0	;GPS Location UTM (koordynaty i wysokość ze smartfona)
-;*fix	0	353001	5264558	2132	;GPS Location UTM (SAGIS)
-
 *data normal from to tape compass clino ignoreall
 0	1	1.103	276.528	-24.413
 1	2	1.583	327.883	-6.824

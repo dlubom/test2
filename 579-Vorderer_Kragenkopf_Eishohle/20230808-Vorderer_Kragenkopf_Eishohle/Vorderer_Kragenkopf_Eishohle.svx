@@ -1,16 +1,21 @@
 *begin 20230808-Vorderer_Kragenkopf_Eishohle
 *title "Vorderer Kragenkopf Eishohle"
-*date 2023.08.08
-*team Wanda Cacha, Barbara Jablonska, Radoslaw Paternoga, Jaroslaw Paszkiewicz
-*instrument tape "DistoX2 NEW"
-*instrument compass "DistoX2 NEW"
-*instrument clino "DistoX2 NEW"
+
+;*declination	4.4 degrees
+*cs UTM33N
+*declination auto	353051	5264811	2134	;GPS Location UTM (SAGIS)
 
 *entrance	0
 *entrance	6_3
 ;*fix	0	353053.087	5264811.803	2140.0	;GPS Location UTM (koordynaty i wysokość ze smartfona)
 ;*fix	0	353051	5264811	2134	;GPS Location UTM (SAGIS)
+;#FIX 	0	E13:02.883354	N47:31.206539	2134m	;dm WGS84 (SAGIS)
 
+*date 2023.08.08
+*team Wanda Cacha, Barbara Jablonska, Radoslaw Paternoga, Jaroslaw Paszkiewicz
+*instrument tape "DistoX2 NEW"
+*instrument compass "DistoX2 NEW"
+*instrument clino "DistoX2 NEW"
 *data normal from to tape compass clino ignoreall
 0	1	1.620	346.132	-57.861
 1	2	1.862	335.121	-55.975
