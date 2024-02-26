@@ -18,6 +18,7 @@
 *include 408-Kitzgraben\408-master.svx
 *include 421-Tschikpausenhohle\421-master.svx
 *include 424-Eisrutschn\424-master.svx
+*include 425-St.Blasius-Labyrinth\425-master.svx
 
 *include 482-Hohle_der_blaunen_Nebel\482-master.svx
 

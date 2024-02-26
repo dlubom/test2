@@ -1,0 +1,8 @@
+*cs UTM33N
+*cs out UTM33N
+
+*declination auto	352690.487	5265667.913	2090
+
+*include 425.svx		; otwor
+;*fix	425-St_Blasius_Labyrinth.01-eingang	0	0	0	;GPS Location UTM
+*fix	425-St_Blasius_Labyrinth.01-eingang	352690.487	5265667.913	2090	;GPS Location UTM

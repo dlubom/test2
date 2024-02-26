@@ -1,0 +1,12 @@
+*case preserve
+*begin 425-St_Blasius_Labyrinth
+
+*cs UTM33N
+*declination auto	352690.487	5265667.913	2090
+
+*entrance 01-eingang
+
+*include 425BLPKT.svx
+*equate 01-eingang	Blasius_Labyrinth.bl20	; entrance 01
+
+*end 425-St_Blasius_Labyrinth
