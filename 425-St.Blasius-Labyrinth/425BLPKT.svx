@@ -1,10 +1,31 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "St. Blasius Labyrinth"
+;cavern name pl ""
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2024-02-26
+;file team "Karol Makowski"
+
+;source file: 425BLPKT.SRV
 *case preserve
+
 *begin Blasius_Labyrinth
 *title "St. Blasius Labyrinth"
 
 *cs UTM33N
-*declination auto	352690.487	5265667.913	2090
+*declination auto	352690.487	5265667.913	2090	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 2.5 degrees
+
+;TODO otwory zdaje sie sa dwa
+;#NOTE	bl20	/St. Blasius-Labyrinth [425]
+;#FLAG	bl20	/GPS Location
+;#FIX	bl20   E13:02.579  N47:31.664   2090m     ;dm
+*entrance bl20
 
 ;TODO data jest prawdopodobnie bledna
 *date 2010.03.01
@@ -19,15 +40,10 @@
 *instrument clino "DistoX <id>"
 
 *units tape backtape meters
-;*units compass backcompass <unknown unit>
-;*units clino backclino <unknown unit>
+*units compass backcompass degrees
+*units clino backclino degrees
 
-;#NOTE	bl20	/St. Blasius-Labyrinth [425]
-;#FLAG	bl20	/GPS Location
-;#FIX	bl20   E13:02.579  N47:31.664   2090m     ;dm
 
-;TODO otwory zdaje sie sa dwa
-*entrance bl20
 
 *data normal from to tape compass clino ignoreall
 
@@ -52,8 +68,8 @@ bl16	bl17	8.0	262.8	51.3
 bl17	bl18	3.9	189.0	11.7
 bl18	bl19	11.0	275.4	37.8
 bl19	bl20	11.0	255.6	38.7
-bl05	bl05p	3.7	323.1	-20.7
-bl05p	bl21	8.2	242.1	-20.7
+bl05	bl05_1	3.7	323.1	-20.7
+bl05_1	bl21	8.2	242.1	-20.7
 bl21	bl22	3.8	279.9	-25.2
 bl22	bl23	5.6	218.7	4.5
 bl23	bl24	4.5	212.4	7.2
