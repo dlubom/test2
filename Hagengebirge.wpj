@@ -313,7 +313,7 @@
 .BOOK	[425] St. Blasius-Labyrinth
 .NAME	425BL
 .PATH	425-St.Blasius-Labyrinth
-.STATUS	2571
+.STATUS	2568
 .REF	5265667.913 352690.487 33 -1.444 2090 1 47 31 39.840 13 2 34.740 27 "WGS 1984"
 .SURVEY	St. Blasius-Labyrinth [425]
 .NAME	425BLPKT
@@ -707,7 +707,7 @@
 .ENDBOOK
 .BOOK	[495] Ciekawa Interessante Höhle
 .NAME	495CIE
-.STATUS	2568
+.STATUS	2569
 .REF	5266270.244 353206.478 33 -1.439 1932 1 47 31 59.760 13 2 58.680 27 "WGS 1984"
 .SURVEY	!_Uwaga
 .NAME	UWAGA
@@ -765,7 +765,7 @@
 .NAME	ZA120809
 .PATH	495-Interessante
 .STATUS	8
-.SURVEY	2012-08-10 - Zachodni - po³noc kontnuacja
+.SURVEY	2012-08-10 - Zachodni - pó³noc kontynuacja
 .NAME	ZA098765
 .PATH	495-Interessante
 .STATUS	8
@@ -849,7 +849,7 @@
 .NAME	130808KP
 .PATH	495-Interessante
 .STATUS	8
-.SURVEY	2013-08-09 - Dziki Zachod
+.SURVEY	2013-08-09 - Dziki Zachod 2
 .NAME	130809DZ
 .PATH	495-Interessante
 .STATUS	8
@@ -881,7 +881,7 @@
 .NAME	130816PK
 .PATH	495-Interessante\130816PK
 .STATUS	8
-.SURVEY	2014-07-22 - Gstryczne dolny meander
+.SURVEY	2014-07-22 - Gastryczne dolny meander
 .NAME	140722PD
 .PATH	495-Interessante\140722PD
 .STATUS	8
@@ -997,7 +997,7 @@
 .NAME	140813K
 .PATH	495-Interessante\140813PK
 .STATUS	8
-.SURVEY	2014-08-14 - Gambki - Studnia z meandrem
+.SURVEY	2014-08-14 - G¹bki - Studnia z meandrem
 .NAME	140813GK
 .PATH	495-Interessante\140813GK
 .STATUS	8
@@ -1053,7 +1053,7 @@
 .NAME	150806SA
 .PATH	495-Interessante
 .STATUS	8
-.SURVEY	2015-08-06 - wspinanie w mendrze
+.SURVEY	2015-08-06 - Wspinanie w meandrze
 .NAME	150806WS
 .PATH	495-Interessante
 .STATUS	8
@@ -1061,7 +1061,7 @@
 .NAME	150811MA
 .PATH	495-Interessante
 .STATUS	8
-.SURVEY	2015-08-12 - Nie chcê mi siê
+.SURVEY	2015-08-12 - Nie chce mi siê
 .NAME	150812DW
 .PATH	495-Interessante
 .STATUS	8
@@ -1093,35 +1093,39 @@
 .NAME	160802ZO
 .PATH	495-Interessante\160802zo
 .STATUS	8
-.SURVEY	2016-08-04_odnoga
-.NAME	160804OD
-.PATH	495-Interessante\160804od
-.STATUS	8
 .SURVEY	2016-08-08 - Bok 1
 .NAME	BOK1
 .PATH	495-Interessante\160808b1
 .STATUS	8
-.SURVEY	2016-08-09 - Bok 2
-.NAME	BOKI 2
-.PATH	495-Interessante\160809b2
+.SURVEY	2016-08-04_odnoga
+.NAME	160804OD
+.PATH	495-Interessante\160804od
 .STATUS	8
 .SURVEY	2016-08-10 - Bez karty
 .NAME	160810BK
 .PATH	495-Interessante\160810bk
 .STATUS	8
-.SURVEY	2017-07-26 - Meander Za Blotospadem 1
+.SURVEY	2016-08-09 - Bok 2
+.NAME	BOKI 2
+.PATH	495-Interessante\160809b2
+.STATUS	8
+.SURVEY	2017-07-26 - Po³¹czenie
+.NAME	170726MK
+.PATH	495-Interessante\170726MK
+.STATUS	8
+.SURVEY	2017-07-26 - Meander Stropowy 1
 .NAME	170726ME
 .PATH	495-Interessante\170726ME
 .STATUS	8
-.SURVEY	2017-07-30 - Meander Za Blotospadem 2
+.SURVEY	2017-07-30 - Meander Stropowy 2
 .NAME	170730ME
 .PATH	495-Interessante\170730ME
 .STATUS	8
-.SURVEY	2017-08-04 - Meander Za Blotospadem 3
+.SURVEY	2017-08-04 - Meander Stropowy 3
 .NAME	170804KM
 .PATH	495-Interessante\170804KM
 .STATUS	8
-.SURVEY	2017-08-08 - Meander Podstropowy
+.SURVEY	2017-08-08 - Meander Stropowy 4
 .NAME	PODSTROP
 .PATH	495-Interessante\170808KM
 .STATUS	8
@@ -1145,11 +1149,7 @@
 .NAME	170815ZK
 .PATH	495-Interessante\170815zk
 .STATUS	8
-.SURVEY	2017-08-26 - Po³¹czenie
-.NAME	170726MK
-.PATH	495-Interessante\170726MK
-.STATUS	8
-.SURVEY	2018-07-26 - Meander Stropowy
+.SURVEY	2018-07-26 - Meander Stropowy 5
 .NAME	180726MS
 .PATH	495-Interessante\180726K3
 .STATUS	8
@@ -1173,7 +1173,7 @@
 .NAME	180812ME
 .PATH	495-Interessante\180812me
 .STATUS	8
-.SURVEY	2019-07-24 - Mender pod jednej nocy
+.SURVEY	2019-07-24 - Meander pod jednej nocy
 .NAME	190724KT
 .PATH	495-Interessante\190724
 .STATUS	8
@@ -1216,8 +1216,8 @@
 .SURVEY	2019-08-10 - obwodoijt
 .NAME	19810
 .PATH	495-Interessante\190810ob
-.STATUS	8
-.SURVEY	2019-08-10? - popierdolka
+.STATUS	10
+.SURVEY	2019-08-10 - popierdolka
 .NAME	190810__
 .PATH	495-Interessante\190810__
 .STATUS	8
@@ -1257,11 +1257,11 @@
 .NAME	STPODM
 .PATH	495-Interessante\200811SM
 .STATUS	8
-.SURVEY	2021-07-26 - Meander Stropowy 1
+.SURVEY	2021-07-26 - Meander Stropowy 7
 .NAME	21STROP1
 .PATH	495-Interessante\21strop1
 .STATUS	8
-.SURVEY	2021-07-31 - Meander Stropowy 2
+.SURVEY	2021-07-31 - Meander Stropowy 8
 .NAME	21STROP2
 .PATH	495-Interessante\21strop2
 .STATUS	8
@@ -1269,7 +1269,7 @@
 .NAME	21BALTGA
 .PATH	495-Interessante\21BaltGa
 .STATUS	8
-.SURVEY	2021-08-04 - Meander Stropowy 3
+.SURVEY	2021-08-04 - Meander Stropowy 9
 .NAME	21STROP3
 .PATH	495-Interessante\21strop3
 .STATUS	8
@@ -1285,7 +1285,7 @@
 .NAME	ZIMNYMN2
 .PATH	495-Interessante\21zimnM2
 .STATUS	8
-.SURVEY	2022-07-26 - Meander Chorych Snów 2
+.SURVEY	2022-07-26 - Meander Chorych Snów Remake
 .NAME	CHORESN2
 .PATH	495-Interessante\22MNCHSN
 .STATUS	8
@@ -1801,37 +1801,37 @@
 .PATH	568-Alte_Ostmaander
 .STATUS	2570
 .REF	5264133.858 353185.466 33 -1.438 2077 1 47 30 50.580 13 3 0.240 27 "WGS 1984"
-.SURVEY	Alte Ostmaander v4 plan.pdf
-.NAME	Alte Ostmaander v4 plan.pdf
-.STATUS	327688
 .SURVEY	Alte Ostmaander v3 przekroj.pdf
 .NAME	Alte Ostmaander v3 przekroj.pdf
 .STATUS	327688
-.SURVEY	pietro 1
-.NAME	PI1
-.STATUS	8
+.SURVEY	Alte Ostmaander v4 plan.pdf
+.NAME	Alte Ostmaander v4 plan.pdf
+.STATUS	327688
 .SURVEY	pietro 0
 .NAME	PI0
+.STATUS	8
+.SURVEY	pietro 1
+.NAME	PI1
 .STATUS	8
 .ENDBOOK
 .BOOK	[569] Dreischachtlhöhle
 .NAME	569
-.PATH	569-Drei
+.PATH	568-Alte_Ostmaander\..\569-Drei
 .STATUS	2570
 .REF	5264375.644 352930.379 33 -1.441 2100 1 47 30 58.200 13 2 47.760 27 "WGS 1984"
-.SURVEY	Dreischachtlhöhle sektion.pdf
-.NAME	Dreischachtlhöhle sektion.pdf
-.STATUS	327688
-.SURVEY	Dreischachtlhöhle planen.pdf
-.NAME	Dreischachtlhöhle planen.pdf
-.STATUS	327688
 .SURVEY	3s
 .NAME	3S
 .STATUS	8
+.SURVEY	Dreischachtlhöhle planen.pdf
+.NAME	Dreischachtlhöhle planen.pdf
+.STATUS	327688
+.SURVEY	Dreischachtlhöhle sektion.pdf
+.NAME	Dreischachtlhöhle sektion.pdf
+.STATUS	327688
 .ENDBOOK
 .BOOK	[570] FK-13
 .NAME	570FK13
-.PATH	570-fk13
+.PATH	568-Alte_Ostmaander\..\569-Drei\..\570-fk13
 .STATUS	2570
 .REF	5264577.892 353068.551 33 -1.439 2119 1 47 31 4.860 13 2 54.120 27 "WGS 1984"
 .SURVEY	FK13.pdf

@@ -41,7 +41,7 @@ kv014	kv015	187.13	0.43	2.111
 kv015	-	307.1	-11.8	0.772
 kv015	-	230.27	20.91	1.295
 kv015	-	277.87	13.35	0.84
-kv015	kv016	245.81	22.18	2.032;strza³ nie zosta³ zakwalfikowany jako podobny do dwóch kolejnych - reczna zmiana (old D=0,952 A=249,3 V=21,3) (new D= 2,032 A=245,8 V=22,2)
+kv015	kv016	245.81	22.18	2.032	;strza³ nie zosta³ zakwalfikowany jako podobny do dwóch kolejnych - reczna zmiana (old D=0,952 A=249,3 V=21,3) (new D= 2,032 A=245,8 V=22,2)
 kv016	-	183.1	25.54	0.696
 kv016	-	18.5	6.58	1.152
 kv016	-	53.84	20.93	0.778
@@ -164,7 +164,7 @@ kv018	-	180.0	-87.21	0.041
 kv018	-	163.29	-46.48	6.466
 kv018	-	177.43	-63.29	8.335
 kv018	-	187.48	-43.46	7.887
-kv018	kv019	187.31	-43.56	7.687;punkt 1.9=1.88
+kv018	kv019	187.31	-43.56	7.687	;punkt 1.9=1.88
 kv019	-	307.52	3.9	2.325
 kv019	-	145.48	-81.54	1.956
 kv019	-	133.87	-59.05	4.186
@@ -254,8 +254,8 @@ kv027	-	109.59	-59.3	0.765
 kv027	-	151.81	65.87	1.041
 kv027	-	176.48	-1.88	1.647
 kv027	-	166.71	-0.66	2.158
-kv027	kv027a	59.33	0.0	0.1;sztucznie dodany odcinek o d³ugoœci 0,1 m aby umo¿liwiæ zamkniecie petli do punktu 1.13
-kv027a	kv023	329.5	-49.96	3.328;z punktu 1.17 nie widaæ punktu 1.13 - wymagane jest ok. 10 cm przesuniecie DistoX w kierunku NW (prostopadle do odcinka z punktu 1.171 do 1.13). Sztucznie wprowadzono ten odcinek z puntu 1.17 do 1.171
+kv027	kv027a	59.33	0.0	0.1	;sztucznie dodany odcinek o d³ugoœci 0,1 m aby umo¿liwiæ zamkniecie petli do punktu 1.13
+kv027a	kv023	329.5	-49.96	3.328	;z punktu 1.17 nie widaæ punktu 1.13 - wymagane jest ok. 10 cm przesuniecie DistoX w kierunku NW (prostopadle do odcinka z punktu 1.171 do 1.13). Sztucznie wprowadzono ten odcinek z puntu 1.17 do 1.171
 kv025	kv029	137.64	7.61	3.2
 kv029	-	301.39	-17.04	2.02
 kv029	-	323.17	-10.38	1.614
@@ -285,17 +285,19 @@ kv033	-	118.21	-14.91	0.727
 kv033	-	232.47	10.29	2.189
 kv033	-	228.32	29.31	2.257
 kv033	-	235.02	19.95	5.103
-kv033	kv034	237.2	19.71	5.113;szkic kontynuje sie kolorem szarym
+kv033	kv034	237.2	19.71	5.113	;szkic kontynuje sie kolorem szarym
 kv034	-	23.05	42.01	0.698
 kv034	-	0.37	-52.34	0.769
 kv034	kv035	331.66	23.61	1.715
 kv035	-	259.68	13.59	2.779
-kv035	-	259.46	13.44	0.899;prawdopodobny punkt - zmienilem wartoœæ dystansu (old D=0,900) (new D=2,772)
+kv035	-	259.46	13.44	0.899	;prawdopodobny punkt - zmienilem wartoœæ dystansu (old D=0,900) (new D=2,772)
 kv035	-	259.36	13.34	2.766
+kv035	kv035pp	259.36	13.34	0.9	;punkt na podstawie trzech poprzednich pomiarów (prawdopodobnie przestrzelony i potraktowany jako domiary)
 kv035	-	285.31	25.69	1.34
 kv035	-	149.18	82.3	0.495
 kv035	-	123.53	32.91	0.729
-kv035	kv036	210.83	6.91	3.681
+;;kv035	kv036	210.83	6.91	3.681
+kv035pp	kv036	210.83	6.91	3.68	;od przestrzelonego punktu
 kv036	kv037	351.15	26.59	3.851
 kv037	-	158.84	-27.51	2.548
 kv037	-	174.72	-20.77	2.196
@@ -323,7 +325,7 @@ kv044	-	206.06	-80.25	0.605
 kv044	-	69.27	-68.27	4.326
 kv044	-	58.34	-12.16	1.438
 kv044	kv045	103.96	-34.65	5.321
-kv044	kv046	350.39	30.24	3.008;szkic na czerwono
+kv044	kv046	350.39	30.24	3.008	;szkic na czerwono
 kv046	-	296.11	9.16	3.234
 kv046	-	94.09	-86.07	2.255
 kv046	-	233.6	-2.48	0.739
@@ -335,7 +337,7 @@ kv047	-	153.36	2.34	1.81
 kv047	-	307.88	-43.18	1.378
 kv047	-	197.23	-8.73	2.722
 kv047	-	75.27	-83.04	2.465
-kv047	kv048	228.11	15.49	2.584;szkic na brazowo
+kv047	kv048	228.11	15.49	2.584	;szkic na brazowo
 kv048	-	82.97	-1.72	2.737
 kv048	-	354.97	-7.82	0.588
 kv048	kv049	237.95	13.69	1.445
@@ -360,11 +362,11 @@ kv053	-	82.97	6.52	0.88
 kv053	-	167.61	-23.55	0.478
 kv053	-	242.22	-79.84	0.839
 kv053	-	237.26	-26.47	1.097
-kv053	kv053a	236.07	-38.57	2.172;prawdopodobny punkt - zmienilem wartoœæ dystansu (old D=1,079) (new D=2,170)
+kv053	kv053a	236.07	-38.57	2.172	;prawdopodobny punkt - zmienilem wartoœæ dystansu (old D=1,079) (new D=2,170)
 kv053a	-	298.08	-14.02	2.234
 kv053a	-	335.4	82.94	0.743
 kv053a	-	0.22	17.43	1.068
 kv053a	-	71.74	-5.12	0.628
 kv053a	-	73.28	-78.94	8.701
 kv053a	kv054	310.06	-35.57	2.737
-kv054	kv020	178.0	-34.96	1.187;1.45=1.10
+kv054	kv020	178.0	-34.96	1.187	;1.45=1.10

@@ -1,7 +1,7 @@
 #units meters order=AVD
 #units A=D V=D
 #date 2018-08-12
-#prefix urodziny2
+#prefix urodzin2
 ;Jakub Pysz (Palm), Adam Wladzinski, Filip Filar
 1	urodziny:14	0	0	0
 1	2	107.39	42.56	7.97
