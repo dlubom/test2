@@ -1,0 +1,103 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de ""
+;cavern part pl "Trzecia Studnia Optymistyczna"
+
+;file date 2024-03-09
+;file team "Karol Makowski"
+
+;source file: 130810s3.srv
+*case preserve
+
+*begin 3_Studnia_Optymistyczna
+*title "Trzecia Studnia Optymistyczna"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.9 degrees
+
+*date 2013.08.10
+
+;Dariusz Lubomski (kartowanie), Tomasz Biela i Michal Humienik(Disto + spray)
+*team Dariusz Lubomski (sketch PDA/PocketTopo)
+*team Tomasz Biela (DistoX1, marking)
+*team Michał Humienik (DistoX1, marking)
+
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+ws096	ws096_01	8.87	58.09	-60.11
+ws096	..	8.93	62.79	-60.57
+ws096_01	ws096_02	4.12	28.69	-31.92
+ws096_01	ws096_1a	3.62	181.73	-11.54	;domiar
+ws096_01	..	2.31	224.96	12.02
+ws096_01	..	9.1	241.2	60.1
+ws096_01	..	1.45	282.79	0.28
+ws096_01	..	5.26	282.72	42.93
+ws096_01	..	4.48	32.79	-48.11
+ws096_02	ws096_03	1.49	350.4	17.14
+ws096_02	..	1.88	264.45	-72.07
+ws096_02	..	2.18	284.92	63.9
+ws096_02	..	2.65	203.62	4.89
+ws096_02	..	1.01	162.5	-25.62
+ws096_02	..	0.59	277.16	-6.33
+ws096_02	..	0.95	229.51	-6.29
+ws096_02	..	1.43	254.54	37.87
+ws096_03	ws096_04	3.12	36.67	-25.4
+ws096_03	..	0.72	314.57	66.68
+ws096_03	..	0.35	116.64	14.39
+ws096_03	..	1.41	26.04	-1.18
+ws096_03	..	1.15	220.73	7.59
+ws096_03	..	1.1	119.12	-59.33
+ws096_04	ws096_05	3.57	7.96	0.06
+ws096_04	..	1.17	159.93	-84.57
+ws096_04	..	0.37	291.08	1.24
+ws096_04	..	1.18	312.35	60.53
+ws096_05	ws096_06	0.72	0.32	8.34
+ws096_06	ws096_07	0.98	230.34	-6.22
+ws096_07	..	1.16	344.51	-6.09
+ws096_07	..	0.68	39.07	78.96
+ws096_07	..	2.78	51.22	-76.55
+ws096_07	..	1.24	64.1	5.88
+ws096_07	..	2.48	69.44	-54.97
+ws096_07	ws096_08	1.69	333.5	-47.83
+ws096_08	..	0.56	226.82	7.89
+ws096_08	..	0.85	288.81	76.93
+ws096_08	ws096_09	2.6	306.05	-23.85
+ws096_09	ws096_10	4.78	258.16	-46.87
+ws096_10	ws096_11	1.89	11.4	11.24
+ws096_10	..	3.67	98.57	64.77
+ws096_10	..	0.88	38.89	-3.65
+ws096_10	..	1.6	43.41	-82.68
+ws096_10	..	3.06	80.23	-5.64
+ws096_11	ws096_12	1.08	60.33	-5.26
+ws096_11	ws09611a	4.93	225.29	23.33	;domiar
+ws096_12	ws096_13	3.27	17.68	-16.56
+ws096_13	ws096_14	1.65	354.49	7.91
+ws096_14	..	12.47	315.89	-74.36
+ws096_14	..	1.87	32.72	-19.27
+ws096_14	..	1.97	8.51	-36.32
+ws096_14	..	8.99	318.44	-56.27
+ws096_14	..	7.67	298.86	-58.05
+ws096_14	..	2.9	284.85	-58.9
+ws096_14	..	6.46	306.49	-84.61
+ws096_14	..	6.24	327.13	-75.41
+ws096_14	ws09614a	12.63	320.51	-72.03	;domiar
+ws096_14	..	0.6	79.45	-10.37
+ws096_14	..	1.23	63.12	-0.28
+ws096_14	..	1.52	52.19	-0.53
+ws096_14	..	1.14	102.16	1.61
+*end 3_Studnia_Optymistyczna

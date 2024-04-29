@@ -1,0 +1,48 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de ""
+;cavern part pl "Gang Białych Kamieni domiary 1"
+
+;file date 2024-03-07
+;file team "Karol Makowski"
+
+;source file: GABAKD1.SRV
+*case preserve
+
+*begin Gang_Bialych_Kamieni-domiary1
+;#SEGMENT	/Gang Bialych Kamieni domiary 1
+*title "Gang Białych Kamieni domiary 1"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.6 degrees
+
+*date 2011.08.03
+
+;Michal Humienik, Dariusz Lubomski
+*team <name surename> (sketch PDA/PocketTopo)
+*team <name surename> (DistoX1)
+*team <name surename> (marking)
+
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+ws028	ws028_01	6.11	285.8	-42.8
+ws028_01	ws028_02	2.05	25.0	-60.0
+ws028_02	ws028_03	5.36	270.7	-36.2
+ws028_03	w28_03_1	7.22	308.1	-65.7
+ws028_03	w28_03_2	1.91	322.4	65.9
+*end Gang_Bialych_Kamieni-domiary1

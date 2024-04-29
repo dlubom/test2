@@ -1,0 +1,72 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de ""
+;cavern part pl "Partie Jana Sopińskiego"
+
+;file date 2024-03-04
+;file team "Karol Makowski"
+
+;source file: PAJANA.SRV
+*case preserve
+
+*begin Partie_Jana_Sopinskiego
+*title "Partie Jana Sopińskiego"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.5 degrees
+
+*date 2010.08.11
+
+;Jan Sopinski, Michal Humienik, Adam Mioduszewski, Tomasz Olczak
+*team <name surename> (sketch <device/app>)
+*team <name surename> (DistoX1)
+*team <name surename> (marking)
+
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+hg074	js001	10.24	62.36	-45.07
+js001	js002	5.18	293.0	-62.23
+js002	js003	3.9	141.03	5.54
+js003	js004	3.31	139.71	-63.22
+js004	js005	1.55	139.89	27.54
+js005	js006	0.77	195.68	-3.47
+js006	js007	5.05	127.25	-38.94
+js007	js008	2.43	170.68	-66.92
+js008	js009	2.64	122.47	24.2
+js009	js010	3.32	144.07	-33.43
+js010	js011	1.74	105.5	-27.27
+js011	js012	5.18	204.27	-9.9
+js009	js009_01	3.41	247.64	41.2
+js009_01	js009_02	3.15	113.31	-43.56
+js009_02	js009_03	4.77	211.94	-8.45
+js009_03	js009_04	3.23	258.73	33.72
+js009_04	js009_05	4.5	189.11	-24.26
+js009_05	js009_06	1.61	167.21	-19.32
+js009_06	js009_07	2.04	168.94	-1.17
+js009_07	js009_08	1.4	209.19	22.64
+js009_08	js009_09	1.62	212.39	4.64
+js009_09	js009_10	4.4	261.06	44.42
+js009_04	j09_04_1	6.75	339.76	42.28
+j09_04_1	j09_04_2	2.84	213.45	29.21
+j09_04_2	j09_04_3	4.8	298.67	30.92
+j09_04_3	j09_04_4	4.61	260.63	38.97
+j09_04_4	j09_04_5	4.24	330.9	54.26
+j09_04_5	j09_04_6	2.28	283.84	54.42
+hg074	hg074_01	4.68	338.1	-39.48
+hg074_01	hg074_02	9.72	167.54	-77.89
+*end Partie_Jana_Sopinskiego

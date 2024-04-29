@@ -1,0 +1,51 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de ""
+;cavern part pl "Zachodni Dol"
+
+;file date 2024-03-06
+;file team "Karol Makowski"
+
+;source file: 120815ZD.SRV
+*case preserve
+
+*begin Zachodni-Dol
+;#SEGMENT	/Zachodni Dol
+*title "Zachodni Dol"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.8 degrees
+
+*date 2012.08.15
+
+;Jkub Nowak (obsluga Disto-X), Oliwia Rysnik (kartowanie)
+;Disto-X + Palm
+*team Oliwia Ryśnik (sketch PDA/PocketTopo)
+*team Jakub Nowak (DistoX1)
+*team <name surename> (marking)
+
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+wt087	..	15.33	150.69	-27.09
+wt087	..	19.13	128.91	-64.95
+wt085	wt084	5.86	310.37	6.86
+wt083	wt084	38.01	132.17	-83.79
+wt082	wt083	20.05	162.62	-88.92
+wt081	wt082	1.13	200.04	-23.42
+wt068_01	wt081	2.01	276.68	-29.97
+*end Zachodni-Dol

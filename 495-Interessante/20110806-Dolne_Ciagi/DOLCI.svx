@@ -1,0 +1,58 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de ""
+;cavern part pl "Dolne Ciągi"
+
+;file date 2024-03-07
+;file team "Karol Makowski"
+
+;source file: DOLCI.SRV
+*case preserve
+
+*begin Dolne_Ciagi
+;#SEGMENT	/Dolne Ciagi
+*title "Dolne Ciągi"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.6 degrees
+
+*date 2011.08.06
+
+;Rafal Mateja, Oliwia Rysnik
+*team <name surename> (sketch PDA/PocketTopo)
+*team <name surename> (DistoX1)
+*team <name surename> (marking)
+
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+ut008_06	uts001	6.15	82.1	-64.5
+uts001	uts002	20.17	152.6	-82.5
+uts002	uts003	7.72	105.8	22.7
+uts003	uts03_01	12.04	21.6	6.9
+uts003	uts03_02	10.78	78.6	-20.8
+uts003	uts004	5.29	159.6	-30.1
+uts004	uts005	7.84	226.3	-11.2
+uts005	uts006	8.61	184.1	8.0
+uts006	uts06_01	6.5	21.8	3.5
+uts06_01	uts06_02	8.59	84.5	85.3
+uts006	uts007	11.14	236.0	-8.6
+uts007	uts008	5.43	282.7	-2.1
+uts008	ut08_01	5.13	268.8	-1.1
+uts008	uts009	8.18	162.7	16.9
+uts009	uts010	7.66	171.1	21.9
+*end Dolne_Ciagi

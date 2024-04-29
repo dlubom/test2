@@ -1,0 +1,47 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de ""
+;cavern part pl "Meander Zachodni 286"
+
+;file date 2024-03-06
+;file team "Karol Makowski"
+
+;source file: SD345678.SRV
+*case preserve
+
+*begin Zachodni_286
+;#SEGMENT	/Zachodni - 286
+*title "Meander Zachodni 286"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.8 degrees
+
+*date 2012.08.09
+
+;Jan Dudziec (obsluga Disto-X), Michal Humienik (kartowanie)
+*team Michal Humienik (sketch PDA/PocketTopo)
+*team Jan Dudziec (DistoX1)
+*team <name surename> (marking)
+
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+wm286	wm286_01	3.67	342.27	-24.85
+wm286_01	wm286_02	1.55	286.96	-10.92
+wm286_02	wm286_03	1.18	280.7	-7.12
+wm286_03	wm286_04	2.55	337.41	-13.75	;domiar
+*end Zachodni_286

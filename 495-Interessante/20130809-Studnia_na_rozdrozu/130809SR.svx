@@ -1,0 +1,97 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de "Ein Schacht am Scheideweg"
+;cavern part pl "Studnia na rozdrożu"
+
+;file date 2024-03-06
+;file team "Karol Makowski"
+
+;source file: 130809SR.SRV
+*case preserve
+
+*begin Studnia_na_rozdrozu
+*title "Studnia na rozdrożu"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.9 degrees
+
+*date 2013.08.09
+
+;Bartosz Chrusciel (spray), Adam Mioduszewski(kartowanie), Ewelina Raczynska(Disto)
+*team Adam Mioduszewski (sketch PDA/PocketTopo)
+*team Ewelina Raczynska (DistoX1)
+*team Bartosz Chrusciel (marking)
+
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+hg117_12	hg117_11	2.54	264.32	15.14
+hg117_11	..	0.66	290.93	76.0
+hg117_11	..	0.7	340.95	4.0
+hg117_11	..	1.18	349.29	-78.11
+hg117_11	..	2.41	107.81	7.74
+hg117_11	..	0.3	334.11	3.41
+hg117_11	..	0.57	153.73	-81.42
+hg117_11	..	0.41	171.22	19.78
+hg117_11	hg117_10	1.55	261.72	-9.18
+hg117_10	..	3.07	238.71	-13.56
+hg117_10	..	0.85	52.69	72.29
+hg117_10	..	0.92	158.01	12.94
+hg117_10	..	0.53	338.8	-11.48
+hg117_10	..	0.56	320.31	-83.75
+hg117_10	hg117_09	9.54	239.46	67.15
+hg117_09	..	1.03	92.51	-5.84
+hg117_09	..	0.94	256.2	-2.74
+hg117_09	..	1.16	270.75	78.55
+hg117_09	hg117_08	2.0	111.91	45.31
+hg117_08	..	0.25	266.42	82.63
+hg117_08	..	0.34	253.61	7.95
+hg117_08	..	0.52	118.05	40.61
+hg117_08	..	0.28	20.85	-85.33
+hg117_08	..	0.6	209.91	20.39
+hg117_08	hg117_07	3.07	218.03	19.71
+hg117_07	..	1.64	77.43	84.06
+hg117_07	..	1.09	110.35	-2.48
+hg117_07	..	1.49	35.69	-81.38
+hg117_07	hg117_06	1.79	218.68	26.27
+hg117_06	..	6.72	281.57	68.6
+hg117_06	..	1.02	35.85	-5.46
+hg117_06	..	1.73	122.79	11.91
+hg117_06	..	1.21	333.77	1.0
+hg117_06	..	2.42	58.67	-70.54
+hg117_06	hg117_05	6.61	282.16	69.4
+hg117_05	..	1.19	225.89	3.42
+hg117_05	..	2.28	165.55	-7.29
+hg117_05	..	2.16	299.38	-5.74
+hg117_05	hg117_04	4.82	264.45	55.21
+hg117_04	..	0.87	59.87	11.65
+hg117_04	..	3.3	126.3	5.43
+hg117_04	..	2.4	295.29	4.2
+hg117_04	..	2.49	236.36	6.83
+hg117_04	hg117_03	8.91	245.36	85.55
+hg117_03	..	2.69	234.88	-7.08
+hg117_03	..	0.76	300.01	-5.92
+hg117_03	hg117_02	1.03	181.55	20.96
+hg117_02	..	3.1	276.75	85.43
+hg117_02	..	2.3	248.08	10.8
+hg117_02	..	0.43	81.6	23.41
+hg117_02	hg117_01	2.48	170.33	39.52
+hg117_01	..	1.96	310.26	82.97
+hg117_01	..	2.14	270.51	3.08
+hg117_01	..	1.4	53.57	9.98
+hg117_01	hg117	4.04	72.72	43.33
+*end Studnia_na_rozdrozu

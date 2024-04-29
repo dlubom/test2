@@ -1,0 +1,61 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de "Westmäander 4"
+;cavern part pl "Meander Zachodni 4"
+
+;file date 2024-03-10
+;file team "Karol Makowski"
+
+;source file: 140812ST.SRV
+*case preserve
+
+*begin st
+*title "<add a title>"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 3.0 degrees
+
+*date 2014.08.12
+
+;Arek Kus, Tomasz Olczak
+*team <name surename> (sketch PDA/PocketTopo)
+*team <name surename> (DistoX1)
+*team <name surename> (marking)
+
+;delta Disto = 0.0
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+wm199_4	wm199_41	2.88	184.85	-39.76	;domiar - ciasno
+wm199_4	..	0.82	117.79	2.74
+wm199_4	wm199_3	1.93	54.35	14.71
+wm199_3	..	0.36	182.05	0.94
+wm199_3	..	1.26	278.2	64.25
+wm199_3	wm199_31	1.25	228.58	-77.39	;domiar
+wm199_3	..	0.84	111.88	-1.3
+wm199_3	wm199_2	3.01	123.6	80.36
+wm199_2	..	0.43	358.27	2.4
+wm199_2	..	1.39	39.55	-64.55
+wm199_2	..	0.79	314.03	1.59
+wm199_2	..	0.86	94.23	3.02
+wm199_2	wm199_1	1.62	43.9	4.53
+wm199_1	wm199	5.04	337.13	9.49
+*flags duplicate
+wm199	wm200	3.78	305.27	-6.95	;powtorzone
+*flags not duplicate
+
+*end st

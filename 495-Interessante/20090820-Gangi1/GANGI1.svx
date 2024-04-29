@@ -1,0 +1,113 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de ""
+;cavern part pl "Gangi 1"
+
+;file date 2024-03-05
+;file team "Karol Makowski"
+
+;source file: GANGI1.SRV
+*case preserve
+
+*begin Gangi1
+*title "Gangi 1"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.4 degrees
+
+*date 2009.08.20
+
+;Alireza Balaghi, Jaroslaw Wrzesien, Marek Wierzbowski
+*team <name surename> (sketch <device/app>)
+*team <name surename> (DistoX1)
+*team <name surename> (marking)
+
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+hg105	ut001	4.12	242.08	-49.66
+ut001	ut002	5.36	224.84	-58.6
+ut002	ut003	15.62	224.37	-73.23
+ut003	ut004	19.08	224.91	-83.07
+ut004	ut004_01	5.94	35.58	30.79
+ut004_01	u04_01_a	18.51	314.75	44.97
+ut004_01	u04_01_1	5.82	62.78	-59.34
+u04_01_1	u04_01_2	1.43	64.03	1.74
+u04_01_2	u04_01_3	1.62	127.38	-5.86
+u04_01_3	u04_01_4	1.15	14.35	4.51
+u04_01_4	u04_01_5	2.53	298.14	-3.63
+u04_01_5	u04_01_6	3.02	49.7	-3.19
+ut004	ut005	5.36	179.41	42.79
+ut005	ut006	5.82	247.43	25.91
+ut006	ut007	3.15	144.42	-5.03
+ut007	ut008	4.69	198.76	0.49
+ut008	ut008_01	3.4	277.71	-29.86
+ut008_01	ut008_02	7.98	289.61	-83.41
+ut008_02	ut008_03	3.88	51.27	-79.34
+ut008_03	ut008_04	6.38	213.37	2.74
+ut008_04	ut008_05	3.36	149.45	-48.94
+ut008_05	ut008_06	2.39	69.99	17.18
+ut008_02	u08_02_1	2.23	132.86	-2.55
+u08_02_1	u08_02_2	2.02	51.99	4.11
+u08_02_2	u08_02_3	6.29	119.31	3.08
+u08_02_3	u08_02_4	0.51	239.94	-4.14
+;u08_02_4	u08_02_5	42.1	69.35	-79.59
+ut008	ut009	4.88	241.83	2.14
+ut009	ut010	4.26	220.45	-35.73
+ut010	ut011	12.49	206.24	40.55
+ut011	ut012	21.02	267.28	33.02
+ut012	ut013	5.36	217.83	-7.1
+ut013	ut013_a	11.46	5.08	-70.0
+ut013	ut013_01	1.44	358.62	33.67
+ut013_01	ut013_02	6.6	249.61	49.81
+wm034	wm035	3.67	293.81	29.54
+wm035	wm036	3.58	343.25	-20.15
+wm036	wm036_01	3.11	31.74	-60.99
+wm036_01	wm036_02	3.56	353.75	-8.65
+wm036	wm037	6.07	33.36	23.76
+wm037	wm038	2.65	302.0	25.42
+wm052	wm053	7.86	263.45	-27.47
+wm053	wm054	6.92	323.17	-1.9
+wm054	wm055	3.9	28.25	19.0
+wm055	wm055_01	3.57	4.81	9.34
+wm055_01	wm055_02	4.19	321.96	-25.37
+wm055	wm056	4.84	246.25	42.83
+wm056	wm057	2.99	235.27	-6.61
+wm057	wm058	6.61	314.43	-29.67
+wm058	wm059	4.35	353.63	0.1
+wm059	wm059_a	5.15	14.02	68.51
+wm059	wm060	7.36	335.4	-29.77
+wm060	wm061	10.9	262.81	-23.53
+wm061	wm062	7.6	304.29	-25.21
+wm062	wm063	8.3	267.98	-18.69
+wm063	wm064	3.42	286.7	-6.1
+wm064	wm065	8.19	300.8	-23.4
+wm065	wm066	6.88	345.93	-41.2
+wm066	wm067	2.16	258.45	-0.21
+wm067	wm068	3.19	13.53	11.28
+wm068	wm069	1.56	30.16	58.45
+wm069	wm070	2.59	318.11	37.14
+wm070	wm071	6.1	259.61	29.23
+wm071	pr001	4.18	319.38	-1.62
+pr001	pr002	2.28	284.19	-15.63
+pr002	pr003	4.89	46.44	-26.32
+pr003	pr004	3.15	289.04	-29.51
+pr004	pr005	5.74	267.08	-29.78
+wm071	wm072	7.07	281.07	37.32
+wm072	wm073	12.79	356.63	38.64
+wm073	wm074	5.19	309.69	33.07
+*end Gangi1

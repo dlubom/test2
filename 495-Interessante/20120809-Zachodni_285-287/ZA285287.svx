@@ -1,0 +1,54 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de ""
+;cavern part pl "Meander Zachodni 285-287"
+
+;file date 2024-03-06
+;file team "Karol Makowski"
+
+;source file: ZA285287.SRV
+*case preserve
+
+*begin Zachodni_285-287
+;#segment /Zachodni - 285-287
+*title "Meander Zachodni 285-287"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.8 degrees
+
+*date 2012.08.09
+
+;Jan Dudziec (obsluga Disto-X), Michal Humienik (kartowanie)
+*team Michal Humienik (sketch PDA/PocketTopo)
+*team Jan Dudziec (DistoX1)
+*team <name surename> (marking)
+
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+wm285	wm285_01	6.67	77.79	42.55
+wm285_01	..	0.94	339.15	41.11
+wm285_01	..	1.08	332.31	-85.93
+wm285_01	..	0.79	327.87	-0.98
+wm285_01	wm285_02	1.84	37.98	13.29
+wm285_02	wm285_03	1.84	173.71	27.97
+wm285_03	wm285_aa	2.07	34.73	-11.43
+wm285_03	..	0.78	316.03	-18.7
+wm285_03	..	1.91	76.59	-84.41
+wm285_03	wm285_04	2.88	160.74	-35.06
+wm285_04	wm287	3.68	214.22	-52.97
+*end Zachodni_285-287

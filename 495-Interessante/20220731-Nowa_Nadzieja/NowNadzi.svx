@@ -1,0 +1,73 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de ""
+;cavern part pl "Nowa Nadzieja"
+
+;file date 2024-03-20
+;file team "Karol Makowski"
+
+;source file: NowNadzi.srv
+*case preserve
+
+*begin Nowa_Nadzieja
+;#PREFIX	nnadzieja
+;Nowa nadzieja
+*title "Nowa Nadzieja"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 4.2 degrees
+
+*date 2022.07.31
+
+;team Arkadiusz Kus (szkic PocketTopo), Adam Wladzinski [Paluszek] (DistoX2), Pawel Zebrowski [Koniu]
+*team Arkadiusz Kus (sketch PDA/PocketTopo)
+*team Adam Władzinski (DistoX2)
+*team Paweł Żebrowski (marking)
+
+*instrument tape "DistoX2 <id>"
+*instrument compass "DistoX2 <id>"
+*instrument clino "DistoX2 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+1_0	1_1	4.97	162.9	-23.09
+1_1	1_2	7.78	156.88	-30.07
+1_2	1_3	3.5	111.97	-14.75
+1_3	1_4	1.53	170.56	-10.28
+1_4	1_5	6.16	108.06	-37.46
+;1_5	blbaj:1_31	0.0	0.0	0.0	; dowiazanie
+*flags duplicate
+1_5	1_6	1.81	147.96	62.1	; powtorzone
+1_6	1_7	2.67	175.03	3.22	; powtorzone
+*flags not duplicate
+;1_0	0_0	8.13	326.3	41.31	; domiar do duzego meandra, ktory sie kontynuuje (latwy wspin)
+1_0	..	3.03	150.87	-58.13
+1_0	..	2.64	154.64	-38.02
+1_0	..	1.52	179.46	51.07
+1_1	..	1.76	231.89	80.38
+1_1	..	0.58	86.02	1.69
+1_1	..	0.33	243.59	4.5
+1_2	..	0.61	54.06	7.01
+1_2	..	0.88	79.62	-68.16
+1_2	..	2.16	295.51	80.9
+1_3	..	1.77	208.77	71.57
+1_3	..	1.05	226.66	-0.76
+1_3	..	1.43	220.01	-87.07
+1_4	..	1.6	27.61	-79.35
+1_4	..	0.76	40.24	-6.84
+1_4	..	0.67	32.32	37.27
+1_5	..	1.8	147.81	62.08
+1_5	..	1.87	148.26	61.97
+1_5	..	1.86	148.16	61.67
+*end Nowa_Nadzieja

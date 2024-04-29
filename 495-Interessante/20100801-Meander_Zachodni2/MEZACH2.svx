@@ -1,0 +1,57 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de "Westmäander 2"
+;cavern part pl "Meander Zachodni 2"
+
+;file date 2024-03-06
+;file team "Karol Makowski"
+
+;source file: MEZACH2.SRV
+*case preserve
+
+*begin Meander_Zachodni2
+*title "Meander Zachodni 2"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.5 degrees
+
+*date 2010.08.01
+
+;Bartlomiej Chrusciel, Tomasz Olczak, Jan Sopinski
+*team <name surename> (sketch <device/app>)
+*team <name surename> (DistoX2)
+*team <name surename> (marking)
+
+*instrument tape "DistoX2 <id>"
+*instrument compass "DistoX2 <id>"
+*instrument clino "DistoX2 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+wm074	wm075	2.79	185.03	83.45
+wm075	wm076	2.72	307.33	26.33
+wm076	wm076_01	3.63	162.72	42.58
+wm076_01	wm076_02	7.97	210.78	20.69
+wm076_01	w76_01_1	7.14	130.45	31.58
+wm076	wm077	4.41	50.49	46.26
+wm077	wm078	11.1	336.75	47.99
+wm078	wm079	2.58	301.7	-14.52
+wm079	wm080	7.05	274.18	-42.96
+wm077	wm077_01	7.07	337.81	-8.62
+wm077_01	wm077_02	3.55	272.81	2.06
+wm077_02	wm077_03	3.08	301.89	20.11
+wm077_03	wm080	3.01	304.33	62.96
+wm080	wm081	9.14	240.79	18.31
+wm081	wm082	6.06	16.28	-17.65
+*end Meander_Zachodni2

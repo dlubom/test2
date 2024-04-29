@@ -1,0 +1,107 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de ""
+;cavern part pl "Partie Powrotu"
+
+;file date 2024-03-08
+;file team "Karol Makowski"
+
+;source file: 121007PP.SRV
+*case preserve
+
+*begin Partie_Powrotu
+;#SEGMENT	/Partie Powrotu
+*title "Partie Powrotu"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.8 degrees
+
+*date 2012.10.07
+
+;Michal Humielnik (palm /disto), Bartek Berdel (sprej/disto), Tomek Olczak (sprej)
+*team Michał Humienik (sketch PDA/PocketTopo)
+*team Michał Humienik, Bartek Berdel (DistoX1)
+*team Bartek Berdel, Tomasz Olczak (marking)
+
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+ws071	rh001	1.75	81.49	-5.08
+rh001	rh002	9.24	336.03	-54.0
+rh002	rh003	2.79	37.41	-69.69
+rh003	rh003_01	2.79	36.89	-69.5	;domiar
+rh003	rh004	4.06	139.99	-9.92
+rh004	rh005	4.45	134.96	12.64
+rh005	..	1.12	220.75	-1.69
+rh005	..	1.36	143.62	4.52
+rh005	..	1.14	158.2	-89.46
+rh005	..	3.02	293.61	0.83
+rh005	rh006	2.58	156.96	42.64
+rh006	..	2.44	224.72	5.73
+rh006	..	2.81	261.95	7.24
+rh006	..	5.47	317.45	9.32
+rh006	..	0.77	347.67	-3.45
+rh006	..	0.7	235.85	-75.82
+rh006	rh007	2.12	145.05	-17.56
+rh007	..	4.58	101.96	12.35
+rh007	..	6.34	127.03	35.24
+rh007	..	2.72	63.95	33.48
+rh007	..	2.11	31.01	9.42
+rh007	..	1.43	9.72	0.0
+rh007	..	2.23	37.62	55.78
+rh007	..	0.83	273.69	-87.85
+rh007	rh008	2.46	102.84	7.27
+rh008	..	1.6	240.83	11.78
+rh008	..	2.46	191.63	40.47
+rh008	..	2.24	221.4	82.79
+rh008	..	1.19	57.34	5.35
+rh008	..	2.61	317.18	11.08
+rh008	..	2.75	141.85	61.88
+rh008	..	9.11	163.3	45.85
+rh008	..	7.57	183.72	57.42
+rh008	rh009	9.96	159.45	40.35
+rh009	..	1.26	282.52	-9.34
+rh009	..	1.83	38.35	-1.85
+rh008	rh010	1.96	48.89	-25.58
+rh010	rh011	2.83	60.03	-55.42
+rh011	..	1.07	205.25	-1.07
+rh011	..	1.54	207.6	77.02
+rh011	..	1.55	138.73	35.04
+rh011	rh012	3.14	250.6	-42.9
+rh012	..	1.58	355.23	0.18
+rh012	..	1.49	33.45	1.73
+rh012	..	1.64	143.85	4.77
+rh012	..	3.24	86.58	2.76
+rh012	..	4.94	39.45	-28.68
+rh012	..	5.5	25.24	-38.37
+rh012	..	6.14	10.5	-43.42
+rh012	..	7.02	358.83	-46.81
+rh012	..	1.34	97.23	-84.2
+rh012	..	2.52	339.66	-62.26
+rh012	..	4.62	356.48	-55.62
+rh012	..	4.86	334.63	-41.01
+rh012	rh013	9.31	338.2	-47.17
+rh011	rh014	1.64	142.65	-6.77
+rh014	rh015	7.31	46.09	-24.41
+rh015	rh016	0.74	333.58	-18.45
+rh016	..	4.1	35.88	-1.83
+rh016	..	2.69	90.15	0.73
+rh016	..	9.18	4.67	-56.38
+rh016	..	4.2	50.8	45.61
+rh016	..	5.53	50.84	67.34
+rh016	rh016_1	9.73	17.86	-38.19	;domiar
+*end Partie_Powrotu

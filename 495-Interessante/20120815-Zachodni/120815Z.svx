@@ -1,0 +1,51 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de ""
+;cavern part pl "Zachodni"
+
+;file date 2024-03-06
+;file team "Karol Makowski"
+
+;source file: 120815Z.SRV
+*case preserve
+
+*begin Zachodni
+;#SEGMENT	/Zachodni
+*title "Zachodni"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.8 degrees
+
+*date 2012.08.15
+
+;Michal Humienik (obsluga Disto-X), Karol Makowski (kartowanie)
+;Disto-X + Palm
+*team Karol Makowski (sketch PDA/PocketTopo)
+*team Michal Humienik (DistoX1)
+*team <name surename> (marking)
+
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+wt060	wt071	4.25	7.02	-40.41
+wt071	wt072	3.71	321.73	-20.78
+wt072	wt073	4.43	345.93	8.83
+wt073	wt074	3.59	352.47	-11.4
+wt074	wt075	1.76	265.73	-14.33
+wt075	wt076	3.33	239.4	-78.42
+wt076	wt069_01	2.9	26.25	-18.42
+*end Zachodni

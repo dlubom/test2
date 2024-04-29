@@ -1,0 +1,51 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de ""
+;cavern part pl "Zachodni - Komin Michala"
+
+;file date 2024-03-06
+;file team "Karol Makowski"
+
+;source file: AS878989.SRV
+*case preserve
+
+*begin Zachodni-Komin_Michala
+;#SEGMENT	/Zachodni - Komin Michala
+*title "Zachodni - Komin Michala"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.8 degrees
+
+*date 2012.08.09
+
+;Jan Dudziec (obsluga Disto-X), Michal Humienik (kartowanie)
+;Disto-X + Palm
+*team Michal Humienik (sketch PDA/PocketTopo)
+*team Jan Dudziec (DistoX1)
+*team <name surename> (marking)
+
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+wm282	wm282_01	3.91	183.93	20.87
+wm282_01	wm282_02	3.68	131.27	36.7
+wm282_02	..	8.16	82.2	51.9
+wm282_02	wm282_03	1.26	172.73	62.17
+wm282_03	..	5.17	271.7	65.0
+wm282_03	wm282_04	7.13	71.4	54.3
+wm282_03	..	1.99	332.6	8.0
+*end Zachodni-Komin_Michala

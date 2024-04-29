@@ -1,0 +1,74 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2024-03-10
+;file team "Karol Makowski"
+
+;source file: 140812B2.SRV
+*case preserve
+
+*begin Brzytwa2
+*title "Brzytwa 2"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 3.0 degrees
+
+*date 2014.08.12
+
+;Arek Kus, Tomasz Olczak
+*team <name surename> (sketch PDA/PocketTopo)
+*team <name surename> (DistoX1)
+*team <name surename> (marking)
+
+;delta Disto = 0.0
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+wm172_27	..	2.59	61.8	-14.69
+wm172_27	..	1.2	77.51	-9.4
+wm172_27	..	0.96	31.91	6.75
+wm172_27	..	0.51	131.4	7.76
+wm172_27	..	2.77	63.08	81.0
+wm172_27	wm172_26	3.66	93.99	59.5
+wm172_26	wm172_25	2.76	212.28	69.12
+wm172_25	..	1.21	29.22	-9.21
+wm172_25	..	1.4	329.02	2.66
+wm172_25	..	0.59	347.59	52.5
+wm172_25	wm172_24	1.88	0.24	50.81
+wm172_24	..	0.51	180.45	2.23
+wm172_24	..	0.54	114.6	9.99
+wm172_24	..	3.14	327.39	75.05
+wm172_24	..	0.72	211.1	3.11
+wm172_24	wm172_20	2.04	208.0	72.61
+wm172_20	wm172_21	2.09	59.7	70.4
+wm172_21	..	0.94	158.16	-73.55
+wm172_21	..	0.23	181.01	-9.75
+wm172_21	..	0.53	337.96	-19.55
+wm172_21	..	1.9	274.57	8.16
+wm172_21	..	1.48	66.83	-7.01
+wm172_21	wm172_22	1.25	78.51	-6.1
+wm172_22	..	0.47	199.11	14.42
+wm172_22	..	1.05	13.02	26.05
+wm172_22	wm172_23	2.54	114.3	40.66
+wm172_23	..	0.82	31.21	-9.08
+wm172_23	..	0.48	89.38	-78.92
+wm172_23	..	0.71	200.07	7.64
+wm172_23	..	1.18	126.51	-0.44
+wm172_23	wm172231	5.68	105.66	18.0	;domiar
+*end Brzytwa2

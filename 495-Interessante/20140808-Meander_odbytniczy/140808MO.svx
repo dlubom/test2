@@ -1,0 +1,80 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de ""
+;cavern part pl "Meander odbytniczy"
+
+;file date 2024-03-10
+;file team "Karol Makowski"
+
+;source file: 140808MO.SRV
+*case preserve
+
+*begin Meander_odbytniczy
+*title "Meander odbytniczy"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 3.0 degrees
+
+*date 2014.08.08
+
+;Filip Filar, Jakub Nowak, Michal Parczewski
+*team <name surename> (sketch PDA/PocketTopo)
+*team <name surename> (DistoX1)
+*team <name surename> (marking)
+
+;delta Disto = 0.0
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+wt165	wt166	5.37	309.83	39.89
+wt166	wt167	3.81	270.69	24.18
+wt167	wt168	4.51	308.27	-42.24
+wt168	wt169	2.79	309.69	-22.76
+wt169	wt170	5.42	174.14	-87.2
+wt170	..	6.99	129.33	-54.03
+wt170	..	4.33	323.53	-6.76
+wt170	wt171	18.73	250.7	-82.14
+wt171	wt172	5.21	172.61	-68.48
+wt172	..	3.93	13.49	0.85
+wt172	..	4.64	82.67	-1.57
+wt172	wt172_1	9.17	88.0	-69.31	;domair
+wt172	..	1.5	320.26	3.56
+wt172	..	2.21	142.63	-0.47
+wt172	wt173	6.1	226.2	-9.59
+wt173	wt174	5.27	272.63	-49.11
+wt174	wt175	34.69	63.37	-88.74
+wt175	..	3.63	62.51	12.97
+wt175	..	1.81	301.68	4.35
+wt175	..	2.78	123.42	9.9
+wt175	wt176	3.73	173.85	-4.02
+wt176	wt177	7.06	107.59	-52.64
+wt177	wt178	3.9	202.92	4.24
+wt178	wt179	2.68	299.91	-40.35
+wt179	wt180	1.05	342.83	-46.9
+wt180	wt181	0.51	330.67	-18.59
+wt181	wt182	1.83	241.79	17.84
+wt182	wt183	2.22	318.73	-8.37
+wt183	wt184	3.03	244.98	-18.52
+wt184	wt185	1.98	292.01	-21.9
+wt185	wt186	2.36	236.16	-28.46
+wt186	wt187	2.51	259.26	2.31
+wt187	wt188	1.17	162.72	-40.12
+wt188	wt189	5.03	254.83	-44.34
+wt189	wt190	2.02	327.08	2.9
+wt190	wt191	0.73	338.81	5.51
+wt191	wt192	3.81	303.01	-6.54
+*end Meander_odbytniczy

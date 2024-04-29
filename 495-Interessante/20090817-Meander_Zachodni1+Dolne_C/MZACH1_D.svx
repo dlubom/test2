@@ -1,0 +1,76 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de "Westmäander 1 + unteres C"
+;cavern part pl "Meander Zachodni 1 + Dolne C"
+
+;file date 2024-03-05
+;file team "Karol Makowski"
+
+;source file: MZACH1_D.SRV
+*case preserve
+
+*begin Meander_Zachodni1_Dolne_C
+*title "Meander Zachodni 1 + Dolne C"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.4 degrees
+
+*date 2009.08.17
+
+;Tomasz Olczak, Dariusz Bartoszewski, Jaroslaw Wrzesien, Maciej Dziurka
+*team <name surename> (sketch <device/app>)
+*team <name surename> (DistoX1)
+*team <name surename> (marking)
+
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+wm005	wm006	9.33	193.56	-15.18
+wm006	wm007	3.13	286.75	2.95
+wm007	wm008	3.07	320.0	14.4
+wm008	wm009	7.08	287.72	4.7
+wm009	wm010	6.01	214.69	2.74
+wm010	wm011	6.39	258.44	5.71
+wm011	wm012	4.07	228.16	17.98
+wm012	wm013	6.35	270.5	19.65
+wm013	wm014	5.13	245.8	-12.64
+wm014	wm015	3.73	303.99	33.35
+wm015	wm016	1.7	307.42	38.11
+wm016	wm017	9.14	263.18	11.99
+wm017	wm018	7.41	351.5	15.43
+wm018	wm018_01	5.1	262.25	-12.29
+wm018	wm019	6.84	327.49	-10.08
+wm019	wm020	4.19	54.49	25.77
+wm020	wm020_01	9.0	307.77	-7.33
+;wm020_01	wm020_02	14.43	342.44	-2.86
+;wm020_02	wm020_03	5.49	352.58	-41.85
+;wm020_03	wm020_04	2.84	302.5	-19.66
+wm020	wm021	6.18	273.57	-21.78
+wm021	wm022	2.03	288.06	-54.04
+wm022	wm023	2.54	288.66	13.8
+wm023	wm024	3.24	197.47	-0.04
+wm024	wm025	5.02	276.61	-18.01
+wm025	wm026	3.45	261.01	-4.53
+wm026	wm027	1.7	320.4	-18.45
+wm027	wm028	4.92	264.26	-11.35
+wm028	wm029	2.95	268.24	11.63
+wm029	wm030	1.9	306.21	33.17
+wm030	wm031	1.57	21.74	24.47
+wm031	wm032	1.97	308.71	10.68
+wm032	wm033	2.97	5.13	-27.14
+wm033	wm034	1.47	48.08	1.51
+*end Meander_Zachodni1_Dolne_C

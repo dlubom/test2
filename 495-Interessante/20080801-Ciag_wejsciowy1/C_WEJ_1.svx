@@ -1,0 +1,71 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de "Eingabezeichenfolge 1"
+;cavern part pl "Ciąg wejściowy 1"
+
+;file date 2024-03-03
+;file team "Karol Makowski"
+
+;source file: C_WEJ_1.SRV
+*case preserve
+
+*begin Ciag_wejsciowy1
+*title "Ciąg wejściowy 1"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.3 degrees
+
+;#FIX	000	E13:02.988	N47:31.999	1932m
+*entrance	000
+
+*date 2008.08.01	;data jest przypuszczalna
+
+*team <name surename> (sketch <device/app>)
+*team <name surename> (DistoX1)
+*team <name surename> (marking)
+
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+000	cw001	9.76	94.0	-70.0
+cw001	cw002	1.89	24.0	-62.0
+cw002	cw003	6.24	1.0	-90.0
+cw003	cw004	6.03	87.0	-55.0
+cw004	cw005	12.05	79.0	-86.0
+cw005	cw006	2.0	179.0	-16.0
+cw006	cw007	2.49	187.0	-40.0
+cw007	cw008	1.78	133.0	-44.0
+cw008	cw009	1.54	164.0	-38.0
+cw009	cw010	2.37	90.0	-68.0
+cw010	cw011	2.6	85.0	-60.0
+cw011	cw012	3.37	92.0	-82.0
+cw012	cw013	2.16	290.0	-63.0
+cw013	cw014	6.59	62.0	-85.0
+cw014	cw015	4.85	95.0	-67.0
+cw015	cw016	2.35	115.0	-57.0
+cw016	cw017	4.69	1.0	-90.0
+cw017	cw018	1.98	175.0	15.0
+cw018	cw019	3.12	52.0	-28.0
+cw019	cw020	2.28	65.0	-45.0
+cw020	cw021	1.93	6.0	-5.0
+cw021	cw022	3.55	47.0	-80.0
+cw022	cw023	2.38	1.0	-90.0
+cw023	cw024	2.22	355.0	8.0
+cw024	cw025	11.4	1.0	-90.0
+cw025	cw026	2.24	111.0	0.0
+cw026	cw027	6.83	5.0	-84.0
+*end Ciag_wejsciowy1

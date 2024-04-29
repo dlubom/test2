@@ -1,0 +1,81 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2024-04-28
+;file team "Karol Makowski"
+
+;source file: lost.srv
+*case preserve
+
+*begin 1908lost
+*title "<add a title>"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 3.8 degrees
+
+*date 2019.08.10
+
+*team <name surename> (sketch PDA/PocketTopo)
+*team <name surename> (DistoX2)
+*team <name surename> (marking)
+
+*instrument tape "DistoX2 <id>"
+*instrument compass "DistoX2 <id>"
+*instrument clino "DistoX2 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+;#PREFIX	1908lost
+;tomek + marta
+
+*data normal from to tape compass clino ignoreall
+
+*flags duplicate
+;1_0	pdwjmndr:1_20	0.0	0.0	0.0
+1_0	2_0	2.25	90.18	-44.94
+2_0	..	1.88	14.4	-4.0
+2_0	..	7.66	48.0	78.8
+2_0	..	1.35	287.0	-86.7
+2_0	3_0	2.55	61.52	-35.33
+3_0	4_0	5.39	66.7	-1.9
+4_0	5_0	3.78	331.5	6.5
+5_0	6_0	3.83	54.5	-25.5
+6_0	7_0	3.43	78.2	-59.3
+7_0	8_0	3.67	336.8	-5.7
+8_0	9_0	2.53	69.9	-25.9
+9_0	10_0	3.36	355.8	-10.4
+10_0	11_0	3.94	91.0	-24.5
+11_0	12_0	1.88	38.1	-5.4
+12_0	13_0	4.85	93.9	-41.0
+13_0	14_0	4.3	342.3	18.5
+14_0	15_0	1.43	86.1	-12.1
+15_0	16_0	4.14	357.7	-18.0
+16_0	17_0	5.46	20.8	-30.3
+17_0	18_0	8.62	29.1	-68.6
+18_0	19_0	1.38	315.0	26.1
+19_0	20_0	2.96	64.4	-20.0
+20_0	21_0	1.08	24.5	-50.8
+21_0	22_0	6.73	22.8	-48.6
+22_0	23_0	4.36	282.7	47.7
+; z tymi nizej cos nie tak - marta :
+; hmm, w takim razie jako ostatni strza³ potraktowa³bym ten do góry, te póŸniejsze zawijasy wyrzuci³a_ Tomek O_ po zrzuceniu pomiarów na palma mówi³ o 85 m, wiêc mo¿liwie, ¿e Marek (by³y kierownik z Hagen) dorzuci³ nam 10m gratis z jakiejœ innej sesji
+23_0	24_0	0.62	117.9	0.2
+24_0	25_0	0.94	339.5	-32.1
+25_0	26_0	0.99	46.3	8.6
+26_0	27_0	1.05	350.4	-69.5
+27_0	28_0	1.96	35.2	-38.8
+28_0	29_0	3.22	127.2	-9.5
+29_0	30_0	3.24	140.2	-10.2
+*flags not duplicate
+
+*end 1908lost

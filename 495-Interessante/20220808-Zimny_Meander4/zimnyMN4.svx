@@ -1,0 +1,90 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de "Kalter Mäander"
+;cavern part pl "Zimny Meander"
+
+;file date 2024-03-20
+;file team "Karol Makowski"
+
+;source file: zimnyMN4.srv
+*case preserve
+
+*begin Zimny_Meander4
+;#PREFIX	zimnyMN4
+;Zimny Meander cd
+*title "Zimny Meander 4"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 4.2 degrees
+
+*date 2022.08.08
+
+;team Robert Glod, Joanna Gaweska
+*team <name surename> (sketch PDA/PocketTopo)
+*team <name surename> (DistoX2)
+*team <name surename> (marking)
+
+*instrument tape "DistoX2 <id>"
+*instrument compass "DistoX2 <id>"
+*instrument clino "DistoX2 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+*flags duplicate
+0	1	4.700	165.789	-37.667	; zimnyMN3:20.15 - zimnyMN3:20.16
+1	2	2.936	96.471	-31.005	; zimnyMN3:20.16 - zimnyMN3:20.17
+2	3	3.617	54.778	-4.876	; zimnyMN3:20.17 - zimnyMN3:20.18
+*flags not duplicate
+;zimnyMN3:20_18	3	0.0	0.0	0.0	; dowiazanie
+3	4	3.91	158.5	-42.81
+4	5	4.62	136.13	-27.31
+5	6	3.09	136.97	-29.89
+6	7	5.15	155.78	-39.32
+7	8	5.22	113.16	-57.57
+8	9	5.19	353.8	-83.32
+9	10	3.15	285.01	-15.47
+10	11	5.18	305.04	-26.92
+11	12	4.18	19.18	-23.3
+12	13	3.4	45.63	-9.68
+13	14	6.78	175.91	-27.48
+14	15	8.84	83.1	-63.32
+15	16	3.71	204.76	-33.91
+16	17	3.36	178.02	-33.37
+17	18	5.67	266.29	-82.97
+18	19	3.49	230.34	-77.88
+19	20	4.51	74.41	-67.91
+3	..	5.06	345.37	31.09
+4	..	1.25	52.58	11.47
+6	..	3.99	207.89	22.91
+6	..	9.31	225.99	31.15
+6	..	2.93	252.72	39.41
+8	..	5.38	98.75	-5.3
+8	..	5.39	41.84	4.77
+8	..	1.3	333.54	-1.73
+8	..	0.71	221.28	10.49
+11	..	1.75	96.1	0.21
+13	..	5.87	193.95	11.86
+14	..	4.97	168.46	-18.8
+14	..	10.12	81.79	-63.45
+14	..	7.7	82.91	-63.33
+14	..	7.75	82.67	-63.45
+18	..	4.26	209.73	17.11
+18	..	2.47	277.82	18.82
+18	..	4.55	333.19	25.82
+20	..	0.68	45.78	12.62
+20	..	4.43	6.67	-42.06
+20	..	0.3	84.28	-5.69
+20	..	0.82	278.99	4.65
+20	..	3.03	154.86	-29.66
+*end Zimny_Meander4

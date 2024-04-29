@@ -1,0 +1,156 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2024-03-09
+;file team "Karol Makowski"
+
+;source file: 140802ga.srv
+*case preserve
+
+*begin Baltazar_Petla
+*title "<add a title>"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 3.0 degrees
+
+*date 2014.08.02
+
+;Dariusz Lubomski(palm), Maciej Dziurka(spray), Nazi (Disto-X)
+*team Dariusz Lubomski (sketch PDA/PocketTopo)
+*team Nazanin Badrkhani (DistoX1)
+*team Maciej Dziurka (marking)
+
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+*flags duplicate
+;zg059	zg060	5.336	67.77	6.45	;powtorzny
+zg59a	zg060	5.336	67.77	6.45	;powtorzny (punkt zg059 został zamieniony na nieistniejący punkt zg059a, aby uniknąć pętli pomiędzy punktami zg059 i zg060 )
+*flags not duplicate
+zg060	zg061	1.74	8.83	-14.61
+zg061	zg062	2.61	7.63	-16.02
+zg062	..	2.23	39.98	-6.92
+zg062	zg062_1	5.76	268.56	51.56
+zg062	..	2.92	115.37	-42.32
+zg062	zg063	6.1	52.87	-48.3
+zg063	..	2.19	247.47	66.98
+zg063	..	1.38	192.86	17.17
+zg063	..	1.67	293.96	31.64
+zg063	zg064	2.46	97.0	-47.68
+zg063	zg065	1.6	186.41	-9.65
+zg065	zg066	2.02	118.66	11.49
+zg066	zg067	0.69	116.45	-12.31
+zg067	zg068	1.28	164.04	20.83
+zg068	zg069	2.35	259.95	52.8
+zg069	..	0.92	273.72	-80.34
+zg069	..	0.87	160.97	-60.89
+zg069	..	0.82	126.61	-16.74
+zg069	..	0.78	117.06	3.6
+zg069	zg070	2.96	145.41	27.6
+zg070	zg071	1.26	280.54	57.14
+zg071	..	2.09	57.72	29.53
+zg071	..	1.14	110.86	7.92
+zg071	..	1.67	148.96	-11.71
+zg071	..	1.61	178.5	-2.35
+zg071	..	1.5	137.27	-49.21
+zg071	..	1.03	97.28	46.35
+zg068	zg072	1.87	83.79	2.48
+zg072	zg073	1.15	129.05	7.75
+zg073	..	1.83	112.62	-26.1
+zg073	zg074	2.3	113.24	-26.66
+zg074	zg075	1.61	204.84	-3.49
+zg075	..	0.53	136.85	-85.25
+zg075	..	0.77	294.8	-63.13
+zg075	..	0.71	315.7	-13.6
+zg075	..	0.52	319.69	26.03
+zg075	zg076	1.82	268.73	-19.05
+zg076	zg077	2.59	297.81	-23.42
+zg077	zg078	2.28	227.37	-12.35
+zg078	zg079	0.55	152.02	46.37
+zg079	..	1.04	244.89	-82.19
+zg079	..	1.7	135.85	-63.31
+zg079	..	0.72	125.88	-27.56
+zg079	zg079_1	5.05	183.96	23.37	;domiar
+zg059	zg080	2.65	232.09	4.56
+zg080	zg081	4.2	133.59	-32.69
+zg081	zg082	1.21	178.59	-12.31
+zg082	..	1.2	280.57	-36.07
+zg082	..	1.08	282.1	-9.81
+zg082	..	0.99	280.47	16.97
+zg082	..	1.16	234.2	18.96
+zg082	..	1.08	189.43	26.8
+zg082	..	2.3	143.15	23.41
+zg082	..	2.05	108.72	27.45
+zg082	..	2.07	80.98	29.38
+zg082	..	1.11	46.18	29.9
+zg082	zg083	5.42	217.03	-8.86
+zg083	..	4.66	122.5	5.02
+zg083	..	1.59	160.15	1.01
+zg083	..	0.79	285.71	-87.59
+zg083	..	2.02	297.54	-3.38
+zg083	..	2.15	334.54	0.88
+zg083	..	4.0	210.91	-12.0
+zg083	zg084	2.78	220.97	-30.55
+zg084	..	1.36	185.13	-5.31
+zg084	..	1.49	127.74	-7.48
+zg084	..	1.15	55.31	-4.84
+zg084	zg085	4.16	31.48	-57.78
+zg085	..	1.73	106.27	61.13
+zg085	1_27_1	3.91	265.95	10.16	;domiar
+zg085	..	2.62	206.24	19.49
+zg085	1_27_2	2.05	49.56	27.71	;domiar
+zg085	..	2.19	207.64	70.99
+zg085	..	1.65	245.3	-51.34
+zg083	zg086	3.67	122.18	11.68
+zg086	..	1.66	53.37	-86.64
+zg086	..	1.73	149.33	73.2
+zg086	..	1.45	152.08	15.31
+zg086	..	1.3	221.95	11.23
+zg086	..	2.13	189.05	-0.32
+zg086	..	0.52	342.43	16.06
+zg086	..	0.33	264.81	14.36
+zg086	..	4.24	115.32	24.47
+zg086	zg087	3.48	64.42	-31.95
+zg087	..	0.95	227.3	60.02
+zg087	..	0.63	244.32	-74.06
+zg087	..	1.7	147.53	17.03
+zg087	..	2.09	110.33	4.36
+zg087	..	1.78	352.94	-47.43
+zg087	..	2.45	37.21	-42.18
+zg087	..	1.89	285.83	-25.55
+zg087	zg088	5.68	312.13	-46.17
+zg088	..	2.47	342.92	-37.31
+zg088	..	4.73	18.23	-32.74
+zg088	..	1.48	55.68	-23.06
+zg088	..	6.13	76.56	-17.6
+zg088	..	3.72	106.93	8.0
+zg088	..	1.92	138.45	13.47
+zg088	..	1.87	119.59	51.96
+zg088	..	0.87	43.87	-60.48
+zg088	zg089	3.72	74.26	-28.7
+zg089	..	0.64	32.42	68.26
+zg089	..	3.0	99.06	21.94
+zg089	..	0.92	332.02	19.55
+zg089	bg043	0.91	8.19	1.13
+bg043	..	0.96	3.1	-72.09
+bg043	..	0.85	16.73	-26.01
+*flags duplicate
+bg043	bg042	3.23	58.88	-28.34	;powtorzny
+*flags not duplicate
+*end Baltazar_Petla

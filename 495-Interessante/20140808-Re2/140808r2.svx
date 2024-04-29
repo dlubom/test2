@@ -1,0 +1,90 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de "Re 2"
+;cavern part pl "Re 2"
+
+;file date 2024-03-03
+;file team "Karol Makowski"
+
+;source file: 140808r2.srv
+*case preserve
+
+*begin Re2
+*title "Re 2"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 3.0 degrees
+
+*date 2014.08.08
+
+;Dariusz Lubomski(palm), Nazi(Disto), Maciej Dziurka(spray)
+*team Dariusz Lubomski (sketch PDA/PocketTopo)
+*team Nazanin Badrkhani (DistoX1)
+*team Maciej Dziurka (marking)
+
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+ws029	ws030	8.93	172.27	-43.06
+ws030	hv001	3.47	11.76	-26.95
+hv001	hv002	1.71	94.53	-13.84
+ws030	ws031	6.07	164.04	20.5
+ws031	ws032	4.29	226.59	65.06
+ws032	ws033	3.47	190.99	-21.85
+ws033	ws034	1.72	240.82	-28.03
+ws034	ws035	10.53	187.8	11.25
+ws035	ws036	4.69	246.59	-11.38
+ws036	ws037	3.35	104.5	-19.43
+ws037	ws038	7.2	135.28	-58.26
+ws038	ws039	4.65	145.24	26.23
+ws039	ws040	2.06	162.1	-55.15
+ws029	..	9.34	137.48	-59.56	;domiar do pkt ziel do wisz pol
+hv001	..	4.92	87.08	-11.23
+hv001	..	5.11	69.69	14.96
+hv001	..	11.8	65.15	70.73
+hv001	..	9.78	358.0	74.21
+hv001	..	3.53	283.97	61.01
+ws032	..	2.45	121.72	-4.0
+ws032	..	1.59	127.02	-76.09
+ws032	..	1.27	131.72	36.2
+ws033	..	1.18	302.71	12.38
+ws033	..	0.6	314.55	-53.58
+ws033	..	2.36	246.21	76.88
+ws033	..	1.01	127.14	50.99
+ws033	..	7.49	226.27	-68.07
+ws033	..	4.83	211.25	45.6
+ws034	..	4.72	185.5	71.96
+ws034	..	1.88	240.33	19.87
+ws034	..	4.76	139.9	-11.99
+ws034	..	11.88	138.6	-81.1
+ws034	..	6.15	169.32	46.41
+ws035	..	3.02	328.29	-0.11
+ws035	..	5.74	323.78	7.21
+ws035	..	1.77	312.85	37.89
+ws035	..	1.82	330.36	-40.07
+ws037	ws037_1	10.36	199.76	46.32
+ws037	..	1.46	217.92	-3.81
+ws037	..	10.43	131.64	-53.99
+ws038	..	9.74	43.32	-55.9
+ws038	..	7.96	44.92	-47.5
+ws038	..	13.95	85.8	37.35
+ws038	..	7.61	178.95	45.27
+ws038	..	12.51	210.24	62.2
+ws040	..	6.29	339.71	-30.06
+ws040	..	2.65	260.42	3.51
+ws040	..	5.63	229.0	-10.22
+*end Re2

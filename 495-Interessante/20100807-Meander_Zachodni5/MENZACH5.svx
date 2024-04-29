@@ -1,0 +1,116 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de "Westmäander 5"
+;cavern part pl "Meander Zachodni 5"
+
+;file date 2024-03-06
+;file team "Karol Makowski"
+
+;source file: MENZACH5.SRV
+*case preserve
+
+*begin Meander_Zachodni5
+*title "Meander Zachodni 5"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.5 degrees
+
+*date 2010.08.07
+
+;Maciej Dziurka, Tomasz Olczak, Michal Humienik , Szymon Matysiak
+*team <name surename> (sketch <device/app>)
+*team <name surename> (DistoX1)
+*team <name surename> (marking)
+
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+wm221	wm222	5.67	354.81	-9.42
+wm222	wm223	5.73	309.49	19.55
+wm223	wm223_a	4.77	219.62	-48.64
+wm223	wm223_01	6.73	118.37	-24.92
+wm223_01	w22301_1	2.72	141.83	17.51
+w22301_1	w22301_2	3.51	6.52	-43.46
+wm223_01	wm223_02	2.81	89.51	47.38
+wm223_02	wm223_03	3.95	289.31	27.67
+wm223_03	wm223_04	0.98	307.52	67.16
+wm223_04	wm223_05	1.5	255.22	53.28
+wm223_04	w22304_1	1.74	123.59	22.74
+wm223_04	w22304_a	2.22	214.46	15.57
+wm223	wm224	6.93	174.56	21.11
+wm224	wm225	4.34	325.18	17.76
+wm225	wm226	4.35	280.43	31.96
+wm226	wm227	4.86	314.48	-33.24
+wm227	wm228	3.74	254.79	-27.72
+wm228	wm229	1.6	317.39	26.35
+wm229	wm229_01	5.81	266.98	51.62
+wm229_01	wm229_02	8.5	226.7	37.71
+wm229	wm230	2.8	325.93	33.28
+wm230	wm231	5.51	312.67	8.75
+wm231	wm232	5.03	255.72	8.7
+wm232	wm232_01	9.47	243.03	68.27
+wm232	wm233	5.26	275.06	-14.52
+wm233	wm234	4.37	257.45	22.63
+wm234	wm235	5.63	35.8	30.64
+wm235	wm235_01	3.83	157.31	30.16
+wm235_01	wm235_02	1.85	128.08	-34.32
+wm235_02	wm235_03	3.49	216.04	50.76
+wm235_03	wm235_04	10.13	100.83	29.0
+wm235	wm236	6.63	303.91	-24.38
+wm236	wm237	2.26	242.57	-1.13
+wm237	wm238	7.1	291.68	8.7
+wm238	wm239	2.15	194.96	25.46
+wm239	wm239_01	1.22	187.39	57.62
+wm239_01	wm239_02	4.95	243.75	31.7
+wm239	wm240	2.74	352.59	-4.78
+wm240	wm241	3.89	316.53	-8.7
+wm241	wm242	1.65	42.38	48.55
+wm242	wm243	2.61	303.71	20.44
+wm243	wm244	2.31	259.6	-2.69
+wm244	wm244_01	3.16	288.64	52.47
+wm244_01	wm244_02	3.93	287.53	29.86
+wm244_01	w24401_1	5.78	92.21	12.07
+wm244_01	w24401_a	4.26	50.05	8.87
+wm244	wm245	4.71	187.15	-8.64
+wm245	wm246	9.53	311.94	6.16
+wm246	wm246_01	6.81	230.47	16.86
+wm246	wm247	5.83	320.71	27.81
+wm247	wm248	1.23	21.34	34.58
+wm248	wm249	3.2	343.98	24.07
+wm249	wm250	9.63	197.0	18.95
+wm250	wm251	10.19	291.99	9.67
+wm251	wm252	3.72	327.82	-8.93
+wm252	wm253	4.53	249.77	27.13
+wm253	wm254	12.16	295.16	-1.38
+wm254	wm255	4.71	313.82	-24.49
+wm255	wm256	1.19	313.74	-17.86
+wm256	wm257	3.21	322.86	-12.85
+wm257	wm258	2.43	248.21	12.07
+wm258	wm259	6.15	2.63	-11.68
+wm259	wm260	4.98	341.24	-24.49
+wm260	wm261	4.08	40.84	-12.77
+;wm261	wm261_01	6.23	188.75	-66.19
+wm261	wm262	7.69	357.78	3.09
+wm262	wm263	9.99	80.77	23.24
+wm263	wm264	4.25	350.82	4.36
+wm264	wm265	4.57	290.59	17.86
+wm265	wm265_01	1.33	256.69	-28.38
+;wm265_01	wm265_02	7.68	316.05	-31.96
+wm265	wm266	6.01	47.27	-22.08
+wm266	wm267	4.21	123.58	-21.44
+wm267	wm268	5.8	71.35	-20.86
+*end Meander_Zachodni5

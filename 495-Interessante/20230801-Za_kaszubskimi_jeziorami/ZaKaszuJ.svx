@@ -1,0 +1,128 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2024-03-20
+;file team "Karol Makowski"
+
+;source file: ZaKaszuJ.srv
+*case preserve
+
+*begin Za_kaszubskimi_jeziorami
+;#PREFIX	ZaKaJe
+*title "Za kaszubskimi jeziorami"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 4.4 degrees
+
+*date 2023.08.01
+
+;team Karol Makowski, Adam Wladzinski, Pawel Zebrowski
+*team Karol Makowski (sketch Tablet/Qave, marking)
+*team Paweł Żebrowski (DistoX2, marking)
+*team Adam Władzinski (DistoX2, marking)
+
+;instrument "DistoX2 H-3746"
+*instrument tape "DistoX2 H-3746"
+*instrument compass "DistoX2 H-3746"
+*instrument clino "DistoX2 H-3746"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+*flags duplicate
+0	1	5.014	348.470	22.190	; powtorzony nnadzieja:1.1 - nnadzieja1:0 (blad azymutu 5.5 st)
+*flags not duplicate
+1	2	1.529	8.934	7.048
+;nnadzieja:1_0	2	1.53	8.93	7.05
+2	3	1.88	318.45	-26.55
+3	4	9.24	19.95	-64.3
+4	5	3.91	241.48	-2.61
+5	6	4.98	319.03	-28.15
+6	7	3.15	270.45	1.45
+4	4_1	7.88	242.62	-76.07
+4_1	4_2	3.93	186.98	-8.25
+4_2	4_3	4.53	165.19	-45.33
+4_3	4_4	10.34	261.25	-79.66
+4_4	4_5	7.17	115.77	-13.47
+4_5	4_6	1.33	102.62	-8.37
+4_6	4_7	5.54	225.09	-72.93
+4_7	4_8	5.01	250.56	-45.47
+4_8	4_9	3.93	292.14	-36.96
+4_9	4_10	3.07	341.48	-9.43
+4_10	4_11	5.01	320.42	-65.15
+4_11	4_12	2.81	274.19	-9.84
+4_12	4_13	7.3	254.7	-68.58
+4_13	4_14	3.98	13.35	-1.95
+4_14	4_15	3.33	309.28	-22.3
+4_15	4_16	0.75	358.0	-5.64
+4_16	4_17	3.96	326.76	-27.44
+4_17	4_18	1.14	61.1	-0.59
+4_1	4_1_1	3.03	62.69	45.25
+4_1_1	4_1_2	2.26	139.46	-2.81
+4_1_2	4_1_3	5.64	231.31	-27.13
+4_1_3	4_2	0.0	0.0	0.0	; zamkniecie petli
+4_1_2	4_1_2_1	2.21	89.78	-37.63
+4_1_2_1	4_1_2_2	2.38	50.53	-34.09
+4_1_2_2	4_1_2_3	1.34	122.88	1.83
+1	..	5.02	348.37	22.3
+2	..	1.15	266.66	-3.14
+2	..	2.66	263.3	77.68
+2	..	9.65	291.41	63.52
+2	..	1.31	247.5	-75.12
+4	..	4.58	333.98	-9.61
+4	..	7.62	252.74	76.59
+5	..	1.1	3.96	-9.51
+5	..	3.75	316.11	-62.47
+5	..	9.59	335.47	72.18
+6	..	0.62	210.42	-3.19
+6	..	0.45	11.16	-2.01
+6	..	1.44	184.28	-80.86
+4_1	..	4.52	46.42	-73.87
+4_1	..	5.0	23.33	-8.07
+4_1	..	1.33	252.69	6.13
+4_1	..	1.72	135.19	20.59
+4_2	..	0.77	85.81	-14.08
+4_2	..	2.74	51.15	-76.67
+4_2	..	4.53	147.66	58.03
+4_2	..	7.74	152.85	0.04
+4_3	..	0.9	88.79	-4.75
+4_3	..	2.89	152.58	-19.52
+4_3	..	8.95	171.83	-23.29
+4_3	..	4.3	224.3	-52.0
+4_4	..	2.65	82.08	22.11
+4_4	..	1.59	107.39	-45.32
+4_4	..	5.47	122.95	-35.39
+4_4	..	2.11	118.04	-42.1
+4_5	..	3.41	339.77	-13.9
+4_6	..	3.63	60.87	-81.87
+4_6	..	0.77	233.27	-23.13
+4_7	..	2.44	256.77	-27.8
+4_15	..	0.49	61.9	-0.86
+4_15	..	2.12	359.85	-83.06
+4_15	..	1.04	41.31	73.76
+4_16	..	1.29	287.73	-43.49
+4_16	..	1.28	287.69	-43.49
+4_16	..	1.3	287.84	-43.42
+4_17	..	1.09	63.4	79.59
+4_17	..	1.09	344.4	-83.8
+4_17	..	0.59	96.32	-3.55
+4_18	..	1.07	310.04	-4.18
+4_1_2_1	..	0.61	343.34	-2.44
+4_1_2_1	..	2.1	95.3	-82.87
+4_1_2_1	..	2.36	4.3	81.51
+4_1_2_3	..	0.5	31.65	0.28
+4_1_2_3	..	15.48	101.62	-76.33
+4_1_2_3	..	3.83	111.98	66.07
+*end Za_kaszubskimi_jeziorami

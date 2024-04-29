@@ -1,0 +1,61 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de ""
+;cavern part pl "Na raty 2"
+
+;file date 2024-03-12
+;file team "Karol Makowski"
+
+;source file: RKM2.srv
+*case preserve
+
+*begin Na_raty2
+;#PREFIX	RATY2
+*title "Na raty 2"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 3.3 degrees
+
+*date 2016.07.20
+
+;Karol Makowski (Palm,Spray), Robert Zaremba (Disto)
+*team Karol Makowski (sketch PDA/PocketTopo, marking)
+*team Robert Zaremba (DistoX1)
+
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+;RATY1:1_0	1_0	0.0	0.0	0.0
+;PZMG1:1_67	1_3	0.0	0.0	0.0
+1_0	1_1	7.98	148.66	-22.96
+1_1	1_2	6.55	230.34	-51.05
+1_2	1_3	14.52	139.25	-60.94
+1_1	..	2.3	330.78	71.62
+1_1	..	0.69	262.58	8.59
+1_1	..	1.45	314.89	4.71
+1_1	..	1.57	353.67	1.83
+1_1	..	2.85	350.54	-50.33
+1_1	..	4.62	264.67	-74.04
+1_2	..	1.25	90.54	-19.72
+1_2	..	6.6	75.55	74.79
+1_2	..	2.69	176.8	-2.64
+1_2	..	9.91	140.52	-5.18
+1_2	..	1.71	217.08	-12.63
+1_2	..	2.7	39.65	2.78
+1_2	..	12.12	176.38	-79.61
+1_2	..	13.06	145.01	-75.31
+*end Na_raty2

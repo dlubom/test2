@@ -1,0 +1,88 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de "Deckenmäander"
+;cavern part pl "Meander Stropowy"
+
+;file date 2024-03-19
+;file team "Karol Makowski"
+
+;source file: 21strop3.srv
+*case preserve
+
+*begin Meander_Stropowy9
+;#PREFIX	MES4
+;#SEGMENT	Meander Stropowy
+*title "Meander Stropowy 9"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 4.1 degrees
+
+*date 2021.08.04
+
+;Michal Parczewski (DistoX2, Palm), Joanna Zdzalik, Aliaksandr Sinkavets (fotki z DistoX2)
+*team Michał Parczewski (sketch PDA/PocketTopo, DistoX2)
+*team Joanna Żdżalik (?)
+*team Aliaksandr Sinkavets (fotos of DistoX2)
+
+*instrument tape "DistoX2 <id>"
+*instrument compass "DistoX2 <id>"
+*instrument clino "DistoX2 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+1_0	1_1	2.48	292.51	-0.3
+1_1	1_2	4.98	196.39	-4.07
+1_2	1_3	6.11	185.87	-3.08
+1_3	1_4	4.57	172.58	9.68
+1_4	1_5	6.29	258.02	9.99
+1_5	1_6	6.33	272.79	0.64
+1_6	1_7	5.94	215.06	-23.1
+1_7	1_8	7.01	217.46	-2.23
+1_8	1_9	3.85	263.13	-3.62
+1_9	1_10	2.5	242.21	6.4
+1_10	1_11	6.52	136.29	5.58
+1_11	1_12	4.54	137.54	36.63
+1_12	1_13	5.81	201.21	21.18
+1_13	1_14	5.3	221.0	-5.96
+1_14	1_15	2.01	173.96	30.73
+1_15	1_16	2.53	223.53	38.35
+1_16	1_17	2.57	254.6	3.39
+1_17	1_18	2.07	289.8	26.99
+1_18	1_19	5.19	95.46	-61.57
+1_19	1_20	2.35	316.26	-0.63
+1_20	1_21	2.27	17.78	-49.15
+1_21	1_22	2.97	114.07	-83.65
+;1_22	MES3:1_8	0.0	0.0	0.0
+1_1	..	1.26	38.8	0.86
+1_1	..	2.47	104.26	-11.49
+1_1	..	3.5	146.67	-8.22
+1_1	..	2.26	172.6	-12.02
+1_2	..	3.91	346.38	9.99
+1_2	..	3.83	303.94	28.38
+1_2	..	1.25	88.28	-16.08
+1_3	..	1.87	276.04	31.48
+1_3	..	3.77	108.94	37.73
+1_3	..	1.53	183.23	6.1
+1_4	..	2.29	307.65	-4.82
+1_5	..	2.74	160.49	32.73
+1_5	..	11.57	185.25	34.43
+1_5	..	4.3	226.88	32.1
+1_5	..	0.91	13.74	5.18
+1_5	..	4.92	298.66	-6.89
+1_6	..	3.45	150.3	18.36
+1_6	..	5.26	200.64	-12.44
+1_6	..	1.47	256.17	-31.11
+1_7	..	2.19	271.14	26.58
+1_7	..	1.44	161.3	32.17
+*end Meander_Stropowy9

@@ -1,0 +1,56 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de "schacht Fantasie"
+;cavern part pl "Studnia Fantazja"
+
+;file date 2024-03-10
+;file team "Karol Makowski"
+
+;source file: NIEGRYZ.SRV
+*case preserve
+
+*begin Niegryzie
+*title "niegryzie"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 3.0 degrees
+
+*date 2014.08.10
+
+;Arek Kus, Tomasz Olczak
+*team <name surename> (sketch PDA/PocketTopo)
+*team <name surename> (DistoX1)
+*team <name surename> (marking)
+
+;delta Disto = 0.0
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+wt119_2	wt119_21	3.87	311.08	-6.98	;domiar
+wt119_2	..	1.64	238.99	-82.32
+wt119_2	..	2.72	61.17	-2.38
+wt119_2	wt119_1	3.24	16.29	58.24
+wt119_1	..	1.28	160.84	6.57
+wt119_1	..	0.55	173.68	56.67
+wt119_1	wt119_11	5.12	120.91	-66.58	;domiar
+wt119_1	..	1.69	108.38	-34.73
+wt119_1	wt119	1.57	120.76	29.98
+wt119	..	0.51	17.52	15.15
+wt119	..	0.7	335.4	72.6
+wt119	..	2.03	46.64	-64.69
+wt119	..	1.69	66.26	17.18
+*end Niegryzie

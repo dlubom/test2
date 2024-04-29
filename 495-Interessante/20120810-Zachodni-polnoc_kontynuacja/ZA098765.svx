@@ -1,0 +1,55 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de ""
+;cavern part pl "Zachodni - polnoc kontynuacja"
+
+;file date 2024-03-06
+;file team "Karol Makowski"
+
+;source file: ZA098765.SRV
+*case preserve
+
+*begin Zachodni-polnoc_kontynuacja
+;#SEGMENT	/Zachodni - polnoc kontynuacja
+*title "Zachodni - polnoc kontynuacja"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.8 degrees
+
+*date 2012.08.10
+
+;Oliwia Ryśnik (obsluga Disto-X), Oliwia Ryśnik (kartowanie)
+;Disto-X + Palm
+*team Oliwia Ryśnik (sketch PDA/PocketTopo)
+*team Oliwia Ryśnik (DistoX1)
+*team <name surename> (marking)
+
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+wt033	wt062	1.8	2.2	-35.9
+wt062	wt063	6.01	7.5	-43.1
+wt063	wt064	6.53	27.0	-72.1
+wt064	wt065	3.63	21.2	-12.5
+wt064	wt064_01	3.58	102.9	-84.5
+wt065	wt066	8.57	19.4	-43.1
+wt066	wt067	2.11	321.5	-22.8
+wt067	wt068	19.5	17.0	-79.8
+wt068	wt068_01	4.88	306.2	-16.4
+wt068	wt069	5.48	104.3	-28.9
+wt069	wt069_01	4.78	146.7	-20.0
+*end Zachodni-polnoc_kontynuacja

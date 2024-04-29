@@ -1,0 +1,72 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de ""
+;cavern part pl "Amazonka kontynuacja"
+
+;file date 2024-03-07
+;file team "Karol Makowski"
+
+;source file: 120809AK.SRV
+*case preserve
+
+*begin Amazonka-kontynuacja
+;#SEGMENT	/Amazonka kontynuacja
+*title "<add a title>"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.8 degrees
+
+*date 2012.08.09
+
+;Jakub Nowak (obsluga Disto-X), Oliwia Rysnik (kartowanie)
+;Disto-X + Palm
+*team Oliwia Ryśnik (sketch PDA/PocketTopo)
+*team Oliwia Ryśnik (sketch PDA/PocketTopo)
+*team Jakub Nowak (DistoX1)
+*team <name surename> (marking)
+
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+am010	am009	4.89	275.04	-76.11
+am010	am011	2.71	89.52	-5.09
+am011	am012	8.12	77.59	-24.98
+am012	am013	6.72	193.08	13.11
+am013	am014	4.15	101.85	-0.63
+am014	am015	4.04	55.07	-56.98
+am015	am015_1	18.65	210.64	-85.44
+am015	am016	8.58	82.37	-74.71
+am016	am017	2.46	134.8	-52.51
+am017	am018	3.9	92.18	15.5
+am018	am019	1.87	117.2	-27.5
+am019	am020	5.33	45.5	-10.6
+am020	am021	3.0	102.0	-45.7
+am021	am022	3.59	6.9	-4.5
+am022	am023	2.02	262.0	-4.4
+am023	am024	2.56	343.7	-39.6
+am024	am025	23.71	1.0	-80.3
+am025	am026	3.82	26.9	-12.7
+am026	am027	1.72	115.4	15.1
+am027	am028	2.83	47.0	-33.9
+am028	am029	15.27	158.6	-55.3
+am029	am030	2.36	53.7	7.9
+am030	am031	3.96	185.9	-30.5
+am031	am032	6.43	96.9	-24.6
+am032	am033	9.59	177.5	9.2
+am033	am034	4.7	119.0	-49.6
+am034	am035	5.13	193.8	-13.0
+*end Amazonka-kontynuacja

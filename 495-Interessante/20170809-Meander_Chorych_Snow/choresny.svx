@@ -1,0 +1,99 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de ""
+;cavern part pl "Meander Chorych Snów"
+
+;file date 2024-03-14
+;file team "Karol Makowski"
+
+;source file: choresny.srv
+*case preserve
+
+*begin Meander_Chorych_Snow
+;#PREFIX	MCHS01
+*title "Meander Chorych Snów"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 3.5 degrees
+
+*date 2017.08.09
+
+; Arek Kus (Palm + Spray), Marek Stawiasz (disto), Sławek Heteniak (przyśpiewki ludowe)
+*team Arkadiusz Kus (sketch PDA/PocketTopo, marking)
+*team Marek Stawiasz (DistoX1)
+*team Sławek Heteniak (przyśpiewki ludowe)
+
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+;KASZ:1_37	1_1	0.0	0.0	0.0
+*flags duplicate
+1_0	1_1	3.56	282.29	-3.56	;powtorzony
+*flags not duplicate
+1_1	1_2	5.52	205.11	9.81
+1_2	1_3	3.89	162.52	-6.41
+1_3	1_4	1.69	237.2	-25.22
+1_4	1_5	5.48	152.33	19.33
+1_5	1_6	3.77	244.13	-22.53
+1_6	1_7	3.62	239.36	-52.97
+1_7	1_8	6.05	289.08	60.44
+1_8	1_9	4.25	314.21	66.49
+1_9	1_10	3.11	168.26	27.95
+1_10	1_11	3.57	130.52	35.92
+1_11	1_12	1.48	179.73	2.74
+1_12	1_13	6.04	236.95	4.57
+1_2	..	1.06	103.06	79.9
+1_2	..	2.11	135.0	-89.04
+1_2	..	0.66	81.88	2.96
+1_3	..	2.27	284.18	80.48
+1_3	..	3.54	286.34	-71.8
+1_3	..	0.5	289.52	1.26
+1_4	..	2.14	93.26	-86.7
+1_4	..	1.1	87.69	50.89
+1_4	..	0.64	81.59	6.55
+1_5	..	4.76	274.67	85.26
+1_5	..	4.57	252.52	84.52
+1_5	..	7.38	322.23	-79.83
+1_5	..	0.6	282.22	-10.55
+1_6	..	4.18	211.2	83.24
+1_6	..	4.53	302.41	-85.61
+1_6	..	0.75	142.49	-2.52
+1_7	..	5.09	253.81	88.55
+1_7	..	3.32	338.24	-81.21
+1_7	..	3.05	263.35	-4.72
+1_7	..	3.15	292.7	-3.62
+1_7	..	2.45	315.48	0.84
+1_7	..	1.97	333.57	5.51
+1_7	..	2.5	350.06	11.35
+1_7	..	0.97	48.79	23.71
+1_7	..	1.33	252.93	3.02
+1_9	..	2.19	152.59	56.47
+1_9	..	6.1	118.73	-78.93
+1_9	..	0.6	167.19	-0.86
+1_10	..	1.66	157.38	82.8
+1_10	..	4.28	132.79	-87.79
+1_10	..	0.61	65.38	5.27
+1_11	..	0.66	256.36	64.92
+1_11	..	6.42	88.38	-87.48
+1_11	..	0.46	264.38	-3.12
+1_12	..	1.39	190.82	67.93
+1_12	..	6.65	344.46	-81.12
+1_12	..	0.88	157.58	-4.23
+1_13	..	1.85	340.77	74.19
+1_13	..	8.47	43.54	-81.91
+1_13	..	0.65	0.8	4.15
+*end Meander_Chorych_Snow

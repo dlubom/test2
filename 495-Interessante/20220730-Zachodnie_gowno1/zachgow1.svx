@@ -1,0 +1,115 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de ""
+;cavern part pl "Zachodnie gówno 1"
+
+;file date 2024-03-20
+;file team "Karol Makowski"
+
+;source file: zachgow1.srv
+*case preserve
+
+*begin Zachodnie_gowno1
+;#PREFIX	zachgow1
+;#segment /Zachodnie gowno 1
+;Zachodnie gowno
+*title "Zachodnie gówno 1"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 4.2 degrees
+
+*date 2022.07.30
+
+;team Arkadiusz Kus (szkic PocketTopo), Adam Wladzinski [Paluszek] (DistoX2), Pawel Zebrowski [Koniu]
+*team Arkadiusz Kus (sketch PDA/PocketTopo)
+*team Adam Władzinski (DistoX2)
+*team Paweł Żebrowski (marking)
+
+*instrument tape "DistoX2 <id>"
+*instrument compass "DistoX2 <id>"
+*instrument clino "DistoX2 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+1_0	1_1	1.45	51.99	9.1
+1_1	1_2	6.81	134.99	36.61
+1_2	1_3	1.75	252.35	4.55
+1_3	1_4	2.38	227.71	-19.17
+1_4	1_5	4.23	333.55	-17.79
+1_5	1_6	1.93	276.27	1.99
+1_6	1_7	5.33	347.87	-19.66
+1_7	1_8	4.7	278.89	-37.03
+1_8	1_9	3.44	289.35	-27.14
+1_9	1_10	2.18	18.32	-19.35
+1_10	1_11	3.82	299.86	-12.54
+1_11	1_12	1.36	294.88	6.12
+1_12	1_13	1.23	1.02	16.0
+1_13	1_14	2.86	259.88	0.56
+1_14	1_15	3.06	212.71	0.06
+1_15	1_16	1.19	238.09	-19.05
+1_16	1_17	1.93	33.43	-38.89
+;:w28713_3	1_17	0.0	0.0	0.0	; dowiazanie do MEZA7
+*flags duplicate
+1_17	1_18	5.05	196.6	36.57	; powtorzony w28713.3 - w28713.2
+1_18	1_19	1.85	97.77	19.37	; powtorzony w28713.2 - w28713.1
+1_19	1_20	3.37	340.26	13.53	; nowy pomiar w28713.1 - w287.11
+*flags not duplicate
+1_1	..	1.15	332.68	-86.62
+1_1	..	0.87	140.54	0.92
+1_1	..	0.49	176.59	70.1
+1_2	..	1.4	314.18	81.84
+1_2	..	1.53	338.88	5.56
+1_2	..	0.73	242.48	-0.63
+1_3	..	0.69	43.3	-84.02
+1_3	..	1.43	156.28	13.52
+1_4	..	0.61	334.46	11.34
+1_4	..	0.48	344.38	69.45
+1_4	..	0.47	347.47	-56.36
+1_5	..	0.99	210.38	14.47
+1_5	..	0.39	244.68	71.58
+1_5	..	0.2	194.04	-61.82
+1_5	..	2.24	276.5	1.02
+1_6	..	0.67	323.13	-87.87
+1_6	1_6b	1.58	227.58	-13.63	; domiar do bocznego ciagu (trzeba kopac)
+1_6	..	0.59	65.48	-2.73
+1_7	..	1.1	202.9	3.69
+1_7	..	0.7	95.48	-77.91
+1_8	..	0.41	192.02	-67.2
+1_8	..	1.23	156.9	17.33
+1_8	..	1.99	33.83	-4.23
+1_9	..	0.31	143.13	-65.25
+1_9	..	1.36	68.05	6.71
+1_10	..	1.16	242.22	1.72
+1_10	..	0.32	226.5	-65.32
+1_10	..	0.3	264.38	36.44
+1_11	..	0.41	201.98	6.42
+1_11	..	0.58	212.63	-73.58
+1_11	..	0.36	201.8	51.07
+1_11	..	1.37	290.12	3.99
+1_12	..	1.3	66.42	14.99
+1_12	..	0.64	147.99	-88.32
+1_12	..	0.67	79.0	71.24
+1_13	..	1.66	194.31	7.03
+1_13	..	0.52	217.52	-82.16
+1_13	..	0.55	194.81	46.43
+1_14	..	1.31	148.15	12.03
+1_14	..	0.44	148.35	0.52
+1_14	..	0.41	149.62	29.94
+1_14	..	0.37	181.57	-78.63
+1_14	..	0.43	138.79	-17.72
+1_15	..	0.75	327.82	1.15
+1_15	..	0.78	243.43	85.08
+1_16	..	0.81	79.17	7.73
+1_16	..	2.86	33.03	-62.98
+*end Zachodnie_gowno1

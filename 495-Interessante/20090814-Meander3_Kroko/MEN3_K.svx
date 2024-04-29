@@ -1,0 +1,110 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de "Mäander 3 + Krokodil"
+;cavern part pl "Meander 3 + Krokodylek"
+
+;file date 2024-03-03
+;file team "Karol Makowski"
+
+;source file: MEN3_K.SRV
+*case preserve
+
+*begin Meander3_Krokodylek
+*title "Meander 3 + Krokodylek"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.4 degrees
+
+*date 2009.08.14
+
+;Dariusz Bartroszewski, Jaroslaw Wrzesien
+*team <name surename> (sketch <device/app>)
+*team <name surename> (DistoX1)
+*team <name surename> (marking)
+
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+hg080	hg080_01	10.3	344.12	-17.14
+hg080_01	hg080_02	6.48	54.05	-65.98
+hg080_02	hg080_03	1.4	74.03	-36.24
+hg080_03	hg080_04	1.7	15.75	-59.6
+hg080_04	hg080_05	3.39	224.17	-19.99
+hg080_05	hg080_06	2.5	160.64	0.34
+hg080_06	h80_06_1	5.72	219.38	1.73
+h80_06_1	h80_06_2	2.42	351.06	-6.97
+h80_06_2	h80_06_3	1.19	135.31	-33.79
+hg080_06	hg080_07	3.03	39.83	-74.37
+hg080_07	hg080_08	9.13	142.62	-31.9
+hg080_08	hg080_09	2.86	86.2	26.21
+hg080_09	hg080_10	7.12	38.47	75.92
+hg080_10	hg080_11	6.79	171.41	81.85
+hg080_11	hg080_12	2.16	339.45	53.76
+hg080_12	hg082_01	6.41	232.47	81.91
+hg082	hg083	14.07	222.68	50.22
+hg083	hg084	5.17	152.34	-39.51
+hg084	hg085	4.3	142.7	69.65
+hg085	hg086	8.17	207.83	-0.6
+hg086	hg087	6.39	205.9	8.99
+hg087	hg087_01	8.66	330.36	63.91
+hg087	hg088	0.92	302.2	-24.2
+hg090	hg091	5.76	137.96	-51.77
+hg091	hg092	12.8	208.79	-64.45
+hg092	hg093	10.63	190.28	-56.75
+hg093	hg093_01	1.19	5.08	-11.44
+hg093	hg094	16.64	193.63	62.24
+hg094	hg095	1.18	121.47	26.8
+hg095	hg096	1.35	247.08	43.9
+hg096	hg097	1.61	178.12	35.49
+hg097	hg098	5.65	231.33	48.78
+hg098	hg099	3.88	192.79	21.45
+hg099	hg099_01	6.71	209.89	32.84
+hg099_01	hg099_02	8.17	292.3	27.21
+hg099_02	hg099_03	5.41	192.78	25.16
+hg105	kt001	4.12	38.47	-12.01
+kt001	kt002	12.35	136.19	16.25
+kt002	kt003	11.3	124.62	38.08
+kt003	kt004	9.76	19.42	-31.84
+kt004	kt004_01	7.31	260.88	-11.86
+kt004_01	kt002	3.72	240.38	-5.7
+kt004	kt005	10.75	66.07	27.87
+kt005	kt006	5.38	109.48	15.2
+kt006	kt006_01	5.86	33.05	3.37
+kt006	kt007	2.84	36.04	54.27
+kt007	kt008	7.33	98.48	33.31
+kt008	kt008_01	2.23	276.83	-16.83
+kt008_01	kt008_02	1.81	324.7	-16.84
+kt008_02	kt008_03	4.52	294.92	21.95
+kt008_03	kt008_04	4.94	194.4	10.52
+kt008_04	kt008_05	1.88	81.78	-8.7
+kt008	kt009	2.41	197.66	-15.68
+kt009	kt010	1.85	87.59	24.81
+kt010	kt011	4.46	163.87	12.22
+kt011	kt012	4.44	81.57	13.68
+kt012	kt013	3.63	118.72	33.96
+kt013	kt014	2.87	52.99	30.28
+kt014	kt015	1.61	84.83	33.81
+kt015	kt016	1.51	6.71	18.5
+kt016	kt017	2.6	135.31	29.06
+kt017	kt017_01	4.41	181.79	-75.6
+kt017	kt018	2.32	111.28	12.4
+kt018	kt019	2.98	79.99	40.44
+kt019	kt020	4.31	70.05	2.62
+kt020	kt021	1.14	123.07	-14.34
+kt021	kt021_01	1.16	8.23	12.78
+kt021_01	kt021_02	1.12	85.08	-21.84
+*end Meander3_Krokodylek

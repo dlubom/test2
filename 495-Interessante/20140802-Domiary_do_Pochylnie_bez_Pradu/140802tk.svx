@@ -1,0 +1,113 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de ""
+;cavern part pl "Domiary do Pochylnie bez Pr¹du"
+
+;file date 2024-03-09
+;file team "Karol Makowski"
+
+;source file: 140802tk.srv
+*case preserve
+
+*begin Domiary_do_Pochylnie_bez_Pradu
+*title "Domiary do Pochylnie bez Pr¹du"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 3.0 degrees
+
+*date 2014.08.02
+
+;Dariusz Lubomski(palm), Maciej Dziurka(spray), Nazi (Disto-X)
+*team Dariusz Lubomski (sketch PDA/PocketTopo)
+*team Nazanin Badrkhani (DistoX1)
+*team Maciej Dziurka (marking)
+
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+rs008_14	..	1.93	325.92	-77.83
+rs008_14	rs008141	2.12	167.88	58.73	;domiar
+rs008_14	..	1.55	118.06	10.82
+rs008_14	..	1.74	174.59	6.2
+rs008_14	..	1.12	274.64	-43.17
+rs008_14	rs008_13	1.77	280.46	-41.25
+rs008_13	..	0.96	69.72	-57.87
+rs008_13	..	0.88	46.41	68.94
+rs008_13	..	1.19	50.68	16.2
+rs008_13	rs008_12	2.57	326.25	-3.26
+rs008_12	..	0.92	199.3	-1.43
+rs008_12	..	0.62	207.7	-85.82
+rs008_12	..	0.71	199.93	25.32
+rs008_12	rs008_11	1.71	248.93	32.72
+rs008_11	..	0.79	139.67	-79.87
+rs008_11	rs008111	4.02	196.09	-4.92	;domiar
+rs008_11	..	1.47	6.44	-0.62
+rs008_11	..	0.81	107.05	-47.34
+rs008_11	rs008_10	3.48	312.06	38.35
+rs008_10	..	0.62	66.33	5.16
+rs008_10	..	0.38	100.89	-81.94
+rs008_10	..	0.32	62.46	49.08
+rs008_10	rs008_8	4.76	349.87	-20.2
+rs008_8	..	1.36	275.75	-84.1
+rs008_8	..	1.02	243.3	-19.44
+rs008_8	..	2.74	233.92	-14.58
+rs008_8	..	2.31	194.37	-14.92
+rs008_8	..	2.11	130.77	-4.96
+rs008_8	..	2.47	154.62	75.26
+rs008_8	rs008_9	1.73	103.63	12.26
+rs008_9	..	1.3	307.11	10.51
+rs008_9	..	1.73	343.05	-66.19
+rs008_9	..	2.14	259.51	47.42
+rs008_9	rs008_91	3.61	356.29	47.72	;domiar
+rs008_8	rs008_7	2.04	217.32	-16.98
+rs008_7	..	1.13	7.77	9.0
+rs008_7	..	1.38	346.8	-53.26
+rs008_7	..	0.94	0.49	28.64
+rs008_7	rs008_6	3.56	323.87	5.09
+rs008_6	..	0.53	206.81	-4.98
+rs008_6	..	1.82	247.47	-77.05
+rs008_6	..	0.35	195.11	15.87
+rs008_6	rs008_5	1.12	295.48	-9.04
+rs008_5	..	0.87	222.73	53.5
+rs008_5	..	0.51	85.35	54.17
+rs008_5	..	0.34	87.41	15.68
+rs008_5	rs008_51	2.99	70.41	8.81	;domiar
+rs008_5	..	0.92	43.0	7.5
+rs008_5	..	1.29	64.88	-68.23
+rs008_5	rs008_3	3.76	359.66	-25.65
+rs008_3	..	1.5	242.97	1.45
+rs008_3	..	0.76	255.94	-43.86
+rs008_3	..	1.63	245.75	-45.55
+rs008_3	..	0.98	245.5	40.79
+rs008_3	rs008_4	4.16	280.58	-10.85
+rs008_4	rs008_41	2.43	256.55	-35.78	;domiar
+rs008_3	rs008_2	3.34	301.94	27.16
+rs008_2	..	1.31	115.36	-6.49
+rs008_2	..	3.17	107.78	45.32
+rs008_2	..	3.73	143.56	-60.33
+rs008_2	..	1.51	191.34	-19.67
+rs008_2	rs008_1	6.58	70.45	13.69
+rs008_1	..	1.0	216.32	-33.26
+rs008_1	..	3.61	228.65	6.04
+rs008_1	..	2.22	242.07	78.27
+rs008_1	..	2.29	63.15	61.83
+rs008_1	rs008	2.39	180.61	48.07
+*flags duplicate
+rs008	rs007	3.23	168.18	10.81	;powtorzony
+rs007	rs006	3.87	162.89	44.78	;powtorzony
+*flags not duplicate
+*end Domiary_do_Pochylnie_bez_Pradu

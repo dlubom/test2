@@ -1,0 +1,46 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de "Flitscherl-Kaskaden"
+;cavern part pl "Kaskady Lafiryndy"
+
+;file date 2024-03-10
+;file team "Karol Makowski"
+
+;source file: 140813KL.srv
+*case preserve
+
+*begin Kaskady_Lafiryndy
+*title "Kaskady Lafiryndy"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 3.0 degrees
+
+*date 2014.08.13
+
+;Filip Filar, Michal Parczewski
+*team <name surename> (sketch PDA/PocketTopo)
+*team <name surename> (DistoX1)
+*team <name surename> (marking)
+
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+kv0149	kv0150	2.15	41.61	-54.63
+kv0150	kv0151	2.74	163.83	-67.84
+kv0151	kv0152	2.5	90.03	-26.46
+kv0152	kv0153	4.5	144.11	-39.99
+*end Kaskady_Lafiryndy

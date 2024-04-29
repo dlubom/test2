@@ -1,0 +1,49 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de ""
+;cavern part pl "Partie Gastryczne Przekop"
+
+;file date 2024-03-09
+;file team "Karol Makowski"
+
+;source file: 140722PP.SRV
+*case preserve
+
+*begin Partie_Gastryczne_Przekop
+*title "Partie Gastryczne Przekop"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 3.0 degrees
+
+*date 2014.07.22
+
+;Karol Makowski(Palm), Marcin Slowik(spray, Disto)
+*team Karol Makowski (sketch PDA/PocketTopo)
+*team Marcin Słowik (DistoX1, marking)
+
+;delta Disto = 0.5
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+*flags duplicate
+gh125	gh126	2.036	251.44	-18.91	;powtorzony
+gh126	gh127	4.104	244.78	-62.62	;powtorzony
+*flags not duplicate
+gh127	gh127a	2.68	243.99	-7.3
+gh127a	gh127b	3.12	213.53	-3.07
+gh127b	gh127c	2.59	184.65	14.54
+*end Partie_Gastryczne_Przekop

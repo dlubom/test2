@@ -1,0 +1,59 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de "Deckenmäander"
+;cavern part pl "Meander Stropowy"
+
+;file date 2024-03-19
+;file team "Karol Makowski"
+
+;source file: 21strop1.srv
+*case preserve
+
+*begin Meander_Stropowy7
+;#PREFIX	MES2
+;#SEGMENT	Meander Stropowy
+*title "Meander Stropowy 7"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 4.1 degrees
+
+*date 2021.07.26
+
+;Karol Makowski (palm + spray), Krzysztof Chojnacki (DistoX2); Aliaksandr Sinkavets (poreczowanie)
+*team Karol Makowski (sketch PDA/PocketTopo, marking)
+*team Krzysztof Chojnacki (DistoX2)
+*team Aliaksandr Sinkavets (installing ropes)
+
+*instrument tape "DistoX2 <id>"
+*instrument compass "DistoX2 <id>"
+*instrument clino "DistoX2 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+*flags duplicate
+1_0	1_1	3.05	218.84	1.09	;powtorzony
+1_1	1_2	5.28	163.73	-11.2	;powtorzony
+*flags not duplicate
+;MES1:1_22	1_3	2.54	246.77	-7.82
+1_2	1_3	2.54	246.77	-7.82
+1_3	1_4	3.6	134.67	-16.2
+1_4	1_5	3.46	66.3	-25.13
+1_5	1_6	4.86	181.69	21.13
+1_6	1_7	2.42	116.79	-2.01
+1_7	1_8	2.81	81.56	3.22
+1_8	1_9	4.48	127.1	-2.33
+1_9	1_10	4.2	61.84	30.36
+1_10	1_11	3.72	100.72	-24.87
+1_11	1_12	3.64	140.88	5.36
+*end Meander_Stropowy7

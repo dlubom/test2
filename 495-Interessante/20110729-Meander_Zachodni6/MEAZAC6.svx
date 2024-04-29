@@ -1,0 +1,87 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de "Westmäander 6"
+;cavern part pl "Meander Zachodni 6"
+
+;file date 2024-03-06
+;file team "Karol Makowski"
+
+;source file: MEAZAC6.SRV
+*case preserve
+
+*begin Meander_Zachodni6
+*title "Meander Zachodni 6"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.6 degrees
+
+*date 2011.07.29
+
+;Rafal Mateja, Maciej Dziurka, Michal Humienik, Dariusz Lubomski
+*team <name surename> (sketch <device/app>)
+*team <name surename> (DistoX1)
+*team <name surename> (marking)
+
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+wm268	wm269	3.66	348.9	-44.8
+wm269	wm270	5.93	101.1	-16.9
+wm270	wm271	5.61	130.8	-1.8
+wm271	wm272	9.6	47.3	-11.5
+wm272	wm273	8.57	147.2	-32.8
+wm273	wm274	5.26	173.0	-23.6
+wm274	wm275	5.9	80.5	17.3
+wm275	wm276	3.47	341.4	14.5
+wm276	wm277	10.97	63.9	3.8
+wm277	wm277_1	3.36	295.7	-0.6
+wm277	wm278	6.91	92.0	-13.7
+wm278	wm279	7.44	20.3	-13.8
+wm279	wm280	5.51	74.8	-0.2
+wm280	wm281	9.22	135.0	24.9
+wm281	wm282	4.9	81.5	11.0
+wm282	wm283	8.51	124.9	12.9
+wm283	wm284	5.13	42.7	23.7
+wm284	wm285	10.28	133.7	9.0
+wm285	wm286	4.27	79.9	-2.2
+wm286	wm287	4.55	159.3	17.6
+wm287	wm288	7.23	58.8	5.5
+wm288	wm289	8.82	90.9	-48.6
+wm289	wm290	5.4	21.9	-1.9
+wm290	wm291	5.64	128.9	-5.3
+wm291	wm292	5.45	61.7	-14.2
+wm292	wm293	14.32	349.8	-3.2
+wm293	wm293_1	4.26	84.3	15.6
+wm293_1	wm239_2	6.7	170.7	54.1
+wm293	wm294	3.68	10.6	-24.0
+wm294	wm295	1.92	7.0	25.7
+wm295	wm296	1.38	26.8	-15.7
+wm296	wm297	4.36	342.4	-17.2
+wm297	wm298	2.09	343.7	-2.9
+wm298	wm299	3.66	354.6	21.8
+wm299	wm300	5.54	355.2	-0.4
+wm300	wm301	1.93	96.9	10.0
+wm301	wm301_1	10.85	89.0	75.2
+wm301	wm302	5.36	140.2	-56.6
+wm299	wm299_1	6.93	153.8	39.5
+wm299_1	wm299_2	3.13	142.0	1.7
+wm299_2	wm299_3	7.46	260.5	53.1
+wm299_3	wm299_4	1.87	160.0	23.1
+wm299_4	wm299_5	3.6	163.4	-7.6
+wm299_5	wm299_6	1.25	183.4	-58.2
+wm299_6	wm293_1	8.17	117.8	-66.0
+*end Meander_Zachodni6

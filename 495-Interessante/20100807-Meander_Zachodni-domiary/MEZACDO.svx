@@ -1,0 +1,85 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de ""
+;cavern part pl "Meander Zachodni - domiary"
+
+;file date 2024-03-06
+;file team "Karol Makowski"
+
+;source file: MEZACDO.SRV
+*case preserve
+
+*begin Meander_Zachodni-domiary
+*title "Meander Zachodni - domiary"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.5 degrees
+
+*date 2010.08.07
+
+;Maciej Dziurka, Tomasz Olczak, Michal Humienik , Szymon Matysiak
+*team <name surename> (sketch <device/app>)
+*team <name surename> (DistoX1)
+*team <name surename> (marking)
+
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+wm140	wm140_01	10.1	41.85	-26.43
+wm140_01	wm140_02	4.68	297.47	-14.02
+wm147	wm147_01	7.38	62.57	16.64
+wm147_01	wm147_02	2.34	359.96	-12.07
+wm147_02	wm147_03	2.07	63.85	4.45
+wm147_03	w14703_1	3.28	294.35	24.82
+w14703_1	w14703_2	8.67	267.9	43.72
+wm147_03	wm147_04	5.58	65.9	23.57
+wm147_04	wm147_05	5.52	2.64	-20.17
+wm147_05	wm147_06	5.79	299.89	38.27
+wm147_06	w14706_1	7.37	314.51	47.86
+wm147_06	wm147_07	4.64	20.43	10.66
+wm147_07	wm147_08	3.5	345.61	24.31
+wm147_08	wm147_09	1.88	125.82	16.01
+wm147_09	w14709_1	7.46	133.71	-0.37
+wm147_09	w14709_a	6.04	6.66	70.3
+wm147_09	wm147_10	4.12	5.29	27.65
+wm147_10	wm147_11	9.44	97.99	-81.96
+wm147_11	wm147_12	1.76	161.33	16.05
+wm147_12	wm147_13	3.02	260.52	-81.3
+wm147_13	wm147_14	2.37	150.06	2.59
+wm147_14	wm147_15	3.54	167.89	0.34
+wm147_15	w14715_1	3.84	92.17	1.66
+w14715_1	w14715_2	22.52	269.77	81.45
+wm147_15	wm147_16	2.31	295.99	12.01
+wm147_16	wm147_17	2.68	187.32	13.36
+wm147_17	wm147_18	2.62	165.98	53.54
+wm147_18	wm147_05	2.01	164.62	6.34
+wm153	wm153_01	1.98	261.14	-31.91
+wm153_01	wm153_02	3.54	8.43	-21.28
+wm153_02	wm153_03	3.87	332.01	-22.14
+wm153_03	wm153_04	3.72	44.74	-32.81
+wm153_04	wm153_05	6.24	356.07	-27.83
+wm153_05	wm153_06	2.88	14.46	-25.07
+wm153_06	wm153_07	10.26	311.9	-30.55
+wm153_07	wm153_08	2.07	351.94	-46.41
+wm153_08	wm153_09	5.6	281.88	-24.48
+wm153_09	wm153_10	2.42	302.9	-12.5
+wm153_10	wm153_11	3.78	2.28	-7.54
+wm153_11	wm153_12	1.78	351.13	-44.79
+wm153_12	wm153_13	1.8	332.36	-20.69
+wm153_13	wm153_14	1.97	33.01	-11.43
+wm153_14	wm153_15	0.93	9.89	-7.77
+*end Meander_Zachodni-domiary

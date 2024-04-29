@@ -1,0 +1,52 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de "Nördteile 2"
+;cavern part pl "Ciągi Północne 2"
+
+;file date 2024-03-03
+;file team "Karol Makowski"
+
+;source file: CIPL2.SRV
+*case preserve
+
+*begin Ciagi_Polnocne2
+*title "Ciągi Północne 2"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.4 degrees
+
+*date 2009.08.19
+
+;Maciej Dziurka, Alireza Balaghi, Oliwia Rysnik
+*team <name surename> (sketch <device/app>)
+*team <name surename> (DistoX1)
+*team <name surename> (marking)
+
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+nt009	nt010	12.2	209.1	45.1
+nt010	nt011	3.34	323.8	-18.5
+nt011	nt012	7.45	269.4	50.9
+nt012	nt013	7.65	23.0	81.5
+nt013	nt014	3.16	298.8	14.9
+nt014	nt015	4.82	211.4	17.2
+nt015	nt016	2.82	242.8	40.1
+nt016	nt017	3.8	357.3	6.4
+nt017	nt018	8.45	285.2	46.2
+nt018	nt019	2.88	232.0	61.3
+*end Ciagi_Polnocne2

@@ -25,6 +25,7 @@
 *include 491-Hohle_in_Roten_Steinen\491-master.svx
 
 *include 494-Respektschacht\494-master.svx
+*include 495-Interessante\495-master.svx
 
 *include 500-B3-6\500-master.svx
 
@@ -35,7 +36,6 @@
 *include 575-Umgekehrter_Exorzismus\575-master.svx
 *include 576-Unter_dem_Steinbock\576-master.svx
 *include 577-Das_Erste_Mal\577-master.svx
-
 *include 578-Hohle_unter_den_Felsbrucken\578-master.svx
 *include 579-Vorderer_Kragenkopf_Eishohle\579-master.svx
 

@@ -1,0 +1,116 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de ""
+;cavern part pl "Partie pod studnią na zakręcie"
+
+;file date 2024-03-08
+;file team "Karol Makowski"
+
+;source file: 130731JK.srv
+*case preserve
+
+*begin Partie_pod_studnia_na_zakrecie
+*title "Partie pod studnią na zakręcie"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.9 degrees
+
+*date 2013.07.31
+
+;Justyna Wylazlowska (distoX), Karol Makowski (palm/sprej)
+*team Karol Makowski (sketch PDA/PocketTopo)
+*team Justyna Wylazłowska (DistoX1)
+*team Karol Makowski (marking)
+
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+rh024	rh030	2.65	8.71	-31.35
+rh030	..	0.9	68.33	-84.99
+rh030	..	1.0	251.37	-55.27
+rh030	..	0.86	59.21	-67.15
+rh030	rh031	1.49	330.8	-43.52
+rh031	rh032	1.8	31.61	-43.86
+rh032	..	0.85	124.61	84.18
+rh032	..	0.58	131.67	9.34
+rh032	..	0.83	325.63	9.01
+rh032	rh033	11.83	51.25	-15.99
+rh033	..	2.63	36.24	-85.24
+rh033	..	2.75	167.24	-5.01
+rh033	rh034	6.09	38.59	-18.97
+rh034	rh034_1	2.37	306.21	-9.0	;domiar
+rh034	rh035	1.42	163.27	12.08
+rh035	..	6.78	137.7	76.7
+rh035	..	1.78	65.36	0.9
+rh035	..	2.26	152.72	0.53
+rh035	rh036	12.52	77.04	-70.22
+rh036	..	4.22	101.34	-1.41
+rh036	..	6.38	81.63	-1.96
+rh036	..	5.42	61.42	-2.17
+rh036	..	2.02	58.81	-1.19
+rh036	..	1.05	105.26	-2.51
+rh036	rh036_1	6.23	73.43	-71.73	;domiar
+rh036	rh036_2	6.49	92.38	50.32	;domiar
+rh036	rh037	2.88	238.65	-4.26
+rh037	rh038	4.47	341.31	-14.19
+rh038	rh039	2.25	285.94	-46.35
+rh039	rh040	2.99	314.71	-18.45
+rh040	..	1.96	162.24	-4.51
+rh040	..	1.42	77.82	-3.72
+rh040	..	1.57	355.0	-6.03
+rh040	..	1.42	27.99	-2.42
+rh040	..	5.36	108.7	65.42
+rh040	..	7.23	111.76	76.6
+rh040	..	4.95	256.82	-63.08
+rh040	rh041	2.31	346.21	30.56
+rh041	rh042	2.5	234.77	-0.92
+rh042	rh043	2.69	327.04	-33.99
+rh043	..	1.88	233.4	-12.07
+rh043	..	2.09	252.91	-79.97
+rh043	..	3.86	181.71	-77.49
+rh043	rh044	8.22	272.26	-31.35
+rh044	..	1.37	204.26	0.92
+rh044	..	2.57	243.37	-0.22
+rh044	..	4.24	269.32	-0.32
+rh044	..	4.19	297.05	-0.94
+rh044	..	2.56	328.44	5.15
+rh044	..	1.85	8.08	5.3
+rh044	..	7.52	270.45	33.81
+rh044	rh044_01	17.04	287.8	-54.35	;domiar
+rh043	rh045	5.64	271.08	-68.43
+rh045	rh046	2.62	247.59	-12.23
+rh046	rh047	1.71	242.41	-44.14
+rh047	..	15.0	0.0	-90.0
+rh033	rh050	3.27	165.52	34.98
+rh050	..	2.64	173.25	-2.02
+rh050	rh051	4.5	148.67	65.22
+rh051	..	1.2	156.26	4.3
+rh051	..	4.71	303.84	-38.77
+rh051	..	0.97	11.14	-13.9
+rh051	..	2.26	97.03	9.06
+rh051	rh052	2.9	215.34	16.88
+rh052	..	1.67	61.67	-1.44
+rh052	..	2.4	104.65	-4.76
+rh052	..	3.11	133.88	-8.32
+rh052	..	1.61	145.22	-9.08
+rh052	..	7.1	145.87	29.29
+rh052	..	3.46	98.78	10.02
+rh052	..	7.76	170.86	44.08
+rh052	rh053	4.13	113.36	17.98
+rh053	rh053_1	22.4	200.69	78.1
+rh053	..	5.77	215.63	38.89
+*end Partie_pod_studnia_na_zakrecie

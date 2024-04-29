@@ -1,0 +1,118 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de ""
+;cavern part pl "Kolorowe skały - bok2"
+
+;file date 2024-03-09
+;file team "Karol Makowski"
+
+;source file: 140730K2.srv
+*case preserve
+
+*begin Kolorowe_skaly-bok2
+*title "Kolorowe skały - bok2"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 3.0 degrees
+
+*date 2014.07.30
+
+;Marcin Slowik (kartowanie), Mahyar Kafash (Disto)
+*team Marcin Słowik (sketch PDA/PocketTopo)
+*team Mahyar Kafash (DistoX1)
+*team <name surename> (marking)
+
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+*flags duplicate
+ws103	ws104	4.742	110.37	7.38	;powtorzny
+*flags not duplicate
+ws104	ws1a4	6.08	352.39	-24.31
+ws1a4	..	2.95	251.85	-12.75
+ws1a4	..	1.64	51.81	-10.82
+ws1a4	..	2.63	340.03	-31.13
+ws1a4	ws1a4_1	6.08	299.13	-44.73
+ws1a4_1	..	3.25	314.15	-60.15
+ws1a4_1	ws1a4_2	3.19	311.98	-60.18
+ws1a4_2	..	2.71	223.03	0.57
+ws1a4_2	..	3.89	39.28	-27.03
+ws1a4_2	ws1a4_3	2.95	0.16	-43.45
+ws1a4_3	..	4.91	40.45	-4.44
+ws1a4_3	..	3.04	230.21	6.8
+ws1a4_3	ws1a4_4	2.79	350.55	-40.08
+ws1a4_4	..	1.3	343.88	-84.12
+ws1a4_4	..	3.37	213.8	7.33
+ws1a4_4	ws1a4_5	4.15	30.73	-20.48
+ws1a4_5	..	1.91	276.89	-9.31
+ws1a4_5	..	2.27	120.0	-4.34
+ws1a4_5	..	1.51	29.72	-66.54
+ws1a4_5	ws1a4_6	2.39	81.62	-22.64
+ws1a4_6	..	1.27	67.07	77.15
+ws1a4_6	..	1.3	129.37	36.97
+ws1a4_6	..	1.7	317.33	7.64
+ws1a4_6	..	4.14	39.71	-30.37
+ws1a4_6	ws1a4_7	10.23	34.51	20.86
+ws1a4_7	..	3.05	290.96	-0.23
+ws1a4_7	..	1.94	30.5	-82.47
+ws1a4_7	..	3.28	337.01	46.54
+ws1a4_7	..	2.15	357.68	2.45
+ws1a4_7	ws1a4_8	6.01	23.26	31.43
+ws1a4_8	..	1.01	266.31	-86.47
+ws1a4_8	..	0.75	178.73	83.11
+ws1a4_8	..	1.79	275.81	-2.56
+ws1a4_8	..	1.34	134.18	-1.11
+ws1a4_8	ws1a4_9	3.23	49.23	-4.6
+ws1a4_9	..	2.1	318.94	2.62
+ws1a4_9	..	1.72	189.46	-87.36
+ws1a4_9	..	1.14	205.95	70.92
+ws1a4_9	..	1.87	163.47	17.24
+ws1a4_9	..	2.14	352.29	-0.51
+ws1a4_4	ws1a4_10	9.15	228.02	4.13
+ws1a4_10	..	0.95	141.24	-1.69
+ws1a4_10	..	0.64	37.97	-85.34
+ws1a4_10	..	1.42	325.69	3.39
+ws1a4_10	..	3.6	70.08	4.17
+ws1a4_10	..	2.05	16.44	1.68
+ws1a4_10	..	5.72	210.52	5.74
+ws1a4_10	ws1a4_11	5.77	223.2	15.54
+ws1a4_11	..	1.34	49.21	-82.98
+ws1a4_11	..	0.94	258.97	-80.08
+ws1a4_11	..	1.65	142.19	69.76
+ws1a4_11	..	0.66	328.34	-9.87
+ws1a4_11	..	0.63	204.88	29.37
+ws1a4_11	ws1a4_12	1.94	240.31	12.91
+ws1a4_12	ws1a4_13	1.72	245.21	-43.05
+ws1a4_13	ws1a4_14	5.61	216.8	1.35
+ws1a4_14	ws1a4141	5.61	216.72	1.15	;domiar
+ws1a4_14	..	2.5	217.95	-8.49
+ws1a4_14	..	0.77	127.12	-86.55
+ws1a4_14	..	1.12	302.76	-18.6
+ws1a4_14	..	4.25	31.76	0.8
+ws1a4_14	..	1.08	354.56	55.5
+ws1a4_14	ws1a4_15	3.8	328.42	6.02
+ws1a4_15	..	9.22	319.09	-25.31
+ws1a4_15	..	12.69	319.9	-18.94
+ws1a4_15	..	7.54	320.34	-9.62
+ws1a4_15	ws1a4151	15.64	324.87	-10.1	;domiar
+ws1a4_15	..	7.85	323.23	0.14
+ws1a4_15	..	8.27	323.36	6.5
+ws1a4_15	..	7.27	318.81	-32.62
+ws1a4_15	..	14.38	328.17	2.29
+ws1a4_15	..	15.04	325.7	-8.65
+ws1a4_15	..	13.84	322.9	-18.04
+*end Kolorowe_skaly-bok2

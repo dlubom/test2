@@ -1,0 +1,99 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de "Nördteile 3"
+;cavern part pl "Ciągi Północne 3"
+
+;file date 2024-03-03
+;file team "Karol Makowski"
+
+;source file: CPN3.SRV
+*case preserve
+
+*begin Ciagi_Polnocne3
+*title "Ciągi Północne 3"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.4 degrees
+
+*date 2009.08.15
+
+;Maciek Dziurka, Lukasz Kralczynski
+*team <name surename> (sketch <device/app>)
+*team <name surename> (DistoX1)
+*team <name surename> (marking)
+
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+nt019	nt019_01	1.39	228.9	-57.9
+nt019_01	nt019_02	1.57	312.1	-41.2
+nt019_02	nt019_03	16.4	188.3	-87.8
+nt019_03	n19_03_1	6.15	127.9	-5.8
+n19_03_1	n19_03_2	6.39	78.7	-1.3
+nt019_03	n19_03_3	5.16	209.2	-9.9
+nt019_03	n19_03_4	6.23	325.3	7.4
+nt019_03	nt019_04	4.36	331.3	85.8
+nt019_04	nt019_05	3.85	321.2	21.9
+nt019_05	nt019_06	8.75	338.9	-49.7
+nt019_06	n19_06_1	7.59	186.7	-22.4
+n19_06_1	n19_06_2	1.71	107.5	11.9
+n19_06_2	n19_06_3	1.5	137.7	-3.6
+nt019_06	nt019_07	6.09	63.7	-8.1
+nt019_07	nt019_08	8.64	335.0	31.7
+nt019_08	nt019_09	1.83	263.6	2.0
+nt019_09	nt019_10	4.27	347.0	12.4
+nt019_10	nt019_11	1.38	155.4	70.8
+nt019_11	nt019_12	1.67	7.9	-10.1
+nt019_12	nt019_13	0.5	344.6	-49.8
+nt019_13	nt019_14	2.22	50.4	22.9
+nt019_14	nt019_15	3.97	29.7	-37.8
+nt019_15	nt019_16	1.91	330.7	-16.5
+nt019	nt020	1.52	187.1	-9.5
+nt020	nt021	10.38	287.9	24.1
+nt021	nt022	2.2	359.7	16.9
+nt022	nt023	2.56	308.8	10.8
+nt023	nt024	2.28	23.5	7.5
+nt024	nt025	7.09	11.7	-29.9
+nt025	nt026	4.82	26.6	-22.7
+nt026	nt027	2.32	120.6	-8.0
+nt027	nt028	12.5	335.5	-13.7
+nt028	nt029	5.83	43.6	-19.9
+nt029	nt030	7.46	289.4	1.4
+nt030	nt030_01	6.43	301.0	36.0
+nt030_01	nt030_02	0.64	304.6	23.2
+nt030_02	nt031	4.3	38.1	-17.9
+nt030	nt031	7.42	338.3	21.2
+nt031	nt032	13.36	269.9	42.6
+nt032	nt032_01	13.33	47.5	67.4
+nt032	nt033	4.54	328.1	20.4
+nt033	nt034	2.76	30.0	11.3
+nt034	nt035	4.4	334.6	-16.2
+nt035	nt036	2.7	150.1	-70.2
+nt036	nt037	7.08	6.0	-54.0
+nt037	nt037_01	6.68	324.3	14.0
+nt037	nt038	1.48	347.5	-79.0
+nt038	nt039	2.76	348.3	-8.0
+nt039	nt040	2.83	87.6	-60.9
+nt040	nt040_01	9.53	162.2	-7.0
+nt040	nt041	3.72	332.9	5.5
+nt041	nt041_01	3.04	64.5	18.4
+nt041	nt041_02	3.47	259.9	-14.6
+nt041_02	nt041_03	1.82	160.1	-23.6
+nt041_03	n41_03_1	10.24	273.5	77.8
+nt041_03	n41_03_2	7.96	99.3	-85.1
+nt041_03	n41_03_3	7.7	43.2	-47.2
+*end Ciagi_Polnocne3

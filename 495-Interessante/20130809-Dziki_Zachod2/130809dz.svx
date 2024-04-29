@@ -1,0 +1,60 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de "Wild West 2"
+;cavern part pl "Dziki Zachód 2"
+
+;file date 2024-03-09
+;file team "Karol Makowski"
+
+;source file: 130809dz.srv
+*case preserve
+
+*begin Dziki_Zachod2
+*title "Dziki Zachód 2"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.9 degrees
+
+*date 2013.08.09
+
+;Dariusz Lubomski(kartowanie+spray), Tomasz Biela (Disto)
+*team Dariusz Lubomski (sketch PDA/PocketTopo, marking)
+*team Tomasz Biela (DistoX1)
+
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+wt098	wt099	6.03	331.27	-8.45
+wt099	..	2.1	235.7	80.08
+wt099	..	3.19	197.82	2.91
+wt099	..	8.46	132.77	44.33
+wt099	..	8.73	214.82	-54.73
+wt099	wt100	5.72	232.79	1.71
+wt100	..	1.18	92.17	-69.03
+wt100	..	2.4	153.53	-12.83
+wt100	..	5.5	112.98	21.05
+wt100	..	1.55	56.8	41.68
+wt100	..	6.71	53.45	8.48
+wt100	wt101	8.56	245.42	-22.89
+wt101	..	5.2	70.0	24.81
+wt101	..	11.56	62.19	23.25
+wt101	..	2.77	55.87	37.62
+wt101	..	1.09	74.9	-86.57
+wt101	..	3.35	29.24	0.27
+wt101	..	10.06	2.86	-8.29
+wt101	..	28.93	317.62	-33.74
+*end Dziki_Zachod2

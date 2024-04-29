@@ -1,0 +1,53 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de ""
+;cavern part pl "Gang Białych Kamieni domiary 3 remake"
+
+;file date 2024-03-07
+;file team "Karol Makowski"
+
+;source file: GBKD3R.SRV
+*case preserve
+
+*begin Gang_Bialych_Kamieni-domiary3_remake
+;#SEGMENT	/Gang Bialych Kamieni domiary 3 remake
+*title "Gang Białych Kamieni domiary 3 remake"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.6 degrees
+
+*date 2011.08.11
+
+;Oliwia Rysnik, Mirek Kopertowski, Michal Humienik, Arek Swieczkowski
+*team <name surename> (sketch PDA/PocketTopo)
+*team <name surename> (DistoX1)
+*team <name surename> (marking)
+
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+ws008	ws008_01	4.47	242.39	32.48	;TODO
+ws008_01	ws008_02	6.81	343.83	7.46
+ws008_02	ws008_03	2.76	296.85	-40.69
+ws008_03	w08_03_1	5.55	358.47	-40.23	;domiar
+ws008_03	w08_03_a	4.21	158.04	-12.73	;domiar
+ws008_03	ws008_04	9.75	250.71	28.08
+ws008_04	ws008_05	3.58	163.2	74.91
+ws008_05	w08_05_1	20.47	27.65	59.61	;domiar
+ws008_05	ws008_06	1.57	266.71	-33.59
+ws008_06	w08_06_1	16.74	50.28	-85.07	;domiar
+*end Gang_Bialych_Kamieni-domiary3_remake

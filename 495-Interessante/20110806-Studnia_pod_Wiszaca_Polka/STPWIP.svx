@@ -1,0 +1,74 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de ""
+;cavern part pl "Studnia pod Wiszącą Półką"
+
+;file date 2024-03-07
+;file team "Karol Makowski"
+
+;source file: STPWIP.SRV
+*case preserve
+
+*begin Studnia_pod_Wiszaca_Polka
+;#SEGMENT	/Studnia pod Wiszaca Polka
+*title "Studnia pod Wiszącą Półką"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.6 degrees
+
+*date 2011.08.06
+
+;Miroslaw Kopertowski, Oliwia Rysnik
+*team <name surename> (sketch PDA/PocketTopo)
+*team <name surename> (DistoX1)
+*team <name surename> (marking)
+
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+hv011	hv010	3.38	34.98	-4.26
+hv010	hv009	3.85	305.66	-9.67
+hv009	hv008	5.97	26.46	6.39
+hv008	hv007	3.67	54.04	3.42
+hv007	hv006	8.83	39.78	-3.85
+hv006	hv006_a	4.98	355.42	12.97
+hv006_a	hv006_b	2.82	58.04	21.08
+hv006_b	hv006b1	4.85	322.05	21.85	;TODO zapewne domiar
+hv006_b	hv006_c	3.73	265.88	51.19
+hv006_c	hv006_d	4.7	1.71	50.54
+hv006_d	hv006_e	5.29	269.36	5.37
+hv006_e	hv006_f	20.64	294.98	71.93	;TODO zapewne domiar
+hv006_e	hv006e1	5.37	355.08	-0.54	;TODO zapewne domiar
+hv006	hv006_01	10.03	348.85	-14.84
+hv006_01	hv006_02	2.25	343.5	-21.85
+hv006_02	hv006_03	8.29	314.15	-51.06
+hv006_03	hv006_04	6.79	47.9	27.78
+hv006_04	hv006_05	11.12	48.88	-36.69
+hv006_05	hv006_51	8.69	353.38	-38.15
+hv006_05	hv006_06	4.81	195.85	9.77
+hv006_06	hv006_07	5.39	160.63	-43.8
+hv006_07	hv006_08	4.76	192.27	-26.03
+hv006_08	hv006_09	5.99	214.75	-0.72
+;hv006_09	hv006_10	5.05	40.65	-4.41	;TODO podejrzane
+hv005	hv006	6.33	347.03	-59.34
+hv004	hv005	18.0	283.56	-80.81
+hv003	hv004	10.31	251.86	-82.38
+hv002	hv003	8.99	63.79	-64.47
+;ws030	hv001	3.52	14.1	-27.12	;powtorzny
+hv011	..	10.1	180.1	-28.39
+hv011	..	9.65	151.18	-58.78
+*end Studnia_pod_Wiszaca_Polka

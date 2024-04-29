@@ -1,0 +1,666 @@
+*case preserve
+*begin 495-Interessante
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance (SAGIS)
+
+*entrance 01-eingang
+
+;------------------------------------------------------------------------------------------------
+*include 20080801-Ciag_wejsciowy1\C_WEJ_1.svx			;Ciąg wejściowy 1
+*equate 01-eingang	Ciag_wejsciowy1.000			;entrance 01
+;------------------------------------------------------------------------------------------------
+*include 20080801-Ciag_wejsciowy2\C_WEJ_2.svx			;Ciąg wejściowy 2
+*equate Ciag_wejsciowy1.cw027	Ciag_wejsciowy2.cw027
+;------------------------------------------------------------------------------------------------
+*include 20090805-Ciagi_Polnocne1\CIAPL1.svx			;Ciągi Północne 1
+*equate Ciag_wejsciowy2.cw040	Ciagi_Polnocne1.cw040
+;------------------------------------------------------------------------------------------------
+*include 20090819-Ciagi_Polnocne2\CIPL2.svx			;Ciągi Północne 2
+*equate Ciagi_Polnocne1.nt009	Ciagi_Polnocne2.nt009
+;------------------------------------------------------------------------------------------------
+*include 20090815-Ciagi_Polnocne3\CPN3.svx			;Ciągi Północne 3
+*equate Ciagi_Polnocne2.nt019	Ciagi_Polnocne3.nt019
+;------------------------------------------------------------------------------------------------
+*include 20100803-Ciagi_Polnocne4\CIPL4.svx			;Ciągi Północne 4
+*equate Ciagi_Polnocne3.nt041	Ciagi_Polnocne4.nt041
+;------------------------------------------------------------------------------------------------
+*include 20130803-Ciag_wejsciowy-podmeander\cioranie.svx		;Ciąg wejsciowy - podmeander
+*equate Ciag_wejsciowy2.cw038	Ciag_wejsciowy-podmeander.cw038_01
+;------------------------------------------------------------------------------------------------
+*include 20090805-Meander1\MEAND1.svx			;Meander 1
+*equate Ciag_wejsciowy2.cw040	Meander1.cw040
+;------------------------------------------------------------------------------------------------
+*include 20090805-Meander2\MEA2.svx				;Meander 2
+*equate Meander1.hg020	Meander2.hg020
+;------------------------------------------------------------------------------------------------
+*include 20090807-Meander3\MEAND2.svx			;Meander 3
+*equate Meander2.hg066	Meander3.hg066
+;------------------------------------------------------------------------------------------------
+*include 20090814-Meander3_Kroko\MEN3_K.svx			;Meander 3 + Krokodylek
+*equate Meander3.hg080	Meander3_Krokodylek.hg080
+*equate Meander3.hg082	Meander3_Krokodylek.hg082
+*equate Meander3.hg082_01	Meander3_Krokodylek.hg082_01
+;------------------------------------------------------------------------------------------------
+*include 20090805-Meander_Uz1\MEA_UZ1.svx			;Meander - uzupelnienia 1
+*equate Meander1.hg003	Meander_uz1.hg003
+;------------------------------------------------------------------------------------------------
+*include 20090817-Meander_Uz2\ME_UZ2.svx			;Meander - uzupelnienia 2
+*equate Meander1.hg005	Meander_uz2.hg005
+*equate Meander_uz1.hg003_03	Meander_uz2.hg003_03
+*equate Meander2.hg042	Meander_uz2.hg042
+*equate Meander2.hg046	Meander_uz2.hg046
+*equate Meander2.hg048	Meander_uz2.hg048
+*equate Meander3.hg070	Meander_uz2.hg070
+*equate Meander3_Krokodylek.kt002	Meander_uz2.kt002
+;------------------------------------------------------------------------------------------------
+*include 20100811-Partie_Jana_Sopinskiego\PAJANA.svx		;Partie Jana Sopińskiego
+*equate Meander3.hg074	Partie_Jana_Sopinskiego.hg074
+;*equate Meander3.hg075	Partie_Jana_Sopinskiego.j09_04_6		;UWAGA - w Walls pętla nie jest zamknięta!
+;------------------------------------------------------------------------------------------------
+*include 20100721-Partie_kawowe\PAKAW.svx			;Partie Kawowe
+*equate Meander2.hg063	Partie_kawowe.hg063
+*equate Meander2.hg066	Partie_kawowe.hg066
+;------------------------------------------------------------------------------------------------
+*include 20090819-Bok_Tyrol\BOKTYR.svx			;Bok od Sali z tyrolką
+*equate Meander3_Krokodylek.hg093_01	Bok_od_sali_z_tyrolka.hg093_01
+;------------------------------------------------------------------------------------------------
+*include 20140804-Re\140804RE.svx				;Re
+*equate Meander3_Krokodylek.hg088	Re.hg088
+*equate Meander3_Krokodylek.hg090	Re.hg090
+*equate Meander3_Krokodylek.hg099	Re.hg099
+*equate Meander3_Krokodylek.hg105	Re.hg105
+;------------------------------------------------------------------------------------------------
+*include 20090817-Meander_Zachodni1+Dolne_C\MZACH1_D.svx		;Meander Zachodni 1 + Dolne C
+*equate Re.wm005	Meander_Zachodni1_Dolne_C.wm005
+;------------------------------------------------------------------------------------------------
+*include 20090820-Gangi1\GANGI1.svx				;Gangi 1
+*equate Meander3_Krokodylek.hg105		Gangi1.hg105
+*equate Meander_Zachodni1_Dolne_C.wm034	Gangi1.wm034
+;------------------------------------------------------------------------------------------------
+*include 20130805-Powiew_Zachodu\130805PZ.svx			;Powiew Zachodu
+*equate Gangi1.wm053	Powiew_Zachodu.wm053
+;------------------------------------------------------------------------------------------------
+*include 20130813-Kolo\130813ko.svx				;Koło
+*equate Gangi1.wm055_02	Kolo.wm055_02
+*equate Gangi1.wm059	Kolo.wm059
+;------------------------------------------------------------------------------------------------
+*include 20140805-Poprawki\140805po.svx			;Poprawki
+*equate Gangi1.wm038	Poprawki.wm038
+*equate Gangi1.wm052	Poprawki.wm052
+;------------------------------------------------------------------------------------------------
+*include 20130804-Kijanka\130804KM.svx			;Kijanka
+*equate Poprawki.wm042	Kijanka.wm042
+;------------------------------------------------------------------------------------------------
+*include 20130809-Studnia_na_rozdrozu\130809SR.svx		;Studnia na rozdrożu
+*equate Re.hg117	Studnia_na_rozdrozu.hg117
+;------------------------------------------------------------------------------------------------
+*include 20100801-Meander_Zachodni2\MEZACH2.svx			;Meander Zachodni 2
+*equate Gangi1.wm074	Meander_Zachodni2.wm074
+;------------------------------------------------------------------------------------------------
+*include 20100801-Meander_Zachodni3\MEZACH3.svx			;Meander Zachodni 3
+*equate Meander_Zachodni2.wm082	Meander_Zachodni3.wm082
+;------------------------------------------------------------------------------------------------
+*include 20100804-Meander_Zachodni4\MEZACH4.svx			;Meander Zachodni 4
+*equate Meander_Zachodni3.wm158	Meander_Zachodni4.wm158
+;------------------------------------------------------------------------------------------------
+*include 20100807-Meander_Zachodni-domiary\MEZACDO.svx		;Meander Zachodni - domiary
+*equate Meander_Zachodni3.wm140	Meander_Zachodni-domiary.wm140	  
+*equate Meander_Zachodni3.wm147	Meander_Zachodni-domiary.wm147	  
+*equate Meander_Zachodni3.wm153	Meander_Zachodni-domiary.wm153	
+;------------------------------------------------------------------------------------------------
+*include 20100807-Meander_Zachodni5\MENZACH5.svx		;Meander Zachodni 5
+*equate Meander_Zachodni4.wm221 Meander_Zachodni5.wm221
+;------------------------------------------------------------------------------------------------
+*include 20110729-Meander_Zachodni6\MEAZAC6.svx			;Meander Zachodni 6
+*equate Meander_Zachodni5.wm268	Meander_Zachodni6.wm268
+;------------------------------------------------------------------------------------------------
+*include 20110811-Meander_Zachodni7\MEZA7.svx			;Meander Zachodni 7
+*equate Meander_Zachodni6.wm268	Meander_Zachodni7.wm268
+*equate Meander_Zachodni6.wm287	Meander_Zachodni7.wm287
+;------------------------------------------------------------------------------------------------
+*include 20120809-Zachodni_285-287\ZA285287.svx			;Zachodni 285-287
+*equate Meander_Zachodni6.wm285	Zachodni_285-287.wm285
+*equate Meander_Zachodni6.wm287	Zachodni_285-287.wm287
+;------------------------------------------------------------------------------------------------
+*include 20120809-Zachodni_286\SD345678.svx			;Zachodni 286
+*equate Meander_Zachodni6.wm286	Zachodni_286.wm286
+;------------------------------------------------------------------------------------------------
+*include 20120809-Zachodni-Komin_Michala\AS878989.svx		;Zachodni - Komin Michala
+*equate Meander_Zachodni6.wm282	Zachodni-Komin_Michala.wm282
+;------------------------------------------------------------------------------------------------
+*include 20120809-Zachodni-meanderek\ZA120809.svx		;Zachodni - meanderek
+*equate Meander_Zachodni6.wm280	Zachodni-meanderek.wm280
+*equate Zachodni-Komin_Michala.wm282_03	Zachodni-meanderek.wm282_03
+;------------------------------------------------------------------------------------------------
+*include 20120810-Zachodni-polnoc_kontynuacja\ZA098765.svx		;Zachodni - polnoc kontynuacja
+*equate Zachodni-meanderek.wt033	Zachodni-polnoc_kontynuacja.wt033
+;------------------------------------------------------------------------------------------------
+*include 20120815-Zachodni\120815Z.svx			;Zachodni
+*equate Zachodni-meanderek.wt060	Zachodni.wt060
+*equate Zachodni-polnoc_kontynuacja.wt069_01	Zachodni.wt069_01
+;------------------------------------------------------------------------------------------------
+*include 20120815-Zachodni-Dol\120815ZD.svx			;Zachodni Dol
+*equate Zachodni-polnoc_kontynuacja.wt068_01	Zachodni-Dol.wt068_01
+;------------------------------------------------------------------------------------------------
+*include 20130807-Dziki_Zachod\130807dz.svx			;Dziki Zachód
+*equate Zachodni-Dol.wt085	Dziki_Zachod.wt085
+*equate Zachodni-Dol.wt087	Dziki_Zachod.wt087
+;------------------------------------------------------------------------------------------------
+*include 20130805-Rura_freatyczna\130805KM.svx			;Rura freatyczna
+*equate Gangi1.pr005 Rura_freatyczna.pr005
+*equate Meander_Zachodni3.wm093	Rura_freatyczna.wm093
+;------------------------------------------------------------------------------------------------
+*include 20130809-Dziki_Zachod2\130809dz.svx			;Dziki Zachód 2
+*equate Dziki_Zachod.wt098	Dziki_Zachod2.wt098
+;------------------------------------------------------------------------------------------------
+*include 20120731-Amazonka\120731AM.svx			;Amazonka
+*equate Gangi1.u08_02_4	Amazonka.u08_02_4
+;------------------------------------------------------------------------------------------------
+*include 20120809-Amazonka-kontynuacja\120809AK.svx		;Amazonka kontynuacja
+*equate Amazonka.am009	Amazonka-kontynuacja.am009
+;------------------------------------------------------------------------------------------------
+*include 20110806-Dolne_Ciagi\DOLCI.svx			;Dolne Ciagi
+*equate Gangi1.ut008_06	Dolne_Ciagi.ut008_06
+*equate Amazonka.uts003 Dolne_Ciagi.uts003
+;------------------------------------------------------------------------------------------------
+*include 20110806-Partie_Krokodylka\PAKROK.svx			;Partie_Krokodylka
+*equate Meander3_Krokodylek.kt021	Partie_Krokodylka.kt021
+;------------------------------------------------------------------------------------------------
+*include 20130801-Kroko1\kroko1.svx				;Kroko 1
+*equate Partie_Krokodylka.kt036	Kroko1.kt036
+;------------------------------------------------------------------------------------------------
+*include 20130802-Kroko2\kroko2.svx				;Kroko 2
+*equate Kroko1.kt066	Kroko2.kt066
+*equate Amazonka.am004	Kroko2.am004
+;------------------------------------------------------------------------------------------------
+*include 20130802-Kroko3\kroko3.svx				;Kroko 2
+*equate Kroko1.kt053	Kroko3.kt053
+*equate Kroko1.kt060_02	Kroko3.kt060_02
+;------------------------------------------------------------------------------------------------
+*include 20110803-Gang_Bialych_Kamieni-domiary1\GABAKD1.svx		;Gang Białych Kamieni domiary 1
+*equate Re.ws028	Gang_Bialych_Kamieni-domiary1.ws028
+;------------------------------------------------------------------------------------------------
+*include 20110806-Gang_Bialych_Kamieni-domiary2\GBIKAD2.svx		;Gang Białych Kamieni domiary 2
+*equate Re.ws015_01	Gang_Bialych_Kamieni-domiary2.ws015_01
+*equate Re.ws015	Gang_Bialych_Kamieni-domiary2.ws015
+*equate Re.ws015_10	Gang_Bialych_Kamieni-domiary2.ws015_10
+;------------------------------------------------------------------------------------------------
+*include 20110811-Gang_Bialych_Kamieni-domiary3_remake\GBKD3R.svx	;Gang Białych Kamieni domiary 3 remake
+*equate Re.ws008	Gang_Bialych_Kamieni-domiary3_remake.ws008
+;------------------------------------------------------------------------------------------------
+*include 20090820-Gang_Bialych_Kamieni1\GABIK1.svx		;Gang Białych Kamieni 1
+*equate Re2.ws034	Gang_Bialych_Kamieni1.ws034
+;------------------------------------------------------------------------------------------------
+*include 20100804-Gang_Bialych_Kamieni2\GABIK2.svx		;Gang Białych Kamieni 2
+*equate Re2.ws039	Gang_Bialych_Kamieni2.ws039
+;*include 20100804-Gang_Bialych_Kamieni2\GABIK2\ciekawa-zab2.svx	;oryginalne pomiary dla ciągu "Gang Białych Kamieni 2"
+;*equate Re2.ws039	ciekawa-zab2.1_5			;oryginalne pomiary dla ciągu "Gang Białych Kamieni 2"
+;------------------------------------------------------------------------------------------------
+*include 20110731-Gang_Bialych_Kamieni3\GABKA3.svx		;Gang Białych Kamieni 3
+*equate Re2.ws038	Gang_Bialych_Kamieni3.ws038
+;------------------------------------------------------------------------------------------------
+*include 20110808-Gang_Bialych_Kamieni4_remake\GBK4RE.svx		;Gang Białych Kamieni 4 remake
+*equate Re2.ws040	Gang_Bialych_Kamieni4_remake.ws040
+;------------------------------------------------------------------------------------------------
+*include 20110808-Gang_Bialych_Kamieni5\GBK5.svx		;Gang Białych Kamieni 5
+*equate Gang_Bialych_Kamieni4_remake.ws111	Gang_Bialych_Kamieni5.ws111
+;------------------------------------------------------------------------------------------------
+*include 20110801-Domiary_do_poligonu\495DDP.svx		;Domiary do poligonu
+*equate Gang_Bialych_Kamieni4_remake.ws045	Domiary_do_poligonu.ws045
+*equate Gang_Bialych_Kamieni4_remake.ws047_02	Domiary_do_poligonu.ws047_02
+*equate Gang_Bialych_Kamieni4_remake.ws048	Domiary_do_poligonu.ws048
+*equate Gang_Bialych_Kamieni4_remake.ws055	Domiary_do_poligonu.ws055
+*equate Gang_Bialych_Kamieni4_remake.ws059	Domiary_do_poligonu.ws059
+*equate Gang_Bialych_Kamieni4_remake.ws061	Domiary_do_poligonu.ws061
+*equate Gang_Bialych_Kamieni4_remake.ws065	Domiary_do_poligonu.ws065
+*equate Gang_Bialych_Kamieni4_remake.ws071	Domiary_do_poligonu.ws071
+*equate Gang_Bialych_Kamieni4_remake.ws073	Domiary_do_poligonu.ws073
+*equate Gang_Bialych_Kamieni4_remake.ws081	Domiary_do_poligonu.ws081
+*equate Gang_Bialych_Kamieni4_remake.ws090_01	Domiary_do_poligonu.ws090_01
+*equate Gang_Bialych_Kamieni4_remake.ws092	Domiary_do_poligonu.ws092
+*equate Gang_Bialych_Kamieni4_remake.ws096	Domiary_do_poligonu.ws096
+*equate Gang_Bialych_Kamieni4_remake.ws099_01	Domiary_do_poligonu.ws099_01
+*equate Gang_Bialych_Kamieni5.ws112_01	Domiary_do_poligonu.ws112_01
+*equate Gang_Bialych_Kamieni5.ws117		Domiary_do_poligonu.ws117
+*equate Gang_Bialych_Kamieni5.ws121		Domiary_do_poligonu.ws121
+;------------------------------------------------------------------------------------------------
+*include 20110806-Studnia_pod_Wiszaca_Polka\STPWIP.svx		;Studnia pod Wiszącą Półką
+*equate Re2.hv002	Studnia_pod_Wiszaca_Polka.hv002
+;------------------------------------------------------------------------------------------------
+*include 20120801-Boczny_komin_w_partiach_Optymistycznych\120731BK.svx	;Boczny komin w partiach Optymistycznych
+*equate Gang_Bialych_Kamieni4_remake.ws062	Boczny_komin_w_partiach_Optymistycznych.ws062
+;------------------------------------------------------------------------------------------------
+*include 20120801-Gang_Kutasow\120802GK.svx			;Gang Kutasów
+*equate Gang_Bialych_Kamieni4_remake.ws079	Gang_Kutasow.ws079
+;------------------------------------------------------------------------------------------------
+*include 20120803-Ciek_pod_wisz_polka\120803WI.svx		;Ciek pod wisz półką
+*equate Studnia_pod_Wiszaca_Polka.hv011	Ciek_pod_wisz_polka.hv011
+;------------------------------------------------------------------------------------------------
+*include 20120806-Partie_Gastryczne\120806PG.svx		;Partie Gastryczne
+*equate Gang_Kutasow.zg013	Partie_Gastryczne.zg013
+*equate Gang_Kutasow.zg033	Partie_Gastryczne.zg033
+;------------------------------------------------------------------------------------------------
+*include 20120807-Partie_Gastryczne-Okna\120807GO.svx		;Partie Gastryczne - Okna
+*equate Partie_Gastryczne.zg013	Partie_Gastryczne-Okna.zg013
+*equate Partie_Gastryczne.gh024_01	Partie_Gastryczne-Okna.gh024_01
+*equate Partie_Gastryczne.gh025	Partie_Gastryczne-Okna.gh025
+*equate Partie_Gastryczne.gh69_05	Partie_Gastryczne-Okna.gh69_05
+;------------------------------------------------------------------------------------------------
+*include 20120807-Partie_Baltazara_Gabki\120807BZ.svx		;Partie Baltazara Gabki
+*equate Gang_Kutasow.zg058	Partie_Baltazara_Gabki.zg058
+;------------------------------------------------------------------------------------------------
+*include 20120807-Pochylnie_bez_pradu\120807PP.svx		;Pochylnie bez pradu
+*equate Partie_Gastryczne.gh003	Pochylnie_bez_pradu.gh003
+*equate Gang_Kutasow.zg058	Pochylnie_bez_pradu.zg058
+;------------------------------------------------------------------------------------------------
+*include 20120812-Partie_Gastryczne-Meander_w_oknie\120812PM.svx	;Partie Gastryczne - Meander w oknie
+*equate Partie_Gastryczne.gh053	Partie_Gastryczne-Meander_w_oknie.gh053
+;------------------------------------------------------------------------------------------------
+*include 20120813-Wspin_nad_Biala_Salka\120813BS.svx		;Wspin nad Białą Salką
+*equate Ciek_pod_wisz_polka.hv023	Wspin_nad_Biala_Salka.hv023
+;------------------------------------------------------------------------------------------------
+*include 20121007-Partie_Powrotu\121007PP.svx			;Partie Powrotu
+*equate Gang_Bialych_Kamieni4_remake.ws071	Partie_Powrotu.ws071
+;------------------------------------------------------------------------------------------------
+*include 20130729-SMN\erm.svx				;SMN
+*equate Gang_Bialych_Kamieni4_remake.ws073	SMN.ws073
+*equate Ciek_pod_wisz_polka.hv033	SMN.hv033			;Przed zamknięciem pętli błąd wymosił 10m!
+;------------------------------------------------------------------------------------------------
+*include 20130730-Partie_Powrotu2\erm2.svx			;Partie Powrotu 2
+*equate Partie_Powrotu.rh012	Partie_Powrotu2.rh012
+*equate Partie_Powrotu.rh013	Partie_Powrotu2.rh013
+*equate SMN.sm010	Partie_Powrotu2.sm010			;Przy podłączeniu Partii_Powrotu2 do SMN.sm011 jest mniejszy błąd nż dla SMN.sm010!
+;------------------------------------------------------------------------------------------------
+*include 20130731-Partie_pod_studnia_na_zakrecie\130731JK.svx	;Partie pod studnią na zakręcie
+*equate Partie_Powrotu2.rh024	Partie_pod_studnia_na_zakrecie.rh024
+;------------------------------------------------------------------------------------------------
+*include 20130802-Kontynuacja_Baltazara\dom0208.svx		;Kontynuacja Baltazara
+*equate Partie_Baltazara_Gabki.bg031	Kontynuacja_Baltazara.bg031
+;------------------------------------------------------------------------------------------------
+*include 20130806-Tu_lis_ma_nore\130806er.svx			;Tu lis ma norę
+*equate Kontynuacja_Baltazara.bg068		Tu_lis_ma_nore.bg068
+*equate Partie_Baltazara_Gabki.bg042	Tu_lis_ma_nore.bg042
+*equate Partie_Baltazara_Gabki.bg040	Tu_lis_ma_nore.bg040
+;------------------------------------------------------------------------------------------------
+*include 20130808-Partie_drzemiacego_smoka\130808RE.svx		;Partie drzemiącego smoka
+*equate SMN.sm024	Partie_drzemiacego_smoka.sm024
+;------------------------------------------------------------------------------------------------
+*include 20130808-Wspin_nad_Biala_Salka-Kontynuacja\130808KP.svx	;Wspin nad Białą Salką Kontynuacja
+*equate Wspin_nad_Biala_Salka.hv023_10	Wspin_nad_Biala_Salka-Kontynuacja.hv023_10
+;------------------------------------------------------------------------------------------------
+*include 20130810-3_Studnia_Optymistyczna\130810s3.svx		;Trzecia Studnia Optymistyczna
+*equate Gang_Bialych_Kamieni4_remake.ws096	3_Studnia_Optymistyczna.ws096
+;------------------------------------------------------------------------------------------------
+*include 20130813-Rura_freatyczna2\130813f2.svx			;Rura freatyczna 2
+*equate Rura_freatyczna.pr006	Rura_freatyczna2.pr006
+;------------------------------------------------------------------------------------------------
+*include 20130813-Studnia_RT\130813rt.svx			;Studnia RT
+*equate Poprawki.wm041i	Studnia_RT.wm041i
+;------------------------------------------------------------------------------------------------
+*include 20130816-Pietro_Kutasow\130816PK.svx			;Piętro Kutasów
+*equate Gang_Kutasow.zg027	Pietro_Kutasow.zg027
+*equate Gang_Kutasow.zg041	Pietro_Kutasow.zg041
+;------------------------------------------------------------------------------------------------
+*include 20130814-Zach_dom\130814jd.svx			;Meander Zachodni - domiary 2
+*equate Meander_Zachodni4.wm162_02 Zach_dom.wm162_02
+;------------------------------------------------------------------------------------------------
+*include 20140722-Gastryczne_dolny_meander\140722PD.svx		;Gastryczne dolny meander
+*equate Partie_Gastryczne-Meander_w_oknie.gh138	Gastryczne_dolny_meander.gh138
+;------------------------------------------------------------------------------------------------
+*include 20140722-Partie_Gastryczne_Przekop\140722PP.svx		;Partie Gastryczne Przekop
+*equate Partie_Gastryczne-Meander_w_oknie.gh127	Partie_Gastryczne_Przekop.gh127
+;------------------------------------------------------------------------------------------------
+*include 20140727-Gastryczne-Kontynuacja\140727KO.svx		;Gastryczne - Kontynuacja
+*equate Gastryczne_dolny_meander.gh166	Gastryczne-Kontynuacja.gh166
+;------------------------------------------------------------------------------------------------
+*include 20140728-Fantazja\140728FA.svx			;Fantazja
+*equate Dziki_Zachod2.wt101	Fantazja.wt101
+;------------------------------------------------------------------------------------------------
+*include 20140729-Boki_Trawers\140729BT.svx			;Boki Trawers
+*equate Meander_Zachodni4.wm172	Boki_Trawers.wm172
+;------------------------------------------------------------------------------------------------
+*include 20140730-Kolorowe_skaly-bok1\140730K1.svx		;Kolorowe skały - bok1
+*equate Gang_Bialych_Kamieni4_remake.ws104	Kolorowe_skaly-bok1.ws104
+;------------------------------------------------------------------------------------------------
+*include 20140730-Kolorowe_skaly-bok2\140730K2.svx		;Kolorowe skały - bok2
+*equate Gang_Bialych_Kamieni4_remake.ws104	Kolorowe_skaly-bok2.ws104
+;------------------------------------------------------------------------------------------------
+*include 20140731-Kaskady_Viktorii\140731KV.svx			;Kaskady Viktorii
+*equate Gastryczne_dolny_meander.gh165	Kaskady_Viktorii.gh165
+;------------------------------------------------------------------------------------------------
+*include 20140802-Baltazar_Petla\140802ga.svx			;Baltazar Petla
+*equate Gang_Kutasow.zg059	Baltazar_Petla.zg059
+*equate Gang_Kutasow.zg060	Baltazar_Petla.zg060
+*equate Partie_Baltazara_Gabki.bg043	Baltazar_Petla.bg043
+;------------------------------------------------------------------------------------------------
+*include 20140802-Domiary_do_Pochylnie_bez_Pradu\140802tk.svx	;Domiary do Pochylnie bez Pradu
+*equate Pochylnie_bez_pradu.rs008	Domiary_do_Pochylnie_bez_Pradu.rs008
+;------------------------------------------------------------------------------------------------
+*include 20140803-Czarna_Pochylnia\140803CZ.svx			;Czarna Pochylnia
+*equate Gastryczne_dolny_meander.gh140	Czarna_Pochylnia.gh140
+*equate Gastryczne_dolny_meander.gh148_2	Czarna_Pochylnia.gh148_2
+;------------------------------------------------------------------------------------------------
+*include 20140803-Fantazja2\140803f2.svx			;Fantazja 2
+*equate Fantazja.wt112	Fantazja2.wt112
+;------------------------------------------------------------------------------------------------
+*include 20140803-Obejscie_60\140803ob.svx			;Obejście 60-ki
+*equate Zachodni-polnoc_kontynuacja.wt069	Obejscie_60.wt069
+;------------------------------------------------------------------------------------------------
+*include 20140803-Woda_w_Meandrze\140803wm.svx			;Woda w Meandrze
+*equate Gastryczne_dolny_meander.gh142	Woda_w_Meandrze.gh142
+;------------------------------------------------------------------------------------------------
+*include 20140805-Kaskady_Viktorii2\140805V2.svx		;Kaskady Viktorii 2
+*equate Kaskady_Viktorii.kv010	Kaskady_Viktorii2.kv010
+;------------------------------------------------------------------------------------------------
+*include 20140806-Kaskady_Viktorii3\140806V3.svx		;Kaskady Viktorii 3
+*equate Kaskady_Viktorii2.kv023	Kaskady_Viktorii3.kv023
+;------------------------------------------------------------------------------------------------
+*include 20140807-Partie_gastryczne-meanderek\140807GM.svx		;Partie gastryczne - meanderek
+*equate Gastryczne_dolny_meander.gh163	Partie_gastryczne-meanderek.gh163
+;------------------------------------------------------------------------------------------------
+*include 20140808-Jeziorko\140808JE.svx			;Jeziorko
+*equate Kaskady_Viktorii3.kv0110	Jeziorko.kv0110
+;------------------------------------------------------------------------------------------------
+*include 20140808-Meander_odbytniczy\140808MO.svx		;Meander_odbytniczy
+*equate Fantazja2.wt165	Meander_odbytniczy.wt165
+;------------------------------------------------------------------------------------------------
+*include 20140808-Re2\140808r2.svx				;Re2
+*equate Re.ws029	Re2.ws029
+;------------------------------------------------------------------------------------------------
+*include 20140810-niegryzie\NIEGRYZ.svx			;niegryzie
+*equate Fantazja2.wt119	Niegryzie.wt119
+;;------------------------------------------------------------------------------------------------
+;;*include 20140810-Re3\140810R3.svx				;UWAGA - nie podłączony
+;;*equate Meander3.hg081	Re3.hg081				;UWAGA - nie podłączony
+;;------------------------------------------------------------------------------------------------
+*include 20140811-Obejscie_do_Nikad\140811ON.svx		;Obejście do Nikąd
+*equate Obejscie_60.ob004	Obejscie_do_Nikad.ob004
+*equate Obejscie_60.ob009	Obejscie_do_Nikad.ob009
+*equate Obejscie_60.ob012	Obejscie_do_Nikad.ob012
+*equate Obejscie_60.ob018	Obejscie_do_Nikad.ob018
+;------------------------------------------------------------------------------------------------
+*include 20140812-Brzytwa2\140812B2.svx			;Brzytwa 2
+*equate Boki_Trawers.wm172_20	Brzytwa2.wm172_20
+;------------------------------------------------------------------------------------------------
+*include 20140812-st\140812ST.svx				;st
+*equate Meander_Zachodni4.wm199	st.wm199
+;------------------------------------------------------------------------------------------------
+*include 20140813-Kaskady_Lafiryndy\140813KL.svx		;Kaskady Lafiryndy
+*equate Jeziorko.kv0149	Kaskady_Lafiryndy.kv0149
+;------------------------------------------------------------------------------------------------
+*include 20140813-Meander_pogadajmy_o_kobietach\140813K.svx		;Meander pogadajmy o kobietach
+*equate Jeziorko.kv0201	Meander_pogadajmy_o_kobietach.kv0201
+;------------------------------------------------------------------------------------------------
+*include 20140814-Gabki-Studnia_z_meandrem\140813GK.svx		;Gąbki - Studnia z meandrem
+*equate Partie_Baltazara_Gabki.bg018	Gabki-Studnia_z_meandrem.bg018
+*equate Partie_Baltazara_Gabki.bg037	Gabki-Studnia_z_meandrem.bg037
+;------------------------------------------------------------------------------------------------
+*include 20150722-Partie_za_wschodnim_biwakiem\150722E1.svx		;Partie za wschodnim biwakiem
+*equate Meander_pogadajmy_o_kobietach.kv0224	Partie_za_wschodnim_biwakiem.1_0
+;------------------------------------------------------------------------------------------------
+*include 20150728-Meander_za_Morzem_Guinessa\150728G1.svx		;Meander za Morzem Guinessa
+*equate Meander_pogadajmy_o_kobietach.kv0206	Meander_za_Morzem_Guinessa.1_2
+;------------------------------------------------------------------------------------------------
+*include 20150801-Gabki_za_biwakiem1\150801AT.svx		;Gąbki za biwakiem 1
+*equate Partie_za_wschodnim_biwakiem.1_6	Gabki_za_biwakiem1.1_0
+*equate Partie_za_wschodnim_biwakiem.1_9	Gabki_za_biwakiem1.1_16
+;------------------------------------------------------------------------------------------------
+*include 20150801-Gabki_za_biwakiem2\150801z2.svx		;Gąbki za biwakiem 2
+*equate Gabki_za_biwakiem1.1_5	Gabki_za_biwakiem2.1_0
+*equate Meander_za_Morzem_Guinessa.1_29	Gabki_za_biwakiem2.1_15
+;------------------------------------------------------------------------------------------------
+*include 20150801-Gabki_za_biwakiem3\150801z3.svx		;Gąbki za biwakiem 3
+*equate Gabki_za_biwakiem1.1_1	Gabki_za_biwakiem3.1_0
+;------------------------------------------------------------------------------------------------
+*include 20150801-Gabki_za_biwakiem4\150801z4.svx		;Gąbki za biwakiem 4
+*equate Partie_za_wschodnim_biwakiem.1_9	Gabki_za_biwakiem4.1_0
+*equate Partie_za_wschodnim_biwakiem.1_11	Gabki_za_biwakiem4.1_15
+;------------------------------------------------------------------------------------------------
+*include 20150802-Partie_za_przekopem\150802zp.svx		;Partie za przekopem
+*equate Gastryczne-Kontynuacja.gh183	Partie_za_przekopem.gh183
+;------------------------------------------------------------------------------------------------
+*include 20150804-Piekny_Meander\150804po.svx			;Piękny Meander
+*equate Meander_za_Morzem_Guinessa.1_77	Piekny_Meander.1_1
+;------------------------------------------------------------------------------------------------
+*include 20150805-Drugi_syfon\150805ds.svx			;Drugi syfon
+*equate Meander_za_Morzem_Guinessa.1_106	Drugi_syfon.1_0
+*equate Meander_za_Morzem_Guinessa.1_107	Drugi_syfon.1_1
+*equate Meander_za_Morzem_Guinessa.1_105	Drugi_syfon.1_18
+;------------------------------------------------------------------------------------------------
+*include 20150805-Meander_Malina\150805ma.svx			;Meander Malina
+*equate Partie_za_przekopem.gh229	Meander_Malina.gh229
+;------------------------------------------------------------------------------------------------
+*include 20150805-Rury\150805ru.svx				;Rury
+*equate Meander_za_Morzem_Guinessa.1_100	Rury.1_1
+*equate Meander_za_Morzem_Guinessa.1_92	Rury.1_9
+*equate Meander_za_Morzem_Guinessa.1_93	Rury.1_10
+*equate Meander_za_Morzem_Guinessa.1_77	Rury.1_19
+;------------------------------------------------------------------------------------------------
+*include 20150806-Syfon_Dziewicy\150806dz.svx			;Syfon Dziewicy
+*equate Kaskady_Lafiryndy.kv0153	Syfon_Dziewicy.1_20
+;------------------------------------------------------------------------------------------------
+*include 20150806-Wielka_Sala\150806sa.svx			;Wielka Sala
+*equate Kaskady_Lafiryndy.kv0150	Wielka_Sala.1_2
+;------------------------------------------------------------------------------------------------
+*include 20150806-Wspinanie_w_meandrze\150806ws.svx		;Wspinanie w meandrze
+*equate Meander_Malina.gh251	Wspinanie_w_meandrze.gh251
+;------------------------------------------------------------------------------------------------
+*include 20150811-Kreta_Galeria\150811ma.svx			;Kręta Galeria
+*equate Wspinanie_w_meandrze.gh267	Kreta_Galeria.1_2
+;------------------------------------------------------------------------------------------------
+*include 20150812-Nie_chce_mi_sie\150812dw.svx			;Nie chcę mi się
+*equate Jeziorko.kv0119		Nie_chce_mi_sie.1_1
+*equate Jeziorko.kv0118		Nie_chce_mi_sie.1_2
+*equate Jeziorko.kv0140		Nie_chce_mi_sie.1_51
+*equate Jeziorko.kv0149		Nie_chce_mi_sie.1_45
+;------------------------------------------------------------------------------------------------
+*include 20150813-Splatany_Meander\150813ok.svx			;Splątany Meander
+*equate Kreta_Galeria.1_22		Splatany_Meander.0_0
+;------------------------------------------------------------------------------------------------
+*include 20160720-Na_raty\RKM07-20.svx			;Na Raty
+*equate Partie_za_wschodnim_biwakiem.1_25	Na_raty.1_22
+;------------------------------------------------------------------------------------------------
+*include 20160720-Na_raty2\RKM2.svx				;Na Raty 2
+*equate Na_raty.1_0			Na_raty2.1_0
+*equate Meander_za_Morzem_Guinessa.1_67	Na_raty2.1_3
+;------------------------------------------------------------------------------------------------
+*include 20160725-Studnia_Jednej_Nocy\160725JN.svx		;Studnia Jednej Nocy
+*equate Splatany_Meander.14_0	Studnia_Jednej_Nocy.1_2
+*equate Splatany_Meander.12_0	Studnia_Jednej_Nocy.1_53
+;------------------------------------------------------------------------------------------------
+*include 20160726-Nowa_Jaskinia\160726NJ.svx			;Nowa Jaskinia
+*equate Splatany_Meander.39_0	Nowa_Jaskinia.1_3
+;------------------------------------------------------------------------------------------------
+*include 20160728-Meander_Kaszuba\MKaszuba.svx			;Meander Kaszuba
+*equate Nowa_Jaskinia.1_17	Meander_Kaszuba.1_37
+;------------------------------------------------------------------------------------------------
+*include 20160802-Za_Owsikami\160802ZO.svx			;Za Owsikami
+*equate Meander_odbytniczy.wt192	Za_Owsikami.wt192
+;------------------------------------------------------------------------------------------------
+*include 20160808-Bok1\bok1.svx				;Bok 1
+*equate Meander_Zachodni5.wm265_01	Bok1.1_9
+;------------------------------------------------------------------------------------------------
+*include 20160804-Odnoga\160804od.svx			;Bok 1
+*equate Nowa_Jaskinia.1_11	Odnoga.0
+;------------------------------------------------------------------------------------------------
+*include 20160810-Bez_karty\160810bk.svx			;Bez karty
+*equate Meander_Kaszuba.1_7	Bez_karty.1_3
+;------------------------------------------------------------------------------------------------
+*include 20160809-Bok2\boki2.svx				;Bok 2
+*equate Meander_Zachodni6.wm275	Bok2.1_2				; podejrzanie duży błąd - 4.51m na dość krótkiej pętli (w tym błąd pionowy 3.44m - raczej rzadko się zdarza)
+*equate Meander_Zachodni5.wm261	Bok2.1_51				; podejrzanie duży błąd - 4.51m na dość krótkiej pętli (w tym błąd pionowy 3.44m - raczej rzadko się zdarza)
+;------------------------------------------------------------------------------------------------
+*include 20170726-Polaczenie\170726mk.svx			;Polaczenie
+*equate Bez_karty.1_23		Polaczenie.1_0
+*equate Meander_Kaszuba.1_0	Polaczenie.1_6
+;------------------------------------------------------------------------------------------------
+*include 20170726-Meander_Stropowy1\170726ME.svx		;Meander Stropowy 1
+*equate Bez_karty.1_26		Meander_Stropowy1.1_5
+;------------------------------------------------------------------------------------------------
+*include 20170730-Meander_Stropowy2\170730ME.svx		;Meander Stropowy 2
+*equate Meander_Stropowy1.1_16	Meander_Stropowy2.1_3
+;------------------------------------------------------------------------------------------------
+*include 20170804-Meander_Stropowy3\170804KM.svx		;Meander ZStropowy 3
+*equate Meander_Stropowy2.1_27	Meander_Stropowy3.1_2
+;------------------------------------------------------------------------------------------------
+*include 20170808-Meander_Stropowy4\podstrop.svx		;Meander Stropowy 4
+*equate Meander_Stropowy3.1_15	Meander_Stropowy4.1_2
+;------------------------------------------------------------------------------------------------
+*include 20170809-Gorne_pietro_meandra_kaszuba\kaszubgo.svx		;Górne piętro meandra kaszuba
+*equate Nowa_Jaskinia.1_22	Gorne_pietro_meandra_kaszuba.1_2
+;------------------------------------------------------------------------------------------------
+;*include 20170809-Meander_Chorych_Snow\choresny.svx		;Meander Chorych Snów (ponownie zmierzony + nowe odkrycia w sesji "Meander Chorych Snów - Remake")
+;*equate Nowa_Jaskinia.1_17	Meander_Chorych_Snow.1_1
+;------------------------------------------------------------------------------------------------
+*include 20170811-Boczna_odnoga\dta.svx			;Boczna odnoga
+*equate Gang_Bialych_Kamieni4_remake.ws086	Boczna_odnoga.1_0
+;------------------------------------------------------------------------------------------------
+*include 20170812-ToNieTu\olw.svx				;ToNieTu
+*equate Meander_Zachodni1_Dolne_C.wm020_01	ToNieTu.1_0
+*equate Gangi1.wm036_02			ToNieTu.1_25
+;------------------------------------------------------------------------------------------------
+*include 20170815-Zapomniany_korytarz\170815zk.svx		;Zapomniany korytarz
+*equate Studnia_Jednej_Nocy.1_8	Zapomniany_korytarz.1_8
+*equate Studnia_Jednej_Nocy.1_2	Zapomniany_korytarz.g1_2
+;------------------------------------------------------------------------------------------------
+*include 20180726-Meander_Stropowy5\180726MS.svx		;Meander Stropowy 5
+*equate Meander_Stropowy4.1_24	Meander_Stropowy5.1_1
+;------------------------------------------------------------------------------------------------
+*include 20180728-Na_Dwa_Razy\180728N2.svx			;Meander Na Dwa Razy
+*equate Zapomniany_korytarz.1_47	Na_Dwa_Razy.1_2
+*equate Zapomniany_korytarz.1_44	Na_Dwa_Razy.1_8
+;------------------------------------------------------------------------------------------------
+*include 20180729-Meander_Razy_Kilka\180729RK.svx		;Meander Razy Kilka
+*equate Zapomniany_korytarz.1_54	Meander_Razy_Kilka.1_2
+;------------------------------------------------------------------------------------------------
+*include 20180801-Meander_Stropowy6\180801KA.svx		;Meander Stropowy 6
+*equate Meander_Stropowy5.1_20	Meander_Stropowy6.1_1
+;------------------------------------------------------------------------------------------------
+*include 20180807-Urodziny\urodziny.svx			;Urodziny
+*equate Meander_Razy_Kilka.1_6	Urodziny.1
+;------------------------------------------------------------------------------------------------
+*include 20180812-Urodziny2\180812me.svx			;Urodziny 2
+*equate Urodziny.14	Urodziny2.1
+;------------------------------------------------------------------------------------------------
+*include 20190724-Meander_pod_jednej_nocy\190724KT.svx		;Meander pod jednej nocy
+*equate Urodziny2.15	Meander_pod_jednej_nocy.1_0
+;------------------------------------------------------------------------------------------------
+*include 20190730-Pod_wodospad\190730PW.svx			;Pod wodospad
+*equate Meander_Zachodni2.wm082	Pod_wodospad.1_13
+;------------------------------------------------------------------------------------------------
+*include 20190731-Gangbang\190731GB.svx			;Gangbang
+*equate Poprawki.wm051		Gangbang.1_32
+;------------------------------------------------------------------------------------------------
+*include 20190731-Podwojny_meander\190731KK.svx			;Podwójny meander
+*equate Meander_pod_jednej_nocy.1_19	Podwojny_meander.1_0
+;------------------------------------------------------------------------------------------------
+*include 20190731-Sala_przed_sala_z_wodospadem\190731PW.svx		;Sala przed salą z wodospadem
+*equate Meander_Zachodni2.wm076_01	Sala_przed_sala_z_wodospadem.1_1
+;------------------------------------------------------------------------------------------------
+*include 20190801-Nie_mam_pojecia\190801np.svx			;Nie mam pojęcia
+*equate Meander_Zachodni3.wm106	Nie_mam_pojecia.1_2
+*equate Meander_Zachodni3.wm125	Nie_mam_pojecia.1_18
+;------------------------------------------------------------------------------------------------
+*include 20190806-RuraPomiedzySZWiSZB\190806MP.svx		;Nie mam pojęcia
+*equate Meander_Zachodni3.wm129	RuraPomiedzySZWiSZB.1_1
+;------------------------------------------------------------------------------------------------
+*include 20190809-obejscieijt\1989ijt.svx			;obejscieijt
+*equate Meander_Zachodni1_Dolne_C.wm012	obejscieijt.1_4
+*equate Meander_Zachodni1_Dolne_C.wm019	obejscieijt.1_17
+;------------------------------------------------------------------------------------------------
+*include 20190810-bezimienna\190810dz.svx			;bezimienna (dziurka)
+*equate Meander_Zachodni3.wm127	bezimienna.1_3
+;------------------------------------------------------------------------------------------------
+*include 20190810-Komin_o_glupiej_nazwie\ijt19081.svx		;Komin o głupiej nazwie
+*equate Meander_Zachodni3.wm151	Komin_o_glupiej_nazwie.1_1
+;------------------------------------------------------------------------------------------------
+;*include 20190810-obwodoijt\19810.svx			;obwodoijt
+; Mimo opisu nie wiadomo, gdzie należy podłączyć te pomiary
+;------------------------------------------------------------------------------------------------
+*include 20190810-popierdolka\190810__.svx			;Popierdółka
+*equate Meander_Zachodni3.wm125	popierdolka.1_3
+;------------------------------------------------------------------------------------------------
+*include 20200728-RP\200728RP.svx				;RP
+*equate Podwojny_meander.1_20	RP.1_0
+;*include 1908____\lost.svx
+;*equate Podwojny_meander.1_20	1908lost.1_0
+;------------------------------------------------------------------------------------------------
+*include 20200728-WF\200728WF.svx				;WF (towaterfall)
+*equate RP.1_21		WF.1_0
+*equate Piekny_Meander.1_6	WF.1_17
+;------------------------------------------------------------------------------------------------
+*include 20200730-OB\jt3007.svx				;OB (obpodstrop)
+*equate Meander_Zachodni1_Dolne_C.wm020	OB.1_1
+*equate Poprawki.wm039			OB.1_11
+;------------------------------------------------------------------------------------------------
+*include 20200731-JT\3107jt.svx				;OB (obpodstrop)
+*equate Meander_Zachodni2.wm081	JT.1_2
+;------------------------------------------------------------------------------------------------
+*include 20200731-NA\3107nac.svx				;NA (naciek)
+*equate Meander_Zachodni3.wm138	NA.1_2
+;------------------------------------------------------------------------------------------------
+*include 20200731-Nad_kolankiem\3107nadk.svx			;Nad kolankiem
+*equate Boki_Trawers.wm172_14	Nad_kolankiem.1_7
+;------------------------------------------------------------------------------------------------
+*include 20200806-Syfon_2_Kul\Syf2Kul.svx			;Syfon Dwóch Kul
+*equate Urodziny.12	Syfon_2_Kul.1_3
+;------------------------------------------------------------------------------------------------
+*include 20200809-Pod_studnia_z_mlotkiem\pod.svx		;Pod studnią z młotkiem
+*equate Meander1.hg002	Pod_studnia_z_mlotkiem.1_1
+;------------------------------------------------------------------------------------------------
+*include 20200811-Studnia_pod_mlotkiem\stpodm.svx		;Studnia pod młotkiem
+*equate Pod_studnia_z_mlotkiem.1_7	Studnia_pod_mlotkiem.0
+;------------------------------------------------------------------------------------------------
+*include 20210726-Meander_Stropowy7\21strop1.svx		;Meander Stropowy 7
+*equate Meander_Stropowy6.1_22	Meander_Stropowy7.1_2
+;------------------------------------------------------------------------------------------------
+*include 20210731-Meander_Stropowy8\21strop2.svx		;Meander Stropowy 8
+*equate Meander_Stropowy7.1_12	Meander_Stropowy8.1_0
+;------------------------------------------------------------------------------------------------
+*include 20210731-Powrot_do_Baltazara_Gabki\21BaltGa.svx		;Powrót do Baltazara Gąbki
+*equate Gabki-Studnia_z_meandrem.mc008	Powrot_do_Baltazara_Gabki.1_3
+*equate Partie_Baltazara_Gabki.bg038	Powrot_do_Baltazara_Gabki.1_11
+;------------------------------------------------------------------------------------------------
+*include 20210804-Meander_Stropowy9\21strop3.svx		;Meander Stropowy 9
+*equate Meander_Stropowy8.1_8	Meander_Stropowy9.1_22
+;------------------------------------------------------------------------------------------------
+*include 20210806-Partie_z_mlotkiem\mlotek2.svx			;Partie z młotkiem
+*equate Studnia_pod_mlotkiem.1_6	Partie_z_mlotkiem.2
+;------------------------------------------------------------------------------------------------
+*include 20210806-Zimny_Meander1\zimnyMN.svx			;Zimny Meander 1
+*equate Meander_Zachodni4.wm176	Zimny_Meander1.2
+;------------------------------------------------------------------------------------------------
+*include 20210809-Zimny_Meander2\zimnyMN2.svx			;Zimny Meander 2
+*equate Zimny_Meander1.22	Zimny_Meander2.22
+;------------------------------------------------------------------------------------------------
+*include 20220726-Meander_Chorych_Snow_Remake\CHORESN2.svx		;Meander Chorych Snów - Remake
+*equate Nowa_Jaskinia.1_18	Meander_Chorych_Snow_Remake.1_0
+;------------------------------------------------------------------------------------------------
+*include 20220726-Zimny_Meander3\zimnyMN3.svx			;Zimny Meander 3
+*equate Zimny_Meander2.51	Zimny_Meander3.2
+;------------------------------------------------------------------------------------------------
+*include 20220730-Zachodnie_gowno1\zachgow1.svx			;Zachodnie gówno 1
+*equate Meander_Zachodni7.w28713_3	Zachodnie_gowno1.1_17
+;------------------------------------------------------------------------------------------------
+*include 20220731-Ciagi_z_Blotnym_Bajorem\BlBajoro.svx		;Ciagi z błotnym bajorem
+*equate Meander_Zachodni6.wm277_1	Ciagi_z_Blotnym_Bajorem.1_3
+*equate Zachodni-meanderek.wt055	Ciagi_z_Blotnym_Bajorem.1_39
+;------------------------------------------------------------------------------------------------
+*include 20220731-Nowa_Nadzieja\NowNadzi.svx			;Nowa Nadzieja
+*equate Ciagi_z_Blotnym_Bajorem.1_31	Nowa_Nadzieja.1_5
+;------------------------------------------------------------------------------------------------
+*include 20220803-Studnia_Zombie\StZombie.svx			;Studnia Zombie
+*equate Splatany_Meander.31_0	Studnia_Zombie.2
+;------------------------------------------------------------------------------------------------
+*include 20220808-Zimny_Meander4\zimnyMN4.svx			;Zimny Meander 4
+*equate Zimny_Meander3.20_18	Zimny_Meander4.3
+;------------------------------------------------------------------------------------------------
+*include 20220811-Studnia_Zombie2\StZombi2.svx			;Studnia Zombie - kontynuacja
+*equate Studnia_Zombie.15	Studnia_Zombie2.10
+;------------------------------------------------------------------------------------------------
+*include 20230801-Za_kaszubskimi_jeziorami\ZaKaszuJ.svx		;Za kaszubskimi jeziorami
+*equate Nowa_Nadzieja.1_0	Za_kaszubskimi_jeziorami.1
+
+
+*end 495-Interessante

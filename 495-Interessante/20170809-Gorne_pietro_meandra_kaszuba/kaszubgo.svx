@@ -1,0 +1,76 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de ""
+;cavern part pl "Górne piętro meandra kaszuba"
+
+;file date 2024-03-14
+;file team "Karol Makowski"
+
+;source file: kaszubgo.srv
+*case preserve
+
+*begin Gorne_pietro_meandra_kaszuba
+;#PREFIX	GPKASZ01
+*title "Górne piętro meandra kaszuba"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 3.5 degrees
+
+*date 2017.08.09
+
+; Arek Kus (Palm + Spray), Marek Stawiasz (disto), Sławek Heteniak (przyśpiewki ludowe)
+*team Arkadiusz Kus (sketch PDA/PocketTopo, marking)
+*team Marek Stawiasz (DistoX1)
+*team Sławek Heteniak (przyśpiewki ludowe)
+
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+;MMNJ:1_22	1_2	0.0	0.0	0.0
+*flags duplicate
+1_0	1_1	12.17	76.29	-7.25
+1_1	1_2	5.39	330.77	22.45
+*flags not duplicate
+1_2	1_3	5.36	340.6	6.71
+1_3	1_4	4.56	338.61	51.47
+1_4	1_5	4.29	94.59	-47.24
+1_5	1_6	3.52	18.17	-25.1
+1_6	1_7	5.77	323.25	14.64
+1_2	..	9.91	52.08	80.06
+1_2	..	2.51	7.31	-89.1
+1_2	..	0.77	55.92	5.74
+1_3	..	3.14	221.57	86.12
+1_3	..	1.73	201.16	-87.8
+1_3	..	0.72	235.0	-5.02
+1_4	..	2.02	101.05	9.43
+1_4	..	3.25	61.37	6.22
+1_4	..	5.76	12.41	16.21
+1_4	..	0.83	236.92	13.3
+1_4	..	8.8	90.54	82.37
+1_4	..	2.14	134.49	-83.57
+1_5	..	6.34	338.22	55.96
+1_5	..	3.88	129.44	-82.0
+1_5	..	0.9	310.65	-28.38
+1_6	..	2.76	247.89	75.74
+1_6	..	8.81	234.39	-82.71
+1_6	..	0.59	255.07	-0.68
+1_7	..	5.71	89.4	73.58
+1_7	..	1.68	7.91	-86.28
+1_7	..	1.19	78.1	-8.21
+1_7	1_7_a	10.29	34.9	-49.08	;domiar
+1_7	..	7.77	45.82	-58.54
+*end Gorne_pietro_meandra_kaszuba

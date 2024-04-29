@@ -1,0 +1,108 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de ""
+;cavern part pl "Boczna odnoga"
+
+;file date 2024-03-14
+;file team "Karol Makowski"
+
+;source file: dta.srv
+*case preserve
+
+*begin Boczna_odnoga
+;#PREFIX	bokod
+*title "Boczna odnoga"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 3.5 degrees
+
+*date 2017.08.11
+
+;Dariusz Lubomski (Palm), Adam Wladzinski(Disto-X), Tomasz Olczak(spray)
+*team Dariusz Lubomski (sketch PDA/PocketTopo)
+*team Adam Władzinski (DistoX1)
+*team Tomasz Olczak (marking)
+
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+;:ws086	1_0	0.0	0.0	0.0
+1_0	1_1	6.59	128.81	-19.85
+1_1	1_2	2.19	156.36	-5.54
+1_2	1_3	1.97	114.42	13.96
+1_3	1_4	2.81	100.99	11.47
+1_4	1_5	3.81	129.39	14.35
+1_5	1_6	4.92	19.56	-10.89
+1_5	1_7	4.88	264.15	-9.99
+1_7	1_8	2.33	167.23	-6.84
+1_8	1_9	1.75	124.64	14.37
+1_9	1_10	1.95	236.89	12.52
+1_10	1_11	3.85	167.2	-10.43
+1_11	1_12	2.81	125.31	12.99
+1_12	1_13	2.01	183.13	-16.27
+1_13	1_14	3.37	135.04	-57.5
+1_1	..	0.86	25.76	0.67
+1_1	..	0.47	193.8	6.98
+1_1	..	0.39	62.93	82.62
+1_2	..	0.76	36.28	0.46
+1_2	..	0.27	137.29	-86.24
+1_3	..	0.82	206.07	-2.99
+1_3	..	0.21	239.04	-88.44
+1_3	..	0.22	310.24	-85.51
+1_3	..	0.22	339.44	-78.61
+1_4	..	0.95	230.85	6.83
+1_4	..	0.18	189.09	82.04
+1_4	..	0.39	255.0	-81.46
+1_5	..	2.03	51.29	24.09
+1_5	..	4.53	16.12	-9.67
+1_5	..	3.34	319.05	-16.23
+1_5	..	0.88	312.28	28.31
+1_5	..	4.93	263.05	-9.87
+1_6	..	0.93	92.87	15.48
+1_6	..	0.37	154.56	11.36
+1_7	..	0.84	16.57	8.05
+1_7	..	2.48	175.55	-1.27
+1_7	..	0.23	81.18	59.59
+1_7	..	0.23	74.05	-88.22
+1_8	..	0.52	274.96	0.33
+1_8	..	0.17	221.99	85.53
+1_8	..	0.5	44.35	-3.81
+1_9	..	1.49	262.5	-5.3
+1_9	..	0.41	184.47	61.66
+1_9	..	0.48	143.88	-84.58
+1_10	..	0.62	97.52	1.66
+1_10	..	0.34	100.52	78.11
+1_10	..	0.96	106.46	-87.26
+1_10	..	3.69	162.13	-37.79
+1_10	..	1.48	147.44	-61.42
+1_10	..	2.06	175.68	21.19
+1_11	..	0.39	263.71	2.19
+1_11	..	1.59	85.91	-1.55
+1_11	..	0.74	207.44	76.24
+1_11	..	1.21	117.02	-84.69
+1_12	..	1.57	255.5	4.01
+1_12	..	0.48	235.3	84.31
+1_12	..	0.76	292.88	-75.76
+1_13	..	0.99	237.01	-4.61
+1_13	..	0.76	60.63	6.61
+1_13	..	0.54	285.77	75.3
+1_13	..	4.81	125.01	-72.33
+1_14	..	1.4	328.07	-2.62
+1_14	..	0.93	227.35	-10.43
+1_14	..	1.18	68.24	0.15
+1_14	1_14_a	3.7	175.53	-65.17	;domiar
+*end Boczna_odnoga

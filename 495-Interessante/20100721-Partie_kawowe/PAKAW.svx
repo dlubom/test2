@@ -1,0 +1,78 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de "Kaffeepartien"
+;cavern part pl "Partie Kawowe"
+
+;file date 2024-03-04
+;file team "Karol Makowski"
+
+;source file: PAKAW.SRV
+*case preserve
+
+*begin Partie_kawowe
+*title "Partie Kawowe"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.5 degrees
+
+*date 2010.07.21
+
+;Radoslaw Paternoga, Adam Mioduszewski, Michal Humienik
+*team <name surename> (sketch <device/app>)
+*team <name surename> (DistoX1)
+*team <name surename> (marking)
+
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+hg066	kp001	2.68	47.63	-3.47
+kp001	kp002	1.85	282.61	-38.52
+kp002	kp003	5.73	231.78	-73.33
+kp003	kp004	5.41	101.44	-67.84
+kp004	kp005	6.42	325.48	-71.56
+kp005	kp006	10.36	280.87	-33.01
+kp006	kp007	2.27	32.46	-12.12
+kp007	kp008	5.79	311.94	-37.24
+kp008	kp009	2.73	64.23	-21.43
+kp009	kp010	6.27	288.03	-28.89
+kp010	kp011	5.9	351.34	-25.46
+kp011	kp012	5.43	300.33	-44.48
+kp012	kp012_01	3.18	250.05	-72.97
+kp012	kp013	3.16	17.43	32.35
+kp013	kp014	1.09	76.95	-25.38
+kp014	kp015	3.83	351.74	-17.33
+kp010	kp010_01	2.1	200.79	-40.23
+kp010_01	kp010_02	5.39	128.25	-0.95
+kp010_02	kp010_03	5.87	351.67	-29.24
+kp010_03	kp010_04	5.71	321.84	-41.15
+kp010_03	k10_03_1	3.7	213.34	-36.48
+k10_03_1	k10_03_2	4.47	221.02	4.48
+k10_03_2	k10_03_3	9.82	127.84	31.18
+kp005	kp005_a	5.99	58.15	42.56
+kp005_a	kp005_b	2.73	27.55	54.09
+kp005_b	kp005_c	2.78	64.97	-23.81
+kp005_c	kp005_d	5.53	31.18	15.43
+kp005	kp005_01	5.48	207.65	59.29
+kp005_01	kp005_02	4.81	145.13	-1.91
+kp005_02	kp005_03	1.62	92.92	-11.06
+kp005_03	kp005_04	5.59	136.82	28.95
+kp005_04	kp005_05	5.07	122.24	37.77
+kp005_05	kp005_06	8.42	156.76	40.73
+kp005_06	kp005_07	4.23	51.92	44.07
+kp005_07	kp005_08	3.22	106.02	1.61
+kp005_07	hg063	6.29	298.09	-10.23
+*end Partie_kawowe

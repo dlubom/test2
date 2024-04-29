@@ -1,0 +1,89 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de "Nördteile 4"
+;cavern part pl "Ciągi Północne 4"
+
+;file date 2024-03-03
+;file team "Karol Makowski"
+
+;source file: CIPL4.SRV
+*case preserve
+
+*begin Ciagi_Polnocne4
+*title "Ciągi Północne 4"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.5 degrees
+
+*date 2010.08.03
+
+;Maciej Dziurka, Karol Makowski, Szymon Matysiak
+*team <name surename> (sketch <device/app>)
+*team <name surename> (DistoX1)
+*team <name surename> (marking)
+
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+nt041	nt042	1.57	91.96	17.08
+nt042	nt043	4.72	332.75	75.75
+nt043	nt044	3.24	77.01	21.26
+nt044	nt044_01	6.29	290.46	-40.24	;w bok, domiar ?
+nt044	nt045	4.15	187.64	62.5
+nt045	nt046	1.96	75.44	6.4
+nt046	nt047	5.25	323.62	5.19
+nt047	nt047_01	12.6	218.23	37.02	;bok, domiar ?
+nt047	nt048	10.43	300.73	-21.54
+nt048	nt048_01	9.86	336.47	-27.0	;namulisko; domiar ?
+nt048	nt049	6.66	127.26	75.83
+nt049	nt050	5.22	347.68	44.26
+nt050	nt051	2.77	298.7	5.82
+nt051	nt052	7.05	252.05	-83.86
+nt052	nt052_01	5.94	303.98	-48.72	;bok, domiar ?
+nt052	nt053	8.87	240.91	52.37
+nt053	nt054	3.39	179.86	50.06
+nt054	nt055	10.49	315.69	43.8
+nt055	nt056	4.6	14.31	-0.53
+nt056	nt057	7.4	278.81	-7.63
+nt057	nt058	2.38	354.13	-62.12
+nt058	nt059	2.49	274.06	-8.86
+nt059	nt060	4.33	262.58	-27.64	;jest tez w dol meandra przez zawalisko.
+nt060	nt061	7.83	258.95	21.88	;sala z pytonem. w gore w prawo wieje i slychac powierzchnie - kopanie. wstecz w dol meandra - boczny ciag. na wprost meander zakreca w prawo i w gore, ku powierzchni.
+nt061	nt062	3.94	310.68	51.89
+nt062	nt063	4.05	258.95	-3.37
+nt063	nt064	2.18	297.13	-1.96	;wywiew gorny, waski korytarz w prawo I do gory.
+nt061	nt061_a	3.91	179.41	10.44
+nt061_a	nt061_b	6.61	255.24	69.6	;komin gora.
+nt061	nt061_01	2.67	109.18	-19.14
+nt061_01	nt061_02	20.89	95.53	-53.25
+nt061_02	n61_02_1	2.86	299.76	6.71
+n61_02_1	n61_02_2	3.86	233.93	22.8
+n61_02_2	n61_02_3	2.48	322.0	11.75
+n61_02_3	n61_02_4	2.61	227.63	-17.12
+n61_02_4	n61_02_5	2.46	177.36	-28.77
+n61_02_5	n61_02_6	5.75	253.58	-21.54
+n61_02_6	n61_02_7	5.84	18.92	69.11
+n61_02_7	n61_02_8	3.68	259.71	-1.85
+n61_02_8	n61_02_9	0.7	231.86	48.75
+n61_02_9	n61_2_10	3.41	327.15	54.4
+nt061_02	nt061_03	2.18	49.51	-54.03
+nt061_03	nt061_04	3.13	115.93	-13.54
+nt061_04	nt061_05	3.91	13.8	-6.9
+nt061_05	nt061_06	3.41	63.86	2.93
+nt061_06	nt061_07	3.65	135.92	-36.99
+nt061_07	nt061_08	3.05	127.89	-4.48
+*end Ciagi_Polnocne4

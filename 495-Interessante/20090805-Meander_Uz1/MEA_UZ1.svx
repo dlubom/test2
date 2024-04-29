@@ -1,0 +1,44 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de "Mäander - Ergänzungen 1"
+;cavern part pl "Meander - uzupełnienia 1"
+
+;file date 2024-03-03
+;file team "Karol Makowski"
+
+;source file: MEA_UZ1.SRV
+*case preserve
+
+*begin Meander_uz1
+*title "Meander - uzupełnienia 1"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.4 degrees
+
+*date 2009.08.05	;data jest przypuszczalna
+
+*team <name surename> (sketch <device/app>)
+*team <name surename> (DistoX1)
+*team <name surename> (marking)
+
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+hg003	hg003_01	3.34	149.0	52.0
+hg003_01	hg003_02	9.95	171.0	38.0
+hg003_02	hg003_03	7.63	241.0	28.0
+*end Meander_uz1

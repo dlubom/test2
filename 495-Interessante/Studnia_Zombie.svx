@@ -1,9 +1,0 @@
-*begin Studnia_Zombie
-
-*include 22zombie\StZombie.svx
-*include 22zombi2\StZombi2.svx
-
-
-*equate St_Zombie.15	St_Zombi2.10
-
-*end Studnia_Zombie

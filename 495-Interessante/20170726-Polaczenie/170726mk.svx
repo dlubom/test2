@@ -1,0 +1,80 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de ""
+;cavern part pl "Polaczenie"
+
+;file date 2024-03-14
+;file team "Karol Makowski"
+
+;source file: 170726mk.srv
+*case preserve
+
+*begin Polaczenie
+;#PREFIX	pol
+*title "Polaczenie"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 3.5 degrees
+
+*date 2017.07.26
+
+;Mirek Kopertowski, Konrad Chojnacki
+*team <name surename> (sketch PDA/PocketTopo)
+*team <name surename> (DistoX1)
+*team <name surename> (marking)
+
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+;KASZ:1_0	1_6	0.0	0.0	0.0	;dowiazanie KSAZ:1.0 = 1.6
+;KASZ:1_1	1_7	0.0	0.0	0.0	;powtorzony
+;bkar:1_22	0_0	0.0	0.0	0.0	;powtorzony
+;bkar:1_23	1_0	0.0	0.0	0.0	;dowiazanie bkar:1.23 = 1.0
+*flags duplicate
+0_0	1_0	5.92	188.41	19.91	;powtorzony
+*flags not duplicate
+1_0	1_1	9.35	312.4	2.65
+1_1	1_2	4.29	336.91	42.76
+1_3	1_2	1.39	78.27	-28.57
+1_3	1_4	3.36	342.09	1.38
+1_4	1_5	2.21	13.14	-6.25
+1_5	1_6	2.55	10.03	-28.54
+*flags duplicate
+1_6	1_7	11.4	349.4	-4.08	;powtorzony
+*flags not duplicate
+1_1	..	1.44	210.71	85.32
+1_1	..	4.07	103.91	-5.44
+1_1	..	6.8	147.92	-0.17
+1_1	..	1.62	277.52	53.2
+1_1	..	4.19	17.23	15.64
+1_1	..	1.2	306.44	43.25
+1_2	..	0.57	188.02	-75.44
+1_2	..	0.55	197.22	-74.3
+1_2	..	0.25	326.24	-21.83
+1_2	..	0.5	166.68	20.26
+1_2	..	0.31	265.3	61.87
+1_3	..	0.39	71.61	-2.79
+1_3	..	0.24	71.57	87.74
+1_3	..	0.63	290.18	20.32
+1_3	..	0.6	21.45	-75.49
+1_4	..	0.71	85.14	3.15
+1_4	..	0.5	85.87	54.3
+1_4	..	0.84	79.17	-54.32
+1_4	..	1.1	287.29	75.83
+1_4	..	0.25	268.15	-6.89
+1_4	..	1.03	79.14	-84.38
+*end Polaczenie

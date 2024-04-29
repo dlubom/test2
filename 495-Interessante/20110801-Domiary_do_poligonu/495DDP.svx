@@ -1,0 +1,61 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de ""
+;cavern part pl "Domiary do poligonu"
+
+;file date 2024-03-07
+;file team "Karol Makowski"
+
+;source file: 495DDP.SRV
+*case preserve
+
+*begin Domiary_do_poligonu
+;#SEGMENT	/Domiary do poligonu
+*title "Domiary do poligonu"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.6 degrees
+
+;data jest przypuszczalna
+*date 2011.08.01
+
+*team <name surename> (sketch PDA/PocketTopo)
+*team <name surename> (DistoX1)
+*team <name surename> (marking)
+
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+ws047_02	ws047_03	6.39	142.0	54.2
+ws045	ws045_01	2.06	107.3	-3.5
+ws048	ws048_01	11.19	177.9	35.4
+ws055	ws055_01	5.52	292.5	-0.4
+ws059	ws059_01	7.82	249.6	-8.9
+ws061	ws061_01	9.44	218.1	22.8
+ws065	ws065_01	4.73	326.8	-4.8
+ws071	ws071_01	6.64	81.0	-4.7	;domiar
+ws073	ws073_01	9.66	243.7	-9.0	;domiar
+ws081	ws081_01	6.93	10.5	36.6
+ws090_01	ws090_02	5.51	127.4	53.3
+ws092	ws092_01	4.65	13.0	48.9
+ws096	..	10.14	79.4	-66.4
+ws099_01	ws099_02	3.16	154.2	-26.5
+ws112_01	ws112_02	8.39	94.1	0.0
+ws117	ws117_01	25.67	14.1	72.8
+ws117	..	22.9	317.2	60.6
+ws121	ws121_01	8.22	19.7	53.1
+*end Domiary_do_poligonu

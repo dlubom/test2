@@ -1,0 +1,115 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de ""
+;cavern part pl "Drugi syfon"
+
+;file date 2024-03-10
+;file team "Karol Makowski"
+
+;source file: 150805ds.srv
+*case preserve
+
+*begin Drugi_syfon
+;#PREFIX	DSY
+*title "Drugi syfon"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 3.2 degrees
+
+*date 2015.08.05
+
+;Rafal Klimara, Jakub Nowak
+*team <name surename> (sketch PDA/PocketTopo)
+*team <name surename> (DistoX1)
+*team <name surename> (marking)
+
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+;;1_0	PZMG1:1_106	0.0	0.0	0.0
+*flags duplicate
+1_0	1_1	2.93	339.44	-3.39
+*flags not duplicate
+;PZMG1:1_107	1_2	3.01	356.94	4.56
+1_1	1_2	3.01	356.94	4.56
+1_2	..	1.4	249.98	30.82
+1_2	..	0.65	245.62	71.02
+1_2	..	0.36	232.52	-84.01
+1_2	1_3	3.85	341.89	-1.03
+1_3	..	3.88	62.75	-25.33
+1_3	..	2.93	171.97	83.4
+1_3	..	1.17	123.23	-81.5
+1_3	..	3.1	207.93	54.51
+1_3	..	2.17	89.86	-17.98
+1_3	1_4	3.95	12.94	-1.77
+1_4	1_4_1	4.6	224.7	42.51	;domiar
+1_4	..	1.32	163.63	-1.56
+1_4	..	0.8	175.8	45.83
+1_4	..	1.2	130.78	-46.3
+1_4	1_5	1.96	93.03	-17.11
+1_5	..	1.91	54.2	61.87
+1_5	..	1.28	347.78	13.09
+1_5	..	2.0	63.7	-47.42
+1_5	..	1.92	73.3	-50.37
+1_5	1_6	1.79	36.49	50.89
+1_6	..	0.94	274.33	78.63
+1_6	..	0.67	270.61	-12.78
+1_6	..	1.29	253.41	-87.82
+1_6	1_7	1.82	339.87	20.07
+1_7	..	1.8	15.67	-38.44
+1_7	1_8	2.65	51.93	-63.6
+1_8	..	2.4	67.17	-31.15
+1_8	1_8_1	4.69	121.33	-14.47	;domiar
+1_8	..	1.52	81.52	-69.67
+1_8	1_9	4.72	354.09	-9.75
+1_9	..	1.8	265.98	38.32
+1_9	..	2.4	290.87	50.78
+1_9	..	0.87	94.14	-62.52
+1_9	1_10	4.65	332.99	1.94
+1_10	..	1.26	260.75	-8.32
+1_10	..	0.81	256.67	31.62
+1_10	..	1.08	18.23	-85.23
+1_10	1_11	2.44	341.9	-21.45
+1_0	1_12	4.24	182.96	9.97
+1_12	..	0.98	78.51	-63.47
+1_12	..	0.78	83.16	-5.32
+1_12	1_13	5.75	145.77	5.1
+1_13	..	1.47	263.27	-13.88
+1_13	..	0.5	68.37	6.29
+1_13	..	0.81	302.36	42.04
+1_13	1_14	5.35	350.11	12.68
+1_14	..	0.96	261.36	11.3
+1_14	..	0.95	298.72	50.48
+1_14	..	1.79	356.88	-83.51
+1_14	..	0.85	71.4	-39.15
+1_14	1_15	3.93	323.63	10.51
+1_15	..	1.68	156.34	13.95
+1_15	..	1.94	190.77	5.62
+1_15	..	0.78	177.68	59.53
+1_15	..	2.1	175.41	-63.41
+1_15	1_16	2.18	211.21	5.18
+1_16	..	0.92	8.96	7.56
+1_16	..	0.63	3.05	36.01
+1_16	..	1.49	329.11	-79.02
+1_16	1_17	2.59	297.45	-4.48
+;;1_17	PZMG1:1_104	0.0	0.0	0.0
+1_17	1_18	3.83	56.09	-52.82
+*flags duplicate
+1_18	1_19	1.77	94.87	3.21
+*flags not duplicate
+;1_19	1_0	0.0	0.0	0.0
+*end Drugi_syfon

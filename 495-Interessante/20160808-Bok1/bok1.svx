@@ -1,0 +1,87 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de ""
+;cavern part pl "Bok 1"
+
+;file date 2024-03-12
+;file team "Karol Makowski"
+
+;source file: bok1.srv
+*case preserve
+
+*begin Bok1
+;#PREFIX	b1
+*title "Bok 1"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 3.3 degrees
+
+*date 2016.08.08
+
+;Przemek Styrna, Arek Kus, Piotr Chrzanowski
+*team <name surename> (sketch PDA/PocketTopo)
+*team <name surename> (DistoX1)
+*team <name surename> (marking)
+
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+;:wm265	1_10	0.0	0.0	0.0
+;:wm266	1_11	0.0	0.0	0.0
+;:wm265_01	1_9	0.0	0.0	0.0
+1_0	1_1	6.43	180.43	-76.97
+1_1	1_2	11.2	45.14	-52.77
+1_2	1_3	3.69	203.0	-32.24
+1_3	1_4	2.22	85.97	22.41
+1_4	1_5	1.98	56.16	-20.67
+1_5	1_6	5.66	98.44	-4.99
+1_6	1_7	2.14	79.62	-20.77
+1_7	1_8	3.13	108.41	-7.87
+1_8	1_9	2.16	146.13	23.06
+*flags duplicate
+1_9	1_10	1.32	74.85	28.52
+1_10	1_11	5.99	47.25	-22.76
+*flags not duplicate
+1_0	..	0.77	312.48	26.05
+1_0	..	1.0	228.92	10.43
+1_0	..	2.01	351.89	-3.97
+1_1	..	1.58	96.29	3.01
+1_1	..	1.6	354.88	23.35
+1_1	..	2.54	51.87	11.49
+1_1	..	4.64	39.34	5.65
+1_2	..	2.45	253.25	0.8
+1_2	..	3.76	234.64	1.89
+1_2	..	1.54	193.31	5.37
+1_2	..	2.22	189.18	-62.96
+1_3	..	2.49	76.65	78.76
+1_3	..	1.62	41.21	-65.01
+1_3	..	0.7	52.38	0.9
+1_4	..	1.1	192.95	84.65
+1_4	..	1.94	62.22	-83.78
+1_4	..	0.4	169.37	18.64
+1_5	..	0.61	138.85	55.22
+1_5	..	0.52	129.7	-46.17
+1_5	..	0.47	151.73	6.6
+1_6	..	0.43	153.04	62.86
+1_6	..	1.81	47.09	-77.01
+1_6	..	0.41	181.41	-8.84
+1_7	..	0.65	205.82	-0.09
+1_7	..	0.6	20.38	-79.23
+1_8	..	1.11	214.74	53.31
+1_8	..	1.13	348.98	-82.02
+1_8	..	0.91	214.16	-0.25
+*end Bok1

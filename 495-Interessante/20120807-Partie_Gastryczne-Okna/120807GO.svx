@@ -1,0 +1,49 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de ""
+;cavern part pl "Partie Gastryczne - Okna"
+
+;file date 2024-03-08
+;file team "Karol Makowski"
+
+;source file: 120807GO.SRV
+*case preserve
+
+*begin Partie_Gastryczne-Okna
+;#SEGMENT	/Partie Gastryczne - Okna
+*title "Partie Gastryczne - Okna"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.8 degrees
+
+*date 2012.08.07
+
+;Maciej Dziurka (obsluga Disto-X), Tomasz Olczak (kartowanie)
+*team Tomasz Olczak (sketch PDA/PocketTopo)
+*team Maciej Dziurka (DistoX1)
+*team <name surename> (marking)
+
+;Disto-X + Palm
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+gh90	zg013	11.98	42.67	19.3
+gh90	gh69_05	2.16	214.28	23.77
+gh69_05	gh92	3.84	222.74	4.71
+gh92	gh024_01	2.6	265.2	-10.36
+gh025	..	6.75	134.3	34.51
+*end Partie_Gastryczne-Okna

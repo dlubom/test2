@@ -1,0 +1,7 @@
+*cs UTM33N
+*cs out UTM33N
+
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance (SAGIS)
+
+*include 495.svx
+*fix	495-Interessante.01-eingang	353206.478	5266270.244	1932	;GPS Location UTM (SAGIS)

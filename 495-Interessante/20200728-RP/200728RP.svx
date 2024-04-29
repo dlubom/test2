@@ -1,0 +1,64 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de ""
+;cavern part pl "RP"
+
+;file date 2024-03-18
+;file team "Karol Makowski"
+
+;source file: 200728RP.srv
+*case preserve
+
+*begin RP
+;#PREFIX	2007rplost
+*title "RP"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 3.9 degrees
+
+*date 2020.07.28
+
+;Karol Makowski (Disto), Tomek Raczynski (PDA)
+*team Tomek Raczynski (sketch PDA/PocketTopo, marking)
+*team Karol Makowski (DistoX2)
+
+*instrument tape "DistoX2 <id>"
+*instrument compass "DistoX2 <id>"
+*instrument clino "DistoX2 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+;1_0	pdwjmndr:1_20	0.0	0.0	0.0
+1_0	1_1	2.33	90.45	-45.45
+1_1	1_2	7.68	66.81	-12.01
+1_2	1_3	3.83	334.72	7.12
+1_3	1_4	3.8	54.36	-25.24
+1_4	1_5	3.48	78.38	-58.87
+1_5	1_6	3.67	336.19	-5.43
+1_6	1_7	2.49	67.5	-25.87
+1_7	1_8	3.36	352.69	-10.28
+1_8	1_9	3.91	89.37	-24.35
+1_9	1_10	1.57	0.97	20.2
+1_10	1_11	6.03	90.02	-39.52
+1_11	1_12	4.29	342.13	19.05
+1_12	1_13	1.4	86.2	-11.48
+1_13	1_14	4.1	1.68	-17.45
+1_14	1_15	5.48	21.73	-30.42
+1_15	1_16	8.61	30.93	-68.99
+1_16	1_17	1.36	320.06	27.09
+1_17	1_18	2.94	63.52	-19.9
+1_18	1_19	5.63	27.71	-50.12
+1_19	1_20	6.8	21.31	-48.4
+1_20	1_21	4.33	287.74	47.4
+*end RP

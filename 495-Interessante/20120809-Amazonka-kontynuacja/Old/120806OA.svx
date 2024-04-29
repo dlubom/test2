@@ -1,0 +1,74 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2024-04-19
+;file team "Karol Makowski"
+
+;source file: 120806OA.SRV
+*case preserve
+
+*begin amz-o
+*title "<add a title>"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.8 degrees
+
+*date 2012.08.06
+
+*team <name surename> (sketch PDA/PocketTopo)
+*team <name surename> (DistoX2)
+*team <name surename> (marking)
+
+*instrument tape "DistoX2 <id>"
+*instrument compass "DistoX2 <id>"
+*instrument clino "DistoX2 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+;#PREFIX	amz-o
+;#SEGMENT	/Amazonka
+;pomiary zostaly powtorzone przez Kube i Oliwke tak wiec te sa wykomentowane
+;Miroslaw Kopertowski (obsluga Disto-X), Dariusz Lubomski (kartowanie)
+;Disto-X + Palm
+
+*data normal from to tape compass clino ignoreall
+
+1_0	0_0	9.69	30.16	-53.29	;dostrzal do mlodej studni
+1_0	..	17.9	38.16	76.77
+1_1	1_0	14.93	127.85	-74.97
+1_1	..	5.05	158.7	-12.22
+1_1	..	1.17	95.92	0.08
+1_2	1_1	2.56	213.17	-53.53
+1_2	..	6.12	184.73	12.11
+1_2	..	3.72	260.44	10.97
+1_2	..	0.27	75.44	18.65
+1_2	..	7.87	177.81	46.7
+1_2	..	5.66	192.63	13.13
+1_2	..	11.22	226.76	73.62
+1_2	..	13.45	183.86	77.1
+1_2	..	12.03	287.61	72.84
+1_2	..	18.12	263.19	80.82
+1_2	1_3	4.74	341.53	3.55
+1_3	..	3.17	234.7	-1.05
+1_3	..	3.78	240.6	-43.12
+1_3	..	1.44	287.54	-88.16
+1_3	..	3.85	238.0	40.13
+1_3	..	8.15	257.78	62.68
+1_3	..	11.56	278.54	70.16
+1_3	1_4	7.21	265.07	28.66
+1_4	1_5	3.87	248.61	18.99
+;1_5	amaz:2_0	5.98	302.45	-75.07
+1_5	1_6	5.98	302.45	-75.07
+1_5	..	1.3	359.6	-0.23
+1_5	..	5.89	311.13	-4.96
+*end amz-o

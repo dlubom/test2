@@ -1,0 +1,123 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de ""
+;cavern part pl "Studnia RT"
+
+;file date 2024-03-09
+;file team "Karol Makowski"
+
+;source file: 130813rt.srv
+*case preserve
+
+*begin Studnia_RT
+*title "Studnia RT"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.9 degrees
+
+*date 2013.08.13
+
+;Tomasz Olczak (palm + spray), Rafal Klimara  (Disto)
+*team Tomasz Olczak (sketch PDA/PocketTopo, marking)
+*team Rafał Klimara (DistoX1)
+
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+rt012	rt011	1.69	11.45	2.2
+rt011	..	0.37	257.52	5.16
+rt011	..	0.57	31.26	-83.41
+rt011	..	0.64	222.77	75.21
+rt011	..	0.7	149.28	13.46
+rt011	..	1.94	111.58	33.72
+rt011	..	1.04	100.06	12.4
+rt011	..	1.02	334.61	15.86
+rt011	rt011_1	2.87	334.57	16.01	;domiar
+rt011	..	2.87	333.75	14.09
+rt011	rt010	2.08	73.65	-24.64
+rt010	rt010_1	2.73	346.21	-40.29	;domiar
+rt010	..	0.54	331.76	-5.21
+rt010	..	0.58	52.41	15.12
+rt010	..	0.35	133.76	73.87
+rt010	..	0.66	168.66	-5.05
+rt010	..	1.79	150.75	2.85
+rt010	..	1.21	102.95	14.01
+rt010	rt009	3.47	147.17	46.46
+rt009	..	0.79	353.91	71.26
+rt009	..	0.68	18.27	-60.27
+rt009	..	0.47	14.45	1.11
+rt009	..	0.99	329.49	-9.89
+rt009	..	0.42	291.8	0.0
+rt009	rt008	4.31	99.01	20.48
+rt008	..	0.72	263.23	-50.41
+rt008	..	1.89	349.46	4.76
+rt008	..	2.65	319.04	6.06
+rt008	..	2.74	292.24	-7.74
+rt008	..	3.82	274.76	-20.15
+rt008	..	2.49	260.88	-5.89
+rt008	..	1.16	242.94	12.04
+rt008	rt008_1	4.42	303.93	25.53	;domiar
+rt008	rt007	15.97	7.16	88.39
+rt007	..	1.46	173.1	59.44
+rt007	..	0.94	59.62	14.55
+rt007	..	1.04	102.59	6.06
+rt007	..	2.0	132.85	2.5
+rt007	..	1.89	218.77	-17.49
+rt007	..	1.24	176.96	-10.15
+rt007	rt006	1.7	108.42	42.49
+rt006	..	0.99	274.41	-0.81
+rt006	..	0.92	232.47	14.29
+rt006	..	1.37	190.05	23.51
+rt006	..	0.65	155.67	13.97
+rt006	..	0.55	254.64	43.59
+rt006	..	2.43	184.26	-69.27
+rt006	rt005	2.48	194.71	22.85
+rt005	..	0.45	350.78	-74.55
+rt005	..	1.69	317.92	86.71
+rt005	..	1.04	303.47	32.84
+rt005	..	0.66	29.5	16.54
+rt005	..	0.94	102.3	27.05
+rt005	..	1.14	158.97	45.27
+rt005	rt004	2.98	215.63	34.95
+rt004	..	1.09	14.99	70.55
+rt004	..	1.12	40.88	-69.92
+rt004	..	1.1	274.36	15.12
+rt004	..	2.37	317.61	-9.63
+rt004	..	4.68	322.98	-10.78
+rt004	..	2.83	339.31	-11.33
+rt004	..	2.8	14.4	-25.03
+rt004	..	1.59	72.72	-16.17
+rt004	..	1.76	111.16	5.9
+rt004	rt003	2.44	126.88	14.29
+rt003	..	0.68	252.36	59.65
+rt003	..	0.77	242.75	-73.11
+rt003	..	0.31	299.49	2.61
+rt003	..	0.97	227.07	6.24
+rt003	..	1.06	155.73	13.13
+rt003	rt002	3.31	186.66	22.14
+rt002	..	1.25	9.04	55.49
+rt002	rt002_1	2.63	58.53	63.68	;domiar
+rt002	..	0.73	192.91	-86.14
+rt002	..	1.62	343.4	-9.51
+rt002	..	1.25	10.32	2.38
+rt002	..	1.22	41.69	-4.81
+rt002	..	2.62	137.27	-9.56
+rt002	..	2.74	125.96	-4.25
+rt002	..	1.0	110.17	-3.51
+rt001	rt002	3.0	254.7	-48.62
+wm041i	rt001	4.51	354.77	-24.72
+*end Studnia_RT

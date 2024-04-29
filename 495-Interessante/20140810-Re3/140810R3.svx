@@ -1,0 +1,95 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de "Re 3"
+;cavern part pl "Re 3"
+
+;file date 2024-03-03
+;file team "Karol Makowski"
+
+;source file: 140810R3.SRV
+*case preserve
+
+*begin Re3
+*title "Re 3"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+
+*date 2014.08.10
+
+;Dariusz Lubomski(palm), Nazi (Disto), A. Puchalska (spray)
+*team Dariusz Lubomski (sketch Palm/PocketTopo)
+*team Nazanin Badrkhani (DistoX1)
+*team Aleksandra Puchalska (marking)
+
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+1_0	1_1	0.9	125.47	25.09
+1_1	1_2	8.92	27.38	-13.82
+1_2	1_3	6.0	18.06	10.7
+1_4	1_3	18.7	180.1	-2.85	;zjebany pomiar, przestrzelony
+1_4	1_5	2.08	4.11	-22.15
+1_5	1_6	6.76	131.17	-81.9
+1_6	hg081	1.31	80.89	46.38
+hg081	hg082	6.74	167.7	-67.79
+hg081	1_9	3.11	298.46	5.55
+1_9	1_10	12.13	329.13	9.54
+1_10	1_11	3.98	338.08	12.31
+1_1	..	3.68	354.74	63.41
+1_1	..	1.69	347.84	-1.08
+1_1	..	1.56	74.47	7.33
+1_1	..	1.59	112.86	-81.99
+1_2	..	1.53	142.34	22.05
+1_2	..	1.75	118.16	65.0
+1_2	..	3.85	335.24	80.43
+1_2	..	8.64	329.54	74.82
+1_2	..	1.43	140.9	-63.1
+1_2	..	2.63	259.9	-72.58
+1_2	..	2.37	293.04	-27.96
+1_3	..	1.99	265.03	3.86
+1_3	..	3.18	254.3	59.32
+1_3	..	5.15	176.2	74.19
+1_3	..	1.62	252.61	-32.56
+1_3	..	5.95	278.04	-70.56
+1_3	..	4.97	312.9	-1.23
+1_3	..	9.4	346.44	51.71
+1_3	..	5.28	184.37	69.17
+1_3	..	6.11	346.75	-22.09
+1_4	..	4.1	81.08	4.64
+1_4	..	4.95	118.27	6.86
+1_4	..	4.55	167.32	7.69
+1_4	..	5.33	87.9	77.61
+1_4	..	7.33	197.75	56.1
+1_4	..	9.88	190.44	25.86
+1_4	..	4.42	206.75	17.73
+1_4	..	11.73	182.64	6.23
+1_4	..	14.94	182.79	-46.92
+1_4	..	14.85	122.02	-68.45
+1_9	..	2.48	20.36	-66.79
+1_9	..	1.03	36.06	-13.65
+1_10	..	5.21	268.08	70.62
+1_10	..	2.03	350.76	75.79
+1_10	..	2.27	250.78	26.3
+1_10	..	1.34	229.05	-37.57
+1_10	..	3.06	142.36	-59.66
+1_10	..	0.38	107.0	-0.6
+1_11	..	1.52	53.22	-2.6
+1_11	..	2.42	43.71	71.12
+1_11	..	5.64	230.63	63.68
+1_11	..	6.24	276.54	50.41
+1_11	..	4.51	236.2	28.68
+*end Re3

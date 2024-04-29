@@ -1,0 +1,61 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de ""
+;cavern part pl "Partie Powrotu 2"
+
+;file date 2024-03-08
+;file team "Karol Makowski"
+
+;source file: erm2.srv
+*case preserve
+
+*begin Partie_Powrotu2
+*title "Partie Powrotu 2"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.9 degrees
+
+*date 2013.07.30
+
+;Mirek Kopertowski(kartowanie), Ewelina Raczynska, Rafal Mateja
+*team Miroslaw Kopertowski (sketch PDA/PocketTopo)
+*team <name surename> (DistoX1)
+*team <name surename> (marking)
+
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+rh012	rh012_01	2.09	164.8	23.83
+rh012_01	..	0.81	46.25	85.38
+rh012_01	..	0.48	287.25	34.26
+rh012_01	..	0.72	60.83	0.08
+rh012_01	rh012_02	2.08	120.12	54.48
+rh012_02	..	0.65	156.9	83.5
+rh012_02	..	1.59	151.44	24.02
+rh012_02	rh012_03	2.17	224.68	-8.84
+rh013	rh024	1.29	222.37	-11.74
+rh024	..	0.57	277.59	82.39
+rh024	..	0.91	152.7	3.96
+rh024	..	1.29	320.53	-85.09
+rh024	rh025	5.69	241.5	-30.29
+rh025	..	6.61	115.96	72.02
+rh025	..	2.66	167.62	-2.33
+rh025	..	2.2	2.14	18.02
+rh025	rh026	26.71	163.21	-88.63
+;rh026	sm011	2.26	101.64	13.99
+rh026	sm010	2.26	101.64	13.99	;nie wiedzieli 10 czy 11
+*end Partie_Powrotu2

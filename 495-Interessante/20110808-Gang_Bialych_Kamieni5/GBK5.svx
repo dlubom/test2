@@ -1,0 +1,80 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de ""
+;cavern part pl "Gang Białych Kamieni 5"
+
+;file date 2024-03-07
+;file team "Karol Makowski"
+
+;source file: GBK5.SRV
+*case preserve
+
+*begin Gang_Bialych_Kamieni5
+;#SEGMENT	/Gang Bialych Kamieni 5
+*title "Gang Białych Kamieni 5"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.6 degrees
+
+*date 2011.08.08
+
+;Maciej Dziurka, Dariusz Lubomski, Bartosz Grancow
+*team <name surename> (sketch PDA/PocketTopo)
+*team <name surename> (DistoX1)
+*team <name surename> (marking)
+
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+ws111	ws112	4.61	23.03	-50.23
+ws112	ws112_01	6.69	110.73	28.17
+ws112_01	..	8.39	94.1	0.0
+ws112_01	..	4.49	57.8	50.3
+ws112_01	..	2.54	18.9	1.2
+ws112	ws113	3.98	169.33	-26.9
+ws113	ws114	6.68	93.63	-66.47
+ws114	ws115	4.29	347.53	18.97
+ws115	ws116	8.09	282.6	-12.43
+ws116	ws117	5.57	231.53	-11.4
+ws117	ws118	4.66	241.93	-23.8
+ws118	ws119	9.22	313.0	-44.7
+ws119	..	1.54	34.6	-7.0
+ws119	ws120	5.33	334.2	-45.67
+ws120	ws121	2.95	356.0	-54.0
+ws121	..	1.68	89.0	1.7
+ws121	..	1.9	18.1	-7.4
+ws121	ws122	8.22	308.37	-79.2
+ws122	ws123	9.28	249.33	-23.6
+ws123	..	2.24	167.0	1.8
+ws123	ws124	11.71	262.87	-25.17
+ws124	..	1.75	341.0	-3.2
+ws124	..	1.55	14.6	67.5
+ws124	..	1.19	354.8	-46.2
+ws124	ws125	9.42	258.77	-31.6
+ws125	ws126	5.97	228.43	-24.8
+ws126	ws127	9.65	265.3	-36.37
+ws127	..	2.53	354.5	6.2
+ws127	..	2.12	271.1	7.1
+ws127	..	2.76	183.9	0.1
+ws127	..	5.8	135.7	74.1
+ws127	ws128	1.29	187.87	1.1
+ws128	..	4.04	170.9	-26.5
+ws127	..	2.53	354.5	6.2
+ws127	..	2.12	271.1	7.1
+ws127	..	2.76	183.9	0.1
+ws127	..	5.8	135.7	74.1
+*end Gang_Bialych_Kamieni5

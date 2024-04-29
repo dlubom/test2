@@ -1,0 +1,116 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de ""
+;cavern part pl "Ciek pod wisz półką"
+
+;file date 2024-03-08
+;file team "Karol Makowski"
+
+;source file: 120803WI.SRV
+*case preserve
+
+*begin Ciek_pod_wisz_polka
+;#SEGMENT	/Ciek pod wisz polka
+*title "Ciek pod wisz półką"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.8 degrees
+
+*date 2012.08.03
+
+;Aleksandra Puchalska(Disto-X), Maciej Dziurka(znaczenie pkt.), Karol Makowski(kartowanie), Oliwa Rysnik
+*team Karol Makowski (sketch PDA/PocketTopo)
+*team Aleksandra Puchalska (DistoX1)
+*team Maciej Dziurka (marking)
+*team Oliwia Ryśnik (?)
+
+;Disto-X + Palm
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+hv011	hv012	1.09	187.58	-44.82
+hv012	hv013	8.44	150.71	-55.53
+hv013	hv014	3.56	75.2	-19.92
+hv014	hv015	3.02	192.68	-75.05
+hv015	hv016	8.8	25.33	-4.56
+hv016	hv017	3.24	35.19	-9.94
+hv017	hv018	6.31	103.46	-38.3
+hv018	hv018_1	3.67	26.98	-14.74
+hv018	hv019	5.96	195.63	-7.24
+hv019	hv020	7.84	154.67	3.75
+hv020	hv021	2.71	154.71	4.31
+hv021	hv022	6.25	166.53	-5.85
+hv022	hv023	11.77	159.45	13.42
+hv023	..	19.6	173.8	53.22	;strop domiar
+hv023	hv024	8.57	123.75	-29.48
+hv024	hv025	7.59	155.62	25.52
+hv025	hv026	3.16	123.52	-1.58
+hv026	hv027	3.16	123.81	-0.87
+hv027	hv027_1	8.54	103.81	-65.32	;studnia
+hv027	hv028	6.05	143.92	8.71
+hv027	hv027_2	14.07	174.22	67.31	;strop domiar
+hv028	hv029	7.39	154.38	29.44
+hv029	hv030	5.3	167.52	-39.06	;do domiaru boczek
+hv030	hv031	1.56	101.37	-55.59
+hv031	hv032	3.47	113.0	7.84
+hv032	hv033	4.84	86.75	-4.99
+hv033	hv33_1	26.75	182.22	84.8	;komin domiar
+hv033	hv034	3.69	163.63	35.56
+hv034	hv035	2.43	127.95	-41.16
+hv035	hv036	4.49	27.53	-17.4
+hv036	hv037	3.71	54.19	-43.31
+hv037	hv038	6.69	38.43	-49.37
+hv038	hv039	6.3	79.33	-20.1
+hv039	hv040	7.14	140.91	-15.03
+hv040	hv041	8.25	65.96	-48.5
+hv041	hv042	1.79	85.82	23.91
+hv042	hv043	0.71	159.98	-5.5
+hv043	hv044	5.58	139.22	-0.62
+hv044	hv045	4.61	108.5	-40.48
+hv045	hv046	5.9	118.92	-31.55
+hv046	hv047	14.71	109.4	-32.12
+hv047	hv048	8.76	57.47	-34.49
+hv048	hv049	7.15	128.83	-15.2
+hv049	hv050	11.77	138.73	-15.44
+hv050	hv051	4.95	200.48	-3.91
+hv051	hv052	2.95	188.37	15.99
+hv052	hv053	1.33	217.75	8.27
+hv053	hv054	1.19	141.5	45.7
+hv054	hv055	3.46	143.03	-23.07
+hv055	hv056	4.8	24.84	-26.79
+hv056	hv057	6.27	135.53	-22.9
+hv057	hv058	7.0	125.55	-34.01
+hv058	hv059	5.87	116.86	-24.98
+hv059	hv060	4.17	212.35	4.3
+hv060	hv061	2.19	184.01	11.29
+hv061	hv062	7.09	208.54	65.62	;komin
+hv058	hv063	4.14	122.47	-41.18
+hv063	hv064	1.99	34.61	-33.03
+hv064	hv065	3.06	346.26	-7.15
+hv028	hv028_1	4.45	232.44	-10.0
+hv028_1	hv028_2	3.88	205.77	-0.84
+hv028_2	hv028_3	3.75	122.18	1.71
+hv028_3	hv028_4	3.32	91.25	4.59
+hv028_4	hv030	2.76	124.87	18.0
+hv013	hv013_1	3.86	185.8	20.39
+hv013_1	hv013_2	3.82	194.14	-29.55
+hv013_2	hv013_3	2.19	160.74	11.39
+hv013_3	1_20031	14.06	143.63	38.99
+hv013_3	..	3.77	180.45	-47.55
+hv013_3	..	6.84	228.28	20.0
+hv013_3	hv013_31	7.43	71.29	-14.57
+*end Ciek_pod_wisz_polka

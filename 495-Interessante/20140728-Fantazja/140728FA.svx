@@ -1,0 +1,93 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de "Schacht Fantasie"
+;cavern part pl "Fantazja"
+
+;file date 2024-03-09
+;file team "Karol Makowski"
+
+;source file: 140728FA.SRV
+*case preserve
+
+*begin Fantazja
+*title "Fantazja"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 3.0 degrees
+
+*date 2014.07.28
+
+;Rafal Klimara, Tomasz Olczak, Wiktor Bujniewicz
+*team <name surename> (sketch PDA/PocketTopo)
+*team <name surename> (DistoX1)
+*team <name surename> (marking)
+
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+wt101	..	1.97	18.49	9.11
+wt101	..	6.0	44.68	15.53
+wt101	..	5.47	83.93	21.12
+wt101	..	2.92	122.88	24.7
+wt101	..	2.64	61.21	-42.44
+wt101	..	2.55	55.29	46.21
+wt101	wt102	5.84	319.5	-27.78
+wt102	..	4.82	52.12	17.58
+wt102	..	3.95	21.78	-1.93
+wt102	..	2.02	70.98	43.08
+wt102	..	1.5	113.62	-59.73
+wt102	..	5.03	111.89	-52.13
+wt102	wt103	2.75	306.4	-31.05
+wt103	..	1.96	58.65	37.92
+wt103	..	4.09	46.21	13.46
+wt103	..	1.54	214.14	-32.0
+wt103	wt104	13.12	300.58	-37.3
+wt104	..	0.63	226.78	40.72
+wt104	..	1.99	14.21	58.67
+wt104	..	3.99	6.79	0.19
+wt104	wt105	2.71	304.28	-1.01
+wt105	..	1.85	143.06	-0.5
+wt105	..	4.44	183.64	-21.79
+wt105	..	2.82	233.6	-31.75
+wt105	..	3.73	314.99	-23.53
+wt105	..	3.45	12.64	-10.28
+wt105	..	2.84	134.36	-52.67
+wt105	wt106	22.62	305.87	-84.22
+wt106	..	1.44	355.75	10.52
+wt106	..	2.86	80.49	18.13
+wt106	..	5.24	47.58	44.77
+wt106	..	4.65	155.56	17.48
+wt106	wt106_1	11.06	155.93	27.19	;domiar
+wt106	..	1.51	195.06	16.04
+wt106	..	19.5	262.46	-15.57
+wt106	wt107	7.31	256.36	-35.53
+wt107	wt107_1	5.65	41.11	-4.39	;domiar
+wt107	..	2.63	351.29	-1.24
+wt107	..	2.95	300.62	-2.51
+wt107	wt107_2	14.66	275.6	2.74	;domiar w glab szczeliny
+wt107	wt108	4.74	258.88	-74.2
+wt108	..	5.03	37.18	-8.94
+wt108	..	2.55	0.65	-2.47
+wt108	..	11.9	272.17	-18.18
+wt108	wt109	5.95	211.9	-80.65
+wt109	..	5.74	45.82	-8.49
+wt109	..	10.44	276.63	-5.25
+wt109	..	6.18	314.26	-1.17
+wt109	wt110	11.3	334.39	-88.24
+wt110	wt111	21.68	350.13	-80.17
+wt111	wt112	9.51	156.45	-84.67
+*end Fantazja

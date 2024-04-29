@@ -1,0 +1,63 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de ""
+;cavern part pl "Partie Krokodylka"
+
+;file date 2024-03-07
+;file team "Karol Makowski"
+
+;source file: PAKROK.SRV
+*case preserve
+
+*begin Partie_Krokodylka
+;#SEGMENT	/Partie Krokodylka
+*title "Partie Krokodylka"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.6 degrees
+
+*date 2011.08.06
+
+;Rafal Mateja, Oliwia Rysnik, Arkadiusz Swieczkowski
+*team <name surename> (sketch PDA/PocketTopo)
+*team <name surename> (DistoX1)
+*team <name surename> (marking)
+
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+kt021	kt022	1.55	163.2	-26.6
+kt022	kt023	3.63	234.8	-48.4
+kt023	kt024	3.67	140.8	-13.7
+kt024	kt025	3.69	37.1	-36.9
+kt025	kt025_01	2.45	120.9	34.4
+kt025_01	kt025_02	3.95	69.9	3.7	;domiar
+kt025_01	k25_01_1	6.63	67.5	83.1
+kt025	kt026	2.29	213.1	-9.2
+kt026	kt027	5.6	263.5	-48.8
+kt027	kt028	1.91	106.7	-20.6
+kt028	kt029	1.4	159.5	-22.9
+kt029	kt030	1.97	145.8	-37.8
+kt030	kt031	6.6	183.9	-53.2
+kt031	kt031_01	7.55	149.0	-82.1
+kt031	kt032	1.69	295.2	14.6
+kt032	kt033	7.3	255.4	-29.8
+kt033	kt034	3.38	251.1	31.4
+kt034	kt035	2.34	342.6	-35.0
+kt035	kt036	6.6	294.1	-47.8
+;kt036	kt037	17.9	0.0	-90.0	;cos to chyba domiar ?
+*end Partie_Krokodylka

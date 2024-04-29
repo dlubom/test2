@@ -1,0 +1,72 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de ""
+;cavern part pl "Koło"
+
+;file date 2024-03-05
+;file team "Karol Makowski"
+
+;source file: 130813ko.srv
+*case preserve
+
+*begin Kolo
+*title "Koło"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.9 degrees
+
+*date 2013.08.13
+
+;Tomasz Olczak (palm + spray), Rafal Klimara (Disto)
+*team Tomasz Olczak (sketch <device/app>)
+*team Rafał Klimara (DistoX1)
+*team Tomasz Olczak (marking)
+
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+wm055_02	wm055_03	2.31	251.78	-14.67
+wm055_02	..	1.86	211.57	7.93
+wm055_02	..	0.64	245.88	76.72
+wm055_02	..	1.04	13.65	0.82
+wm055_02	wm0552_1	2.94	296.49	-8.06	;domiar
+wm055_02	..	1.03	279.64	-1.94
+wm055_03	..	0.4	163.54	-11.03
+wm055_03	..	0.62	328.51	-3.14
+wm055_03	..	0.28	248.01	-78.55
+wm055_03	..	1.56	240.45	-33.07
+wm055_03	wm055_04	1.6	225.17	-24.97
+wm055_04	..	0.39	150.46	3.69
+wm055_04	..	0.62	139.82	84.57
+wm055_04	..	0.58	333.05	23.39
+wm055_04	wm055_05	1.06	234.84	-6.04
+wm055_05	..	0.29	201.8	85.78
+wm055_05	..	1.32	234.76	0.04
+wm055_05	..	1.96	265.58	3.3
+wm055_05	..	1.56	291.18	2.32
+wm055_05	..	1.92	310.68	0.84
+wm055_05	..	0.31	329.99	16.81
+wm055_05	wm055_06	1.57	258.98	2.01
+wm055_06	..	1.54	22.96	7.45
+wm055_06	..	0.4	46.35	47.54
+wm055_06	wm055_07	0.81	333.51	30.88
+wm055_07	..	0.53	133.44	-72.74
+wm055_07	..	0.31	200.15	14.76
+wm055_07	..	0.22	63.2	7.27
+wm055_07	wm055_08	0.94	114.62	60.72
+wm055_08	wm059	3.59	275.11	25.22
+*end Kolo

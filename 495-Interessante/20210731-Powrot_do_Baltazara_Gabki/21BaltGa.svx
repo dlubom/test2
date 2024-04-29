@@ -1,0 +1,79 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de "Baltazar-Gąbka Höhleteile"
+;cavern part pl "Partie Baltazara Gąbki"
+
+;file date 2024-03-19
+;file team "Karol Makowski"
+
+;source file: 21BaltGa.srv
+*case preserve
+
+*begin Powrot_do_Baltazara_Gabki
+;#PREFIX	bat_com
+*title "Powrót do Baltazara Gąbki"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 4.1 degrees
+
+*date 2021.07.31
+
+;Joanna Gawezka (Notes), Jakub Nowak (DixtoX2); Robert Glod (poreczownie)
+*team Joanna Gawęzka (sketch notes)
+*team Jakub Nowak (DistoX2)
+*team Robert Głód (installing ropes)
+
+*instrument tape "DistoX2 <id>"
+*instrument compass "DistoX2 <id>"
+*instrument clino "DistoX2 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+*flags duplicate
+1_0	1_1	2.99	95.0	-44.1	;dowiaznie
+1_1	1_2	3.479	121.29	25.3	;dowiaznie
+1_2	1_3	6.46	62.97	-82.6	;dowiaznie
+*flags not duplicate
+;1_3	:mc008	0.0	0.0	0.0
+1_3	1_4	4.29	289.0	-3.8
+1_4	1_5	2.86	353.7	-21.0
+1_5	1_6	3.19	308.21	43.01
+1_6	1_7	3.78	294.3	-22.8
+1_7	1_8	2.34	44.41	7.91
+1_8	1_9	3.94	311.8	-9.39
+1_9	1_10	2.12	300.0	-24.29
+1_10	1_11	2.41	347.5	-16.1
+;1_11	:bg038	0.0	0.0	0.0
+*flags duplicate
+1_11	1_12	2.14	133.29	44.81	;dowiaznie
+1_12	1_13	2.48	57.3	13.29	;dowiaznie
+1_13	1_14	2.56	142.12	-61.51	;dowiaznie
+*flags not duplicate
+1_3	2_0	0.0	0.0	0.0
+2_0	2_1	5.62	172.5	41.7
+2_1	2_2	2.37	157.4	9.99
+2_2	2_3	1.98	195.69	42.6
+2_3	2_4	3.81	311.5	6.49
+2_4	2_5	2.52	238.21	-1.21
+2_5	2_6	4.13	236.3	19.8
+2_6	2_7	2.32	228.58	29.1
+2_7	2_8	3.34	226.7	-2.2
+2_8	2_9	5.08	146.21	-9.7
+2_9	2_10	3.76	291.7	-25.71
+2_10	2_11	1.48	256.61	-15.68
+2_5	3_0	0.0	0.0	0.0
+3_0	3_1	4.0	115.58	-72.2
+3_1	3_2	3.02	349.0	-64.51
+3_2	3_3	6.82	224.01	-86.9
+*end Powrot_do_Baltazara_Gabki

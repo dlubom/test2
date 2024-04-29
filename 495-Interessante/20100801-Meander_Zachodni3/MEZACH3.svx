@@ -1,0 +1,122 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de "Westmäander 3"
+;cavern part pl "Meander Zachodni 3"
+
+;file date 2024-03-06
+;file team "Karol Makowski"
+
+;source file: MEZACH3.SRV
+*case preserve
+
+*begin Meander_Zachodni3
+*title "Meander Zachodni 3"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.5 degrees
+
+*date 2010.08.01
+
+;Maciej Dziurka, Karol Makowski, Lukasz Kralczynski
+*team <name surename> (sketch <device/app>)
+*team <name surename> (DistoX1)
+*team <name surename> (marking)
+
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+wm082	wm083	17.48	285.66	-5.95
+wm083	wm084	4.67	245.14	-7.58
+wm084	wm085	5.31	274.47	-5.93
+wm085	wm086	8.21	307.89	7.14
+wm086	wm087	5.98	224.06	10.63
+wm087	wm088	4.47	240.99	-23.07
+wm088	wm089	6.82	283.74	3.26
+wm089	wm090	5.42	288.36	-14.47
+wm090	wm091	2.98	212.91	-8.61
+wm091	wm092	9.21	290.85	-25.35
+wm092	wm093	6.66	205.86	-18.93
+wm093	wm094	5.8	234.27	-6.4
+wm094	wm095	2.2	178.67	46.72
+wm095	wm096	6.2	292.52	25.27
+wm096	wm097	8.58	319.17	3.72
+wm097	wm098	4.58	349.72	-7.87
+wm098	wm099	3.89	296.99	15.23
+wm099	wm100	10.68	13.42	12.29
+wm100	wm101	5.34	1.13	22.8
+wm101	wm102	10.97	324.62	-15.2
+wm102	wm103	2.53	265.7	9.63
+wm103	wm104	8.34	276.69	-11.43
+wm104	wm105	8.98	311.36	-1.02
+wm105	wm106	3.26	80.21	5.67
+wm106	wm107	2.7	346.46	-26.91
+wm107	wm108	3.22	356.2	13.73
+wm108	wm109	6.33	3.8	11.3
+wm109	wm110	2.39	19.18	46.98
+wm110	wm111	2.13	352.02	30.6
+wm111	wm112	7.62	53.57	3.8
+wm112	wm113	2.7	13.65	15.85
+wm113	wm114	3.39	304.29	1.43
+wm114	wm115	1.76	201.0	-1.99
+wm115	wm116	4.56	309.48	-10.54
+wm116	wm117	4.53	288.18	-2.33
+wm117	wm118	2.72	336.86	37.92
+wm118	wm119	9.56	201.34	-1.87
+wm119	wm120	10.9	279.34	5.09
+wm120	wm121	1.66	167.6	-15.64
+wm121	wm122	6.95	299.51	-13.22
+wm122	wm123	5.66	292.06	-22.73
+wm123	wm124	3.6	323.03	1.22
+wm124	wm125	7.72	287.11	-32.47
+wm125	wm126	7.68	319.66	-23.99
+wm126	wm127	4.08	347.31	-73.31
+wm127	wm128	5.33	260.77	7.6
+wm128	wm129	3.1	313.02	-18.84
+wm129	wm130	5.96	273.48	-0.68
+wm130	wm131	3.46	310.23	-6.64
+wm131	wm132	0.93	312.23	-1.18
+wm132	wm133	8.57	310.5	13.02
+wm133	wm134	5.0	292.63	17.54
+wm134	wm135	6.78	328.08	2.52
+wm135	wm136	4.84	241.62	39.04
+wm136	wm137	4.15	268.23	50.65
+wm137	wm138	9.13	314.31	0.09
+wm138	wm139	3.86	317.65	-36.3
+wm139	wm140	4.81	295.74	-8.81	;jest tez prawo.
+wm140	wm141	14.68	253.45	10.23
+wm141	wm142	1.91	334.88	66.55
+wm142	wm143	8.37	273.53	-14.82
+wm143	wm144	3.96	318.17	-13.13
+wm144	wm145	5.51	296.94	-23.57
+wm145	wm146	2.22	312.18	-21.17
+wm146	wm147	6.88	313.85	-8.04	;rozdroze. w prawo studnia z woda.
+wm147	wm148	4.98	328.13	-41.2
+wm148	wm149	12.4	265.25	-7.7
+wm149	wm150	4.57	291.68	-2.92
+wm150	wm151	8.29	302.14	-7.98
+wm151	wm152	4.06	307.28	-17.18	;w lewo glowny ciag.
+wm152	wm153	7.57	312.99	-35.08	; w prawo waska odnoga w dol.
+wm153	wm154	8.97	246.12	2.41
+wm154	wm155	5.38	145.38	12.35
+wm155	wm156	0.61	68.32	50.94
+wm156	wm157	3.33	193.34	5.47
+wm157	wm158	3.06	290.33	21.37	;kontynuacja w prawo do gory.
+wm151	wm151_01	3.64	219.83	4.85
+wm151_01	wm151_02	4.02	299.14	-6.88
+wm151_02	wm151_03	3.85	176.07	11.49
+wm151_03	wm158	6.28	283.84	-11.21
+*end Meander_Zachodni3

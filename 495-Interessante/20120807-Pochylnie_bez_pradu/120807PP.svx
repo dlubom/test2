@@ -1,0 +1,112 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de ""
+;cavern part pl "Pochylnie bez prądu"
+
+;file date 2024-03-08
+;file team "Karol Makowski"
+
+;source file: 120807PP.SRV
+*case preserve
+
+*begin Pochylnie_bez_pradu
+;#SEGMENT	/Pochylnie bez pradu
+*title "Pochylnie bez prądu"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.8 degrees
+
+*date 2012.08.07
+
+;Maciej Dziurka (obsluga Disto-X), Tomasz Olczak (kartowanie)
+*team Tomasz Olczak (sketch PDA/PocketTopo)
+*team Maciej Dziurka (DistoX1)
+*team <name surename> (marking)
+
+;Disto-X + Palm
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+zg058	rs001	2.64	158.41	-51.02
+rs001	rs002	6.05	285.6	-49.39
+rs002	..	1.82	253.2	2.73
+rs002	..	2.81	159.71	0.06
+rs002	..	1.46	89.41	-0.74
+rs002	rs003	1.74	84.83	-29.85
+rs003	rs004	8.15	323.28	-42.19
+rs004	..	2.03	250.33	1.25
+rs004	..	1.2	306.89	84.96
+rs004	rs005	2.22	335.95	-27.51
+rs005	rs005_01	2.61	157.36	-40.07
+rs005	rs006	3.69	301.63	-38.16
+rs006	rs007	3.86	344.21	-43.69
+rs007	rs008	3.2	349.42	-10.2
+rs008	rs008_01	4.95	84.02	52.07
+rs008	..	1.54	66.78	2.16
+rs008	..	1.88	119.71	4.69
+rs008	rs009	4.86	308.74	-28.53
+rs009	rs010	6.65	343.46	2.99
+rs010	rs011	2.33	258.98	-24.09
+rs011	rs012	7.44	325.0	-7.64
+rs012	..	2.9	216.81	-0.84
+rs012	..	1.47	255.86	81.97
+rs012	rs012_01	5.5	118.69	49.16
+rs012	rs012_02	7.64	311.36	7.94
+rs012	rs013	5.95	289.75	-15.61
+rs013	rs014	3.63	35.6	28.4
+rs014	..	10.8	141.63	7.33
+rs014	rs014_01	6.23	276.87	44.8
+rs014	rs015	10.83	274.36	-40.28
+rs015	rs016	3.96	324.42	-38.37
+rs016	rs017	2.53	251.24	-34.79
+rs017	rs017_01	9.56	296.76	21.6
+rs017	rs018	4.48	306.69	-8.94
+rs018	rs019	1.18	14.5	23.93
+rs019	rs019_01	4.4	194.34	50.28
+rs019	rs020	3.93	297.6	-3.63
+rs020	rs021	4.17	301.69	-11.05
+rs021	rs021_01	6.56	147.82	71.16
+rs021	rs022	2.62	277.88	22.19
+rs022	rs023	2.32	225.91	-1.71
+rs023	rs024	7.43	288.2	-30.33
+rs024	..	2.69	229.11	5.23
+rs024	rs025	1.79	208.35	-2.2
+rs025	rs026	6.76	339.34	-16.46
+rs026	rs026_01	7.78	147.22	40.56
+rs026	rs027	5.25	248.82	-7.39
+rs027	rs028	2.68	213.91	-1.94
+rs028	rs029	2.55	227.71	30.97
+rs029	rs029_01	7.57	52.33	53.2
+rs029	..	4.46	346.29	2.81
+rs029	rs029_02	4.11	330.52	-49.41
+rs029	rs030	4.87	267.57	-4.84
+rs030	..	1.27	203.82	-2.59
+rs030	..	1.77	33.45	0.27
+rs030	rs031	4.66	283.87	29.69
+rs031	rs032	2.41	1.39	27.71
+rs032	rs032_01	13.05	121.34	28.78
+rs032	rs033	3.22	357.06	59.61
+rs033	rs034	2.89	240.5	41.37
+rs034	rs034_01	10.13	305.59	33.61
+rs034	rs034_02	7.71	356.54	-53.05
+rs034	rs035	6.2	168.91	13.91
+rs035	rs036	1.7	223.5	41.93
+rs034	rs037	5.16	324.77	-36.02
+rs037	rs038	6.23	348.16	36.81
+rs038	rs039	2.98	312.34	-21.35
+rs039	gh003	1.42	298.37	18.33
+*end Pochylnie_bez_pradu

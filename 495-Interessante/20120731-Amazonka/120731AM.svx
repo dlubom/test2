@@ -1,0 +1,72 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de "Amazonas"
+;cavern part pl "Amazonka"
+
+;file date 2024-03-07
+;file team "Karol Makowski"
+
+;source file: 120731AM.SRV
+*case preserve
+
+*begin Amazonka
+;#SEGMENT	/Amazonka
+*title "Amazonka"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.8 degrees
+
+*date 2012.07.31
+
+;Rafal Mateja (znaczenie pkt.+ obsluga Disto-X), Dariusz Lubomski (kartowanie)
+;Disto-X + Palm
+*team Dariusz Lubomski (sketch PDA/PocketTopo)
+*team Rafał Mateja (DistoX1)
+*team Rafał Mateja (marking)
+
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+am009_1	am009_2	8.76	100.46	-71.78	; 0.0 strzal w dol niezjechanej studzienki
+am009	am009_1	7.82	107.26	-39.21
+am008	am009	40.9	97.49	-84.05
+am008	..	32.74	125.27	-87.42
+am008	..	1.99	280.21	34.87
+am008	..	6.76	344.25	52.19
+am008	..	9.69	278.82	75.81
+am008	..	2.71	293.59	-49.64
+am008	..	10.49	283.23	-73.27
+am008	..	28.53	313.4	-85.26
+am008	..	5.35	354.97	-73.88
+am008	..	10.2	359.46	-80.11
+am008	..	10.28	295.15	-69.57
+am008	..	4.64	111.86	32.22
+am008	..	2.73	183.06	58.02
+am008	..	6.48	196.07	77.81
+am008	..	12.39	204.37	83.41
+am007	am008	4.35	320.28	-32.85
+am006	am007	10.61	344.25	-82.46
+am006	..	5.85	314.68	-6.97
+am005	am006	3.43	317.47	-19.59
+am004	am005	4.54	110.23	-84.24
+am004	uts003	9.95	186.88	-20.67
+am004	am_dno	23.04	126.59	-79.03	;dostrzal do dna
+am003	am004	3.14	46.86	-23.41
+am002	am003	8.65	229.94	-77.97
+am001	am002	15.27	30.7	-82.12
+u08_02_4	am001	0.58	169.49	-17.78
+*end Amazonka

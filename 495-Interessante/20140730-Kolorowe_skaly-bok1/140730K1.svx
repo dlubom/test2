@@ -1,0 +1,65 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de ""
+;cavern part pl "Kolorowe skały - bok1"
+
+;file date 2024-03-09
+;file team "Karol Makowski"
+
+;source file: 140730K1.srv
+*case preserve
+
+*begin Kolorowe_skaly-bok1
+*title "Kolorowe skały - bok1"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 3.0 degrees
+
+*date 2014.07.30
+
+;Marcin Slowik (kartowanie), Mahyar Kafash (Disto)
+*team Marcin Słowik (sketch PDA/PocketTopo)
+*team Mahyar Kafash (DistoX1)
+*team <name surename> (marking)
+
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+*flags duplicate
+ws103	ws104	4.846	109.19	7.93	;powtorzony
+*flags not duplicate
+ws104	..	6.59	334.05	-19.76
+ws104	..	2.82	130.0	7.37
+ws104	..	1.5	143.29	10.06
+ws104	..	4.98	257.5	-8.8
+ws104	..	4.66	42.46	2.29
+ws104	..	5.43	11.4	-5.98
+ws104	..	2.16	317.28	39.49
+ws104	..	2.82	300.86	-25.95
+ws104	ws104_1	2.38	120.57	-19.34
+ws104_1	..	1.03	118.9	1.72
+ws104_1	..	0.92	219.49	-0.87
+ws104_1	ws104_11	3.35	164.45	79.09	;domiar
+ws104_1	..	1.15	268.55	-1.99
+ws104_1	ws104_2	2.3	169.18	-56.21
+ws104_2	..	3.03	271.01	60.88
+ws104_2	..	3.0	271.04	52.8
+ws104_2	ws104_22	2.12	161.54	2.11	;domiar
+ws104_2	..	1.99	239.68	-9.72
+ws104_2	ws104_3	4.95	271.16	-40.8
+ws104_3	ws104_4	6.98	286.62	-67.84
+*end Kolorowe_skaly-bok1

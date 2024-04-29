@@ -1,0 +1,61 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de ""
+;cavern part pl "Boczny komin w partiach Optymistycznych"
+
+;file date 2024-03-07
+;file team "Karol Makowski"
+
+;source file: 120731BK.SRV
+*case preserve
+
+*begin Boczny_komin_w_partiach_Optymistycznych
+;#SEGMENT	/Boczny komin w partiach Optymistycznych
+*title "Boczny komin w partiach Optymistycznych"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.8 degrees
+
+*date 2012.08.01
+
+;Jan Dudziec (znaczenie pkt. + obsluga Disto-X), Dariusz Lubomski (kartowanie)
+*team Dariusz Lubomski (sketch PDA/PocketTopo)
+*team Jan Dudziec (DistoX1)
+*team Jan Dudziec (marking)
+
+;Disto-X + Palm
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+;wyczowalny przewiew do wewnatrz komina od jaskini, jest szansa na kopanie
+
+*data normal from to tape compass clino ignoreall
+
+ws062	ws062_1	5.66	114.57	59.59
+ws062_1	ws062_2	1.5	172.04	22.69
+ws062_2	..	1.12	346.49	61.94
+ws062_2	..	2.24	47.99	32.11
+ws062_2	ws062_3	5.67	181.09	41.94
+ws062_3	ws062_4	1.39	121.39	20.35
+ws062_4	..	1.94	36.03	57.04
+ws062_4	..	2.33	38.55	19.22
+ws062_4	ws062_5	2.84	197.03	20.85
+ws062_5	..	0.76	265.52	13.86
+ws062_5	..	0.83	137.48	88.87
+ws062_5	ws062_6	2.61	125.57	27.1
+ws062_6	..	0.49	88.45	-1.4
+ws062_6	ws062_7	2.16	90.73	17.04
+ws062_7	..	0.88	328.52	9.17
+ws062_7	ws062_8	2.34	58.35	13.47	;domiar do zwerzenia
+*end Boczny_komin_w_partiach_Optymistycznych

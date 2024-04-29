@@ -1,0 +1,88 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de "Mäander 2"
+;cavern part pl "Meander 1"
+
+;file date 2024-03-03
+;file team "Karol Makowski"
+
+;source file: MEA2.SRV
+*case preserve
+
+*begin Meander2
+*title "Meander 2"
+
+*cs UTM33N
+*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.4 degrees
+
+*date 2009.08.05
+
+;Jaroslaw Wrzesien, Ali
+*team <name surename> (sketch <device/app>)
+*team <name surename> (DistoX1)
+*team <name surename> (marking)
+
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+hg020	hg021	2.84	190.07	-5.25
+hg021	hg022	3.93	115.13	5.59
+hg022	hg023	4.09	185.87	-15.6
+hg023	hg024	6.01	137.82	-2.74
+hg024	hg025	2.25	178.12	-32.57
+hg025	hg026	1.59	227.14	-19.69
+hg026	hg027	4.54	209.23	-8.33
+hg027	hg028	7.25	231.45	-0.95
+hg028	hg029	3.25	222.73	-10.54
+hg029	hg030	7.66	247.56	1.76
+hg030	hg031	6.9	327.42	-4.67
+hg031	hg032	2.34	243.47	5.4
+hg032	hg033	4.07	326.16	10.17
+hg033	hg034	6.62	250.24	-11.9
+hg034	hg035	3.16	59.67	17.69
+hg035	hg036	6.79	169.46	1.04
+hg036	hg037	2.69	246.19	-36.22
+hg037	hg038	11.81	186.49	3.97
+hg038	hg039	3.5	282.22	-14.54
+hg039	hg040	9.14	217.47	-4.84
+hg040	hg041	3.44	121.29	1.54
+hg041	hg042	3.56	217.75	17.31
+hg042	hg043	4.38	136.59	6.4
+hg043	hg044	2.46	47.95	-29.79
+hg044	hg045	2.77	129.63	-15.05
+hg045	hg046	1.89	138.61	-0.44
+hg046	hg047	13.38	215.6	-2.19
+hg047	hg048	6.04	245.69	1.16
+hg048	hg049	8.24	199.47	-5.78
+hg049	hg050	1.95	130.29	5.98
+hg050	hg051	13.62	220.84	0.59
+hg051	hg052	8.18	168.22	-3.31
+hg052	hg053	7.65	305.25	-2.5
+hg053	hg054	4.28	219.55	18.86
+hg054	hg055	6.48	208.11	-23.34
+hg055	hg056	5.15	331.46	25.57
+hg056	hg057	13.01	234.14	0.37
+hg057	hg058	9.41	184.67	-3.51
+hg058	hg059	12.77	192.38	-3.89
+hg059	hg060	3.38	308.67	22.0
+hg060	hg061	6.94	313.15	-13.79
+hg061	hg062	7.67	272.63	-4.69
+hg062	hg063	3.74	275.82	9.67
+hg063	hg064	4.28	301.92	8.59
+hg064	hg065	5.39	9.17	-1.83
+hg065	hg066	4.95	296.09	-8.66
+*end Meander2
