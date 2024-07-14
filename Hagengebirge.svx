@@ -7,8 +7,8 @@
 *declination auto	352471.604	5266842.907	1935	; Baza
 
 *infer exports on
-	
-	
+
+
 *include Baza\BAZAPK.svx
 *include 030-Tantalhohle\030-master.svx
 *include 158-Atschiloch\158-master.svx
@@ -38,5 +38,8 @@
 *include 577-Das_Erste_Mal\577-master.svx
 *include 578-Hohle_unter_den_Felsbrucken\578-master.svx
 *include 579-Vorderer_Kragenkopf_Eishohle\579-master.svx
+
+
+*include grenze_sagis.svx
 
 *end
