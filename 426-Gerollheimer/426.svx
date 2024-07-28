@@ -1,0 +1,12 @@
+*case preserve
+*begin 426-Gerollheimer
+
+*cs UTM33N
+*declination auto	352753.149	5265514.358	2052
+
+*entrance 01-eingang
+
+*include geroll.svx
+*equate 01-eingang	g1.ger	; entrance 01
+
+*end 426-Gerollheimer

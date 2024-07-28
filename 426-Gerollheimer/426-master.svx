@@ -1,0 +1,8 @@
+*cs UTM33N
+*cs out UTM33N
+
+*declination auto	352753.149	5265514.358	2052
+
+*include 426.svx		; otwor
+;*fix	426-Gerollheimer.01-eingang	0	0	0	;GPS Location UTM
+*fix	426-Gerollheimer.01-eingang	352753.149	5265514.358	2052	;GPS Location UTM
