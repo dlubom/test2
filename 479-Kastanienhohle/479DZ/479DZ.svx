@@ -1,0 +1,60 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 479
+;cavern name de "Kastanienhohle"
+;cavern name pl "Kasztanowa"
+;cavern part de "Kastanienhohle"
+;cavern part pl ""
+
+;file date 2024-07-28
+;file team "Karol Makowski"
+
+;source file: 479DZ.SRV
+*case preserve
+
+*begin 479DZ
+*title "Darek i Zbyszek"
+
+*cs UTM33N
+*declination auto	352738.258	5266915.875	1970	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 1.7
+
+*entrance 13
+
+*date 2002.08.19
+
+*team <name surename> (sketch Notes)
+*team <name surename> (Friberg)
+*team <name surename> (marking)
+
+*instrument tape "Friberg <id>"
+*instrument compass "Friberg <id>"
+*instrument clino "Friberg <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+;#NOTE	13	/Kasztanowa Kastanienhohle [479]
+;#FLAG	13	/GPS Location
+;#FIX	13   E13:02:35.4  N47:32:20.5   1964.47m     ;dm
+
+
+*data normal from to tape compass clino ignoreall
+
+12	13	26.55	0.0	90.0
+11	12	2.3	6.0	3.25
+10	11	4.72	202.0	24.0
+9	10	8.16	269.0	42.0
+8	9	12.4	233.0	36.0
+7	8	3.15	220.0	51.0
+6	7	4.82	216.0	5.0
+1_1	6	3.8	208.0	-8.0
+5	6	4.2	342.0	60.0
+4	5	3.63	340.0	17.0
+3	4	1.72	220.0	50.0
+2	3	3.08	285.0	60.0
+1	2	9.89	286.0	34.0
+*end 479DZ

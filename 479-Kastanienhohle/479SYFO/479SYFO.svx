@@ -1,0 +1,46 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 479
+;cavern name de "Kastanienhohle"
+;cavern name pl "Kasztanowa"
+;cavern part de "Kastanienhohle"
+;cavern part pl "Syfony"
+
+;file date 2024-07-28
+;file team "Karol Makowski"
+
+;source file: 479SYFO.SRV
+*case preserve
+
+*begin 479SYFO
+*title "Syfony"
+
+*cs UTM33N
+*declination auto	352738.258	5266915.875	1970	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 1.8
+
+*date 2003.08.03
+
+*team Dariusz Bartoszewski (sketch Notes)
+*team Maja Juniewicz (Friberg)
+*team Maja Juniewicz (tape)
+
+*instrument tape "Friberg <id>"
+*instrument compass "Friberg <id>"
+*instrument clino "Friberg <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+;Friberg
+;Dariusz Bartoszewski(book), Maja Juniewicz(instruments)
+
+*data normal from to tape compass clino ignoreall
+
+s0	s0_1	3.5	0.0	-90.0
+a20	a20_1	3.6	0.0	-90.0
+a20	s0	20.58	31.3	0.0
+*end 479SYFO

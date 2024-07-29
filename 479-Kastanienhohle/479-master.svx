@@ -1,0 +1,8 @@
+*cs UTM33N
+*cs out UTM33N
+
+*declination auto	352738.258	5266915.875	1970
+
+*include 479.svx		; otwor
+;*fix	479-Kastanienhohle.01-eingang	0	0	0	;GPS Location UTM
+*fix	479-Kastanienhohle.01-eingang	352738.258	5266915.875	1970	;GPS Location UTM

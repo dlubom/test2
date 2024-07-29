@@ -321,7 +321,7 @@
 .BOOK	[426] Gerollheimer
 .NAME	GERO
 .PATH	426-Gerollheimer
-.STATUS	2571
+.STATUS	2568
 .REF	5265514.358 352753.149 33 -1.443 2052 1 47 31 34.920 13 2 37.920 27 "WGS 1984"
 .SURVEY	Gerollenheim
 .NAME	GEROLL
@@ -367,59 +367,59 @@
 .STATUS	327688
 .SURVEY	Bok
 .NAME	479BOK
-.PATH	479-Kastanienhohle
+.PATH	479-Kastanienhohle\479BOK
 .STATUS	8
 .SURVEY	Ci¹g g³ówny od Studni Kryszta³owej do Salki na Rozdro¿u
 .NAME	479ROZ
-.PATH	479-Kastanienhohle
+.PATH	479-Kastanienhohle\479ROZ
 .STATUS	8
 .SURVEY	Darek i Zbyszek
 .NAME	479DZ
-.PATH	479-Kastanienhohle
+.PATH	479-Kastanienhohle\479DZ
 .STATUS	8
 .SURVEY	Do Œródsyfonu
 .NAME	479SROD
-.PATH	479-Kastanienhohle
+.PATH	479-Kastanienhohle\479SROD
 .STATUS	8
 .SURVEY	Kasztanowa Sopocka Busola Pierwszy pomiar
 .NAME	479SOP
-.PATH	479-Kastanienhohle
+.PATH	479-Kastanienhohle\479SOP
 .STATUS	8
 .SURVEY	Korytarz z wod¹ do Studni St³uczonego Ty³ka
 .NAME	479WTYL
-.PATH	479-Kastanienhohle
+.PATH	479-Kastanienhohle\479WTYL
 .STATUS	8
 .SURVEY	Meander do Ty³u i Salka Zachwytu
 .NAME	479ZACH
-.PATH	479-Kastanienhohle
+.PATH	479-Kastanienhohle\479ZACH
 .STATUS	8
 .SURVEY	Obejœcie gór¹ od Studni St³uczonego Ty³ka
 .NAME	479TYL
-.PATH	479-Kastanienhohle
+.PATH	479-Kastanienhohle\479TYL
 .STATUS	8
 .SURVEY	Od Dziurawej Studni do grifonu
 .NAME	479GRIF
-.PATH	479-Kastanienhohle
+.PATH	479-Kastanienhohle\479GRIF
 .STATUS	8
 .SURVEY	Od Salki na Rozdzielu do dna nastepnej studni
 .NAME	479NAST
-.PATH	479-Kastanienhohle
+.PATH	479-Kastanienhohle\479NAST
 .STATUS	8
 .SURVEY	Petla nad Dziurawym Kominem
 .NAME	479KOM
-.PATH	479-Kastanienhohle
+.PATH	479-Kastanienhohle\479KOM
 .STATUS	8
 .SURVEY	Pomiar z Vaskiem przyrzadami stopnie plus grad
 .NAME	479VAS
-.PATH	479-Kastanienhohle
+.PATH	479-Kastanienhohle\479VAS
 .STATUS	8
-.SURVEY	Przez Studbniê z Want¹ do Hydrozagadki
+.SURVEY	Przez Studniê z Want¹ do Hydrozagadki
 .NAME	479HYDRO
-.PATH	479-Kastanienhohle
+.PATH	479-Kastanienhohle\479HYDRO
 .STATUS	8
 .SURVEY	Syfony
 .NAME	479SYFO
-.PATH	479-Kastanienhohle
+.PATH	479-Kastanienhohle\479SYFO
 .STATUS	8
 .ENDBOOK
 .BOOK	[480] Comeback-hohle A3-36

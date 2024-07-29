@@ -1,0 +1,63 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 479
+;cavern name de "Kastanienhohle"
+;cavern name pl "Kasztanowa"
+;cavern part de "Kastanienhohle"
+;cavern part pl ""
+
+;file date 2024-07-28
+;file team "Karol Makowski"
+
+;source file: 479NAST.SRV
+*case preserve
+
+*begin 479NAST
+*title "Od Salki na Rozdzielu do dna nastepnej studni"
+
+*cs UTM33N
+*declination auto	352738.258	5266915.875	1970	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 1.8
+
+*date 2003.07.31
+
+*team Marek Wierzbowski (sketch Notes)
+*team Rafal Mateja (tape)
+*team <name surename> (Friberg)
+
+*instrument tape "Friberg <id>"
+*instrument compass "Friberg <id>"
+*instrument clino "Friberg <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+;Friberg
+;Marek Wierzbowski(book), Rafal Mateja(tape)
+
+*data normal from to tape compass clino ignoreall
+
+b2	n1	5.92	357.0	-69.0
+b3	b2	4.73	225.0	-19.0
+b4	b3	2.89	312.0	-2.0
+b5	b4	4.68	122.0	-45.0
+b6	b5	7.68	219.0	0.0
+b7	b6	4.24	202.0	-14.0
+b_2_8	b7	6.15	123.0	13.0
+b_2_9	b_2_8	5.9	108.0	-26.0
+b8	b7	4.01	359.0	54.0
+b9	b8	11.07	269.0	70.0
+b10	b9	13.02	291.0	63.0
+b11_1	b10	4.4	281.0	68.0
+b11	b10	4.75	40.0	-21.0
+b12	b11	4.59	94.0	-79.0
+b13	b12	8.25	21.0	-36.0
+b14	b13	5.76	44.0	-56.0
+n1	b14	2.13	123.0	-17.0
+x2	n1	4.66	18.0	-9.0
+x3	x2	7.22	338.0	-24.0
+x4	x3	3.54	52.0	-63.0
+*end 479NAST

@@ -1,0 +1,59 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 479
+;cavern name de "Kastanienhohle"
+;cavern name pl "Kasztanowa"
+;cavern part de "Kastanienhohle"
+;cavern part pl ""
+
+;file date 2024-07-28
+;file team "Karol Makowski"
+
+;source file: 479SOP.SRV
+*case preserve
+
+*begin 479SOP
+*title "Kasztanowa Sopocka Busola Pierwszy pomiar"
+
+*cs UTM33N
+*declination auto	352738.258	5266915.875	1970	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 1.7
+
+*date 2002.08.19
+
+*team <name surename> (sketch Notes)
+*team <name surename> (Friberg)
+*team <name surename> (marking)
+
+*instrument tape "Friberg <id>"
+*instrument compass "Friberg <id>"
+*instrument clino "Friberg <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+83	82	3.8	350.0	72.0	;azymut byl -10
+84	83	5.4	228.0	28.0
+85	84	20.0	240.0	59.0
+86	85	8.98	200.0	12.0
+87	86	5.2	230.0	42.0
+88	87	4.68	202.0	2.0
+89	88	9.6	212.0	33.0
+90	89	2.54	166.0	-2.0
+91	90	1.64	270.0	-14.0
+92	91	6.85	208.0	4.0
+93	92	3.94	202.0	12.0
+93	93_1	4.9	270.0	-90.0
+94	93	3.42	180.0	3.0
+95	94	9.99	202.0	37.0
+96	95	8.0	210.0	54.0
+97	96	1.69	90.0	18.0
+98	97	17.2	150.0	63.0
+99	98	9.29	270.0	24.0
+*end 479SOP

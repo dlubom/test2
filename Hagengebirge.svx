@@ -21,6 +21,8 @@
 *include 425-St.Blasius-Labyrinth\425-master.svx
 *include 426-Gerollheimer\426-master.svx
 
+*include 479-Kastanienhohle\479-master.svx
+
 *include 482-Hohle_der_blaunen_Nebel\482-master.svx
 
 *include 491-Hohle_in_Roten_Steinen\491-master.svx

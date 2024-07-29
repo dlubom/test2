@@ -1,0 +1,51 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 479
+;cavern name de "Kastanienhohle"
+;cavern name pl "Kasztanowa"
+;cavern part de "Kastanienhohle"
+;cavern part pl ""
+
+;file date 2024-07-28
+;file team "Karol Makowski"
+
+;source file: 479WTYL.SRV
+*case preserve
+
+*begin 479WTYL
+*title "Korytarz z wodą do Studni Stłuczonego Tyłka"
+
+*cs UTM33N
+*declination auto	352738.258	5266915.875	1970	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 1.8
+
+*date 2003.08.03
+
+*team Dariusz Bartoszewski (sketch Notes)
+*team Rafal Mateja (Friberg)
+*team <name surename> (tape)
+
+*instrument tape "Friberg <id>"
+*instrument compass "Friberg <id>"
+*instrument clino "Friberg <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+;Friberg
+;Dariusz Bartoszewski(book), Rafal Mateja(instruments)
+
+*data normal from to tape compass clino ignoreall
+
+n36	p8	2.28	211.0	9.0
+p8	p7	7.71	208.0	1.0
+p7	p6	3.62	162.0	-2.0
+p6	p5	9.98	197.0	1.0
+p5	p4	20.06	186.0	0.0
+p4	p3	1.32	61.0	-11.0
+p3	p2	8.59	184.0	0.0
+p2	p1	12.04	205.0	12.0
+*end 479WTYL

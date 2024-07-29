@@ -1,0 +1,51 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 479
+;cavern name de "Kastanienhohle"
+;cavern name pl "Kasztanowa"
+;cavern part de "Kastanienhohle"
+;cavern part pl ""
+
+;file date 2024-07-28
+;file team "Karol Makowski"
+
+;source file: 479SROD.SRV
+*case preserve
+
+*begin 479SROD
+*title "Do Śródsyfonu"
+
+*cs UTM33N
+*declination auto	352738.258	5266915.875	1970	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 1.8
+
+*date 2003.08.03
+
+*team Dariusz Bartoszewski (sketch Notes)
+*team Rafal Mateja (Friberg)
+*team Rafal Mateja (tape)
+
+*instrument tape "Friberg <id>"
+*instrument compass "Friberg <id>"
+*instrument clino "Friberg <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+;Friberg
+;Dariusz Bartoszewski(book), Rafal Mateja(instruments)
+
+*data normal from to tape compass clino ignoreall
+
+a17	s7	6.88	23.0	41.0
+s7	s6	3.22	113.0	-47.0
+s6	s5	3.21	359.0	-35.0
+s5	s4	6.77	28.0	1.0
+s4	s3	10.34	31.0	-12.0
+s3	s2	8.06	44.0	-48.0
+s2	s1	4.79	151.0	-44.0
+s1	s0	1.7	0.0	-90.0
+*end 479SROD

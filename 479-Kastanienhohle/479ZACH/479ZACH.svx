@@ -1,0 +1,62 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 479
+;cavern name de "Kastanienhohle"
+;cavern name pl "Kasztanowa"
+;cavern part de "Kastanienhohle"
+;cavern part pl ""
+
+;file date 2024-07-28
+;file team "Karol Makowski"
+
+;source file: 479ZACH.SRV
+*case preserve
+
+*begin 479ZACH
+*title "Meander do Tyłu i Salka Zachwytu"
+
+*cs UTM33N
+*declination auto	352738.258	5266915.875	1970	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 1.8
+
+*date 2003.07.31
+
+*team Dariusz Bartoszewski (sketch Notes)
+*team Maja Juniewicz (Friberg)
+*team Jaroslaw Jezusek (tape)
+
+*instrument tape "Friberg <id>"
+*instrument compass "Friberg <id>"
+*instrument clino "Friberg <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+;Friberg
+;Dariusz Bartoszewski(book), Jaroslaw Jezusek(tape), Maja Juniewicz(instruments)
+
+*data normal from to tape compass clino ignoreall
+
+m11	23	1.41	93.0	4.0
+m10	m11	3.12	147.0	17.0
+m9	m10	1.2	0.0	90.0
+m8	m9	3.1	112.0	25.0
+m6	m8	1.55	26.0	11.0
+m5	m6	6.82	66.0	26.0
+m4	m5	1.37	157.0	11.0
+m3	m4	1.9	114.0	20.0
+m2	m3	3.15	135.0	28.0
+m1	m2	4.11	100.0	8.0
+m39	m1	1.5	118.0	17.0
+m38	m39	1.35	170.0	15.0
+m37	m38	2.25	112.0	6.0
+m31	m37	3.25	131.0	85.0
+m31	m30	9.55	221.0	0.0
+m31	m33	3.59	55.0	-20.0
+m33	m34	2.51	312.0	-2.0
+m34	m35	4.98	42.0	-18.0
+m35	m36	12.65	0.0	-90.0
+*end 479ZACH

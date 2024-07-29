@@ -1,0 +1,57 @@
+*case preserve
+*begin 479-Kastanienhohle
+
+*cs UTM33N
+*declination auto	352738.258	5266915.875	1970
+
+*entrance 01-eingang
+
+;------------------------------------------------------------------------------------------------
+*include 479DZ\479DZ.svx
+*equate 01-eingang	479DZ.13	; entrance 01
+;------------------------------------------------------------------------------------------------
+*include 479BOK\479BOK.svx	; Bok
+*equate 479DZ.10	479BOK.10
+;------------------------------------------------------------------------------------------------
+*include 479VAS\479VAS.svx	; Pomiar z Vaskiem przyrzadami stopnie plus grad
+*equate 479DZ.1_1	479VAS.1_1
+;------------------------------------------------------------------------------------------------
+*include 479SOP\479SOP.svx	; Kasztanowa Sopocka Busola Pierwszy pomiar
+*equate 479VAS.82	479SOP.82
+*equate 479VAS.99	479SOP.99
+;------------------------------------------------------------------------------------------------
+*include 479ZACH\479ZACH.svx	; Meander do Tyłu i Salka Zachwytu
+*equate 479VAS.23	479ZACH.23
+;------------------------------------------------------------------------------------------------
+*include 479ROZ\479ROZ.svx	; Ciąg główny od Studni Kryształowej do Salki na Rozdrożu
+*equate 479VAS.100	479ROZ.100
+;------------------------------------------------------------------------------------------------
+*include 479NAST\479NAST.svx	; Od Salki na Rozdzielu do dna nastepnej studni
+*equate 479ROZ.n1	479NAST.n1
+;------------------------------------------------------------------------------------------------
+*include 479KOM\479KOM.svx	; Petla nad Dziurawym Kominem
+*equate 479NAST.b_2_9	479KOM.b_2_9
+;------------------------------------------------------------------------------------------------
+*include 479GRIF\479GRIF.svx	; Od Dziurawej Studni do grifonu
+*equate 479KOM.z1	479GRIF.z1
+*equate 479GRIF.b11	479NAST.b11
+;------------------------------------------------------------------------------------------------
+*include 479HYDRO\479HYDRO.svx	; Przez Studnię z Wantą do Hydrozagadki
+*equate 479NAST.b11	479HYDRO.b11
+;------------------------------------------------------------------------------------------------
+*include 479SYFO\479SYFO.svx	; Syfony	
+*equate 479HYDRO.a20	479SYFO.a20
+;------------------------------------------------------------------------------------------------
+*include 479SROD\479SROD.svx	; Do Śródsyfonu	
+*equate 479SYFO.s0	479SROD.s0
+*equate 479SROD.a17	479HYDRO.a17
+;------------------------------------------------------------------------------------------------
+*include 479WTYL\479WTYL.svx	; Korytarz z wodą do Studni Stłuczonego Tyłka	
+*equate 479ROZ.n36	479WTYL.n36
+;------------------------------------------------------------------------------------------------
+*include 479TYL\479TYL.svx	; Obejście górą od Studni Stłuczonego Tyłka	
+*equate 479ROZ.n37	479TYL.n37
+*equate 479TYL.n27	479ROZ.n27
+
+
+*end 479-Kastanienhohle
