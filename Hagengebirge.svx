@@ -30,6 +30,8 @@
 *include 494-Respektschacht\494-master.svx
 *include 495-Interessante\495-master.svx
 
+*include 498-Maander_unter_dem_Laschen\498-master.svx
+
 *include 500-B3-6\500-master.svx
 
 *include 571-Muminshohle\571-master.svx

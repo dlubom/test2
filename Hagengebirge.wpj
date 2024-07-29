@@ -1522,7 +1522,7 @@
 .ENDBOOK
 .BOOK	[498] Meander Pod Kosowka Maander unter dem Laschen
 .NAME	498PK
-.STATUS	2570
+.STATUS	2569
 .REF	5266345.648 353229.710 33 -1.439 1924 1 47 32 2.220 13 2 59.700 27 "WGS 1984"
 .SURVEY	498_Maander_unter_dem_Laschen_plan&profile_2009.png
 .NAME	498_Maander_unter_dem_Laschen_plan&profile_2009.png
@@ -1530,7 +1530,7 @@
 .STATUS	327688
 .SURVEY	podkosowka
 .NAME	498PKP
-.PATH	498_Maander_unter_dem_Laschen
+.PATH	498-Maander_unter_dem_Laschen
 .STATUS	8
 .ENDBOOK
 .BOOK	[499] Wysoka Z27 Hoher Schacht

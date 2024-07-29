@@ -1,0 +1,8 @@
+*cs UTM33N
+*cs out UTM33N
+
+*declination auto	353229.710	5266345.648	1924
+
+*include 498.svx		; otwor
+;*fix	498-Maander_unter_dem_Laschen.01-eingang	0	0	0	;GPS Location UTM
+*fix	498-Maander_unter_dem_Laschen.01-eingang	353229.710	5266345.648	1924	;GPS Location UTM

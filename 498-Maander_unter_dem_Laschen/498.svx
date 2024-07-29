@@ -1,0 +1,14 @@
+*case preserve
+*begin 498-Maander_unter_dem_Laschen
+
+*cs UTM33N
+*declination auto	353229.710	5266345.648	1924
+
+*entrance 01-eingang
+
+
+*include 498PKP.svx
+*equate 01-eingang	498PKP.podk	; entrance 01
+
+
+*end 498-Maander_unter_dem_Laschen
