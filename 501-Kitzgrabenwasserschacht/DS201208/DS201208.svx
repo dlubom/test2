@@ -1,0 +1,54 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 501
+;cavern name de "Kitzgrabenwasserschacht"
+;cavern name pl ""
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2024-07-30
+;file team "Karol Makowski"
+
+;source file: DS201208.SRV
+*case preserve
+
+*begin Do_syfonu
+*title "Do syfonu"
+
+*cs UTM33N
+*declination auto	354260.080	5266392.140	1991	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.8 degrees
+
+*date 2012.08.13
+
+*team Tomasz Olczak (sketch PDA/PocketTopo)
+*team Oliwia Ryśnik (DistoX1)
+*team Tomasz Olczak (marking)
+
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+;#PREFIX	DS
+;#SEGMENT	/Kitzgrabenwasserschacht - do syfonu
+;Tomasz Olczak (PocketTopo), Oliwia Rysnik (Disto-X)
+;Disto-X + Palm
+
+*data normal from to tape compass clino ignoreall
+
+;Kitz:22	1_1	3.997	356.533	-4.033
+1_0	1_1	3.997	356.533	-4.033
+1_1	1_2	1.7	336.367	-26.067
+1_2	1_3	0.91	19.767	-36.967
+1_3	1_4	11.74	40.2	-64.633
+1_4	1_5	3.723	152.0	-20.9
+1_5	1_6	12.36	97.6	-55.333
+1_6	1_7	4.593	148.433	-38.4
+1_7	1_8	1.89	330.467	-16.7
+*end Do_syfonu

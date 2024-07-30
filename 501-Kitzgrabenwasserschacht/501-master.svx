@@ -1,0 +1,8 @@
+*cs UTM33N
+*cs out UTM33N
+
+*declination auto	354260.080	5266392.140	1991
+
+*include 501.svx		; otwor
+;*fix	501-Kitzgrabenwasserschacht.01-eingang	0	0	0	;GPS Location UTM
+*fix	501-Kitzgrabenwasserschacht.01-eingang	354260.080	5266392.140	1991	;GPS Location UTM

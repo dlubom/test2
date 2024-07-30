@@ -1,0 +1,74 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 501
+;cavern name de "Kitzgrabenwasserschacht"
+;cavern name pl ""
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2024-07-30
+;file team "Karol Makowski"
+
+;source file: 501KITPK.SRV
+*case preserve
+
+*begin Kitz
+*title "<add a title>"
+
+*cs UTM33N
+*declination auto	354260.080	5266392.140	1991	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.6 degrees
+
+*entrance 0
+
+*date 2011.08.11
+
+*team Radoslaw Paternoga (sketch Notes)
+*team Dariusz Lubomski (DistoX1)
+*team Radoslaw Paternoga (marking)
+
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+;#PREFIX	Kitz
+;#NOTE	0	/Kitzgrabenwasserschacht [501]
+;#FLAG	0	/GPS Location
+;#FIX	0   E13:03.815  N47:32.076   1991m
+
+;Disto-X
+;Radoslaw Paternoga (kartowanie-papier), Dariusz Lubomski (Disto-X)
+
+*data normal from to tape compass clino ignoreall
+
+0	1	4.38	10.2	-42.2
+1	2	7.43	47.9	-31.3
+2	3	6.7	129.0	-59.9
+3	4	3.64	94.8	-74.1
+4	5	1.45	27.8	-79.4
+5	6	8.48	156.3	2.2
+6	7	3.71	173.2	18.7
+7	8	2.36	144.6	2.9
+8	9	12.27	125.2	-63.1
+9	10	14.44	90.3	-73.5
+10	11	8.52	66.9	-57.4
+11	12	5.38	25.5	-11.5
+12	13	11.92	68.5	-69.7
+13	14	3.45	149.6	-19.8
+14	15	9.45	121.2	-59.3
+15	16	3.1	60.4	-24.8
+16	17	11.23	107.0	-67.7
+17	18	5.06	100.1	-59.8
+18	19	5.5	49.1	-61.5
+19	20	2.05	117.9	-40.0
+20	20_1	3.79	339.0	-7.8
+20	21	4.43	133.7	-52.2
+21	22	4.73	103.6	-14.4
+22	23	2.43	350.0	0.2
+*end Kitz

@@ -1,0 +1,26 @@
+*case preserve
+*begin 501-Kitzgrabenwasserschacht
+
+*cs UTM33N
+*declination auto	354260.080	5266392.140	1991
+
+*entrance 01-eingang
+
+;------------------------------------------------------------------------------------------------
+*include 501KITPK\501KITPK.svx	; Kitz
+*equate 01-eingang	Kitz.0	; entrance 01
+;------------------------------------------------------------------------------------------------
+*include KI201201\KI201201.svx	; Rura
+*equate Kitz.20_1	Rura.1_0
+;------------------------------------------------------------------------------------------------
+*include DS201208\DS201208.svx	; Do syfonu
+*equate Kitz.22	Do_syfonu.1_0
+;------------------------------------------------------------------------------------------------
+;*include kic1\kic1.svx		; RR
+;*equate Rura.1_14	RR.1_1
+;------------------------------------------------------------------------------------------------
+*include 501KITTM\501KITTM.svx	; Do drugiego syfonu
+*equate Rura.1_14	Do_drugiego_syfonu.1_0
+
+
+*end 501-Kitzgrabenwasserschacht

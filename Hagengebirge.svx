@@ -33,6 +33,7 @@
 *include 498-Maander_unter_dem_Laschen\498-master.svx
 
 *include 500-B3-6\500-master.svx
+*include 501-Kitzgrabenwasserschacht\501-master.svx 
 
 *include 571-Muminshohle\571-master.svx
 *include 572-Querhohle\572-master.svx

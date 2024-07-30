@@ -1,0 +1,62 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 501
+;cavern name de "Kitzgrabenwasserschacht"
+;cavern name pl ""
+;cavern part de ""
+;cavern part pl "Rura"
+
+;file date 2024-07-30
+;file team "Karol Makowski"
+
+;source file: KI201201.SRV
+*case preserve
+
+*begin Rura
+*title "Rura"
+
+*cs UTM33N
+*declination auto	354260.080	5266392.140	1991	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.8 degrees
+
+*date 2012.08.13
+
+*team Tomasz Olczak (sketch PDA/PocketTopo)
+*team Oliwia Ryśnik (DistoX1)
+*team Tomasz Olczak (marking)
+
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+;#PREFIX	R
+;#SEGMENT	/Kitzgrabenwasserschacht - rura
+;Tomasz Olczak (PocketTopo), Oliwia Rysnik (Disto-X)
+;Disto-X + Palm
+
+*data normal from to tape compass clino ignoreall
+
+;Kitz:20_1	1_1	1.91	330.933	-17.433
+1_0	1_1	1.91	330.933	-17.433
+1_1	1_2	2.85	343.8	-7.167
+1_2	1_25	1.98	321.1	-16.2
+1_25	1_3	0.777	354.9	-14.0
+1_3	1_35	1.397	287.8	6.167
+1_35	1_4	3.945	332.45	-14.0
+1_4	1_5	3.1	298.033	-15.033
+1_5	1_6	2.643	319.133	-11.0
+1_6	1_7	3.31	290.7	-16.6
+1_7	1_8	0.427	200.533	-7.133
+1_8	1_9	2.35	316.867	-8.633
+1_9	1_10	3.045	293.3	-12.4
+1_10	1_11	3.993	295.4	-6.333
+1_11	1_12	2.68	331.067	-8.033
+1_12	1_13	0.77	231.6	-42.567
+1_13	1_14	2.643	285.767	-5.067
+*end Rura

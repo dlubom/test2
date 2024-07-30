@@ -1522,7 +1522,7 @@
 .ENDBOOK
 .BOOK	[498] Meander Pod Kosowka Maander unter dem Laschen
 .NAME	498PK
-.STATUS	2569
+.STATUS	2568
 .REF	5266345.648 353229.710 33 -1.439 1924 1 47 32 2.220 13 2 59.700 27 "WGS 1984"
 .SURVEY	498_Maander_unter_dem_Laschen_plan&profile_2009.png
 .NAME	498_Maander_unter_dem_Laschen_plan&profile_2009.png
@@ -1575,7 +1575,7 @@
 .ENDBOOK
 .BOOK	[501] Kitzgrabenwasserschacht
 .NAME	501KIT
-.STATUS	2570
+.STATUS	2571
 .REF	5266392.140 354260.080 33 -1.428 1991 1 47 32 4.560 13 3 48.900 27 "WGS 1984"
 .SURVEY	501_Kizgrabenwasserschacht_plan_2013.svg
 .NAME	501_Kizgrabenwasserschacht_plan_2013.svg
@@ -1595,23 +1595,23 @@
 .STATUS	327688
 .SURVEY	2013-08-08 - Do drugiego syfonu
 .NAME	501KITTM
-.PATH	501-Kitzgrabenwasserschacht
+.PATH	501-Kitzgrabenwasserschacht\501KITTM
 .STATUS	8
 .SURVEY	2013-08-06
 .NAME	KIC1
-.PATH	501-Kitzgrabenwasserschacht
+.PATH	501-Kitzgrabenwasserschacht\KIC1
 .STATUS	10
 .SURVEY	2012-08-13 - Do syfonu
 .NAME	DS201208
-.PATH	501-Kitzgrabenwasserschacht
+.PATH	501-Kitzgrabenwasserschacht\DS201208
 .STATUS	8
 .SURVEY	2012-08-13 - Rura
 .NAME	KI201201
-.PATH	501-Kitzgrabenwasserschacht
+.PATH	501-Kitzgrabenwasserschacht\KI201201
 .STATUS	8
 .SURVEY	Kitzgrabenwasserschacht
 .NAME	501KITPK
-.PATH	501-Kitzgrabenwasserschacht
+.PATH	501-Kitzgrabenwasserschacht\501KITPK
 .ENDBOOK
 .BOOK	[502] Jaskinia Cienia Schattenhöhle
 .NAME	SHD
