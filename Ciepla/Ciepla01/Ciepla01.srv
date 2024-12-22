@@ -4,7 +4,7 @@
 
 #note 0	/[A4-27] Ciepla
 #flag	0	/GPS Location
-#FIX  0   E13:02.185000  N47:32.189996   974m     ;dm GPS Location UTM (SAGIS)
+#FIX  0   E13:02.185000  N47:32.189996   1974m     ;dm GPS Location UTM (SAGIS)
 
 #date 2024-08-22
 ;team Grzegorz Blok (DistoX2 ?, Tablet/Qave), LÅukasz Kupper (DistoX2 ?, Tablet/Qave)
