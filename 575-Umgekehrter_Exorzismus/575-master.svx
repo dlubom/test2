@@ -6,5 +6,5 @@
 
 
 ;*fix	575-Odwroconego_Egzorcyzmu.01-eingang	0	0	0
-*fix	575-Odwroconego_Egzorcyzmu.01-eingang	352617.791	5265751.998	2089.4	;GPS Location UTM
+*fix	575-Odwroconego_Egzorcyzmu.01-eingang	352617.791	5265751.998	2089.4	;GPS Location UTM (SAGIS)
 *include 575.svx
