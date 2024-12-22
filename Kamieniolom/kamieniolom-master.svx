@@ -1,0 +1,8 @@
+*cs UTM33N
+*cs out UTM33N
+
+*declination auto 353914.432	5265691.644	2011.7	; współrzędne potwierdzone w SAGIS
+
+*include kamieniolom.svx		; otwor
+;*fix	Kamieniolom.01-eingang	0	0	0	;GPS Location UTM;
+*fix	Kamieniolom.01-eingang	353914.432	5265691.644	2011.7	; GPS Location UTM (SAGIS)

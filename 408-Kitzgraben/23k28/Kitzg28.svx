@@ -1,7 +1,7 @@
 *begin k28
 *title "Studnia jubilata (Kolektor)"
 *date 2023.08.08
-*team Karol Makowski, Sławek Heteniak
+*team Karol Makowski (PDA/PocketTopo), Sławek Heteniak (DistoX2 H-3037)
 *instrument tape "DistoX2 H-3037"
 *instrument compass "DistoX2 H-3037"
 *instrument clino "DistoX2 H-3037"
@@ -20,10 +20,9 @@
 1_10	1_11	120.78	71.72	12.529
 1_11	1_12	119.73	71.6	12.518
 
-*begin
 *flags duplicate
-1_12	1_13	168.78	13.24	3.235
-*end
+;1_12	1_13	168.78	13.24	3.235
+*flags not duplicate
 
 *flags splay
 1_0	.	328.57	0.56	3.047
@@ -107,4 +106,5 @@
 1_12	.	262.89	43.53	6.249
 1_12	.	289.43	34.56	1.763
 1_12	.	254.06	51.37	1.278
+
 *end k28

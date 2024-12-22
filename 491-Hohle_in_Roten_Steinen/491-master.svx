@@ -1,8 +1,8 @@
 *cs UTM33N
 *cs out UTM33N
 
-*declination auto 353373.317	5266134.622	1880
+*declination auto 353593.236	5266477.383	1880
 
 *include 491.svx
 ;*fix	491-Hohle_in_Roten_Steinen.01-eingang	0	0	0
-*fix	491-Hohle_in_Roten_Steinen.01-eingang	353373.317	5266134.622	1880	;GPS Location UTM
+*fix	491-Hohle_in_Roten_Steinen.01-eingang	353593.236	5266477.383	1880	;GPS Location UTM

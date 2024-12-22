@@ -1,0 +1,6 @@
+Pomiary w PocketTopo zostały wykonane z właczoną opcją pomiarów wstecznych.
+
+Należy:
+1. odjąć lub dodać 180 stopni do azymutu oraz zmienić znak upadu na przeciwny.
+2. po zaimportowaniu szkicu z planem do inkscape należy wykonać obrót o 184,5 stopnia w prawo (180 stopni wynikające z pomaiarów wsteczych plus 4,5 stopnia deklinacji magnetycznej)
+3. dla szkicu przekroju rozwiniętego trzeba oczywiście zastosować lustrzane odbicie względem osi poziomej

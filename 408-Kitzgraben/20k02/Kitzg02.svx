@@ -15,11 +15,10 @@
 1_6	1_7	332.86	1.49	2.927
 1_7	1_8	263.16	-4.67	1.844
 
-*begin
 *flags duplicate
-;1_8	1_9	26.16	-0.57	3.326	; blad azymutu odkryty w sesji k02p, a zweryfikowany w sesji k02w
-1_8	1_9err	26.16	-0.57	3.326	; zmieniono nazwz punktu 1_9 na 1_9err
-*end
+;;1_8	1_9	26.16	-0.57	3.326	; blad azymutu odkryty w sesji k02p, a zweryfikowany w sesji k02w
+;1_8	1_9err	26.16	-0.57	3.326	; zmieniono nazwz punktu 1_9 na 1_9err
+*flags not duplicate
 
 1_9	1_10	339.12	-83.26	5.311
 1_10	1_11	220.57	-76.26	10.757
@@ -30,12 +29,11 @@
 1_15	1_16	254.2	-64.36	7.545
 1_16	1_17	321.61	47.9	4.112
 
-*begin
 *flags duplicate
-1_17	1_18	180.2	-7.85	4.275	; poprawnie zmierzone w sesji k02p
-1_18	1_19	136.79	-9.85	2.799	; ciag pomiarowy w sesji kitzg02p poprowadzony troche inaczej
-1_19	1_20	130.67	26.37	3.422	; ciag pomiarowy w sesji kitzg02p poprowadzony troche inaczej
-*end
+;1_17	1_18	180.2	-7.85	4.275	; poprawnie zmierzone w sesji k02p
+;1_18	1_19	136.79	-9.85	2.799	; ciag pomiarowy w sesji kitzg02p poprowadzony troche inaczej
+;1_19	1_20	130.67	26.37	3.422	; ciag pomiarowy w sesji kitzg02p poprowadzony troche inaczej
+*flags not duplicate
 
 1_17	8_0	0.0	0.0	0.0
 8_0	8_1	354.17	-38.76	6.6
@@ -239,43 +237,43 @@
 1_16	.	321.73	48.14	4.157
 1_17	.	180.29	-7.87	5.463
 1_17	.	180.38	-7.74	5.469
-1_18	.	265.78	59.8	1.379
-1_18	.	267.63	23.07	0.472
-1_18	.	256.23	-46.21	0.522
-1_18	.	26.57	-85.89	1.967
-1_18	.	74.97	-52.36	0.802
-1_18	.	51.59	7.28	0.466
-1_18	.	164.08	-19.39	2.895
-1_18	.	95.89	10.44	2.903
-1_18	.	125.37	-10.59	1.496
-1_18	.	161.81	59.83	0.886
-1_18	.	148.24	16.34	1.461
-1_18	.	143.78	-6.39	1.258
-1_18	.	139.43	-10.18	2.789
-1_18	.	138.55	-9.96	2.793
-1_19	.	16.89	80.37	0.35
-1_19	.	22.6	54.0	0.496
-1_19	.	24.36	34.12	1.139
-1_19	.	20.87	14.3	0.814
-1_19	.	36.89	-34.1	0.738
-1_19	.	39.78	-65.26	0.743
-1_19	.	53.88	37.46	2.545
-1_19	.	100.55	46.32	3.725
-1_20	.	258.18	78.22	0.646
-1_20	.	224.69	40.26	0.684
-1_20	.	221.77	11.42	1.576
-1_20	.	222.54	-8.13	1.4
-1_20	.	218.64	-34.07	1.001
-1_20	.	184.72	-65.0	1.294
-1_20	.	119.6	-71.02	0.442
-1_20	.	17.56	49.78	0.257
-1_20	.	199.81	9.9	1.0
-1_20	.	182.15	16.71	1.45
-1_20	.	161.99	18.94	2.733
-1_20	.	149.42	26.25	2.492
-1_20	.	136.96	29.07	3.671
-1_20	.	128.71	31.05	2.41
-1_20	.	124.11	36.07	2.974
+;1_18	.	265.78	59.8	1.379	; domiar do zduplikowanego punktu
+;1_18	.	267.63	23.07	0.472	; domiar do zduplikowanego punktu
+;1_18	.	256.23	-46.21	0.522	; domiar do zduplikowanego punktu
+;1_18	.	26.57	-85.89	1.967	; domiar do zduplikowanego punktu
+;1_18	.	74.97	-52.36	0.802	; domiar do zduplikowanego punktu
+;1_18	.	51.59	7.28	0.466	; domiar do zduplikowanego punktu
+;1_18	.	164.08	-19.39	2.895	; domiar do zduplikowanego punktu
+;1_18	.	95.89	10.44	2.903	; domiar do zduplikowanego punktu
+;1_18	.	125.37	-10.59	1.496	; domiar do zduplikowanego punktu
+;1_18	.	161.81	59.83	0.886	; domiar do zduplikowanego punktu
+;1_18	.	148.24	16.34	1.461	; domiar do zduplikowanego punktu
+;1_18	.	143.78	-6.39	1.258	; domiar do zduplikowanego punktu
+;1_18	.	139.43	-10.18	2.789	; domiar do zduplikowanego punktu
+;1_18	.	138.55	-9.96	2.793	; domiar do zduplikowanego punktu
+;1_19	.	16.89	80.37	0.35	; domiar do zduplikowanego punktu
+;1_19	.	22.6	54.0	0.496	; domiar do zduplikowanego punktu
+;1_19	.	24.36	34.12	1.139	; domiar do zduplikowanego punktu
+;1_19	.	20.87	14.3	0.814	; domiar do zduplikowanego punktu
+;1_19	.	36.89	-34.1	0.738	; domiar do zduplikowanego punktu
+;1_19	.	39.78	-65.26	0.743	; domiar do zduplikowanego punktu
+;1_19	.	53.88	37.46	2.545	; domiar do zduplikowanego punktu
+;1_19	.	100.55	46.32	3.725	; domiar do zduplikowanego punktu
+;1_20	.	258.18	78.22	0.646	; domiar do zduplikowanego punktu
+;1_20	.	224.69	40.26	0.684	; domiar do zduplikowanego punktu
+;1_20	.	221.77	11.42	1.576	; domiar do zduplikowanego punktu
+;1_20	.	222.54	-8.13	1.4	; domiar do zduplikowanego punktu
+;1_20	.	218.64	-34.07	1.001	; domiar do zduplikowanego punktu
+;1_20	.	184.72	-65.0	1.294	; domiar do zduplikowanego punktu
+;1_20	.	119.6	-71.02	0.442	; domiar do zduplikowanego punktu
+;1_20	.	17.56	49.78	0.257	; domiar do zduplikowanego punktu
+;1_20	.	199.81	9.9	1.0	; domiar do zduplikowanego punktu
+;1_20	.	182.15	16.71	1.45	; domiar do zduplikowanego punktu
+;1_20	.	161.99	18.94	2.733	; domiar do zduplikowanego punktu
+;1_20	.	149.42	26.25	2.492	; domiar do zduplikowanego punktu
+;1_20	.	136.96	29.07	3.671	; domiar do zduplikowanego punktu
+;1_20	.	128.71	31.05	2.41	; domiar do zduplikowanego punktu
+;1_20	.	124.11	36.07	2.974	; domiar do zduplikowanego punktu
 8_0	.	352.95	-39.09	6.61
 8_0	.	352.95	-39.12	6.616
 8_0	.	353.19	-38.9	0.629

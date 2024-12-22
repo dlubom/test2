@@ -198,5 +198,6 @@ b283	..	0.37	194.11	1.55
 b284	..	0.41	158.31	12.7
 b286	..	0.54	101.27	-0.63
 b287	..	0.38	270.92	-3.98
-b288	b288_1	16.49	237.97	-67.52	;domiar
+;b288	b288_1	16.49	237.97	-67.52	;domiar
+b288	..	16.49	237.97	-67.52	; ponownie zamienione na domiar gdyż powiela ciąg 20240813-Studnia_klozetowa
 *end Za_Owsikami

@@ -1,0 +1,2 @@
+W DistoX2 był ustawiony offset równy 0.027 m.
+Odległość we wszystkich pomiarach jest zawyżona o 27 mm.

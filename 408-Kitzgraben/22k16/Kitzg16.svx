@@ -7,11 +7,10 @@
 *instrument clino "DistoX2 ?"
 *data normal from to tape compass clino ignoreall
 
-*begin
 *flags duplicate
-0	1	10.443	99.534	7.026
-1	2	2.026	148.411	-31.241
-*end
+;0	1	10.443	99.534	7.026
+;1	2	2.026	148.411	-31.241
+*flags not duplicate
 
 ; punkt 2 trzeba podlaczyc do punktu 7 w sesji k15
 2	3	2.512	241.763	-14.573
@@ -24,13 +23,14 @@
 9	10	4.734	240.659	-14.566
 10	11	2.308	201.418	34.314
 11	12	4.230	244.197	6.136
-12	13	2.446	205.990	46.007
+12	13	2.446	205.990	46.007`
 13	14	6.688	202.487	7.348
+
 *flags splay
-0	.	10.317	99.921	7.048
-0	.	10.482	99.602	7.169
-0	.	10.406	99.811	7.031
-0	.	11.859	99.651	7.322
+;0	.	10.317	99.921	7.048	; domiar do zduplikowanego punktu
+;0	.	10.482	99.602	7.169	; domiar do zduplikowanego punktu
+;0	.	10.406	99.811	7.031	; domiar do zduplikowanego punktu
+;0	.	11.859	99.651	7.322	; domiar do zduplikowanego punktu
 2	.	3.079	159.148	-4.395
 2	.	1.892	184.658	1.659
 2	.	1.379	184.526	25.812
@@ -100,8 +100,10 @@
 14	.	0.799	288.303	-7.059
 14	.	0.285	223.369	64.638
 14	.	1.504	356.622	-81.189
+
 ;*begin
 ;*flags not splay
 ;14	14c	6.558	180.917	18.474	; domiar w kierunku kontynuujacego sie meandra zamieniony na pomiar
 ;*end
+
 *end k16

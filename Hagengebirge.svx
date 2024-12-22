@@ -45,6 +45,9 @@
 *include 578-Hohle_unter_den_Felsbrucken\578-master.svx
 *include 579-Vorderer_Kragenkopf_Eishohle\579-master.svx
 
+*include Ciepla\A4-27-master.svx
+*include Kamieniolom\kamieniolom-master.svx
+
 
 *include grenze_sagis.svx
 

@@ -18,37 +18,57 @@
 *include 22k04p\Kitzg04p.svx	; Studnia Zbycha Rybaka oraz Wielka Studnia (ponownie zmierzone)
 *include 21k05\Kitzg05.svx
 *include 21k06\Kitzg06.svx
-*include 21k07\Kitzg07.svx
+*include 21k07\Kitzg07.svx	; Szychta czwartkowa
 *include 21k08\Kitzg08.svx
-*include 21k09\Kitzg09.svx
+;*include 21k09\Kitzg09.svx	; Lewy meander (od pt 12 Asi i Michala - sesja k07)
 *include 22k10\Kitzg10.svx
 *include 22k11\Kitzg11.svx
 *include 22k12\Kitzg12.svx
-*include 22k13\Kitzg13.svx
-*include 22k14\Kitzg14.svx
-*include 22k15\Kitzg15.svx
-*include 22k16\Kitzg16.svx	; Meanderek przy rozdrozu
-*include 22k17\Kitzg17.svx
+*include 22k13\Kitzg13.svx	; Rejon studni z tyrolką
+*include 22k14\Kitzg14.svx	; Od końca pomiarów Asi i Piotrka (kontynuacja k12)
+*include 22k15\Kitzg15.svx	; Syfon Kujona
+*include 22k16\Kitzg16.svx	; Meanderek przy rozdrożu
+*include 22k17\Kitzg17.svx	; Końcówka poprzedniej sesji JG-MS (kontynuacja k14)
 *include 22k18\Kitzg18.svx	; Korytarz nad trawersem
-*include 22k19\Kitzg19.svx
+*include 22k19\Kitzg19.svx	; Od końca pomiarów Asi i Marka (kontynuacja k15)
 *include 23k20\Kitzg20.svx	; Kroczek
 *include 23k21\Kitzg21.svx	; Studnie pod Kroczkiem
-*include 23k22\Kitzg22.svx	; Dzien Paluszka
+*include 23k22\Kitzg22.svx	; Dzień Paluszka
 *include 23k23\Kitzg23.svx	; Studnie pod Kroczkiem 2
 *include 23k24\Kitzg24.svx	; Kitz meander
 *include 23k25\Kitzg25.svx	; Za kokosnkami 1
 *include 23k26\Kitzg26.svx	; Za Kolektorem
 *include 23k27\Kitzg27.svx	; Nad Kolektorem
 *include 23k28\Kitzg28.svx	; Studnia jubilata (Kolektor)
-*include 23k29\Kitzg29.svx	; Meanderek przy rozdrozu - kontynuacja
+*include 23k29\Kitzg29.svx	; Meanderek przy rozdrożu - kontynuacja
 *include 23k30\Kitzg30.svx	; Korytarz grzybowski
 *include 23k31\Kitzg31.svx	; Skazni na Showshank (pod studnią jubilata)
 *include 23k32\Kitzg32.svx	; Suche błota(kontynuacja Kotytarza grzybowskiego)
+*include 24k33\Kitzg33.svx	; Studzienki pod drugim biwakiem (Studnia 3H)
+*include 24k34\Kitzg34.svx	; Trawers pod Ruletką
+*include 24k35\Kitzg35.svx	; Studnia Eskapistów
+*include 24k36\Kitzg36.svx	; Kitzgraben Express
+*include 24k37\Kitzg37.svx	; Partie marmitowe
+*include 24k38\Kitzg38.svx	; Komin bezglutenowy
+;*include 24k39\Kitzg39.svx	; Po punktach od studni 3H do studni z gzymsem (ciąg weryfikacyjny)
+*include 24k40\Kitzg40.svx	; Suche błota - prawy ciąg
+*include 24k41\Kitzg41.svx	; Marmitowy meander
+*include 24k42\Kitzg42.svx	; Od 2-go biwaku do rozdroża (ciąg weryfikacyjny, połączyć z Kitzg39)
+*include 24k43\Kitzg43.svx	; Złodziejskie Galerie
+*include 24k44\Kitzg44.svx	; FFAZ (Złodziejskie Galerie cz.2)
+*include 24k45\Kitzg45.svx	; Kontynuacja partii za jeziorkiem
+*include 24k46\Kitzg46.svx	; Meander Pacmana
+*include 24k47\Kitzg47.svx	; Probably połączenie z Czerwonymi Kamieniami
+*include 24k48\Kitzg48.svx	; Galeria od punktu 21.29
+*include 24k49\Kitzg49.svx	; Galeria od punktu 21.53
+*include 24k50\Kitzg50.svx	; Ciąg za Salką z filarem
+*include 24k51\Kitzg51.svx	; Ciąg za Salką z filarem cz.2
+*include 24k52\Kitzg52.svx	; Z Galerii do Marmitowego meandra
 
 
 *equate 01-eingang	k01.1_0	; entrance 01
 *equate k02.1_0	k01.1_14
-*equate k02w.1_2	k02.1_8	; poprawka bledu w azymucie odcinka 1_8 - 1_9 z sesji k02 (zostal zastapiony odpowiednim odcinkiem z sesji k02w)
+*equate k02w.1_2	k02.1_8	; poprawka błędu w azymucie odcinka 1_8 - 1_9 z sesji k02 (został zastąpiony odpowiednim odcinkiem z sesji k02w)
 *equate k02.1_9	k02w.1_3
 ;*equate k02.1_17	k02p.1_17
 *equate k02p.1_17	k02.1_17
@@ -62,14 +82,15 @@
 *equate k04.1_15	k04p.1_10
 *equate k07.0	k04p.1_10
 *equate k08.0	k07.22
-*equate k09.0	k07.12
+;*equate k09.0	k07.12	; sesja k09 (plik Kitzg09.svx) nie jest podłączona (wszystkie punkty oznaczone jako duplikat - ciąg ponownie zmierzony w k13)
 *equate k10.3	k07.28
 *equate k11.3	k10.32
-*equate k12.3	k11.33
+;;*equate k12.3	k11.33	; błędnie podłączony ciąg (zabrakło jednego odcinka pomiarowego o długości 4.70m)
+*equate k12.3	k42.5	; punkt k12.3 podłączony do ciągu weryfikacyjnego k42, który ujawnił brakujący odcinek 4.70m
 *equate k13.0	k07.12
 *equate k14.2	k12.33
 *equate k15.3	k12.6
-*equate k15.50	k15.18	; zamkniecie petli
+*equate k15.50	k15.18	; zamkniecie izolowanej petli
 *equate k16.2	k15.7
 *equate k17.2	k14.2_11
 *equate k18.3	k11.32
@@ -87,6 +108,43 @@
 *equate k30.1	k15.58
 *equate k31.1_0	k28.1_0
 *equate k32.0	k30.44
+*equate k33.2	k11.23
+*equate k33.13	k12.23	; zamknięcie pętli
+*equate k33.16	k12.26	; zamknięcie pętli
+*equate k33.17	k33.10	; zamknięcie pętli
+*equate k34.5	k21.1_23
+*equate k35.16	k31.1_12
+*equate k36.1_50	k35.0
+;*equate k37.0	k12.19
+*equate k38.16	k12.12
+*equate k38.2	k18.11
+*equate k38.8	k37.1	; zamknięcie pętli
+;;*equate k39.14	k15.3	; ostatecznie ciąg weryfikacyjny k39 potwierdził poprawność pomiarów ciągu k15
+;;*equate k39.16	k15.1	; ostatecznie ciąg weryfikacyjny k39 potwierdził poprawność pomiarów ciągu k15
+;;*equate k39.8	k12.12	; ostatecznie ciąg weryfikacyjny k39 potwierdził poprawność pomiarów ciągu k15
+;;*equate k39.17	k42.5	; ostatecznie ciąg weryfikacyjny k39 potwierdził poprawność pomiarów ciągu k15
+*equate k40.1	k32.7
+*equate k41.0	k37.15
+;*equate k42.0	k11.23
+*equate k42.3	k11.27
+;;*equate k43.3	k38.6	; tu jest źródło dużego błędu przy zamknięciu pętli do Marmitowego meandra 5.94m
+*equate k43.2	k38.5	; teraz błąd przy zamknięciu pętli do Marmitowego meandra jest znacznie mniejszy 2.64m
+*equate k43.7_6	k43.9	; zamknięcie izolowanej pętli
+*equate k44.0	k43.59
+*equate k44.15_7	k44.3	; zamknięcie izolowanej pętli
+*equate k45.1	k36.1_44
+*equate k46.1	k43.45
+*equate k46.14_4	k46.12	; zamknięcie izolowanej pętli
+*equate k47.0	k44.21_50
+*equate k48.0	k44.21_29
+*equate k49.0	k44.21_53
+*equate k50.4	k10.8	; ciąg k50 powiela część cigu k10 - to do
+*equate k51.0	k50.17
+*equate k51.15	k50.16	; zamknięcie pętli [Pierwodna długość 113.45m ( 16 odcinków), przesunięto o   3.56m ( 0.22m/odcinek). Błąd   3.14%]
+*equate k52.2	k43.18
+*equate k52.13	k43.23	; zamknięcie pętli [Pierwodna długość  36.89m (  3 odcinków), przesunięto o   0.59m ( 0.20m/odcinek). Błąd   1.60%]
+*equate k52.16_3_1	k52.9	; zamknięcie pętli [Pierwodna długość  27.38m (  4 odcinków), przesunięto o   0.30m ( 0.08m/odcinek). Błąd   1.11%]
+*equate k52.23	k41.50	; zamknięcie pętli [Pierwodna długość  27.60m (  7 odcinków), przesunięto o   0.21m ( 0.03m/odcinek). Błąd   0.77%]
 
 
 *end 408-Kitzgraben

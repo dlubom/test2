@@ -7,18 +7,16 @@
 *instrument tape "DistoX2 ?"
 *data normal from to compass clino tape ignoreall
 
-*begin
 *flags duplicate
-1_0	1_1	332.81	1.6	2.932
-1_1	1_2	264.85	-4.5	1.809
-*end
+;1_0	1_1	332.81	1.6	2.932
+;1_1	1_2	264.85	-4.5	1.809
+*flags not duplicate
 
 ; punkt 1_2 podlaczyc do punktu 1_8 sesji kitzgr02 albo do punktu 1_8 sesji k02p
 1_2	1_3	349.59	-0.88	3.304
 
-*begin
 *flags duplicate
-1_3	1_4	341.71	-83.36	5.426
-*end
+;1_3	1_4	341.71	-83.36	5.426
+*flags not duplicate
 
 *end k02w

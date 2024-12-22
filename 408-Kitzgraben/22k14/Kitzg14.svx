@@ -7,11 +7,10 @@
 *instrument clino "DistoX2 ?"
 *data normal from to tape compass clino ignoreall
 
-*begin
 *flags duplicate
-0	1	1.753	354.252	13.039
-1	2	3.864	88.092	3.640
-*end
+;0	1	1.753	354.252	13.039
+;1	2	3.864	88.092	3.640
+*flags not duplicate
 
 2	3	6.219	132.173	28.841
 3	4	3.871	216.379	7.108
@@ -28,23 +27,24 @@
 2_8	2_9	2.042	307.192	-9.505
 2_9	2_10	1.937	46.760	-17.946
 2_10	2_11	3.695	269.506	-15.212
+
 *flags splay
-0	.	1.834	355.842	12.596
-0	.	1.834	356.149	12.568
-0	.	1.772	355.820	12.892
-0	.	1.752	354.029	13.068
-0	.	1.357	296.076	1.137
-0	.	0.976	163.932	32.953
-0	.	1.378	276.037	46.324
-0	.	1.989	276.471	-57.925
-0	.	1.499	242.463	45.159
-0	.	1.841	289.056	-64.045
-0	.	1.763	353.727	12.969
-0	.	1.807	353.853	12.898
-1	.	0.872	122.855	0.489
-1	.	2.004	111.083	-67.890
-1	.	0.973	98.163	60.139
-1	.	2.560	107.704	-55.909
+;0	.	1.834	355.842	12.596	; domiar do zduplikowanego punktu
+;0	.	1.834	356.149	12.568	; domiar do zduplikowanego punktu
+;0	.	1.772	355.820	12.892	; domiar do zduplikowanego punktu
+;0	.	1.752	354.029	13.068	; domiar do zduplikowanego punktu
+;0	.	1.357	296.076	1.137	; domiar do zduplikowanego punktu
+;0	.	0.976	163.932	32.953	; domiar do zduplikowanego punktu
+;0	.	1.378	276.037	46.324	; domiar do zduplikowanego punktu
+;0	.	1.989	276.471	-57.925	; domiar do zduplikowanego punktu
+;0	.	1.499	242.463	45.159	; domiar do zduplikowanego punktu
+;0	.	1.841	289.056	-64.045	; domiar do zduplikowanego punktu
+;0	.	1.763	353.727	12.969	; domiar do zduplikowanego punktu
+;0	.	1.807	353.853	12.898	; domiar do zduplikowanego punktu
+;1	.	0.872	122.855	0.489	; domiar do zduplikowanego punktu
+;1	.	2.004	111.083	-67.890	; domiar do zduplikowanego punktu
+;1	.	0.973	98.163	60.139	; domiar do zduplikowanego punktu
+;1	.	2.560	107.704	-55.909	; domiar do zduplikowanego punktu
 2	.	3.597	64.182	-65.028
 2	.	3.608	66.874	-65.176
 2	.	1.027	228.137	-0.917
@@ -132,4 +132,5 @@
 2_11	.	1.030	5.295	-12.079
 2_11	.	3.036	321.015	-35.239
 2_11	.	0.432	319.186	-35.502
+
 *end k14

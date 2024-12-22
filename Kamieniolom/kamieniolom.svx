@@ -1,0 +1,15 @@
+*case preserve
+*begin Kamieniolom
+
+*cs UTM33N
+*declination auto	353914.432	5265691.644	2011.7	; po korekcie w SAGIS
+
+
+*entrance 01-eingang
+
+*include 20240822-Kopalnia_MPK\Kopalnia.svx
+
+
+*equate 01-eingang	Kopalnia.0	; entrance 01
+
+*end Kamieniolom

@@ -1,0 +1,9 @@
+*cs UTM33N
+*cs out UTM33N
+
+*declination auto 352220.853	5266654.633	1974
+
+*include A4-27.svx		; otwor
+;*fix	A4-27-Ciepla.01-eingang	0	0	0
+*fix	A4-27-Ciepla.01-eingang	352220.853	5266654.633	1974	;GPS Location UTM (koordynaty i wysokość ze smartfona)
+;*fix	A4-27-Ciepla.01-eingang	353051	5264811	2134	;GPS Location UTM (SAGIS)

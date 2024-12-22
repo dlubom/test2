@@ -7,11 +7,10 @@
 *instrument clino "DistoX2 H-3037"
 *data normal from to tape compass clino ignoreall
 
-*begin
 *flags duplicate
-0	1	20.956	23.683	-39.126
-1	0_1	1.385	185.610	23.470	; domiar do poprzedniego punktu pomiarowego
-*end
+;0	1	20.956	23.683	-39.126
+;1	0_1	1.385	185.610	23.470	; domiar do poprzedniego punktu pomiarowego
+*flags not duplicate
 
 1	2	6.188	2.175	-27.695
 2	3	5.838	314.603	-51.943
@@ -56,6 +55,7 @@
 41	42	4.531	138.067	-45.419
 42	43	4.397	207.587	-47.038
 43	44	7.728	87.211	-67.637
+
 *flags splay
 ;1	.	1.385	185.610	23.470	; domiar do poprzedniego punktu pomiarowego
 2	.	6.911	197.853	30.883

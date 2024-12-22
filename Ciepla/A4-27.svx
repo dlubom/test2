@@ -1,0 +1,17 @@
+*case preserve
+*begin A4-27-Ciepla
+
+*cs UTM33N
+*declination auto	352220.853	5266654.633	1974	;GPS Location UTM (Locus)
+
+*entrance 01-eingang
+	
+*include Ciepla01\Ciepla01.svx	; otwor
+*include Ciepla02\Ciepla02.svx	; 2-ga sesja
+
+
+*equate 01-eingang	c01.0			; entrance 01
+*equate c02.2	c01.13_13			; 
+
+
+*end A4-27-Ciepla

@@ -4,7 +4,8 @@
 
 #note 1.0	/[408] Kitzgraben
 #flag	1.0	/GPS Location
-#FIX  1.0   E13:03.538  N47:31.951   2000m     ;dm
+;#FIX  1.0   E13:03.538  N47:31.951   2000m     ;dm
+#FIX  1.0   E13:03.538320  N47:31.950660   1992m     ;dm GPS Location UTM (po korekcie w SAGIS)
 
 ;title "Partie austiackie"
 #date 2020-08-01

@@ -1,11 +1,19 @@
 *case preserve
 *begin 578-Hohle_unter_den_Felsbrucken
 
+*cs UTM33N
+;*cs out UTM33N
+*declination auto	353001	5264558	2132	;GPS Location UTM (SAGIS)
+
 
 *entrance 01-eingang
+*include 20230811-Pod_skalnymi_mostami\Pod_skalnymi_mostami.svx		; otwor
+*include 20240822-Ciagi_od_sali_z_groblami\OdGrobli.svx			; Ciągi od Sali z groblami
+*include 20240823-Bok_glownej_pochylni\BokPochy.svx			; Boczny ciąg w dolnej części głównej pochylni
 
-*include 20230811-Pod_skalnymi_mostami\Pod_skalnymi_mostami.svx	; otwor
-*equate 01-eingang	20230811-Pod_skalnymi_mostami.0		; entrance 01
-
+*equate 01-eingang	20230811-Pod_skalnymi_mostami.0			; entrance 01
+*equate 20230811-Pod_skalnymi_mostami.24	Ciagi_od_sali_z_groblami.1
+*equate Ciagi_od_sali_z_groblami.1_3_2		Ciagi_od_sali_z_groblami.1	; zamknięcie pętli
+*equate 20230811-Pod_skalnymi_mostami.16	Bok_glownej_pochylni.0
 
 *end 578-Hohle_unter_den_Felsbrucken

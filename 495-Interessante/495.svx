@@ -661,6 +661,9 @@
 ;------------------------------------------------------------------------------------------------
 *include 20230801-Za_kaszubskimi_jeziorami\ZaKaszuJ.svx		;Za kaszubskimi jeziorami
 *equate Nowa_Nadzieja.1_0	Za_kaszubskimi_jeziorami.1
+;------------------------------------------------------------------------------------------------
+*include 20240813-Studnia_klozetowa\StKlozet.svx		;Studnia klozetowa
+*equate Za_Owsikami.b288	Studnia_klozetowa.0
 
 
 *end 495-Interessante
