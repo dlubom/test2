@@ -25,13 +25,12 @@
 
 *date 2014.08.06
 
-*team <name surename> (sketch PDA/PocketTopo)
-*team <name surename> (DistoX2)
-*team <name surename> (marking)
-
-*instrument tape "DistoX2 <id>"
-*instrument compass "DistoX2 <id>"
-*instrument clino "DistoX2 <id>"
+*team <name surname> notes pictures ;(sketch <device/app>)
+*team <name surname> instruments
+*team <name surname> station ;(Spray or nail polish)
+*instrument tape "DistoX <id>"
+*instrument compass "DistoX <id>"
+*instrument clino "DistoX <id>"
 
 *units tape backtape meters
 *units compass backcompass degrees

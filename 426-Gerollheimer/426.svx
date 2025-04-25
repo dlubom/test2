@@ -1,4 +1,18 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 426
+;cavern name de "Geröllheimer"
+;cavern name pl ""
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2024-07-28
+;file team "Karol Makowski"
+
 *case preserve
+
 *begin 426-Gerollheimer
 
 *cs UTM33N
