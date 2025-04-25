@@ -1,3 +1,18 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 581
+;cavern name de "Warme Höhle"
+;cavern name pl "Ciepła"
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-04-25
+;file team "Karol Makowski"
+
+*case preserve
+
 ;*begin cieplaa427_43
 *begin c02
 *date 2024.08.24
