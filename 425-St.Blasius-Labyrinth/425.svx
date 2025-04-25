@@ -1,4 +1,18 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "St. Blasius Labyrinth"
+;cavern name pl ""
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2024-02-26
+;file team "Karol Makowski"
+
 *case preserve
+
 *begin 425-St_Blasius_Labyrinth
 
 *cs UTM33N
