@@ -1,6 +1,23 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 408
+;cavern name de "Kitzgrabenschacht"
+;cavern name pl ""
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-04-06
+;file team "Karol Makowski"
+
+*case preserve
+
 *begin k05
 *date 2021.08.10
-*team Joanna Zdzalik, Michal Parczewski, Jaroslaw Paszkiewicz
+;*team "Joanna Zdzalik" unknown_role
+;*team "Michal Parczewski" unknown_role
+;*team "Jaroslaw Paszkiewicz" unknown_role
 *instrument tape "DistoX2 ?"
 *instrument compass "DistoX2 ?"
 *instrument clino "DistoX2 ?"

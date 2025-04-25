@@ -1,7 +1,23 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 408
+;cavern name de "Kitzgrabenschacht"
+;cavern name pl ""
+;cavern part de "Roulettesaal"
+;cavern part pl "Ruletka"
+
+;file date 2025-04-06
+;file team "Karol Makowski"
+
+*case preserve
+
 *begin k22
 *title "Dzien Paluszka"
 *date 2023.07.29
-*team Filip Filar, Pawel Zebrowski
+*team "Filip Filar" notes pictures ;(PDA/PocketPopo)
+*team "Pawel Zebrowski" instruments
 *instrument tape "DistoX2 H3-3037"
 *instrument compass "DistoX2 H-3037"
 *instrument clino "DistoX2 H-3037"

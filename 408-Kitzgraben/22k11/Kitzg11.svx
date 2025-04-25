@@ -1,6 +1,22 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 408
+;cavern name de "Kitzgrabenschacht"
+;cavern name pl ""
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-04-06
+;file team "Karol Makowski"
+
+*case preserve
+
 *begin k11
 *date 2022.07.28
-*team Joanna Zdzalik (szkic SexyTopo), Pawel Zebrowski (DistoX2)
+*team "Joanna Zdzalik" notes pictures ;(Tablet/SexyTopo)
+*team "Pawel Zebrowski" instruments
 *instrument tape "DistoX2 ?"
 *instrument compass "DistoX2 ?"
 *instrument clino "DistoX2 ?"

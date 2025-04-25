@@ -1,7 +1,23 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 408
+;cavern name de "Kitzgrabenschacht"
+;cavern name pl ""
+;cavern part de "Kleine Tantalhöhle"
+;cavern part pl "Małe Tantalhöhle"
+
+;file date 2025-04-06
+;file team "Karol Makowski"
+
+*case preserve
+
 *begin k16
 *title "Meanderek przy rozdrozu"
 *date 2022.08.07
-*team Karol Makowski (szkic Qave), Radoslaw Paternoga (DistoX2)
+*team "Karol Makowski" notes pictures station;(Tablet/Qave, spray)
+*team "Radoslaw Paternoga" instruments
 *instrument tape "DistoX2 ?"
 *instrument compass "DistoX2 ?"
 *instrument clino "DistoX2 ?"

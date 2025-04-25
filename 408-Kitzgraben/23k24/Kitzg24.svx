@@ -1,7 +1,24 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 408
+;cavern name de "Kitzgrabenschacht"
+;cavern name pl ""
+;cavern part de "Kollektor"
+;cavern part pl "Kolektor"
+
+;file date 2025-04-06
+;file team "Karol Makowski"
+
+*case preserve
+
 *begin k24
 *title "Kitz meander"
 *date 2023.08.01
-*team Filip Filar, Lukasz Stankowski
+;*team "Filip Filar" unknown_role
+;*team "Lukasz Stankowski" unknown_role
+;(PDA/PocketTopo)
 *instrument tape "DistoX2 H-3746"
 *instrument compass "DistoX2 H-3746"
 *instrument clino "DistoX2 H-3746"

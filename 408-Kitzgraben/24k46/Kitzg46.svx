@@ -1,8 +1,27 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 408
+;cavern name de "Kitzgrabenschacht"
+;cavern name pl ""
+;cavern part de "Gewundene Galerie"
+;cavern part pl "Kręta Galeria"
+
+;file date 2025-04-06
+;file team "Karol Makowski"
+
+*case preserve
+
 ;*begin kitzgrabenschacht_39
 *begin k46
 *title "Meander Pacmana"
 *date 2024.08.24
-*team Magda Sitarz (Tablet Qave), Marek Wierzbowski (Disto Magda, Spray)
+*team "Magda Sitarz" notes pictures ;(Tablet/Qave)
+*team "Marek Wierzbowski" instruments station ;(DistoX2 Magda, Spray)
+*instrument tape "DistoX2 MAGDA"
+*instrument compass "DistoX2 MAGDA"
+*instrument clino "DistoX2 MAGDA"
 *data normal from to tape compass clino ignoreall
 
 *flags duplicate

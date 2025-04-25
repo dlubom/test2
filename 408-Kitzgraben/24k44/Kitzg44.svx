@@ -1,8 +1,27 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 408
+;cavern name de "Kitzgrabenschacht"
+;cavern name pl ""
+;cavern part de "Gewundene Galerie"
+;cavern part pl "Kręta Galeria"
+
+;file date 2025-04-06
+;file team "Karol Makowski"
+
+*case preserve
+
 ;*begin kitzgraben_52
 *begin k44
 *title "Złodziejskie Galerie cz.2"
 *date 2024.08.21
-*team Asia Zdżalik (DistoX2 H-3746), Filip Filar (Tablet/Qave)
+*team "Filip Filar" notes pictures ;(Tablet/Qave)
+*team "Asia Zdżalik" instruments
+*instrument tape "DistoX2 H-3746"
+*instrument compass "DistoX2 H-3746"
+*instrument clino "DistoX2 H-3746"
 *data normal from to tape compass clino ignoreall
 
 0	1	3.919	275.526	24.278

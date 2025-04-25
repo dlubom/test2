@@ -1,8 +1,27 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 408
+;cavern name de "Kitzgrabenschacht"
+;cavern name pl ""
+;cavern part de "Gang hinter der Kammer mit Pfeiler"
+;cavern part pl "Ciąg za salką z filarem"
+
+;file date 2025-04-06
+;file team "Karol Makowski"
+
+*case preserve
+
 ;*begin kitzgrabenschacht_40
 *begin k50
 *title "Ciąg za salką z filarem"
 *date 2024.08.27
-*team Karol Makowski (Tablet/Qave), Magda Sitarz (DistoX2 MAGDA)
+*team "Karol Makowski" notes pictures ;(Tablet/Qave)
+*team "Magda Sitarz" instruments
+*instrument tape "DistoX2 MAGDA"
+*instrument compass "DistoX2 MAGDA"
+*instrument clino "DistoX2 MAGDA"
 *data normal from to tape compass clino ignoreall
 
 *flags duplicate

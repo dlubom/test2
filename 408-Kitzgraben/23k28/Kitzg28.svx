@@ -1,7 +1,23 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 408
+;cavern name de "Kitzgrabenschacht"
+;cavern name pl ""
+;cavern part de "Kollektor"
+;cavern part pl "Kolektor"
+
+;file date 2025-04-06
+;file team "Karol Makowski"
+
+*case preserve
+
 *begin k28
 *title "Studnia jubilata (Kolektor)"
 *date 2023.08.08
-*team Karol Makowski (PDA/PocketTopo), Sławek Heteniak (DistoX2 H-3037)
+*team "Karol Makowski" notes pictures ;(PDA/PocketTopo)
+*team "Sławek Heteniak" instruments
 *instrument tape "DistoX2 H-3037"
 *instrument compass "DistoX2 H-3037"
 *instrument clino "DistoX2 H-3037"

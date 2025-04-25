@@ -1,8 +1,27 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 408
+;cavern name de "Kitzgrabenschacht"
+;cavern name pl ""
+;cavern part de "Riesentüpfepartien"
+;cavern part pl "Partie marmitowe"
+
+;file date 2025-04-06
+;file team "Karol Makowski"
+
+*case preserve
+
 ;*begin kitzgraben_51
 *begin k41
 *title "Marmitowy meander"
 *date 2024.08.18
-*team Karol Makowski (DistoX2 MAGDA), Łukasz Stankowski (Tablet/Qave)
+*team "Łukasz Stankowski" notes pictures ;(Tablet/Qave)
+*team "Karol Makowski" instruments
+*instrument tape "DistoX2 MAGDA"
+*instrument compass "DistoX2 MAGDA"
+*instrument clino "DistoX2 MAGDA"
 *data normal from to tape compass clino ignoreall
 
 *flags duplicate

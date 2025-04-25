@@ -1,7 +1,24 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 408
+;cavern name de "Kitzgrabenschacht"
+;cavern name pl ""
+;cavern part de "Schacht ohne Ehre"
+;cavern part pl "Studnia bez honoru"
+
+;file date 2025-04-06
+;file team "Karol Makowski"
+
+*case preserve
+
 *begin k18
 *title "Korytarz nad trawersem"
 *date 2022.08.11
-*team Joanna Gaweska, Robert Glod
+;*team "Joanna Gaweska" unknown_role
+;*team "Robert Glod" unknown_role
+;(Tablet/Qave)
 *instrument tape "DistoX2 ?"
 *instrument compass "DistoX2 ?"
 *instrument clino "DistoX2 ?"

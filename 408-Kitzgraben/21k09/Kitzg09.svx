@@ -1,7 +1,23 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 408
+;cavern name de "Kitzgrabenschacht"
+;cavern name pl ""
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-04-06
+;file team "Karol Makowski"
+
+*case preserve
+
 *begin k09
 *title "Lewy meander (od pt 12 Asi i Michala - sesja k07)"
 *date 2021.08.13
-*team Jacek Szczygiel, Jakub Grubba
+*team "Jacek Szczygiel" ?
+*team "Jakub Grubba" ?
 *instrument tape "DistoX2 ?"
 *instrument compass "DistoX2 ?"
 *instrument clino "DistoX2 ?"

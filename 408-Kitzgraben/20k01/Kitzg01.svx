@@ -1,3 +1,18 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 408
+;cavern name de "Kitzgrabenschacht"
+;cavern name pl ""
+;cavern part de ""
+;cavern part pl "Partie austiackie"
+
+;file date 2025-04-06
+;file team "Karol Makowski"
+
+*case preserve
+
 *begin k01
 *title "Partie austiackie"
 *entrance 1_0
@@ -6,8 +21,8 @@
 ;*fix	1_0	353906.840	5266169.293	2000	;GPS Location UTM
 
 *date 2020.08.01
-*team "Karol Makowski" (kartowanie PDA, Spray)
-*team "Lukasz Stankowski" DistoX2
+*team "Karol Makowski" notes pictures station ;(PDA/PocketTopo, Spray)
+*team "Łukasz Stankowski" instruments
 *instrument compass "DistoX2 ?"
 *instrument clino "DistoX2 ?"
 *instrument tape "DistoX2 ?"

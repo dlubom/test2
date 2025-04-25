@@ -1,8 +1,25 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 408
+;cavern name de "Kitzgrabenschacht"
+;cavern name pl ""
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-04-06
+;file team "Karol Makowski"
+
+*case preserve
+
 *begin k03
 *date 2021.07.26
 ; Byl problem ze znalezieniem pierwotnych punktow i zosta³y dodane nowe.
 ; Ostatecznie sesja pomiarowa nie powinna byc podlaczana, zamiast tego zostaly wykonane ponowne pomiary - k02p, ktore obejmuja ponowny pomiar sesji k02, k03 i fragment k04.
-*team Magda Sarapata, Joanna Przymus, Lukasz Stankowski
+*team "Magda Sarapata" ?
+*team "Joanna Przymus" ?
+*team "Lukasz Stankowski" ?
 *instrument compass "DistoX2 ?"
 *instrument clino "DistoX2 ?"
 *instrument tape "DistoX2 ?"

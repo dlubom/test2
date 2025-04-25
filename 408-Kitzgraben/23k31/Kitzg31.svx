@@ -1,7 +1,24 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 408
+;cavern name de "Kitzgrabenschacht"
+;cavern name pl ""
+;cavern part de "Kollektor"
+;cavern part pl "Kolektor"
+
+;file date 2025-04-06
+;file team "Karol Makowski"
+
+*case preserve
+
 *begin k31
 *title "Skazni na Showshank"
 *date 2023.08.12
-*team Michał Parczewski, Adam Władziński
+;*team "Michał Parczewski" unknown_role
+;*team "Adam Władziński" unknown_role
+;(PDA/PocketTopo)
 *instrument tape "DistoX2 H-3037"
 *instrument compass "DistoX2 H-3037"
 *instrument clino "DistoX2 H-3037"

@@ -1,7 +1,24 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 408
+;cavern name de "Kitzgrabenschacht"
+;cavern name pl ""
+;cavern part de ""
+;cavern part pl "Rejoin studni z tyrolka"
+
+;file date 2025-04-06
+;file team "Karol Makowski"
+
+*case preserve
+
 *begin k13
 *title "Rejoin studni z tyrolka"
 *date 2022.08.02
-*team Joanna Zdzalik, Jakub Grubba, Magda Sitarz
+*team "Magda Sitarz" notes pictures ;(Tablet/Qave)
+;*team "Joanna Zdzalik" unknown_role
+;*team "Jakub Grubba" unknown_role
 *instrument tape "DistoX2 ?"
 *instrument compass "DistoX2 ?"
 *instrument clino "DistoX2 ?"

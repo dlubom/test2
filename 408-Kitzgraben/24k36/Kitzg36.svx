@@ -1,7 +1,26 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 408
+;cavern name de "Kitzgrabenschacht"
+;cavern name pl ""
+;cavern part de "Kollektor"
+;cavern part pl "Kolektor"
+
+;file date 2025-04-06
+;file team "Karol Makowski"
+
+*case preserve
+
 *begin k36
 *title "Kitzgraben Express"
 *date 2024.08.15
-*team Michał Parczewski (DistoX2 H11), Przemek Styrna (PDA/PocketTopo)
+*team "Przemek Styrna" notes pictures ;(PDA/PocketTopo)
+*team "Michał Parczewski" instruments
+*instrument tape "DistoX2 H11"
+*instrument compass "DistoX2 H11"
+*instrument clino "DistoX2 H11"
 *data normal from to compass clino tape
 
 1_0	2_0	56.65	1.66	0.795	; domiar -> pomiar do sciany

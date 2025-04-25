@@ -1,7 +1,23 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 408
+;cavern name de "Kitzgrabenschacht"
+;cavern name pl ""
+;cavern part de "Schrittchen"
+;cavern part pl "Kroczek"
+
+;file date 2025-04-06
+;file team "Karol Makowski"
+
+*case preserve
+
 *begin k20
 *title "Kroczek"
 *date 2023.07.27
-*team Asia Piskorek i Staszek Dacy
+*team "Asia Piskorek" notes pictures ;(Tablet/Qave)
+*team "Staszek Dacy" instruments
 *instrument tape "DistoX2 H-3746"
 *instrument compass "DistoX2 H-3746"
 *instrument clino "DistoX2 H-3746"

@@ -1,7 +1,23 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 408
+;cavern name de "Kitzgrabenschacht"
+;cavern name pl ""
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-04-06
+;file team "Karol Makowski"
+
+*case preserve
+
 *begin k14
 *title "Od konca pomiarow Asi i Piotrka - kontynuacja k12"
 *date 2022.08.03
-*team Jakub Grubba, Magda Sitarz
+;*team "Jakub Grubba" unknown_role
+;*team "Magda Sitarz" unknown_role
 *instrument tape "DistoX2 ?"
 *instrument compass "DistoX2 ?"
 *instrument clino "DistoX2 ?"

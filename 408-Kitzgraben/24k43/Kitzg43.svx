@@ -1,8 +1,28 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 408
+;cavern name de "Kitzgrabenschacht"
+;cavern name pl ""
+;cavern part de "Gewundene Galerie"
+;cavern part pl "Kręta Galeria"
+
+;file date 2025-04-06
+;file team "Karol Makowski"
+
+*case preserve
+
 ;*begin kitzgrabenschacht_37
 *begin k43
 *title "Złodziejskie Galerie"
 *date 2024.08.20
-*team Joanna Piskorek (Disto MAGDA), Magda Sitarz (Tablet/Qave), Jakub Nowak (Spray)
+*team "Magda Sitarz" notes pictures ;(Tablet/Qave)
+*team "Jakub Nowak" station ;(Spray)
+*team "Joanna Piskorek" instruments ;(Disto MAGDA)
+*instrument tape "DistoX2 MAGDA"
+*instrument compass "DistoX2 MAGDA"
+*instrument clino "DistoX2 MAGDA"
 *data normal from to tape compass clino ignoreall
 
 *flags duplicate

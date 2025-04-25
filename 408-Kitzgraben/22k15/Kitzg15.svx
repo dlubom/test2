@@ -1,7 +1,23 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 408
+;cavern name de "Kitzgrabenschacht"
+;cavern name pl ""
+;cavern part de "Paukersiphon"
+;cavern part pl "Syfon Kujona"
+
+;file date 2025-04-06
+;file team "Karol Makowski"
+
+*case preserve
+
 *begin k15
 *title "Syfon Kujona"
 *date 2022.08.04
-*team Joanna Zdzalik, Marek Wierzbowski
+*team "Joanna Zdzalik" notes pictures ;(Tablet/SexyTopo)
+*team "Marek Wierzbowski" instruments
 *instrument tape "DistoX2 ?"
 *instrument compass "DistoX2 ?"
 *instrument clino "DistoX2 ?"

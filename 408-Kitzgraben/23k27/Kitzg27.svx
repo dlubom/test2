@@ -1,7 +1,23 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 408
+;cavern name de "Kitzgrabenschacht"
+;cavern name pl ""
+;cavern part de "Kollektor"
+;cavern part pl "Kolektor"
+
+;file date 2025-04-06
+;file team "Karol Makowski"
+
+*case preserve
+
 *begin k27
 *title "Nad Kolektorem"
 *date 2023.08.05
-*team Łukasz Stankowski, Sławek Heteniak
+*team "Łukasz Stankowski" notes pictures ;(Tablet/Qave)
+*team "Sławek Heteniak" instruments
 *instrument tape "DistoX2 NEW"
 *instrument compass "DistoX2 NEW"
 *instrument clino "DistoX2 NEW"

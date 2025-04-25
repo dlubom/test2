@@ -1,8 +1,28 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 408
+;cavern name de "Kitzgrabenschacht"
+;cavern name pl ""
+;cavern part de "Schacht ohne Ehre"
+;cavern part pl "Studnia bez honoru"
+
+;file date 2025-04-06
+;file team "Karol Makowski"
+
+*case preserve
+
 ;*begin kitzgraben_46
 *begin k33
 *title "Studzienki pod drugim biwakiem (Studnia 3H)"
 *date 2024.08.12
-*team Karol Makowski (Tablet/Qave), Przemek Styrna (DistoX2), Łukasz Stankowski (poręczowanie)
+*team "Karol Makowski" notes pictures station;(Tablet/Qave, Spray)
+*team "Przemek Styrna" instruments ;(DistoX2 ?)
+*team "Łukasz Stankowski" explorer ;(poręczowanie)
+*instrument tape "DistoX2 ?"
+*instrument compass "DistoX2 ?"
+*instrument clino "DistoX2 ?"
 *data normal from to tape compass clino ignoreall
 
 *flags duplicate	 				

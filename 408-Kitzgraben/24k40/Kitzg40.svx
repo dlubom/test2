@@ -1,8 +1,28 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 408
+;cavern name de "Kitzgrabenschacht"
+;cavern name pl ""
+;cavern part de "Östliche Teile"
+;cavern part pl "Partie wschodnie"
+
+;file date 2025-04-06
+;file team "Karol Makowski"
+
+*case preserve
+
 ;*begin kitzgraben_10
 *begin k40
 *title "Suche błota (prawy ciąg)"
 *date 2024.08.17
-*team Magda Dziurgot (DistoX2 H10), Magda Sitarz (Tablet/Qave), Piotr Kopera (spray)
+*team "Magda Sitarz" notes pictures ;(Tablet/Qave)
+*team "Piotr Kopera" station ;(Spray)
+*team "Magda Dziurgot" instruments
+*instrument tape "DistoX2 H10"
+*instrument compass "DistoX2 H10"
+*instrument clino "DistoX2 H10"
 *data normal from to tape compass clino ignoreall
 
 *flags duplicate

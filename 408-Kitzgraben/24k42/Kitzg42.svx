@@ -1,8 +1,27 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 408
+;cavern name de "Kitzgrabenschacht"
+;cavern name pl ""
+;cavern part de "Schacht mit Gesims"
+;cavern part pl "Studnia z Gzymsem"
+
+;file date 2025-04-06
+;file team "Karol Makowski"
+
+*case preserve
+
 ;*begin kitzgraben_50
 *begin k42
 *date 2024.08.18
 *title "Od 2-go biwaku do rozdroża (powtórzone pomiary)"
-*team Karol Makowski (Tablet/Qave, DistoX2 MAGDA), Łukasz Stankowski (pomocna dłoń)
+*team "Karol Makowski" notes pictures instruments ;(Tablet/Qave, DistoX2 MAGDA)
+*team "Łukasz Stankowski" assistant
+*instrument tape "DistoX2 MAGDA"
+*instrument compass "DistoX2 MAGDA"
+*instrument clino "DistoX2 MAGDA"
 *data normal from to tape compass clino ignoreall
 
 *flags duplicate

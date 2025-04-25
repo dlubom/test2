@@ -1,8 +1,27 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 408
+;cavern name de "Kitzgrabenschacht"
+;cavern name pl ""
+;cavern part de "Kollektor"
+;cavern part pl "Kolektor"
+
+;file date 2025-04-06
+;file team "Karol Makowski"
+
+*case preserve
+
 ;*begin kitzgrabenschacht1308studniaeskapistow_27
 *begin k35
 *title "Studnia Eskapistów"
 *date 2024.08.13
-*team Filip Filar (DistoX2 H-3037), Joanna Żdżalik (Tablet/Qave)
+*team "Joanna Żdżalik" notes pictures ;(Tablet/Qave)
+*team "Filip Filar" instruments
+*instrument tape "DistoX2 H-3037"
+*instrument compass "DistoX2 H-3037"
+*instrument clino "DistoX2 H-3037"
 *data normal from to tape compass clino ignoreall
 
 0	1	7.781	200.200	63.898

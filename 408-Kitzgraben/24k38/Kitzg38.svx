@@ -1,8 +1,28 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 408
+;cavern name de "Kitzgrabenschacht"
+;cavern name pl ""
+;cavern part de "Schacht ohne Ehre"
+;cavern part pl "Studnia bez honoru"
+
+;file date 2025-04-06
+;file team "Karol Makowski"
+
+*case preserve
+
 ;*begin kitzgraben_47
 *begin k38
 *title "Komin bezglutenowy (Studnia bez honoru)"
 *date 2024.08.15
-*team Joanna Piskorek (Tablet/Qave), Jakub Grubba (DistoX2 MAGDA), Łukasz Stankowski (Tablet/Qave)
+*team "Joanna Piskorek" notes pictures station ;(Tablet/Qave, Spray)
+*team "Łukasz Stankowski" notes pictures station ;(Tablet/Qave, Spray)
+*team "Jakub Grubba" instruments
+*instrument tape "DistoX2 MAGDA"
+*instrument compass "DistoX2 MAGDA"
+*instrument clino "DistoX2 MAGDA"
 *data normal from to tape compass clino ignoreall
 
 *flags duplicate

@@ -1,8 +1,27 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 408
+;cavern name de "Kitzgrabenschacht"
+;cavern name pl ""
+;cavern part de "Schacht mit Gesims"
+;cavern part pl "Studnia z Gzymsem"
+
+;file date 2025-04-06
+;file team "Karol Makowski"
+
+*case preserve
+
 ;*begin kitzgraben_48
 *begin k39
 *title "Po punktach od studni 3H do studni z gzymsem"
 *date 2024.08.15
-*team Jakub Grubba (DistoX2 MAGDA), Joanna Piskorek (Tablet/Qave)
+*team "Joanna Piskorek"  notes pictures ;(Tablet/Qave)
+*team "Jakub Grubba" instruments
+*instrument tape "DistoX2 MAGDA"
+*instrument compass "DistoX2 MAGDA"
+*instrument clino "DistoX2 MAGDA"
 *data normal from to tape compass clino ignoreall
 
 *flags duplicate

@@ -1,8 +1,28 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 408
+;cavern name de "Kitzgrabenschacht"
+;cavern name pl ""
+;cavern part de "Gewundene Galerie"
+;cavern part pl "Kręta Galeria"
+
+;file date 2025-04-06
+;file team "Karol Makowski"
+
+*case preserve
+
 ;*begin kitzgraben_57
 *begin k52
 *title "Z Galerii do Marmitowego meandra"
 *date 2024.08.29
-*team Karol Makowski (Tablet/Qave), Sylwia Dendys (DistoX2 MAGDA), Paweł Chrobak
+*team "Karol Makowski" notes pictures station ;(Tablet/Qave, Spray)
+*team "Sylwia Dendys"
+*team "Paweł Chrobak" explorer assistant
+*instrument tape "DistoX2 MAGDA"
+*instrument compass "DistoX2 MAGDA"
+*instrument clino "DistoX2 MAGDA"
 *data normal from to tape compass clino ignoreall
 
 *flags duplicate

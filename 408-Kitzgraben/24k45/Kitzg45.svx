@@ -1,8 +1,27 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 408
+;cavern name de "Kitzgrabenschacht"
+;cavern name pl ""
+;cavern part de "Kollektor"
+;cavern part pl "Kolektor"
+
+;file date 2025-04-06
+;file team "Karol Makowski"
+
+*case preserve
+
 ;*begin kitzgraben_11
 *begin k45
 *title "Kontynuacja partii za jeziorkiem"
 *date 2024.08.21
-*team Paweł Żebrowski, Adam Władziński
+;*team "Paweł Żebrowski" unknown_role
+;*team "Adam Władziński" unknown_role
+*instrument tape "DistoX2 ?"
+*instrument compass "DistoX2 ?"
+*instrument clino "DistoX2 ?"
 *data normal from to tape compass clino ignoreall
 
 *flags duplicate

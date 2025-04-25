@@ -1,6 +1,22 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 408
+;cavern name de "Kitzgrabenschacht"
+;cavern name pl ""
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-04-06
+;file team "Karol Makowski"
+
+*case preserve
+
 *begin k02p
 *date 2021.08.06
-*team Karol Makowski (palm), Adam Wladzinski (DistoX2)
+*team "Karol Makowski" notes pictures ;(PDA/PocketTopo)
+*team "Adam Wladzinski" instruments
 *instrument compass "DistoX2 ?"
 *instrument clino "DistoX2 ?"
 *instrument tape "DistoX2 ?"

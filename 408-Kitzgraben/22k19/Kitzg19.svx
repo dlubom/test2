@@ -1,7 +1,23 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 408
+;cavern name de "Kitzgrabenschacht"
+;cavern name pl ""
+;cavern part de "Östliche Teile"
+;cavern part pl "Partie wschodnie"
+
+;file date 2025-04-06
+;file team "Karol Makowski"
+
+*case preserve
+
 *begin k19
-*title "Od konca pomiarow Asi i Marka (kontynuacja k15)"
+*title "Galerie der Kalten Winde" ;"Od konca pomiarow Asi i Marka (kontynuacja k15)"
 *date 2022.08.12
-*team Karolina Gac, Magda Sitarz
+*team "Magda Sitarz" notes pictures ;(Tablet/Qave)
+*team "Karolina Gac" instruments
 *instrument tape "DistoX2 ?"
 *instrument compass "DistoX2 ?"
 *instrument clino "DistoX2 ?"
