@@ -1,4 +1,18 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 424
+;cavern name de "Eisrutschn"
+;cavern name pl ""
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-04-26
+;file team "Karol Makowski"
+
 *case preserve
+
 *begin 424-Eisrutschn
 
 *cs UTM33N
