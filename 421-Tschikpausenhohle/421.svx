@@ -1,4 +1,18 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 421
+;cavern name de "Tschikpausenhöhle"
+;cavern name pl ""
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-04-25
+;file team "Karol Makowski"
+
 *case preserve
+
 *begin 421-Tschikpausenhohle
 
 *cs UTM33N
