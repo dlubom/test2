@@ -1,10 +1,26 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 280
+;cavern name de "Alvermannschacht"
+;cavern name pl ""
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-04-25
+;file team "Karol Makowski"
+
+*case preserve
+
 *begin ALS6
 *title "Alvermann - sesja 6"
 
 *date 2003.08.02
-*team Pawel Skoworodko, William Hunt, Marcin Kaniewski
+;*team "Pawel Skoworodko" unknown_role
+;*team "William Hunt" unknown_role
+;*team "Marcin Kaniewski" unknown_role
 *data normal from to tape compass clino ignoreall
-*case preserve
 al94	al93	8.50	320.00	0.00
 al95	al94	6.20	324.00	0.00
 al96	al95	4.70	0.00	90.00

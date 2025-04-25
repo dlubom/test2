@@ -1,10 +1,25 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 280
+;cavern name de "Alvermannschacht"
+;cavern name pl ""
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-04-25
+;file team "Karol Makowski"
+
+*case preserve
+
 *begin ALS3
 *title "Alvermann - sesja 3"
 
 *date 2002.08.22
-*team Darek B. & Vasco
+;*team "Darek Bartoszewski" unknown_role
+;*team Vasco unknown_role
 *data normal from to tape compass clino ignoreall
-*case preserve
 al41	al42	2.91	10.00	-9.00
 al42	al43	3.26	330.00	18.00
 al43	al44	3.83	12.00	27.00

@@ -1,10 +1,26 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 280
+;cavern name de "Alvermannschacht"
+;cavern name pl ""
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-04-25
+;file team "Karol Makowski"
+
+*case preserve
+
 *begin ALS4
 *title "Alvermann - sesja 4"
 
 *date 2003.08.03
-*team Marcin Zamorski, Jaroslaw Jezusek, Maja Juniewicz
+;*team "Marcin Zamorski" unknown_role
+;*team "Jaroslaw Jezusek" unknown_role
+;*team "Maja Juniewicz" unknown_role
 *data normal from to tape compass clino ignoreall
-*case preserve
 al59	al60	1.40	222	-4.00
 al60	al61	7.88	106	-48.00
 al61	al62	1.35	36	18.00

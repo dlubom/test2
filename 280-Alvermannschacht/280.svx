@@ -1,3 +1,16 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 280
+;cavern name de "Alvermannschacht"
+;cavern name pl ""
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-04-25
+;file team "Karol Makowski"
+
 *case preserve
 *begin 280-Alvermannschacht
 

@@ -1,10 +1,25 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 280
+;cavern name de "Alvermannschacht"
+;cavern name pl ""
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-04-25
+;file team "Karol Makowski"
+
+*case preserve
+
 *begin ALS5
 *title "Alvermann - sesja 5"
 
 *date 2003.08.03
-*team Rafa³ Mathea, Agnieszka Mathea
+;*team "Rafa³ Mathea" unknown_role 
+;*team "Agnieszka Mathea" unknown_role
 *data normal from to tape compass clino ignoreall
-*case preserve
 al77	al78	6.36	172	-12.00
 al78	al79	2.24	180	-18.00
 al79	al80	6.31	110	-34.00
