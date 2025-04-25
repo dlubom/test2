@@ -1,4 +1,18 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 340
+;cavern name de ""
+;cavern name pl ""
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-04-25
+;file team "Karol Makowski"
+
 *case preserve
+
 *begin 340
 *title "340"
 
@@ -13,7 +27,11 @@
 *equate 01-eingang	1_0		; entrance 01
 
 *date 2010.07.28
-*team Adam Mioduszewski - rysowanie, Rados³aw Paternoga - DistoX
+*team "Adam Mioduszewski" notes pictures ;(rysunek)
+*team "Rados³aw Paternoga" instruments
+*instrument tape "DistoX"
+*instrument compass "DistoX"
+*instrument clino "DistoX"
 *data normal from to tape compass clino ignoreall
 1_0	1_1	10.050	234.60	-57.20
 1_1	1_2	4.900	334.60	-25.30
