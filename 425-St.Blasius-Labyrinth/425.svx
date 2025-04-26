@@ -2,7 +2,7 @@
 ;cadastre state Salzburg
 ;cadastre masiv 1335	;Hagengebirge
 ;cadastre system	;
-;cadastre cavern 495
+;cadastre cavern 425
 ;cavern name de "St. Blasius Labyrinth"
 ;cavern name pl ""
 ;cavern part de ""
