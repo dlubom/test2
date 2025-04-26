@@ -1,8 +1,8 @@
 *case preserve
 *begin 479-Kastanienhohle
 
-*cs UTM33N
-*declination auto	352738.258	5266915.875	1970
+;*cs UTM33N
+;*declination auto	352738.258	5266915.875	1970
 
 *entrance 01-eingang
 

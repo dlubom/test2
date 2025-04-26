@@ -17,8 +17,8 @@
 *begin 479BOK
 *title "Bok"
 
-*cs UTM33N
-*declination auto	352738.258	5266915.875	1970	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	352738.258	5266915.875	1970	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 1.7
 
 *date 2002.08.19

@@ -17,8 +17,8 @@
 *begin 479TYL
 *title "Obejście górą od Studni Stłuczonego Tyłka"
 
-*cs UTM33N
-*declination auto	352738.258	5266915.875	1970	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	352738.258	5266915.875	1970	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 1.8
 
 *date 2003.08.03
