@@ -18,7 +18,7 @@
 *title "Z Galerii do Marmitowego meandra"
 *date 2024.08.29
 *team "Karol Makowski" notes pictures station ;(Tablet/Qave, Spray)
-*team "Sylwia Dendys"
+*team "Sylwia Dendys" instruments
 *team "Paweł Chrobak" explorer assistant
 *instrument tape "DistoX2 MAGDA"
 *instrument compass "DistoX2 MAGDA"

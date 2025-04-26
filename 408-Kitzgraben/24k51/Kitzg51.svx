@@ -18,7 +18,7 @@
 *title "Ciąg za Salką z filarem cz.2"
 *date 2024.08.28
 *team "Karol Makowski" notes pictures station ;(Tablet/Qave, Spray)
-*team "Sylwia Dendys"
+*team "Sylwia Dendys" instruments
 *team "Paweł Chrobak" explorer assistant
 *instrument tape "DistoX2 MAGDA"
 *instrument compass "DistoX2 MAGDA"

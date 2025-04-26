@@ -17,7 +17,7 @@
 *begin k50
 *title "Ciąg za salką z filarem"
 *date 2024.08.27
-*team "Karol Makowski" notes pictures ;(Tablet/Qave)
+*team "Karol Makowski" notes pictures station ;(Tablet/Qave, Spray)
 *team "Magda Sitarz" instruments
 *instrument tape "DistoX2 MAGDA"
 *instrument compass "DistoX2 MAGDA"
