@@ -25,10 +25,10 @@
 
 *date 1992.09.21
 
-*team "Wolfgang Strasser" unknown_role
-*team "Thomas Glück" unknown_role
-*team "Gerhard Zehentner" unknown_role
-*team "Edgar Dachs" unknown_role
+*team "Wolfgang Strasser" ;unknown_role
+*team "Thomas Glück" ;unknown_role
+*team "Gerhard Zehentner" ;unknown_role
+*team "Edgar Dachs" ;unknown_role
 
 *instrument tape unknown_instrument
 *instrument compass unknown_instrument

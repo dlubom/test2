@@ -25,9 +25,9 @@
 
 *date 2014.08.06
 
-*team <name surname> notes pictures ;(sketch <device/app>)
-*team <name surname> instruments
-*team <name surname> station ;(Spray or nail polish)
+*team "Name Surname" notes pictures ;(sketch <device/app>)
+*team "Name Surname" instruments
+*team "Name Surname" station ;(Spray or nail polish)
 *instrument tape "DistoX <id>"
 *instrument compass "DistoX <id>"
 *instrument clino "DistoX <id>"
