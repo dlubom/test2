@@ -20,6 +20,7 @@
 *include 424-Eisrutschn\424-master.svx
 *include 425-St.Blasius-Labyrinth\425-master.svx
 *include 426-Gerollheimer\426-master.svx
+*include 428-Patrickhohle\428-master.svx
 
 *include 479-Kastanienhohle\479-master.svx
 

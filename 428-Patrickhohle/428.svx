@@ -1,0 +1,26 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 428
+;cavern name de "Patrickhöhle"
+;cavern name pl ""
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-04-26
+;file team "Karol Makowski"
+
+*case preserve
+
+*begin 428-Patrickhohle
+
+*cs UTM33N
+*declination auto	353228.376	5265142.856	2075
+
+*entrance 01-eingang
+
+*include pat.svx
+*equate 01-eingang	428_P.1	; entrance 01
+
+*end 428-Patrickhohle
