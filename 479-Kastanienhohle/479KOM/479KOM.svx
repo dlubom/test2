@@ -3,10 +3,10 @@
 ;cadastre masiv 1335	;Hagengebirge
 ;cadastre system	;
 ;cadastre cavern 479
-;cavern name de "Kastanienhohle"
+;cavern name de "Kastanienhöhle"
 ;cavern name pl "Kasztanowa"
-;cavern part de "Kastanienhohle"
-;cavern part pl "Petla nad Dziurawym Kominem"
+;cavern part de ""
+;cavern part pl ""
 
 ;file date 2024-07-28
 ;file team "Karol Makowski"
@@ -23,20 +23,19 @@
 
 *date 2003.08.03
 
-*team Marcin Kaniewski (sketch Notes)
-*team Jaroslaw Jezusek (Friberg)
-*team <name surename> (tape)
+*team "Marcin Kaniewski" notes pictures ;(sketch Notes)
+*team "Jaroslaw Jezusek" instruments ;(Freiberg)
+*team "Name Surname" tape ;(tape)
 
-*instrument tape "Friberg <id>"
-*instrument compass "Friberg <id>"
-*instrument clino "Friberg <id>"
-
+*instrument tape "tape"
+*instrument compass "Freiberg <id>"
+*instrument clino "Freiberg <id>"
 *units tape backtape meters
 *units compass backcompass degrees
 *units clino backclino degrees
 
-;Friberg
-;Marcin Kaniewski(book), Jaroslaw Jezusek(Instruments)
+;Freiberg
+;Marcin Kaniewski (book), Jaroslaw Jezusek (Instruments)
 
 *data normal from to tape compass clino ignoreall
 

@@ -3,9 +3,9 @@
 ;cadastre masiv 1335	;Hagengebirge
 ;cadastre system	;
 ;cadastre cavern 479
-;cavern name de "Kastanienhohle"
+;cavern name de "Kastanienhöhle"
 ;cavern name pl "Kasztanowa"
-;cavern part de "Kastanienhohle"
+;cavern part de ""
 ;cavern part pl ""
 
 ;file date 2024-07-28
@@ -23,20 +23,19 @@
 
 *date 2003.07.31
 
-*team Marek Wierzbowski (sketch Notes)
-*team Rafal Mateja (tape)
-*team <name surename> (Friberg)
-
-*instrument tape "Friberg <id>"
-*instrument compass "Friberg <id>"
-*instrument clino "Friberg <id>"
+*team "Marek Wierzbowski" notes pictures ;(sketch Notes)
+*team "Rafal Mateja" tape ;(tape)
+*team "Name Surname" instruments ;(Freiberg)
+*instrument tape "tape"
+*instrument compass "Freiberg <id>"
+*instrument clino "Freiberg <id>"
 
 *units tape backtape meters
 *units compass backcompass degrees
 *units clino backclino degrees
 
-;Friberg
-;Marek Wierzbowski(book), Rafal Mateja(tape)
+;Freiberg
+;Marek Wierzbowski (book), Rafal Mateja (tape)
 
 *data normal from to tape compass clino ignoreall
 
