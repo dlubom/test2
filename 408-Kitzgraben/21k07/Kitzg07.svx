@@ -16,8 +16,8 @@
 *begin k07
 *title "Szychta czwartkowa"
 *date 2021.08.12
-;*team "Joanna Zdzalik" unknown_role
-;*team "Jaroslaw Paszkiewicz" unknown_role
+*team "Joanna Zdzalik" ;unknown_role
+*team "Jaroslaw Paszkiewicz" ;unknown_role
 *instrument tape "DistoX2 ?"
 *instrument compass "DistoX2 ?"
 *instrument clino "DistoX2 ?"

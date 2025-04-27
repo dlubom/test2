@@ -17,8 +17,8 @@
 *begin k45
 *title "Kontynuacja partii za jeziorkiem"
 *date 2024.08.21
-;*team "Paweł Żebrowski" unknown_role
-;*team "Adam Władziński" unknown_role
+*team "Paweł Żebrowski" ;unknown_role
+*team "Adam Władziński" ;unknown_role
 *instrument tape "DistoX2 ?"
 *instrument compass "DistoX2 ?"
 *instrument clino "DistoX2 ?"

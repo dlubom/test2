@@ -17,8 +17,8 @@
 *title "Rejoin studni z tyrolka"
 *date 2022.08.02
 *team "Magda Sitarz" notes pictures ;(Tablet/Qave)
-;*team "Joanna Zdzalik" unknown_role
-;*team "Jakub Grubba" unknown_role
+*team "Joanna Zdzalik" ;unknown_role
+*team "Jakub Grubba" ;unknown_role
 *instrument tape "DistoX2 ?"
 *instrument compass "DistoX2 ?"
 *instrument clino "DistoX2 ?"

@@ -16,8 +16,8 @@
 *begin k31
 *title "Skazni na Showshank"
 *date 2023.08.12
-;*team "Michał Parczewski" unknown_role
-;*team "Adam Władziński" unknown_role
+*team "Michał Parczewski" ;unknown_role
+*team "Adam Władziński" ;unknown_role
 ;(PDA/PocketTopo)
 *instrument tape "DistoX2 H-3037"
 *instrument compass "DistoX2 H-3037"

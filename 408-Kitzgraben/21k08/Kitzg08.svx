@@ -15,8 +15,8 @@
 
 *begin k08
 *date 2021.08.13
-;*team "Jacek Szczygiel" unknown_role
-;*team "Jakub Grubba" unknown_role
+*team "Jacek Szczygiel" ;unknown_role
+*team "Jakub Grubba" ;unknown_role
 *instrument tape "DistoX2 ?"
 *instrument compass "DistoX2 ?"
 *instrument clino "DistoX2 ?"

@@ -15,9 +15,9 @@
 
 *begin k05
 *date 2021.08.10
-;*team "Joanna Zdzalik" unknown_role
-;*team "Michal Parczewski" unknown_role
-;*team "Jaroslaw Paszkiewicz" unknown_role
+*team "Joanna Zdzalik" ;unknown_role
+*team "Michal Parczewski" ;unknown_role
+*team "Jaroslaw Paszkiewicz" ;unknown_role
 *instrument tape "DistoX2 ?"
 *instrument compass "DistoX2 ?"
 *instrument clino "DistoX2 ?"

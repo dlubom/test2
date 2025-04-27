@@ -17,8 +17,8 @@
 *title "Za kokosankmi 1"
 *date 2023.07.31
 *team "Magdalen Sitarz" notes pictures ;(Tablet/Qave)
-;*team "Jakub Nowak" unknown_role
-;*team "Michal Parczewski" unknown_role
+*team "Jakub Nowak" ;unknown_role
+*team "Michal Parczewski" ;unknown_role
 *instrument tape "DistoX2 H11"
 *instrument compass "DistoX2 H11"
 *instrument clino "DistoX2 H11"

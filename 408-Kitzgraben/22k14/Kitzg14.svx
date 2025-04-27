@@ -16,8 +16,8 @@
 *begin k14
 *title "Od konca pomiarow Asi i Piotrka - kontynuacja k12"
 *date 2022.08.03
-;*team "Jakub Grubba" unknown_role
-;*team "Magda Sitarz" unknown_role
+*team "Jakub Grubba" ;unknown_role
+*team "Magda Sitarz" ;unknown_role
 *instrument tape "DistoX2 ?"
 *instrument compass "DistoX2 ?"
 *instrument clino "DistoX2 ?"

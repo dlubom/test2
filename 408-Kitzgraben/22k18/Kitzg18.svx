@@ -16,8 +16,8 @@
 *begin k18
 *title "Korytarz nad trawersem"
 *date 2022.08.11
-;*team "Joanna Gaweska" unknown_role
-;*team "Robert Glod" unknown_role
+*team "Joanna Gaweska" ;unknown_role
+*team "Robert Glod" ;unknown_role
 ;(Tablet/Qave)
 *instrument tape "DistoX2 ?"
 *instrument compass "DistoX2 ?"
