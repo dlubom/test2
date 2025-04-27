@@ -1,7 +1,21 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 494
+;cavern name de "Respektschacht"
+;cavern name pl ""
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-04-28
+;file team "Karol Makowski"
+
+*case preserve
+
 *begin Studnia
 *date 2008.08.01
 *data normal from to tape compass clino ignoreall
-*case preserve
 RC15	RC16	9.31	79.00	-69.00
 RC16	RC17	31.98	61.00	-84.00
 RC17	RC18	53.40	72.00	-90.00

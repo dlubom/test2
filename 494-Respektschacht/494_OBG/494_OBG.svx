@@ -1,10 +1,26 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 494
+;cavern name de "Respektschacht"
+;cavern name pl ""
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-04-28
+;file team "Karol Makowski"
+
+*case preserve
+
 *begin Obok_mysiej_g
 *title "Obok mysiej g"
 
 *date 2008.08.06
-*team Mirek Kopertowski, Oliwia Rysnik, Radoslaw Paternoga
+*team "Mirek Kopertowski" ;unknown_role
+*team "Oliwia Rysnik" ;unknown_role
+*team "Radoslaw Paternoga" ;unknown_role
 *data normal from to tape compass clino ignoreall
-*case preserve
 RC17	RC171	19.16	0.00	-90.00
 RC171	RC172	2.11	170.00	-4.00
 RC172	RC173	13.19	0.00	-90.00

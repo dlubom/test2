@@ -1,4 +1,18 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 494
+;cavern name de "Respektschacht"
+;cavern name pl ""
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-04-28
+;file team "Karol Makowski"
+
 *case preserve
+
 *begin 494-Respektschacht
 
 *cs UTM33N

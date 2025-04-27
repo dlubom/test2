@@ -1,4 +1,18 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 494
+;cavern name de "Respektschacht"
+;cavern name pl ""
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-04-28
+;file team "Karol Makowski"
+
 *case preserve
+
 *begin Ciag_glowny
 *title "Respektschacht [494]"
 
@@ -11,7 +25,9 @@
 ;*fix	RC1	353895.799	5265978.674	2025	;UTM zone 33N
 
 *date 2007.08.20
-*team Dariusz Bartoszewski, Krzysztof Jablonski, Marcin Kosecki
+*team "Dariusz Bartoszewski" ;unknown_role
+*team "Krzysztof Jablonski" ;unknown_role
+*team "Marcin Kosecki" ;unknown_role
 *data normal from to tape compass clino ignoreall
 RC1	RC2	4.95	245.00	-46.00
 RC2	RC4	56.70	0.00	-90.00

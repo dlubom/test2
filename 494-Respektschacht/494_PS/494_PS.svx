@@ -1,9 +1,23 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 494
+;cavern name de "Respektschacht"
+;cavern name pl ""
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-04-28
+;file team "Karol Makowski"
+
+*case preserve
+
 *begin Ponizej_studni
 *title "Ponizej studni"
 
 *date 2008.08.01
 *data normal from to tape compass clino ignoreall
-*case preserve
 RC18	RC19	4.40	297.00	-4.00
 RC19	RC20	3.45	346.00	-27.00
 RC20	RC21	3.78	310.00	-39.00
