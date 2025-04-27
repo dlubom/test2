@@ -1,3 +1,18 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 491
+;cavern name de "Höhle in Roten Steinen"
+;cavern name pl "W Czerwonych Kamieniach"
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-04-27
+;file team "Karol Makowski"
+
+*case preserve
+
 *begin ZAMEA
 *date 2007.08.20
 TS_16	TS_15	9.53	34.00	-66.00

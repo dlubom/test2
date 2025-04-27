@@ -1,6 +1,24 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 491
+;cavern name de "Höhle in Roten Steinen"
+;cavern name pl "W Czerwonych Kamieniach"
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-04-27
+;file team "Karol Makowski"
+
+*case preserve
+
 *begin CZW
 *date 2008.08.19
-*team Marek Wierzbowski, Tomasz Kugler, Maja Juniewicz, Agata Saloni
+*team "Marek Wierzbowski" ;unknown_role
+*team "Tomasz Kugler" ;unknown_role
+*team "Maja Juniewicz" ;unknown_role
+*team "Agata Saloni" ;unknown_role
 *data normal from to tape compass clino ignoreall
 cg87	czw1	3.69	192.00	-61.00
 czw1	czw2	11.67	324.00	1.00

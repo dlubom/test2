@@ -1,5 +1,20 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 491
+;cavern name de "Höhle in Roten Steinen"
+;cavern name pl "W Czerwonych Kamieniach"
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-04-27
+;file team "Karol Makowski"
+
+*case preserve
+
 *begin WDDS
-*team Rafal Mateja
+*team "Rafal Mateja" ;unknown_role
 *date 2007.08.20
 *data normal from to tape compass clino ignoreall 
 6_28	6_28_1	1.80	176.00	-24.00
