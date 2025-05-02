@@ -1,0 +1,61 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 481
+;cavern name de "Spaltchen"
+;cavern name pl "Szparka"
+;cavern part de ""
+;cavern part pl "Ciąg do wantowiska"
+
+;file date 2025-04-29
+;file team "Karol Makowski"
+
+;source file: 481_CDW.SRV
+*case preserve
+
+*begin 481_CDW
+*title "Ciąg do wantowiska"
+
+*cs UTM33N
+*declination auto	352390.254	5266007.240	2130	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.4 degrees
+
+*date 2009.08.23
+
+*team "Jarosław Jezusek" ;unknown_role
+*team "Maja Juniewicz" ;unknown_role
+*team "Marcin Kaniewski" ;unknown_role
+*team "Radosław Raternoga" ;unknown_role
+*team "Marcin Zamorski" ;unknown_role
+
+*instrument tape "Friberg <id>"
+*instrument compass "Friberg <id>"
+*instrument clino "Friberg <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+;#SEGMENT	/Ciag do wantowiska
+;TODO data jest zmyslona
+;
+
+*data normal from to tape compass clino ignoreall
+
+A43	W01	6.16	230.0	-13.0
+W01	W02	6.35	238.0	40.0
+W02	W03	5.36	248.0	56.0
+W03	W04	1.32	263.0	22.0
+W04	W05	4.23	190.0	16.0
+W05	W06	3.14	231.0	10.0
+W06	W07	2.87	212.0	-24.0
+W07	W08	4.82	206.0	-10.0
+W08	W09	4.13	178.0	44.0
+W09	W10	2.97	190.0	45.0
+W10	W11	3.09	200.0	-10.0
+W09	W091	1.5	250.0	-10.0
+W091	W092	1.44	240.0	-50.0
+W092	W093	1.23	320.0	0.0
+W093	W094	4.4	290.0	-35.0
+*end 481_CDW

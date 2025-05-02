@@ -1,0 +1,98 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 481
+;cavern name de "Spaltchen"
+;cavern name pl "Szparka"
+;cavern part de ""
+;cavern part pl "Ci¹g horyzontalny"
+
+;file date 2025-04-29
+;file team "Karol Makowski"
+
+;source file: 481_CH.SRV
+*case preserve
+
+*begin 481_CH
+*title "Ci¹g horyzontalny"
+
+*cs UTM33N
+*declination auto	352390.254	5266007.240	2130	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.4 degrees
+
+*date 2009.08.23
+
+*team "Jaros³aw Jezusek" ;unknown_role
+*team "Maja Juniewicz" ;unknown_role
+*team "Marcin Kaniewski" ;unknown_role
+*team "Rados³aw Raternoga" ;unknown_role
+*team "Marcin Zamorski" ;unknown_role
+
+*instrument tape "Friberg <id>"
+*instrument compass "Friberg <id>"
+*instrument clino "Friberg <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+;#SEGMENT	/Ciag horyzontalny
+;TODO data jest zmyslona
+;
+
+*data normal from to tape compass clino ignoreall
+
+sz26	A01	5.54	292.0	-47.0
+A01	A02	4.0	335.0	-30.0
+A02	A03	3.88	40.0	15.0
+A03	A04	1.2	350.0	-15.0
+A04	A05	3.16	355.0	-40.0
+A04	A041	19.2	81.0	-70.0
+A05	A06	4.87	15.0	6.0
+A06	A07	4.46	310.0	-35.0	;zwornik dla malej studzienki
+A07	A071	1.5	245.0	-5.0
+A071	A072	6.05	220.0	-58.0	;w dol jest kontynuacja
+A07	A08	4.98	355.0	-20.0
+A08	A09	5.8	350.0	-25.0
+A09	A10	3.16	115.0	0.0
+A10	A11	5.32	55.0	5.0
+A11	A12	5.51	24.0	-31.0
+A12	A13	11.2	0.0	-90.0	;podstawa zjazdu do Sali Kolumnowej, zwornik dla studzienki pod zjazdem
+A13	A14	2.57	28.0	8.0	;srodek S. Kolumnowej (wanta), zwornik dla studzienek i zapor. progu
+A14	A15	10.75	355.0	4.0
+A15	A16	9.67	350.0	-36.0
+A16	A17	4.56	11.0	7.0
+A17	A18	3.84	336.0	35.0
+A18	A19	3.85	335.0	18.0
+A19	A20	5.06	312.0	-16.0
+A20	A21	4.65	356.0	-6.0	;zwornik dla dwoch œlepych kominkow
+A21	A22	8.64	31.0	-37.0	;zwornik dla kaskadek
+A22	A23	9.76	100.0	16.0	;zwornik dla dwóch polaczonych studzienek i komina
+A23	A24	10.07	92.0	-5.0	;zwornik dla studzienki (wstecz)
+A24	A25	8.09	100.0	29.0
+A25	A26	3.27	92.0	22.0
+A26	A27	3.9	112.0	18.0
+A27	A28	7.37	148.0	28.0
+A28	A29	8.36	59.0	7.0	;zwornik dla 3-ech studzienek
+A29	A30	6.25	112.0	70.0
+A30	A31	12.13	155.0	33.0
+A31	A32	7.56	78.0	28.0	;zwornik dla niezbadanej studzienki
+A32	A33	3.31	50.0	21.0
+A33	A34	4.8	95.0	32.0
+A34	A35	4.07	28.0	-24.0
+A34	A341	2.49	156.0	-23.0
+A341	A342	3.21	213.0	64.0
+A35	A36	1.95	46.0	5.0
+A36	A37	4.19	84.0	26.0
+A37	A38	3.2	43.0	-12.0
+A38	A39	4.54	117.0	19.0
+A39	A40	5.46	68.0	-36.0
+A40	A41	6.21	56.0	-71.0
+A41	A42	9.18	92.0	-69.0
+A42	A43	1.0	146.0	-52.0
+A43	A44	4.66	145.0	-20.0
+A44	A45	3.68	40.0	-55.0
+A45	A46	3.03	44.0	-20.0
+A45	A451	4.65	240.0	5.0
+*end 481_CH

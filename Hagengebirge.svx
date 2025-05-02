@@ -21,8 +21,10 @@
 *include 425-St.Blasius-Labyrinth\425-master.svx
 *include 426-Gerollheimer\426-master.svx
 *include 428-Patrickhohle\428-master.svx
-
+*include 429-Grenzlandruine\429-master.svx
 *include 479-Kastanienhohle\479-master.svx
+*include 480-Comeback-h\480-master.svx
+*include 481-Spaltchen\481-master.svx
 
 *include 482-Hohle_der_blaunen_Nebel\482-master.svx
 

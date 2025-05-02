@@ -1,0 +1,33 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 481
+;cavern name de "Spaltchen"
+;cavern name pl "Szparka"
+;cavern part de ""
+;cavern part pl "Ciąg horyzontalny"
+
+;file date 2025-04-29
+;file team "Karol Makowski"
+
+*case preserve
+
+*begin 481-Spaltchen
+
+*cs UTM33N
+*declination auto	352390.254	5266007.240	2130	; wysokość prawdopodobnie błędna
+
+*entrance 01-eingang
+
+*include 481_CG\481_CG.svx	;Ciąg główny
+*include 481_CDW\481_CDW.svx	;Ciąg do wantowiska
+*include 481_CH\481_CH.svx	;Ciąg horyzontalny
+*include 481_CL\481_CL.svx	;Ciąg lewy
+
+*equate 01-eingang	481_CG.sz0	; entrance 01
+*equate 481_CG.sz26	481_CH.A01	;
+*equate 481_CH.A02	481_CL.L01	;
+*equate 481_CH.A43	481_CDW.W01	;
+
+*end 481-Spaltchen

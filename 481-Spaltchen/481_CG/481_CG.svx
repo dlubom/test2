@@ -1,0 +1,88 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 481
+;cavern name de "Spaltchen"
+;cavern name pl "Szparka"
+;cavern part de ""
+;cavern part pl "Ciąg główny"
+
+;file date 2025-04-29
+;file team "Karol Makowski"
+
+;source file: 481_CG.SRV
+*case preserve
+
+*begin 481_CG
+*title "Ciąg główny"
+
+*cs UTM33N
+*declination auto	352390.254	5266007.240	2130	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.4 degrees
+
+*entrance sz0
+
+*date 2009.08.23
+
+*team "Jarosław Jezusek" ;unknown_role
+*team "Maja Juniewicz" ;unknown_role
+*team "Marcin Kaniewski" ;unknown_role
+*team "Radosław Raternoga" ;unknown_role
+*team "Marcin Zamorski" ;unknown_role
+
+*instrument tape "Friberg <id>"
+*instrument compass "Friberg <id>"
+*instrument clino "Friberg <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+;#NOTE	sz0	/Szparka Spaltchen [481]
+;#FLAG	sz0	/GPS Location
+;#FIX	sz0   E13.03888333333  N47.53071666667   2130m     ;d
+
+;#SEGMENT	/Ciag glowny
+;TODO data jest zmyslona
+;
+*data normal from to tape compass clino ignoreall
+
+sz0	sz1	2.13	280.0	-35.0
+sz1	sz2	0.95	315.0	-5.0
+sz2	sz3	1.75	288.0	-10.0
+sz3	sz4	0.54	210.0	-45.0
+sz4	sz5	1.3	260.0	-15.0
+sz5	sz6	1.29	230.0	5.0
+sz6	sz7	2.14	290.0	-55.0
+sz7	sz8	1.98	200.0	25.0
+sz8	sz9	2.52	285.0	-35.0
+sz9	sz10	1.24	335.0	-20.0
+sz10	sz11	6.76	0.0	-90.0
+sz11	sz12	3.66	275.0	30.0
+sz12	sz13	2.75	315.0	-5.0
+sz13	sz14	5.65	265.0	-30.0
+sz14	sz15	3.86	0.0	-90.0
+sz15	sz16	1.64	265.0	20.0
+sz16	sz17	2.16	300.0	-15.0
+sz17	sz18	1.54	295.0	-65.0
+sz18	sz19	0.98	5.0	27.0
+sz19	sz20	2.3	290.0	-15.0
+sz20	sz21	1.62	345.0	-15.0
+sz21	sz22	2.09	245.0	-48.0
+sz22	sz23	0.9	295.0	0.0
+sz23	sz24	2.34	225.0	-15.0
+sz24	sz25	2.92	285.0	-25.0
+sz25	sz26	11.39	255.0	-80.0
+sz26	sz27	9.85	240.0	-60.0
+sz27	sz28	8.25	185.0	-85.0
+sz28	sz29	2.41	30.0	50.0
+sz29	sz30	9.12	10.0	-75.0
+sz30	sz31	17.09	360.0	-80.0
+sz31	sz32	16.12	350.0	-70.0
+sz28	sz281	6.0	190.0	50.0
+sz281	sz282	14.91	0.0	-90.0
+sz282	sz283	2.08	160.0	-10.0
+sz283	sz284	2.54	290.0	-50.0
+sz284	sz285	25.24	0.0	-90.0
+*end 481_CG

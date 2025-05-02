@@ -1,0 +1,8 @@
+*cs UTM33N
+*cs out UTM33N
+
+*declination auto	352390.254	5266007.240	2130
+
+*include 481.svx
+;*fix	481-Spaltchen.01-eingang	0	0	0	;GPS Location UTM
+*fix	481-Spaltchen.01-eingang	352390.254	5266007.240	2130	;GPS Location UTM (SAGIS)
