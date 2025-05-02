@@ -1,0 +1,26 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 429
+;cavern name de "Grenzlandruine"
+;cavern name pl ""
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-04-28
+;file team "Karol Makowski"
+
+*case preserve
+
+*begin 429-Grenzlandruine
+
+*cs UTM33N
+*declination auto	352999.199	5265115.254	2140
+
+*entrance 01-eingang
+
+*include 429GR001.svx
+*equate 01-eingang	429.0	; entrance 01
+
+*end 429-Grenzlandruine

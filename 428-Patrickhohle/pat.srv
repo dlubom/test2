@@ -1,5 +1,5 @@
 #units meters order=DAV
-;#units A=G V=P
+;#units A=G V=G
 #Prefix 428_P
 #date 1992-09-21
 ;team Strasser, Gluck, Zehetner, Dachs

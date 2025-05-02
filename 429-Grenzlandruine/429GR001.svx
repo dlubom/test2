@@ -1,0 +1,49 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 429
+;cavern name de "Grenzlandruine"
+;cavern name pl ""
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-04-28
+;file team "Karol Makowski"
+
+;source file: 429GR001.SRV
+*case preserve
+
+*begin 429
+*title "<add a title>"
+
+*cs UTM33N
+*declination auto	3352999.199	5265115.254	2140	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 0.8 degrees
+
+*entrance 0
+
+*date 1992.08.15
+
+*team ?
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+;#PREFIX	429
+;#NOTE	0	/Grenzlandruine [429]
+;#FLAG	0	/GPS Location
+;#FIX	0  E13:02.863  N47:31.288   2136m     ;dm
+
+
+*data normal from to tape compass clino ignoreall
+
+0	1	17.5	245.7	-18.0
+1	2	6.1	165.6	23.4
+2	3	4.2	173.7	38.7
+1	4	9.8	233.1	19.8
+4	5	9.8	214.2	10.8
+1	6	11.9	322.2	16.2
+6	7	8.3	337.5	31.5
+*end 429

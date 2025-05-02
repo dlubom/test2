@@ -1,0 +1,28 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 480
+;cavern name de "Comeback höhle"
+;cavern name pl ""
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-04-29
+;file team "Karol Makowski"
+
+*case preserve
+
+*begin 480-Comeback
+
+*cs UTM33N
+*declination auto	352474.211	5266598.197	1981	; wysokość prawdopodobnie błędna
+
+*entrance 01-eingang
+*entrance 02-eingang
+
+*include 480_CB_C.svx
+*equate 01-eingang	480_CB_C.cbh39	; entrance 01
+*equate 02-eingang	480_CB_C.cbh33	; entrance 02
+
+*end 480-Comeback

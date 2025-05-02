@@ -3,6 +3,6 @@
 
 *declination auto	353228.376	5265142.856	2075
 
-*include 428.svx		; otwor
+*include 428.svx
 ;*fix	428-Patrickhohle.01-eingang	0	0	0	;GPS Location UTM
-*fix	428-Patrickhohle.01-eingang	353228.376	5265142.856	2075	;GPS Location UTM2075
+*fix	428-Patrickhohle.01-eingang	353228.376	5265142.856	2075	;GPS Location UTM

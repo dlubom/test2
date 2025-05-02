@@ -1,0 +1,8 @@
+*cs UTM33N
+*cs out UTM33N
+
+*declination auto	352999.199	5265115.254	2140
+
+*include 429.svx
+;*fix	429-Grenzlandruine.01-eingang	0	0	0	;GPS Location UTM
+*fix	429-Grenzlandruine.01-eingang	352999.199	5265115.254	2140	;GPS Location UTM
