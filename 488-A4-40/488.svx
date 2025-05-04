@@ -1,0 +1,30 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 488
+;cavern name de "A4-40"
+;cavern name pl ""
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-05-04
+;file team "Karol Makowski"
+
+*case preserve
+
+*begin 488-A4-40
+*title "<add a title>"
+
+*cs UTM33N
+*declination auto	352318.830	5266642.896	1954	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 1.9 degrees
+
+*entrance 01-eingang
+
+*include 488A440P.svx
+
+
+*equate 01-eingang	488A440P.a440-0	; entrance 01
+
+*end 488-A4-40

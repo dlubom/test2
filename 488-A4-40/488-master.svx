@@ -1,0 +1,8 @@
+*cs UTM33N
+*cs out UTM33N
+
+*declination auto	352318.830	5266642.896	1954
+
+*include 488.svx
+;#FIX	488-A4-40.01-eingang	E13:02.263	N47:32.185	1954m	;dm
+*fix 	488-A4-40.01-eingang	352318.830	5266642.896	1954	;GPS Location UTM

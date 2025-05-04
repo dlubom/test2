@@ -30,6 +30,8 @@
 *include 484-Neuhauserschacht\484-master.svx
 *include 485-A4-3\485-master.svx
 *include 486-A4-10\486-master.svx
+*include 487-Schneekoniginhohle\487-master.svx
+*include 488-A4-40\488-master.svx
 
 ;;*include 491-Hohle_in_Roten_Steinen\491-master.svx
 ;;

@@ -1,0 +1,8 @@
+*cs UTM33N
+*cs out UTM33N
+
+*declination auto	352347.620	5266605.101	1968
+
+*include 487.svx
+;#FIX	487-Schneekoniginhohle.01-eingang	E13.038112	N47.536083	1968m	;d
+*fix 	487-Schneekoniginhohle.01-eingang	352347.620	5266605.101	1968	;GPS Location UTM

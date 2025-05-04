@@ -1,0 +1,30 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 487
+;cavern name de "Schneekoniginhöhle"
+;cavern name pl "Królowej Œniegu"
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-05-04
+;file team "Karol Makowski"
+
+*case preserve
+
+*begin 487-Schneekoniginhohle
+*title "<add a title>"
+
+*cs UTM33N
+*declination auto	352347.620	5266605.101	1968	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 1.9 degrees
+
+*entrance 01-eingang
+
+*include KROSNI.svx
+
+
+*equate 01-eingang	KROSNI.ks1	; entrance 01
+
+*end 487-Schneekoniginhohle

@@ -3,7 +3,7 @@
 ;Marcin Kaniewski, Szymon Matysiak, Dariusz Bartoszewski
 #note ks1	/Krolowej Sniegu Schneekoniginhohle A4-36 [487]
 #flag	ks1	/GPS Location
-#FIX   ks1   E13.03811666667  N47.53608333333   1968m     ;d
+#FIX   ks1   E13.038112  N47.536083   1968m     ;d
 #segment /Krolowej Sniegu
 ks1	ks2	3.22	356.00	-35.00
 ks2	ks3	15.71	0.00	-48.00

@@ -1,0 +1,65 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 487
+;cavern name de "Schneekoniginhöhle"
+;cavern name pl "Królowej Œniegu"
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-05-04
+;file team "Karol Makowski"
+
+;source file: KROSNI.SRV
+*case preserve
+
+*begin KROSNI
+*title "<add a title>"
+
+;*cs UTM33N
+;*declination auto	352347.620	5266605.101	1968	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 1.9 degrees
+
+*entrance ks1
+
+*date 2004.08.23
+
+*team "Marcin Kaniewski" ;unknown_role
+*team "Szymon Matysiak" ;unknown_role
+*team "Dariusz Bartoszewski" ;unknown_role
+
+*instrument tape "? <id>"
+*instrument compass "? <id>"
+*instrument clino "? <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+;#NOTE	ks1	/Krolowej Sniegu Schneekoniginhohle A4-36 [487]
+;#FLAG	ks1	/GPS Location
+;#FIX	ks1   E13.038112  N47.536083   1968m     ;d
+
+;#SEGMENT	/Krolowej Sniegu
+
+*data normal from to tape compass clino ignoreall
+
+ks1	ks2	3.22	356.0	-35.0
+ks2	ks3	15.71	0.0	-48.0
+ks3	ks4	9.28	302.0	-86.0
+ks4	ks5	8.36	121.0	-53.0
+ks5	ks6	6.62	15.0	-74.0
+ks6	ks7	2.94	226.0	-64.0
+ks7	ks8	1.22	311.0	-74.0
+ks8	ks9	23.34	290.0	-84.0
+ks9	ks10	5.38	203.0	-42.0
+ks10	ks11	7.17	334.0	-30.0
+ks11	ks12	8.61	346.0	-3.0
+ks12	ks13	3.86	284.0	-2.0
+ks13	ks14	2.9	0.0	-90.0
+ks121	ks12	3.5	75.0	0.0
+ks6	ks61	1.68	46.0	0.0
+ks61	ks62	4.4	0.0	-90.0
+ks62	ks63	3.9	5.0	0.0
+*end KROSNI
