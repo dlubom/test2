@@ -18,7 +18,6 @@
 
 *cs UTM33N
 *declination auto	352347.620	5266605.101	1968	;GPS Location UTM of entrance for automatic declination calculation
-;*declination 1.9 degrees
 
 *entrance 01-eingang
 
