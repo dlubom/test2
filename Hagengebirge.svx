@@ -28,6 +28,8 @@
 *include 482-Hohle_der_blaunen_Nebel\482-master.svx
 *include 483-WH2\483-master.svx
 *include 484-Neuhauserschacht\484-master.svx
+*include 485-A4-3\485-master.svx
+*include 486-A4-10\486-master.svx
 
 ;;*include 491-Hohle_in_Roten_Steinen\491-master.svx
 ;;

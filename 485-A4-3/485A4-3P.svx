@@ -1,0 +1,52 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 485
+;cavern name de "A4-3"
+;cavern name pl ""
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-05-04
+;file team "Karol Makowski"
+
+;source file: 485A4-3P.SRV
+*case preserve
+
+*begin 485A4-3P
+*title "<add a title>"
+
+;*cs UTM33N
+;*declination auto	352089.073	5266654.824	2007	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 1.9 degrees
+
+*entrance a403-0
+
+*date 2004.08.21
+
+*team "Maja Juniewicz" ;unknown_role
+*team "Marcin Kaniewski" ;unknown_role
+*team "Radosław Raternoga" ;unknown_role
+
+*instrument tape "? <id>"
+*instrument compass "? <id>"
+*instrument clino "? <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+;#NOTE	a403-0	/A4-3 [485]
+;#FLAG	a403-0	/GPS Location
+;#FIX	a403-0   E13:02.080  N47:32.1883   2007m     ;dm
+
+*data normal from to tape compass clino ignoreall
+
+a403-0	a403-1	4.16	355.0	-69.0
+a403-1	a403-2	5.21	294.0	-45.0
+a403-2	a403-3	3.35	314.0	-44.0
+a403-3	a403-4	1.94	321.0	-49.0
+a403-4	a403-5	6.3	296.0	-41.0
+a403-5	a403-6	1.04	353.0	-28.0
+*end 485A4-3P

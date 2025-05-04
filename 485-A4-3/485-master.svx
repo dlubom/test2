@@ -1,0 +1,8 @@
+*cs UTM33N
+*cs out UTM33N
+
+*declination auto	352089.073	5266654.824	2007
+
+*include 485.svx
+;#FIX	485-A4-3.01-eingang	E13:02.0800	N47:32.1883	2007m	;dm
+*fix 	485-A4-3.01-eingang	352089.073	5266654.824	2007	;GPS Location UTM

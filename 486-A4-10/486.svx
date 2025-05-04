@@ -1,0 +1,30 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 486
+;cavern name de "A4-10"
+;cavern name pl ""
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-05-04
+;file team "Karol Makowski"
+
+*case preserve
+
+*begin 486-A4-10
+*title "<add a title>"
+
+*cs UTM33N
+*declination auto	352111.483	5266632.757	2025	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 1.9 degrees
+
+*entrance 01-eingang
+
+*include 486A4-10.svx
+
+
+*equate 01-eingang	486A4-10.a4010-0	; entrance 01
+
+*end 486-A4-10

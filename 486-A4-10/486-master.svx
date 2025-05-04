@@ -1,0 +1,8 @@
+*cs UTM33N
+*cs out UTM33N
+
+*declination auto	352111.483	5266632.757	2025
+
+*include 486.svx
+;#FIX	486-A4-10.01-eingang	E13:02.0983	N47:32.1767	2025m	;dm
+*fix 	486-A4-10.01-eingang	352111.483	5266632.757	2025	;GPS Location UTM
