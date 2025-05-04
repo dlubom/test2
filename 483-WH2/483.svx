@@ -15,8 +15,8 @@
 
 *begin 483-WH2
 
-*cs UTM33N
-*declination auto	352692.048	5266093.405	2044
+;*cs UTM33N
+;*declination auto	352692.048	5266093.405	2044
 
 *entrance 01-eingang
 

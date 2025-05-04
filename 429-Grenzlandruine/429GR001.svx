@@ -17,8 +17,8 @@
 *begin 429
 *title "<add a title>"
 
-*cs UTM33N
-*declination auto	3352999.199	5265115.254	2140	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	3352999.199	5265115.254	2140	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 0.8 degrees
 
 *entrance 0

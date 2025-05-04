@@ -17,8 +17,8 @@
 *begin 481_CG
 *title "Ciąg główny"
 
-*cs UTM33N
-*declination auto	352390.254	5266007.240	2130	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	352390.254	5266007.240	2130	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 2.4 degrees
 
 *entrance sz0
