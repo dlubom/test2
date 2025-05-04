@@ -1,4 +1,18 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 158
+;cavern name de "Atschiloch"
+;cavern name pl ""
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-05-03
+;file team "Karol Makowski"
+
 *case preserve
+
 *begin 158-Atschiloch
 
 *cs UTM33N
@@ -10,8 +24,8 @@
 *entrance 01-eingang
 
 
-*include 900810\900810.svx
-*include 2019-08-02achiloch\2019-08-02achiloch.svx
+*include 1990-08-10\900810.svx
+*include 2019-08-02\190802.svx
 	
 *equate 01-eingang	900810.0		; entrance 01
 *equate a190802.1_27	900810.31
