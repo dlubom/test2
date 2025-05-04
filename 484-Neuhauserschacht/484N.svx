@@ -1,0 +1,52 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 484
+;cavern name de "Neuhauserschacht"
+;cavern name pl ""
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-05-04
+;file team "Karol Makowski"
+
+;source file: 484N.SRV
+*case preserve
+
+*begin 484N
+*title "<add a title>"
+
+;*cs UTM33N
+;*declination auto	356504.807	5267643.169	1601	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 1.8 degrees
+
+*entrance a484
+
+;TODO data jest fikcyjna
+*date 2003.08.10
+
+*team "Name Surname" ;notes pictures station ;(<device/app>, Spray)
+*team "Name Surname" ;instruments ;(DistoX1)
+*team "Name Surname" ;station ;(Spray)
+*team "Name Surname" ;explorer assistant
+
+*instrument tape "? <id>"
+*instrument compass "? <id>"
+*instrument clino "? <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+;#NOTE	a484	/Neuhauserschacht [484]
+;#FLAG	a484	/GPS Location
+;#FIX	a484	E13:5.579000	N47:32.781000	1601m	;dm
+
+;#FIX	a484	E13:5.583333	N47:32.783333	1543m	;dm
+;TODO brak pomiarow - fikcyjny strzal
+
+*data normal from to tape compass clino ignoreall
+
+a484	a484_1	50.0	0.0	-90.0
+*end 484N

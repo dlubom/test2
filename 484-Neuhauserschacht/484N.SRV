@@ -1,6 +1,9 @@
 #Units Meters Order=DAV
 #note	a484	/Neuhauserschacht [484]
 #flag	a484	/GPS Location
-#FIX	a484	E13:5.583333	N47:32.783333	1543m	;dm
+;#FIX	a484	E13:5.583333	N47:32.783333	1543m	;dm
+#FIX	a484	E13:5.579000	N47:32.781000	1601m	;dm
+;TODO data jest fikcyjna 
+#DATE 2003-08-10
 ;TODO brak pomiarow - fikcyjny strzal
 a484	a484.1	50	0	-90

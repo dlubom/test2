@@ -1,0 +1,8 @@
+*cs UTM33N
+*cs out UTM33N
+
+*declination auto	356504.807	5267643.169	1601
+
+*include 484.svx
+;#FIX	484-Neuhauserschacht.01-eingang	E13:05.5790	N47:32.7810	1601m	;dm
+*fix 	484-Neuhauserschacht.01-eingang	356504.807	5267643.169	1601	;GPS Location UTM

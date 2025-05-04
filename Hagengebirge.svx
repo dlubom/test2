@@ -25,8 +25,9 @@
 *include 479-Kastanienhohle\479-master.svx
 *include 480-Comeback-h\480-master.svx
 *include 481-Spaltchen\481-master.svx
-
 *include 482-Hohle_der_blaunen_Nebel\482-master.svx
+*include 483-WH2\483-master.svx
+*include 484-Neuhauserschacht\484-master.svx
 
 ;;*include 491-Hohle_in_Roten_Steinen\491-master.svx
 ;;
