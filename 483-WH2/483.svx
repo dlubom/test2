@@ -1,0 +1,29 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 483
+;cavern name de "WH2"
+;cavern name pl ""
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-05-04
+;file team "Karol Makowski"
+
+*case preserve
+
+*begin 483-WH2
+
+*cs UTM33N
+*declination auto	352692.048	5266093.405	2044
+
+*entrance 01-eingang
+
+*include WH2.svx
+
+
+*equate 01-eingang	WH2.wh2_1	; entrance 01
+
+
+*end 483-WH2

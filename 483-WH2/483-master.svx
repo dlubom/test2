@@ -1,0 +1,8 @@
+*cs UTM33N
+*cs out UTM33N
+
+*declination auto	352692.048	5266093.405	2044
+
+*include 483.svx
+;#FIX	483-WH2.01-eingang	E13:02.572	N47:31.894	2025m	;dm
+*fix 	483-WH2.01-eingang	352692.443	5266094.136	2044	;GPS Location UTM
