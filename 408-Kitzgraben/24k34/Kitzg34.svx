@@ -16,6 +16,11 @@
 ;*begin kitzgrabenschacht12082024trawerspodruletka_26
 *begin k34
 *title "Trawers pod Ruletką"
+
+;*cs UTM33N
+;*declination auto	353907.226	5266168.652	1992
+;*declination 4.4 degrees
+
 *date 2024.08.12
 *team "Filip Filar" notes pictures ;(Tablet/Qave)
 *team "Joanna Żdżalik" instruments

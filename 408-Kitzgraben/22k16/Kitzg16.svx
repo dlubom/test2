@@ -15,8 +15,13 @@
 
 *begin k16
 *title "Meanderek przy rozdrozu"
+
+;*cs UTM33N
+;*declination auto	353907.226	5266168.652	1992
+;*declination 4.1 degrees
+
 *date 2022.08.07
-*team "Karol Makowski" notes pictures station;(Tablet/Qave, spray)
+*team "Karol Makowski" notes pictures station ;(Tablet/Qave, spray)
 *team "Radoslaw Paternoga" instruments
 *instrument tape "DistoX2 ?"
 *instrument compass "DistoX2 ?"

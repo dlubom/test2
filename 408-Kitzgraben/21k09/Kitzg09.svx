@@ -15,9 +15,14 @@
 
 *begin k09
 *title "Lewy meander (od pt 12 Asi i Michala - sesja k07)"
+
+*cs UTM33N
+*declination auto	353907.226	5266168.652	1992
+;*declination 4.0 degrees
+
 *date 2021.08.13
-*team "Jacek Szczygiel" ?
-*team "Jakub Grubba" ?
+*team "Jacek Szczygiel" ;unknown_role
+*team "Jakub Grubba" ;unknown_role
 *instrument tape "DistoX2 ?"
 *instrument compass "DistoX2 ?"
 *instrument clino "DistoX2 ?"

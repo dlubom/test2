@@ -14,6 +14,11 @@
 *case preserve
 
 *begin k06
+
+;*cs UTM33N
+;*declination auto	353907.226	5266168.652	1992
+;*declination 4.0 degrees
+
 *date 2021.08.11
 *team "Joanna Zdzalik" ;unknown_role
 *team "Jaroslaw Paszkiewicz" ;unknown_role

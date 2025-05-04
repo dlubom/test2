@@ -15,6 +15,11 @@
 
 *begin k23
 *title "Studnie pod Kroczkiem 2"
+
+;*cs UTM33N
+;*declination auto	353907.226	5266168.652	1992
+;*declination 4.3 degrees
+
 *date 2023.07.31
 *team "Filip Filar" ;unknown_role
 *team "Lukasz Stankowski" ;unknown_role

@@ -15,10 +15,15 @@
 
 *begin k01
 *title "Partie austiackie"
-*entrance 1_0
 
-;#FIX  1.0   E13:03.538  N47:31.951   2000m     ;dm
-;*fix	1_0	353906.840	5266169.293	2000	;GPS Location UTM
+;#FIX  1.0   E13:03.538320  N47:31.950660   1992m     ;dm (po korekcie w SAGIS)
+;*fix	1_0	353907.226	5266168.652	1992	;GPS Location UTM (po korekcie w SAGIS)
+
+;*cs UTM33N
+;*declination auto	353907.226	5266168.652	1992
+;*declination 3.9 degrees
+
+*entrance 1_0
 
 *date 2020.08.01
 *team "Karol Makowski" notes pictures station ;(PDA/PocketTopo, Spray)

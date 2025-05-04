@@ -14,6 +14,11 @@
 *case preserve
 
 *begin k02p
+
+;*cs UTM33N
+;*declination auto	353907.226	5266168.652	1992
+;*declination 4.0 degrees
+
 *date 2021.08.06
 *team "Karol Makowski" notes pictures ;(PDA/PocketTopo)
 *team "Adam Wladzinski" instruments

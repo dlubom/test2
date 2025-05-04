@@ -15,6 +15,11 @@
 
 *begin k25
 *title "Za kokosankmi 1"
+
+;*cs UTM33N
+;*declination auto	353907.226	5266168.652	1992
+;*declination 4.3 degrees
+
 *date 2023.07.31
 *team "Magdalen Sitarz" notes pictures ;(Tablet/Qave)
 *team "Jakub Nowak" ;unknown_role

@@ -16,6 +16,11 @@
 ;*begin kitzgrabenschacht_39
 *begin k46
 *title "Meander Pacmana"
+
+;*cs UTM33N
+;*declination auto	353907.226	5266168.652	1992
+;*declination 4.4 degrees
+
 *date 2024.08.24
 *team "Magda Sitarz" notes pictures ;(Tablet/Qave)
 *team "Marek Wierzbowski" instruments station ;(DistoX2 Magda, Spray)

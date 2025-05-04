@@ -16,6 +16,11 @@
 ;*begin kitzgrabenschacht1308studniaeskapistow_27
 *begin k35
 *title "Studnia Eskapistów"
+
+;*cs UTM33N
+;*declination auto	353907.226	5266168.652	1992
+;*declination 4.4 degrees
+
 *date 2024.08.13
 *team "Joanna Żdżalik" notes pictures ;(Tablet/Qave)
 *team "Filip Filar" instruments

@@ -14,6 +14,11 @@
 *case preserve
 
 *begin k12
+
+;*cs UTM33N
+;*declination auto	353907.226	5266168.652	1992
+;*declination 4.1 degrees
+
 *date 2022.07.31
 *team "Piotr Kopera" notes pictures ;(Tablet/SexyTopo)
 *team "Joanna Zdzalik" instruments

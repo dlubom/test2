@@ -15,6 +15,11 @@
 
 *begin k36
 *title "Kitzgraben Express"
+
+;*cs UTM33N
+;*declination auto	353907.226	5266168.652	1992
+;*declination 4.4 degrees
+
 *date 2024.08.15
 *team "Przemek Styrna" notes pictures ;(PDA/PocketTopo)
 *team "Michał Parczewski" instruments

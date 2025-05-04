@@ -16,6 +16,11 @@
 ;*begin kitzgraben_57
 *begin k52
 *title "Z Galerii do Marmitowego meandra"
+
+;*cs UTM33N
+;*declination auto	353907.226	5266168.652	1992
+;*declination 4.4 degrees
+
 *date 2024.08.29
 *team "Karol Makowski" notes pictures station ;(Tablet/Qave, Spray)
 *team "Sylwia Dendys" instruments

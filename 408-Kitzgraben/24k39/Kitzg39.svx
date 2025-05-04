@@ -16,6 +16,11 @@
 ;*begin kitzgraben_48
 *begin k39
 *title "Po punktach od studni 3H do studni z gzymsem"
+
+;*cs UTM33N
+;*declination auto	353907.226	5266168.652	1992
+;*declination 4.4 degrees
+
 *date 2024.08.15
 *team "Joanna Piskorek"  notes pictures ;(Tablet/Qave)
 *team "Jakub Grubba" instruments

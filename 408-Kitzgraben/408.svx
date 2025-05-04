@@ -15,7 +15,6 @@
 *begin 408-Kitzgraben
 
 *cs UTM33N
-;*cs out UTM33N
 ;*declination auto	353906.840	5266169.293	2000
 *declination auto	353907.226	5266168.652	1992	; po korekcie w SAGIS
 

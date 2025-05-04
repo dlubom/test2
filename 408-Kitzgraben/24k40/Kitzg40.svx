@@ -16,6 +16,11 @@
 ;*begin kitzgraben_10
 *begin k40
 *title "Suche błota (prawy ciąg)"
+
+;*cs UTM33N
+;*declination auto	353907.226	5266168.652	1992
+;*declination 4.4 degrees
+
 *date 2024.08.17
 *team "Magda Sitarz" notes pictures ;(Tablet/Qave)
 *team "Piotr Kopera" station ;(Spray)

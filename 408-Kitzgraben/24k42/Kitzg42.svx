@@ -15,8 +15,13 @@
 
 ;*begin kitzgraben_50
 *begin k42
-*date 2024.08.18
 *title "Od 2-go biwaku do rozdroża (powtórzone pomiary)"
+
+;*cs UTM33N
+;*declination auto	353907.226	5266168.652	1992
+;*declination 4.4 degrees
+
+*date 2024.08.18
 *team "Karol Makowski" notes pictures instruments ;(Tablet/Qave, DistoX2 MAGDA)
 *team "Łukasz Stankowski" assistant
 *instrument tape "DistoX2 MAGDA"

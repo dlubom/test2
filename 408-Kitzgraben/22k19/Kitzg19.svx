@@ -15,6 +15,11 @@
 
 *begin k19
 *title "Galerie der Kalten Winde" ;"Od konca pomiarow Asi i Marka (kontynuacja k15)"
+
+;*cs UTM33N
+;*declination auto	353907.226	5266168.652	1992
+;*declination 4.1 degrees
+
 *date 2022.08.12
 *team "Magda Sitarz" notes pictures ;(Tablet/Qave)
 *team "Karolina Gac" instruments

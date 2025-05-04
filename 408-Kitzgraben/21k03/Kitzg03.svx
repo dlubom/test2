@@ -14,12 +14,17 @@
 *case preserve
 
 *begin k03
+
+;*cs UTM33N
+;*declination auto	353907.226	5266168.652	1992
+;*declination 4.0 degrees
+
 *date 2021.07.26
 ; Byl problem ze znalezieniem pierwotnych punktow i zosta³y dodane nowe.
 ; Ostatecznie sesja pomiarowa nie powinna byc podlaczana, zamiast tego zostaly wykonane ponowne pomiary - k02p, ktore obejmuja ponowny pomiar sesji k02, k03 i fragment k04.
-*team "Magda Sarapata" ?
-*team "Joanna Przymus" ?
-*team "Lukasz Stankowski" ?
+*team "Magda Sarapata"  ;unknown_role
+*team "Joanna Przymus"  ;unknown_role
+*team "Lukasz Stankowski"  ;unknown_role
 *instrument compass "DistoX2 ?"
 *instrument clino "DistoX2 ?"
 *instrument tape "DistoX2 ?"

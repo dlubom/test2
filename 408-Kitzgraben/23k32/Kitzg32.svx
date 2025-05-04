@@ -15,6 +15,11 @@
 
 *begin k32
 *title "Suche błota"
+
+;*cs UTM33N
+;*declination auto	353907.226	5266168.652	1992
+;*declination 4.3 degrees
+
 *date 2023.08.12
 *team "Magda Sitarz" notes pictures ;(Tablet/Qave)
 *team "Marek Wierzbowski" instruments

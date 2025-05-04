@@ -16,6 +16,11 @@
 ;*begin kitzgraben_55
 *begin k49
 *title "Galeria od punktu 21.53"
+
+;*cs UTM33N
+;*declination auto	353907.226	5266168.652	1992
+;*declination 4.4 degrees
+
 *date 2024.08.27
 *team "Florian Malek" notes pictures ;(Tablet/Qave)
 *team "Jakub Nowak" instruments

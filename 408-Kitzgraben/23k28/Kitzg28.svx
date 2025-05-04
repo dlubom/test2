@@ -15,8 +15,13 @@
 
 *begin k28
 *title "Studnia jubilata (Kolektor)"
+
+;*cs UTM33N
+;*declination auto	353907.226	5266168.652	1992
+;*declination 4.3 degrees
+
 *date 2023.08.08
-*team "Karol Makowski" notes pictures ;(PDA/PocketTopo)
+*team "Karol Makowski" notes pictures station ;(PDA/PocketTopo, Spray)
 *team "Sławek Heteniak" instruments
 *instrument tape "DistoX2 H-3037"
 *instrument compass "DistoX2 H-3037"

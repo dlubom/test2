@@ -16,6 +16,11 @@
 ;*begin kitzgrabenschacht_40
 *begin k50
 *title "Ciąg za salką z filarem"
+
+;*cs UTM33N
+;*declination auto	353907.226	5266168.652	1992
+;*declination 4.4 degrees
+
 *date 2024.08.27
 *team "Karol Makowski" notes pictures station ;(Tablet/Qave, Spray)
 *team "Magda Sitarz" instruments
