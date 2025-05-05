@@ -17,8 +17,8 @@
 *title "Niebieskich Mgieł"
 
 *cs UTM33N
-;*cs out UTM33N
 *declination auto	352682.533	5266348.297	1978
+;*declination 3.7 degrees
 
 *entrance	01-eingang
 ;#FIX	482	E13:02.559	N47:32.031	1978m	;dm

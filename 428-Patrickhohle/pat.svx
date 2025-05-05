@@ -43,9 +43,6 @@
 ;#FLAG	1	/GPS Location
 ;#FIX	1   E13:03.017  N47:31.267   2075m
 
-;#units A=G V=G
-;team Strasser, Gluck, Zehetner, Dachs
-
 *data normal from to tape compass clino ignoreall
 
 ;		meters	grads	grads

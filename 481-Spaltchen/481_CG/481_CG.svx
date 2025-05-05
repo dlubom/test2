@@ -23,6 +23,7 @@
 
 *entrance sz0
 
+;TODO data jest zmyslona
 *date 2009.08.23
 
 *team "Jarosław Jezusek" ;unknown_role
@@ -44,7 +45,6 @@
 ;#FIX	sz0   E13.03888333333  N47.53071666667   2130m     ;d
 
 ;#SEGMENT	/Ciag glowny
-;TODO data jest zmyslona
 ;
 *data normal from to tape compass clino ignoreall
 

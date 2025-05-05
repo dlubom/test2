@@ -16,9 +16,13 @@
 *begin ALS3
 *title "Alvermann - sesja 3"
 
+;*cs UTM33N
+;*declination auto	352352.891	5266962.668	1977.3
+;*declination 1.7 degrees
+
 *date 2002.08.22
-;*team "Darek Bartoszewski" unknown_role
-;*team Vasco unknown_role
+*team "Darek Bartoszewski" ;unknown_role
+*team "Vasco" ;unknown_role
 *data normal from to tape compass clino ignoreall
 al41	al42	2.91	10.00	-9.00
 al42	al43	3.26	330.00	18.00

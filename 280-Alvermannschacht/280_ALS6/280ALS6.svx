@@ -16,10 +16,16 @@
 *begin ALS6
 *title "Alvermann - sesja 6"
 
+;*cs UTM33N
+;*declination auto	352352.891	5266962.668	1977.3
+;*declination 1.8 degrees
+
 *date 2003.08.02
-;*team "Pawel Skoworodko" unknown_role
-;*team "William Hunt" unknown_role
-;*team "Marcin Kaniewski" unknown_role
+
+*team "Pawel Skoworodko" ;unknown_role
+*team "William Hunt" ;unknown_role
+*team "Marcin Kaniewski" ;unknown_role
+
 *data normal from to tape compass clino ignoreall
 al94	al93	8.50	320.00	0.00
 al95	al94	6.20	324.00	0.00

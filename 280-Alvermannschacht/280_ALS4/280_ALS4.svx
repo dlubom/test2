@@ -16,10 +16,15 @@
 *begin ALS4
 *title "Alvermann - sesja 4"
 
+;*cs UTM33N
+;*declination auto	352352.891	5266962.668	1977.3
+;*declination 1.8 degrees
+
 *date 2003.08.03
-;*team "Marcin Zamorski" unknown_role
-;*team "Jaroslaw Jezusek" unknown_role
-;*team "Maja Juniewicz" unknown_role
+*team "Marcin Zamorski" ;unknown_role
+*team "Jaroslaw Jezusek" ;unknown_role
+*team "Maja Juniewicz" ;unknown_role
+
 *data normal from to tape compass clino ignoreall
 al59	al60	1.40	222	-4.00
 al60	al61	7.88	106	-48.00

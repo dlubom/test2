@@ -21,6 +21,7 @@
 ;*declination auto	352390.254	5266007.240	2130	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 2.4 degrees
 
+;TODO data jest zmyslona
 *date 2009.08.23
 
 *team "Jarosław Jezusek" ;unknown_role
@@ -38,8 +39,6 @@
 *units clino backclino degrees
 
 ;#SEGMENT	/Ciag lewy
-;TODO data jest zmyslona
-;
 
 *data normal from to tape compass clino ignoreall
 

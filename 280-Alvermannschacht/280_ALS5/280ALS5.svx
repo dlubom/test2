@@ -16,9 +16,15 @@
 *begin ALS5
 *title "Alvermann - sesja 5"
 
+;*cs UTM33N
+;*declination auto	352352.891	5266962.668	1977.3
+;*declination 1.8 degrees
+
 *date 2003.08.03
-;*team "Rafa³ Mathea" unknown_role 
-;*team "Agnieszka Mathea" unknown_role
+
+*team "Rafa³ Mathea" ;unknown_role 
+*team "Agnieszka Mathea" ;unknown_role
+
 *data normal from to tape compass clino ignoreall
 al77	al78	6.36	172	-12.00
 al78	al79	2.24	180	-18.00

@@ -16,8 +16,6 @@
 *begin 158-Atschiloch
 
 *cs UTM33N
-;*cs out UTM33N
-
 *declination auto	354306.335	5265881.318	2025
 
 

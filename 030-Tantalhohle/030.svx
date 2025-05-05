@@ -1,8 +1,20 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 030
+;cavern name de "Tantalhöhle"
+;cavern name pl ""
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-05-05
+;file team "Karol Makowski"
+
 *case preserve
 *begin 030-Tantalhohle
 
 *cs UTM33N
-;*cs out UTM33N
 *declination auto	355462.725	5262084.817	1710
 
 *entrance 01-eingang

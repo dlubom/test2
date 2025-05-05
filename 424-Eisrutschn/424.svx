@@ -16,7 +16,6 @@
 *begin 424-Eisrutschn
 
 *cs UTM33N
-;*cs out UTM33N
 *declination auto	353169.357	5264942.323	2072
 
 *entrance	01-eingang

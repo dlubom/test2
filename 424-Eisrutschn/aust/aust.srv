@@ -1,5 +1,6 @@
 #units meters order=DAV
-#units A=G V=P
+;#units A=G V=P
+#units A=G V=G
 #Prefix 424_E
 #date 1992-08-15
 ;0	1	12.95	350	-28

@@ -16,8 +16,6 @@
 *begin 421-Tschikpausenhohle
 
 *cs UTM33N
-;*cs out UTM33N
-
 *declination auto	354452.013	5266539.329	1950
 
 *entrance 01-eingang

@@ -24,8 +24,10 @@
 *entrance cbh39
 *entrance cbh33
 
+;TODO data jes fikcyjna
 *date 2010.08.01
 
+;TODO kto kartowal ?
 *team ?
 
 *units tape backtape meters
@@ -35,10 +37,7 @@
 ;#NOTE	cbh40	/Comeback-hohle
 ;#FLAG	cbh33	/GPS Location
 ;#FIX	cbh39   E13:02.388  N47:32.163   1981m     ;dm
-
-;TODO data jes fikcyjna
-;TODO kto kartowal ?
-;#FIX   cbh33   E13:02.402  N47:32.177                     ;dm TODO brak wysokosci
+;#FIX	cbh33   E13:02.402  N47:32.177             ;dm TODO brak wysokosci
 
 *data normal from to tape compass clino ignoreall
 

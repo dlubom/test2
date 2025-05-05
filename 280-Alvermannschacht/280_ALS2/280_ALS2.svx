@@ -16,10 +16,15 @@
 *begin ALS2
 *title "Alvermann - sesja 2"
 
+;*cs UTM33N
+;*declination auto	352352.891	5266962.668	1977.3
+;*declination 1.7 degrees
+
 *date 2002.08.22
-;*team "Darek <surename>?" unknown_role
-;*team "Zbyszek <surname>?" unknown_role
 ;TODO Jaki Darek ? Jaki Zbyszek ?
+*team "Darek <surename>?" ;unknown_role
+*team "Zbyszek <surname>?" ;unknown_role
+
 *data normal from to tape compass clino ignoreall
 al16	al22	1.50	92.00	-81.00
 al22	al23	22.00	0.00	-90.00

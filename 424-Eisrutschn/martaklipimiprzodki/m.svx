@@ -16,8 +16,8 @@
 *begin martaklipimiprzodki
 
 ;*cs UTM33N
-;*cs out UTM33N
 ;*declination auto	353169.357	5264942.323	2072
+;*declination 3.8 degrees
 
 ;#note 31	/[424] Eisrutschn
 *entrance	31
@@ -26,11 +26,18 @@
 ;*fix	31	353169.357	5264942.323	2072	;UTM zone 33N
 
 *date 2019.08.09
+
 *team "Marta Katafiasz" notes pictures ;(Tablet/Qave)
 *team "Marek Wierzbowski" instruments
+
 *instrument tape "DistoX2 ?"
 *instrument compass "DistoX2 ?"
 *instrument clino "DistoX2 ?"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
 *data normal from to tape compass clino ignoreall
 0	1	16.517	87.944	71.127
 1	2	4.820	70.981	29.742

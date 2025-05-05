@@ -15,8 +15,6 @@
 *begin 280-Alvermannschacht
 
 *cs UTM33N
-;*cs out UTM33N
-
 *declination auto 353012.571	5264558.541	2136.0
 
 *entrance 01-eingang

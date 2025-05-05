@@ -15,15 +15,16 @@
 *begin na1
 *title "na1"
 
-;*cs UTM33N
-;*cs out UTM33N
-;*declination auto	354452.013	5266539.329	1950
+*cs UTM33N
+*declination auto	354452.013	5266539.329	1950
+;*declination 3.0 degrees
 
 *entrance	t1
 ;#FIX	t1	E13:03.965	N47:32.15	1950m	;dm
 ;*fix	t1	354452.013	5266539.329	1950	;UTM zone 33N
 
 *date 2014.08.07
+
 *data normal from to compass clino tape ignoreall
 *alias station - ..
 t1	1_1	313.35	-43.76	2.679
