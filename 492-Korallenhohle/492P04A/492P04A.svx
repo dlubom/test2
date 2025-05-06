@@ -21,6 +21,8 @@
 ;*declination auto	352346.582	5266265.961	2040	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 2.1 degrees
 
+*entrance p04_11
+
 *date 2006.08.21
 
 *team "Dariusz Bartoszewski" ;unknown role
