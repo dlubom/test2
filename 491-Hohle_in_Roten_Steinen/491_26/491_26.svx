@@ -6,7 +6,7 @@
 ;cavern name de "Höhle in Roten Steinen"
 ;cavern name pl "W Czerwonych Kamieniach"
 ;cavern part de ""
-;cavern part pl ""
+;cavern part pl "26nc6w2a"
 
 ;file date 2025-04-27
 ;file team "Karol Makowski"
@@ -14,7 +14,26 @@
 *case preserve
 
 *begin 26
-*date 2003.08.16	;bledna data
+*title "26nc6w2a"
+
+;*cs UTM33N
+;*declination auto	353593.236	5266477.383	1880	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.0 degrees
+
+*date 2005.08.16	;bledna data
+
+*team "Name Surname" notes pictures ;(sketch <device/app>)
+*team "Name Surname" instruments
+*team "Name Surname" station ;(Spray or nail polish)
+
+*instrument tape "? <id>"
+*instrument compass "? <id>"
+*instrument clino "? <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
 *data normal from to tape compass clino ignoreall
 TS_04	TT1	1.98	113.00	-51.00
 TT1	TT2	2.05	25.00	-52.00

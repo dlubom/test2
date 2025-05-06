@@ -6,7 +6,7 @@
 ;cavern name de "Höhle in Roten Steinen"
 ;cavern name pl "W Czerwonych Kamieniach"
 ;cavern part de ""
-;cavern part pl ""
+;cavern part pl "Ciąg Główny Meander Gimnastyczny"
 
 ;file date 2025-04-27
 ;file team "Karol Makowski"
@@ -14,12 +14,26 @@
 *case preserve
 
 *begin CGMG
+*title "Ciąg Główny Meander Gimnastyczny"
+
+;*cs UTM33N
+;*declination auto	353593.236	5266477.383	1880	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.0 degrees
 
 *date 2005.08.16
+
 *team "Radoslaw Paternoga" ;unknown_role
 *team "Szymon Matysiak" ;unknown_role
-*data normal from to tape compass clino ignoreall
 
+*instrument tape "? <id>"
+*instrument compass "? <id>"
+*instrument clino "? <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+*data normal from to tape compass clino ignoreall
 ;dane wykomentowane do grad
 cg40	cg41	5.92	38.00	-7.20	;-8.00
 cg41	cg42	4.22	40.00	-17.10	;-19.00

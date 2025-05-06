@@ -6,7 +6,7 @@
 ;cavern name de "Höhle in Roten Steinen"
 ;cavern name pl "W Czerwonych Kamieniach"
 ;cavern part de ""
-;cavern part pl ""
+;cavern part pl "Ciąg Główny pomiary 2"
 
 ;file date 2025-04-27
 ;file team "Karol Makowski"
@@ -14,10 +14,24 @@
 *case preserve
 
 *begin CG2
+*title "Ciąg Główny pomiary 2"
+
+;*cs UTM33N
+;*declination auto	353593.236	5266477.383	1880	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.0 degrees
 
 *date 2005.08.15
+
 *team "Zbigniew Tabaczynski" ;unknown_role
 *team "Zoltar" ;unknown_role
+
+*instrument tape "? <id>"
+*instrument compass "? <id>"
+*instrument clino "? <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
 *data normal from to tape compass clino ignoreall
 
 ;dane wykomentowane do grad

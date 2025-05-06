@@ -6,7 +6,7 @@
 ;cavern name de "Höhle in Roten Steinen"
 ;cavern name pl "W Czerwonych Kamieniach"
 ;cavern part de ""
-;cavern part pl ""
+;cavern part pl "Do dna"
 
 ;file date 2025-04-27
 ;file team "Karol Makowski"
@@ -14,8 +14,24 @@
 *case preserve
 
 *begin DD
+*title "Do dna"
+
+*cs UTM33N
+*declination auto	353593.236	5266477.383	1880	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.2 degrees
+
 *date 2007.08.20
+
 *team "Rafal Mateja" ;unknown_role
+
+*instrument tape "? <id>"
+*instrument compass "? <id>"
+*instrument clino "? <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
 *data normal from to tape compass clino ignoreall
 6_32	07_01	5.84	100.00	-55.00
 07_01	07_02	1.95	180.00	-50.00

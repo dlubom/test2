@@ -6,24 +6,39 @@
 ;cavern name de "Höhle in Roten Steinen"
 ;cavern name pl "W Czerwonych Kamieniach"
 ;cavern part de ""
-;cavern part pl ""
+;cavern part pl "Ciąg Główny pomiary 1"
 
 ;file date 2025-04-27
 ;file team "Karol Makowski"
 
 *case preserve
+
 *begin CG1
+*title "Ciąg Główny pomiary 1"
+
+;*cs UTM33N
+;*declination auto	353593.236	5266477.383	1880	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.0 degrees
 
 ;#note cg01	/W Czerwonych Kamieniach Hohle in Roten Steinen J1 [491]
 *entrance cg01
 
-;#flag	cg01	/GPS Location
+;#flag	cg01	/GPS Location*declination auto	353593.236	5266477.383	1880
 ;#FIX  cg01   E13:03.282  N47:32.113   1880m     ;dm
 ;*fix	cg01	353373.317	5266134.622	1880	;GPS Location UTM
 
 *date 2005.08.01
+
 *team "Zbigniew Tabaczynski" ;unknown_role
 *team "Swierszczu" ;unknown_role
+
+*instrument tape "? <id>"
+*instrument compass "? <id>"
+*instrument clino "? <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
 *data normal from to tape compass clino ignoreall
 
 ;dane wykomentowane do grad

@@ -6,7 +6,7 @@
 ;cavern name de "Höhle in Roten Steinen"
 ;cavern name pl "W Czerwonych Kamieniach"
 ;cavern part de ""
-;cavern part pl ""
+;cavern part pl "W dół do syfonu"
 
 ;file date 2025-04-27
 ;file team "Karol Makowski"
@@ -14,9 +14,25 @@
 *case preserve
 
 *begin WDDS
-*team "Rafal Mateja" ;unknown_role
+*title "W dół do syfonu"
+
+;*cs UTM33N
+;*declination auto	353593.236	5266477.383	1880	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.2 degrees
+
 *date 2007.08.20
-*data normal from to tape compass clino ignoreall 
+
+*team "Rafal Mateja" ;unknown_role
+
+*instrument tape "? <id>"
+*instrument compass "? <id>"
+*instrument clino "? <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+*data normal from to tape compass clino ignoreall
 6_28	6_28_1	1.80	176.00	-24.00
 6_28_1	6_28_2	4.13	201.00	-36.00
 6_28_2	6_28_3	4.38	200.00	-78.00

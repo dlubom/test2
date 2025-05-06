@@ -6,7 +6,7 @@
 ;cavern name de "Höhle in Roten Steinen"
 ;cavern name pl "W Czerwonych Kamieniach"
 ;cavern part de ""
-;cavern part pl ""
+;cavern part pl "Za meandrem"
 
 ;file date 2025-04-27
 ;file team "Karol Makowski"
@@ -14,7 +14,26 @@
 *case preserve
 
 *begin ZAMEA
+*title "Za meandrem"
+;*cs UTM33N
+;*declination auto	353593.236	5266477.383	1880	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.2 degrees
+
 *date 2007.08.20
+
+*team "Name Surname" notes pictures ;(sketch <device/app>)
+*team "Name Surname" instruments
+*team "Name Surname" station ;(Spray or nail polish)
+
+*instrument tape "? <id>"
+*instrument compass "? <id>"
+*instrument clino "? <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+*data normal from to tape compass clino ignoreall
 TS_16	TS_15	9.53	34.00	-66.00
 TS_15	TS_14	6.89	39.00	-64.00
 TS_14	TS_13	5.51	24.00	-32.00

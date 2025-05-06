@@ -6,7 +6,7 @@
 ;cavern name de "Höhle in Roten Steinen"
 ;cavern name pl "W Czerwonych Kamieniach"
 ;cavern part de ""
-;cavern part pl ""
+;cavern part pl "Ciąg Główny Suchy"
 
 ;file date 2025-04-27
 ;file team "Karol Makowski"
@@ -14,11 +14,26 @@
 *case preserve
 
 *begin CGS
+*title "Ciąg Główny Suchy"
+
+;*cs UTM33N
+;*declination auto	353593.236	5266477.383	1880	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.0 degrees
+
 *date 2005.08.16
+
 *team "Dariusz Bartoszewski" ;unknown_role
 *team "Marek Wierzbowski" ;unknown_role
-*data normal from to tape compass clino ignoreall
 
+*instrument tape "? <id>"
+*instrument compass "? <id>"
+*instrument clino "? <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+*data normal from to tape compass clino ignoreall
 ;dane wykomentowane do grad
 cg94	cg95	8.56	101.00	-80.10	;-89.00
 cg95	cg96	2.24	311.00	9.90	;11.00

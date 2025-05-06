@@ -6,7 +6,7 @@
 ;cavern name de "Höhle in Roten Steinen"
 ;cavern name pl "W Czerwonych Kamieniach"
 ;cavern part de ""
-;cavern part pl ""
+;cavern part pl "Dookoła woda"
 
 ;file date 2025-04-27
 ;file team "Karol Makowski"
@@ -14,7 +14,26 @@
 *case preserve
 
 *begin DKW
+*title "Dookoła woda"
+
+;*cs UTM33N
+;*declination auto	353593.236	5266477.383	1880	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.3 degrees
+
 *date 2008.08.09
+
+*team "Name Surname" notes pictures ;(sketch <device/app>)
+*team "Name Surname" instruments
+*team "Name Surname" station ;(Spray or nail polish)
+
+*instrument tape "? <id>"
+*instrument compass "? <id>"
+*instrument clino "? <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
 *data normal from to tape compass clino ignoreall
 6_3	dw1	2.01	147.53	4.41
 dw1	dw2	15.17	295.26	73.02

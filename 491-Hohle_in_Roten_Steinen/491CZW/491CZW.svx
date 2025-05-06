@@ -6,7 +6,7 @@
 ;cavern name de "Höhle in Roten Steinen"
 ;cavern name pl "W Czerwonych Kamieniach"
 ;cavern part de ""
-;cavern part pl ""
+;cavern part pl "Ciąg za Wodą"
 
 ;file date 2025-04-27
 ;file team "Karol Makowski"
@@ -14,11 +14,27 @@
 *case preserve
 
 *begin CZW
+*title "Ciąg za Wodą"
+
+;*cs UTM33N
+;*declination auto	353593.236	5266477.383	1880	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.3 degrees
+
 *date 2008.08.19
+
 *team "Marek Wierzbowski" ;unknown_role
 *team "Tomasz Kugler" ;unknown_role
 *team "Maja Juniewicz" ;unknown_role
 *team "Agata Saloni" ;unknown_role
+
+*instrument tape "? <id>"
+*instrument compass "? <id>"
+*instrument clino "? <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
 *data normal from to tape compass clino ignoreall
 cg87	czw1	3.69	192.00	-61.00
 czw1	czw2	11.67	324.00	1.00
