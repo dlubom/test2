@@ -33,7 +33,8 @@
 *include 487-Schneekoniginhohle\487-master.svx
 *include 488-A4-40\488-master.svx
 
-;;*include 491-Hohle_in_Roten_Steinen\491-master.svx
+*include 491-Hohle_in_Roten_Steinen\491-master.svx
+*include 492-Korallenhohle\492-master.svx
 ;;
 ;;*include 494-Respektschacht\494-master.svx
 ;;*include 495-Interessante\495-master.svx
