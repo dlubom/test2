@@ -1,0 +1,36 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 491
+;cavern name de "Korallenhöhle"
+;cavern name pl "Koralowa"
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-04-27
+;file team "Karol Makowski"
+
+*case preserve
+
+*begin 492-Korallenhohle
+
+*cs UTM33N
+*declination auto	353593.236	5266477.383	1880
+
+*entrance 01-eingang
+
+;#NOTE	p04_1	/Koralowa Korallenhohle A3-8 P04 [492]
+;#FLAG	p04_1	/GPS Location
+;#FIX	p04_1   E13:02.293  N47:31.982  2040m     ;dm
+
+*include 492P04\492P04.svx
+*include 492POW\492POW.svx
+*include 492P04A\492P04A.svx
+
+*equate 01-eingang	P04.p04_1		; entrance 01
+*equate POW.p04_7	P04.p04_7
+*equate P04A.p04_9	POW.p04_9
+
+*end 492-Korallenhohle
+ 

@@ -1,0 +1,53 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 492
+;cavern name de "Korallenhöhle"
+;cavern name pl "Koralowa"
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-05-07
+;file team "Karol Makowski"
+
+;source file: 492P04.SRV
+*case preserve
+
+*begin P04
+*title "<add a title>"
+
+;*cs UTM33N
+;*declination auto	352346.582	5266265.961	2040	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.1 degrees
+
+*entrance p04_1
+
+*date 2006.08.21
+
+*team "Dariusz Bartoszewski" ;unknown role
+*team "Andrzej Poczobutt" ;unknown role
+*team "P. Ostrowski" ;unknown role
+
+*instrument tape "? <id>"
+*instrument compass "? <id>"
+*instrument clino "? <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+;#NOTE	p04_1	/Koralowa Korallenhohle A3-8 P04 [492]
+;#FLAG	p04_1	/GPS Location
+;#FIX	p04_1   E13:02.293  N47:31.982  2040m     ;dm
+
+
+*data normal from to tape compass clino ignoreall
+
+p04_1	p04_2	7.55	92.0	-21.0
+p04_2	p04_3	2.85	103.0	-55.0
+p04_3	p04_4	10.47	45.0	-25.0
+p04_4	p04_5	7.26	134.0	22.0
+p04_5	p04_6	18.85	104.0	26.0
+p04_6	p04_7	5.83	98.0	41.0
+*end P04
