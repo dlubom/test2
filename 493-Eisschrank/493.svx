@@ -1,0 +1,28 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 493
+;cavern name de "Eisschrank"
+;cavern name pl "Lodówka"
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-05-07
+;file team "Karol Makowski"
+
+*case preserve
+
+*begin 493-Eisschrank
+
+*cs UTM33N
+*declination auto	352609.751	5266796.793	1985	;GPS Location UTM of entrance for automatic declination calculation
+
+*entrance 01-eingang
+
+*include 493LOPK.svx
+
+
+*equate 01-eingang	493LOPK.ld0	; entrance 01
+
+*end 493-Eisschrank
