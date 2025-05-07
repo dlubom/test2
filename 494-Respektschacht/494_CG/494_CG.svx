@@ -6,7 +6,7 @@
 ;cavern name de "Respektschacht"
 ;cavern name pl ""
 ;cavern part de ""
-;cavern part pl ""
+;cavern part pl "Ciag glówny"
 
 ;file date 2025-04-28
 ;file team "Karol Makowski"
@@ -14,20 +14,30 @@
 *case preserve
 
 *begin Ciag_glowny
-*title "Respektschacht [494]"
+*title "Ciąg główny"
 
 ;*cs UTM33N
-;*cs out UTM33N
-;*declination auto	352650	5266814	1980
+;*declination auto	353892.128	5265982.472	2025
+;*declination 2.2 degrees
 
 *entrance	RC1
 ;#FIX	RC1	E13:03.533	N47:31.848	2025m	;dm
 ;*fix	RC1	353895.799	5265978.674	2025	;UTM zone 33N
 
 *date 2007.08.20
+
 *team "Dariusz Bartoszewski" ;unknown_role
 *team "Krzysztof Jablonski" ;unknown_role
 *team "Marcin Kosecki" ;unknown_role
+
+*instrument tape "? <id>"
+*instrument compass "? <id>"
+*instrument clino "? <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
 *data normal from to tape compass clino ignoreall
 RC1	RC2	4.95	245.00	-46.00
 RC2	RC4	56.70	0.00	-90.00

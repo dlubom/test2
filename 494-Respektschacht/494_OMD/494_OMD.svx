@@ -6,7 +6,7 @@
 ;cavern name de "Respektschacht"
 ;cavern name pl ""
 ;cavern part de ""
-;cavern part pl ""
+;cavern part pl "Obok mysiej d"
 
 ;file date 2025-04-28
 ;file team "Karol Makowski"
@@ -16,10 +16,24 @@
 *begin Obok_mysiej_d
 *title "Obok mysiej d"
 
+;*cs UTM33N
+;*declination auto	353892.128	5265982.472	2025
+;*declination 2.3 degrees
+
 *date 2008.08.08
+
 *team "Mirek Kopertowski" ;unknown_role
 *team "Oliwia Rysnik" ;unknown_role
 *team "Radoslaw Paternoga" ;unknown_role
+
+*instrument tape "? <id>"
+*instrument compass "? <id>"
+*instrument clino "? <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
 *data normal from to tape compass clino ignoreall
 RC18	RC181	13.52	179.00	81.00
 RC181	RC182	4.88	192.00	-36.00

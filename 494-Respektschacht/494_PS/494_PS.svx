@@ -6,7 +6,7 @@
 ;cavern name de "Respektschacht"
 ;cavern name pl ""
 ;cavern part de ""
-;cavern part pl ""
+;cavern part pl "Poniżej studni"
 
 ;file date 2025-04-28
 ;file team "Karol Makowski"
@@ -16,7 +16,25 @@
 *begin Ponizej_studni
 *title "Ponizej studni"
 
+;*cs UTM33N
+;*declination auto	353892.128	5265982.472	2025
+;*declination 2.3 degrees
+
 *date 2008.08.01
+
+;TODO kto kartowal
+*team "Name Surname" notes pictures ;(sketch <device/app>)
+*team "Name Surname" instruments
+*team "Name Surname" station ;(Spray or nail polish)
+
+*instrument tape "? <id>"
+*instrument compass "? <id>"
+*instrument clino "? <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
 *data normal from to tape compass clino ignoreall
 RC18	RC19	4.40	297.00	-4.00
 RC19	RC20	3.45	346.00	-27.00

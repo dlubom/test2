@@ -6,7 +6,7 @@
 ;cavern name de "Respektschacht"
 ;cavern name pl ""
 ;cavern part de ""
-;cavern part pl ""
+;cavern part pl "Studnia"
 
 ;file date 2025-04-28
 ;file team "Karol Makowski"
@@ -14,7 +14,27 @@
 *case preserve
 
 *begin Studnia
+*title "Studnia"
+
+;*cs UTM33N
+;*declination auto	353892.128	5265982.472	2025
+;*declination 2.3 degrees
+
 *date 2008.08.01
+
+;TODO kto kartowal
+*team "Name Surname" notes pictures ;(sketch <device/app>)
+*team "Name Surname" instruments
+*team "Name Surname" station ;(Spray or nail polish)
+
+*instrument tape "? <id>"
+*instrument compass "? <id>"
+*instrument clino "? <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
 *data normal from to tape compass clino ignoreall
 RC15	RC16	9.31	79.00	-69.00
 RC16	RC17	31.98	61.00	-84.00

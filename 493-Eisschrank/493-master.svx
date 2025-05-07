@@ -1,7 +1,7 @@
 *cs UTM33N
 *cs out UTM33N
 
-*declination auto	352609.751	5266796.793	1985	;GPS Location UTM of entrance for automatic declination calculation
+*declination auto	352609.751	5266796.793	1985
 
 *include 493.svx
 ;#FIX	493-Eisschrank.01-eingang	E13:02.492	N47:32.272	1985m	;dm

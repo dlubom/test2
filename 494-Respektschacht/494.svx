@@ -16,8 +16,7 @@
 *begin 494-Respektschacht
 
 *cs UTM33N
-;*cs out UTM33N
-*declination auto	352650	5266814	1980
+*declination auto	353892.128	5265982.472	2025
 
 *entrance	01-eingang
 
