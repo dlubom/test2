@@ -14,11 +14,9 @@
 *case preserve
 
 *begin 484-Neuhauserschacht
-*title "<add a title>"
 
 *cs UTM33N
 *declination auto	356504.807	5267643.169	1601	;GPS Location UTM of entrance for automatic declination calculation
-;*declination 1.8 degrees
 
 *entrance 01-eingang
 

@@ -1,3 +1,16 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 479
+;cavern name de "Kastanienhöhle"
+;cavern name pl "Kasztanowa"
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2024-07-28
+;file team "Karol Makowski"
+
 *case preserve
 *begin 479-Kastanienhohle
 

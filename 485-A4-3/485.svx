@@ -14,11 +14,9 @@
 *case preserve
 
 *begin 485-A4-3
-*title "<add a title>"
 
 *cs UTM33N
 *declination auto	352089.073	5266654.824	2007	;GPS Location UTM of entrance for automatic declination calculation
-;*declination 1.9 degrees
 
 *entrance 01-eingang
 

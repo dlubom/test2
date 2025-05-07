@@ -25,5 +25,4 @@
 
 *equate 01-eingang	WH2.wh2_1	; entrance 01
 
-
 *end 483-WH2
