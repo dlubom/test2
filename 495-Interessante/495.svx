@@ -26,7 +26,7 @@
 *equate Ciagi_Polnocne3.nt041	Ciagi_Polnocne4.nt041
 ;------------------------------------------------------------------------------------------------
 *include 20130803-Ciag_wejsciowy-podmeander\cioranie.svx		;Ciąg wejsciowy - podmeander
-*equate Ciag_wejsciowy2.cw038	Ciag_wejsciowy-podmeander.cw038_01
+*equate Ciag_wejsciowy2.cw038	Ciag_wejsciowy-podmeander.cw038
 ;------------------------------------------------------------------------------------------------
 *include 20090805-Meander1\MEAND1.svx			;Meander 1
 *equate Ciag_wejsciowy2.cw040	Meander1.cw040
