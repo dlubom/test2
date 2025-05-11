@@ -17,16 +17,16 @@
 *begin Meander_Zachodni7
 *title "Meander Zachodni 7"
 
-*cs UTM33N
-*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 2.6 degrees
 
 *date 2011.08.11
 
-;Michal Humienik, Arek Swieczkowski
-*team <name surename> (sketch <device/app>)
-*team <name surename> (DistoX1)
-*team <name surename> (marking)
+;Michał Humienik, Arkadiusz Swieczkowski
+*team "name surname" notes pictures ;(sketch <device/app>)
+*team "name surname" instruments ;(DistoX1)
+*team "name surname" station ;(Spray)
 
 *instrument tape "DistoX1 <id>"
 *instrument compass "DistoX1 <id>"

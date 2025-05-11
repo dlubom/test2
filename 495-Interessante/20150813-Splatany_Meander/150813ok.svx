@@ -24,10 +24,8 @@
 
 *date 2015.08.13
 
-;Jakub Nowak (notes), Aleksandra Puchalska
-*team Jakub Nowak (sketch notes)
-*team Aleksandra Puchalska (DistoX1)
-*team <name surename> (marking)
+*team "Jakub Nowak" notes ;(Notes)
+*team "Aleksandra Puchalska" instruments ;(DistoX1)
 
 *instrument tape "DistoX1 <id>"
 *instrument compass "DistoX1 <id>"

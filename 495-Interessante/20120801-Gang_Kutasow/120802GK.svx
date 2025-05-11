@@ -18,18 +18,17 @@
 ;#SEGMENT	/Gang Kutasów
 *title "Gang Kutasów"
 
-*cs UTM33N
-*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 2.8 degrees
 
 *date 2012.08.01
 
-;Tomasz Olczak, Rafal Mateja (znaczenie pkt.), Jan Dudziec (obsluga Disto-X), Dariusz Lubomski (kartowanie)
-*team Dariusz Lubomski (sketch PDA/PocketTopo)
-*team Jan Dudziec (DistoX1)
-*team Rafał Mateja (marking)
+*team "Dariusz Lubomski" notes pictures ;(PDA/PocketTopo)
+*team "Jan Dudziec" instruments ;(DistoX1)
+*team "Rafał Mateja" station ;(Spray)
+*team "Tomasz Olczak" explorer assistant
 
-;Disto-X + Palm
 *instrument tape "DistoX1 <id>"
 *instrument compass "DistoX1 <id>"
 *instrument clino "DistoX1 <id>"

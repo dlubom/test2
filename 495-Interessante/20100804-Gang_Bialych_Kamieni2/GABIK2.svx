@@ -18,16 +18,16 @@
 ;#SEGMENT	/Gang Bialych Kamieni 2
 *title "Gang Białych Kamieni 2"
 
-*cs UTM33N
-*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 2.5 degrees
 
 *date 2010.08.04
 
-;Jan Sopinski, Mateusz Golicz, Tomasz Olczak
-*team <name surename> (sketch PDA/PocketTopo)
-*team <name surename> (DistoX1)
-*team <name surename> (marking)
+;DistoX1, PDA/PocketTopo
+*team "Jan Sopiński" ;unknown_role
+*team "Mateusz Golicz" ;unknown_role
+*team "Tomasz Olczak" ;unknown_role
 
 *instrument tape "DistoX1 <id>"
 *instrument compass "DistoX1 <id>"

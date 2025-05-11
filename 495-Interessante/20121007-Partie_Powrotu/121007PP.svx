@@ -18,16 +18,15 @@
 ;#SEGMENT	/Partie Powrotu
 *title "Partie Powrotu"
 
-*cs UTM33N
-*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 2.8 degrees
 
 *date 2012.10.07
 
-;Michal Humielnik (palm /disto), Bartek Berdel (sprej/disto), Tomek Olczak (sprej)
-*team Michał Humienik (sketch PDA/PocketTopo)
-*team Michał Humienik, Bartek Berdel (DistoX1)
-*team Bartek Berdel, Tomasz Olczak (marking)
+*team "Michał Humienik" notes pictures instruments ;(PDA/PocketTopo, DistoX1)
+*team "Bartek Berdel" instruments station ;(DistoX1, Spray)
+*team "Tomasz Olczak" station ;(Spray)
 
 *instrument tape "DistoX1 <id>"
 *instrument compass "DistoX1 <id>"

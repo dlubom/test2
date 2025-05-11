@@ -18,16 +18,15 @@
 ;#PREFIX	PZMG1
 *title "Meander za Morzem Guinessa"
 
-*cs UTM33N
-*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 3.2 degrees
 
 *date 2015.07.28
 
-;Karol Makowski(Palm), Rafal Klimara(Spray), Jaroslaw Surmacz(Disto)
-*team Karol Makowski (sketch PDA/PocketTopo)
-*team Jarosław Surmacz (DistoX1)
-*team Rafał Klimara (marking)
+*team "Karol Makowski" notes pictures ;(PDA/PocketTopo)
+*team "Jarosław Surmacz" instruments ;(DistoX1)
+*team "Rafał Klimara" station ;(Spray)
 
 *instrument tape "DistoX1 <id>"
 *instrument compass "DistoX1 <id>"

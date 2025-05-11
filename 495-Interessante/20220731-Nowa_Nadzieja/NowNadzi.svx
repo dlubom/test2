@@ -19,16 +19,15 @@
 ;Nowa nadzieja
 *title "Nowa Nadzieja"
 
-*cs UTM33N
-*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 4.2 degrees
 
 *date 2022.07.31
 
-;team Arkadiusz Kus (szkic PocketTopo), Adam Wladzinski [Paluszek] (DistoX2), Pawel Zebrowski [Koniu]
-*team Arkadiusz Kus (sketch PDA/PocketTopo)
-*team Adam Władzinski (DistoX2)
-*team Paweł Żebrowski (marking)
+*team "Arkadiusz Kus" notes pictures ;(PDA/PocketTopo)
+*team "Adam Władziński" instruments ;(DistoX2)
+*team "Paweł Żebrowski" station ;(Spray)
 
 *instrument tape "DistoX2 <id>"
 *instrument compass "DistoX2 <id>"

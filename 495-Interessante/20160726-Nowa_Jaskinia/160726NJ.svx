@@ -18,17 +18,16 @@
 ;#PREFIX	MMNJ
 *title "Nowa Jaskinia"
 
-*cs UTM33N
-*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 3.3 degrees
 
 *date 2016.07.26
 
-;Mirek Kopertowski (palm, spray, distox), Arek Kus (spray, distox), Marcin Slowik (palm, spray, distox), Jarek Surmacz (palm, spray, distox)
-*team Mirosław Kopertowski (sketch PDA/PocketTopo, DistoX1, marking)
-*team Arkadiusz Kus (DistoX1, marking)
-*team Marcin Słowik (sketch PDA/PocketTopo, DistoX1, marking))
-*team Jarosław Surmacz (sketch PDA/PocketTopo, DistoX1, marking))
+*team "Mirosław Kopertowski" notes pictures instruments station ;(PDA/PocketTopo, DistoX1, Spray)
+*team "Arkadiusz Kus" instruments station ;(DistoX1, Spray)
+*team "Marcin Słowik" notes pictures instruments station ;(PDA/PocketTopo, DistoX1, Spray)
+*team "Jarosław Surmacz" notes pictures instruments station ;(PDA/PocketTopo, DistoX1, Spray)
 
 *instrument tape "DistoX1 <id>"
 *instrument compass "DistoX1 <id>"

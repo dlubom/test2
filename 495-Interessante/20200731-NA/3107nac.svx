@@ -18,15 +18,14 @@
 ;#PREFIX	naciek
 *title "naciek"
 
-*cs UTM33N
-*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 3.9 degrees
 
 *date 2020.07.31
 
-;Tomasz Olczak (szkic), Jaroslaw Paszkiewicz (DistoX)
-*team Tomasz Olczak (sketch PDA/PocketTopo, marking)
-*team Jarosław Paszkiewicz (DistoX2)
+*team "Tomasz Olczak" notes pictures station ;(PDA/PocketTopo, Spray)
+*team "Jarosław Paszkiewicz" instruments ;(DistoX2)
 
 *instrument tape "DistoX2 <id>"
 *instrument compass "DistoX2 <id>"

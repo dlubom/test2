@@ -17,16 +17,14 @@
 *begin Rura_freatyczna
 *title "Rura freatyczna"
 
-*cs UTM33N
-*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 2.9 degrees
 
 *date 2013.08.05
 
-;Marcin Slowik (distoX), Karol Makowski (palm/sprej)
-*team Karol Makowski (sketch PDA/PocketTopo)
-*team Marcin Słowik (DistoX1)
-*team Karol Makowski (marking)
+*team "Karol Makowski" notes pictures station ;(PDA/PocketTopo)
+*team "Marcin Słowik" instruments ;(DistoX1)
 
 ;delta distoX = 0.52
 *instrument tape "DistoX1 <id>"

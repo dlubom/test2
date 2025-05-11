@@ -17,16 +17,17 @@
 *begin Meander_Zachodni1_Dolne_C
 *title "Meander Zachodni 1 + Dolne C"
 
-*cs UTM33N
-*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 2.4 degrees
 
 *date 2009.08.17
 
-;Tomasz Olczak, Dariusz Bartoszewski, Jaroslaw Wrzesien, Maciej Dziurka
-*team <name surename> (sketch <device/app>)
-*team <name surename> (DistoX1)
-*team <name surename> (marking)
+;DistoX1, PDA/PocketTopo
+*team "Tomasz Olczak" ;unknown_role
+*team "Dariusz Bartoszewski" ;unknown_role
+*team "Jarosław Wrzesień" ;unknown_role
+*team "Maciej Dziurka" ;unknown_role)
 
 *instrument tape "DistoX1 <id>"
 *instrument compass "DistoX1 <id>"

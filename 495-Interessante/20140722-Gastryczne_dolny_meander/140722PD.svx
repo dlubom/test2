@@ -17,16 +17,15 @@
 *begin Gastryczne_dolny_meander
 *title "Gastryczne dolny meander"
 
-*cs UTM33N
-*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 3.0 degrees
 
 *date 2014.07.22
 
-;Maciek Dziurka - poreczowanie, Marcin Slowik - Disto, Karol Makowski - Palm
-*team Karol Makowski (sketch PDA/PocketTopo, marking)
-*team Marcin Słowik (DistoX1)
-*team Maciej Dziurka
+*team "Karol Makowski" notes pictures station ;(PDA/PocketTopo, Spray)
+*team "Marcin Słowik" instruments ;(DistoX1)
+*team "Maciej Dziurka" explorer
 
 ;delta Disto = 0.5
 *instrument tape "DistoX1 <id>"

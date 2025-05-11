@@ -19,16 +19,15 @@
 ;#SEGMENT	Meander Stropowy
 *title "Meander Za Blotospadem 2"
 
-*cs UTM33N
-*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 3.5 degrees
 
 *date 2017.07.30
 
-;Karol Makowski (Palm), Krzysztof Chojnacki (Disto), Damian Maslakiewicz (Spray)
-*team Karol Makowski (sketch PDA/PocketTopo)
-*team Krzysztof Chojnacki (DistoX1)
-*team Damian Maślakiewicz (marking)
+*team "Karol Makowski" notes pictures ;(PDA/PocketTopo)
+*team "Krzysztof Chojnacki" instruments ;(DistoX1)
+*team "Damian Maślakiewicz" station ;(Spray)
 
 *instrument tape "DistoX1 <id>"
 *instrument compass "DistoX1 <id>"

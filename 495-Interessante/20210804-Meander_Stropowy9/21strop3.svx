@@ -19,16 +19,16 @@
 ;#SEGMENT	Meander Stropowy
 *title "Meander Stropowy 9"
 
-*cs UTM33N
-*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 4.1 degrees
 
 *date 2021.08.04
 
-;Michal Parczewski (DistoX2, Palm), Joanna Zdzalik, Aliaksandr Sinkavets (fotki z DistoX2)
-*team Michał Parczewski (sketch PDA/PocketTopo, DistoX2)
-*team Joanna Żdżalik (?)
-*team Aliaksandr Sinkavets (fotos of DistoX2)
+;Michał Parczewski (DistoX2, Palm), Joanna Zdzalik, Aliaksandr Sinkavets (fotki z DistoX2)
+*team "Michał Parczewski" notes pictures instruments ;(PDA/PocketTopo, DistoX2)
+*team "Joanna Żdżalik" station ;(Spray)
+*team "Aliaksandr Sinkavets" assistant ;(fotos of DistoX2)
 
 *instrument tape "DistoX2 <id>"
 *instrument compass "DistoX2 <id>"

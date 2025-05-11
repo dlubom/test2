@@ -18,16 +18,14 @@
 ;Meander Cichy
 *title "Gabki - Studnia z meandrem"
 
-*cs UTM33N
-*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 3.0 degrees
 
 *date 2014.08.13
 
-;Jakub Nowak(Disto), Dariusz Lubomski(palm + spray)
-*team <name surename> (sketch PDA/PocketTopo)
-*team <name surename> (DistoX1)
-*team <name surename> (marking)
+*team "Dariusz Lubomski" notes pictures station;(PDA/PocketTopo, Spray)
+*team "Jakub Nowak" instruments ;(DistoX1)
 
 *instrument tape "DistoX1 <id>"
 *instrument compass "DistoX1 <id>"

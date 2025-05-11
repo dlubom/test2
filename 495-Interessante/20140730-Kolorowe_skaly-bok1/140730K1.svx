@@ -17,16 +17,14 @@
 *begin Kolorowe_skaly-bok1
 *title "Kolorowe skały - bok1"
 
-*cs UTM33N
-*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 3.0 degrees
 
 *date 2014.07.30
 
-;Marcin Slowik (kartowanie), Mahyar Kafash (Disto)
-*team Marcin Słowik (sketch PDA/PocketTopo)
-*team Mahyar Kafash (DistoX1)
-*team <name surename> (marking)
+*team "Marcin Słowik" notes pictures ;(PDA/PocketTopo)
+*team "Mahyar Kafash" instruments ;(DistoX1)
 
 *instrument tape "DistoX1 <id>"
 *instrument compass "DistoX1 <id>"

@@ -18,15 +18,14 @@
 ;#PREFIX	RATY2
 *title "Na raty 2"
 
-*cs UTM33N
-*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 3.3 degrees
 
 *date 2016.07.20
 
-;Karol Makowski (Palm,Spray), Robert Zaremba (Disto)
-*team Karol Makowski (sketch PDA/PocketTopo, marking)
-*team Robert Zaremba (DistoX1)
+*team "Karol Makowski" notes pictures station ;(PDA/PocketTopo, Spray)
+*team "Robert Zaremba" instruments ;(DistoX1)
 
 *instrument tape "DistoX1 <id>"
 *instrument compass "DistoX1 <id>"

@@ -19,16 +19,15 @@
 ;Studnia Zombie - kontynuacja
 *title "Studnia Zombie - kontynuacja"
 
-*cs UTM33N
-*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 4.2 degrees
 
 *date 2022.08.11
 
-;team Karol Makowski (szkic Qave, spray, poreczowanie), Tomasz Olczak (DistoX2), Jakub Nowak (poreczowanie)
-*team Karol Makowski (sketch PDA/PocketTopo, marking, installing ropes)
-*team Tomasz Olczak (DistoX2)
-*team Jakub Nowak (installing ropes)
+*team "Karol Makowski" notes pictures station explorer ;(Tablet/Qave), Spray, poręczowanie)
+*team "Tomasz Olczak" instruments ;(DistoX2)
+*team "Jakub Nowak" explorer ;(poręczowanie)
 
 *instrument tape "DistoX2 <id>"
 *instrument compass "DistoX2 <id>"

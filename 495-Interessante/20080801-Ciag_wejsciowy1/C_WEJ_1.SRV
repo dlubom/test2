@@ -3,7 +3,8 @@
 #date 2008-08-01
 #note 000	/495 Ciekawa
 #flag	000	/GPS Location
-#FIX    000   E13:02.988 N47:31.999   1932m
+;#FIX    000   E13:02.988 N47:31.999   1932m
+#FIX    000   E13:02.978 N47:31.996   1932m	; SAGIS
 #segment /Ciag wejsciowy 1
 000	cw001	9.76	94.00	-70.00
 cw001	cw002	1.89	24.00	-62.00

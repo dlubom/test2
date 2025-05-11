@@ -19,16 +19,15 @@
 ;Zimny Meander 3
 *title "Zimny Meander 3"
 
-*cs UTM33N
-*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 4.2 degrees
 
 *date 2022.07.26
 
-;team Magda Sitarz (szkic Qave), Jakub Grubba (DistoX2), Karol Makowski (poreczowanie)
-*team Magda Sitarz (sketch Tablet/Qave, marking)
-*team Jakub Grubba (DistoX2)
-*team Karol Makowski (installing ropes)
+*team "Magda Sitarz" notes pictures station ;(Tablet/Qave, Spray)
+*team "Jakub Grubba" instruments ;(DistoX2)
+*team "Karol Makowski" explorer ;(poreczowanie)
 
 *instrument tape "DistoX2 <id>"
 *instrument compass "DistoX2 <id>"

@@ -18,16 +18,15 @@
 ;#PREFIX	MCHS01
 *title "Meander Chorych Snów"
 
-*cs UTM33N
-*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 3.5 degrees
 
 *date 2017.08.09
 
-; Arek Kus (Palm + Spray), Marek Stawiasz (disto), Sławek Heteniak (przyśpiewki ludowe)
-*team Arkadiusz Kus (sketch PDA/PocketTopo, marking)
-*team Marek Stawiasz (DistoX1)
-*team Sławek Heteniak (przyśpiewki ludowe)
+*team "Arkadiusz Kus" notes pictures station ;(PDA/PocketTopo, Spray)
+*team "Marek Stawiasz" instruments ;(DistoX1)
+*team "Sławomir Heteniak" assistant ;(przyśpiewki ludowe)
 
 *instrument tape "DistoX1 <id>"
 *instrument compass "DistoX1 <id>"

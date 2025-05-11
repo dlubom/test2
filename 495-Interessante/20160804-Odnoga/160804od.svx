@@ -20,17 +20,17 @@
 ; created by TopoDroid v 3.1.4 - 2016.08.05
 *title "Odnoga"
 
-*cs UTM33N
-*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 3.3 degrees
 
 
 *date 2016.08.04
 
-; TEAM lubomski, nowak, dersewiczz
-*team <name surename> (sketch PDA/PocketTopo)
-*team <name surename> (DistoX1)
-*team <name surename> (marking)
+;Tablet/TopoDroid, DistoX1
+*team "Dariusz Lubomski" notes pictures ;(Tablet/TopoDroid)
+*team "Jakub Nowak" ;unknown_role)
+*team "Adam Dersiewicz" ;unknown_role
 
 *instrument tape "DistoX1 <id>"
 *instrument compass "DistoX1 <id>"

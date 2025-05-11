@@ -18,16 +18,16 @@
 ;#PREFIX	b1
 *title "Bok 1"
 
-*cs UTM33N
-*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 3.3 degrees
 
 *date 2016.08.08
 
-;Przemek Styrna, Arek Kus, Piotr Chrzanowski
-*team <name surename> (sketch PDA/PocketTopo)
-*team <name surename> (DistoX1)
-*team <name surename> (marking)
+;(PDA/PocketTopo, DistoX1)
+*team "Przemek Styrna" ;unknown_role
+*team "Arkadiusz Kus" ;unknown_role
+*team "Piotr Chrzanowski" ;unknown_role
 
 *instrument tape "DistoX1 <id>"
 *instrument compass "DistoX1 <id>"

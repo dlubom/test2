@@ -17,16 +17,15 @@
 *begin Poprawki
 *title "Poprawki"
 
-*cs UTM33N
-*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 3.0 degrees
 
 *date 2014.08.05
 
-;Rafal Klimara(Palm), Arkadiusz Kus(Disto-X),Tomasz Olczak(spray)
-*team Rafał Klimara (sketch <device/app>)
-*team Arkadiusz Kus (DistoX1)
-*team Tomasz Olczak (marking)
+*team "Rafał Klimara" notes pictures ;(PDA/PocketTopo)
+*team "Arkadiusz Kus" instruments ;(DistoX1)
+*team "Tomasz Olczak" station ;(Spray)
 
 *instrument tape "DistoX1 <id>"
 *instrument compass "DistoX1 <id>"

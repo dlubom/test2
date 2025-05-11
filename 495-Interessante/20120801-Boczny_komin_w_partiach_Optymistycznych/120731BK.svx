@@ -18,18 +18,15 @@
 ;#SEGMENT	/Boczny komin w partiach Optymistycznych
 *title "Boczny komin w partiach Optymistycznych"
 
-*cs UTM33N
-*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 2.8 degrees
 
 *date 2012.08.01
 
-;Jan Dudziec (znaczenie pkt. + obsluga Disto-X), Dariusz Lubomski (kartowanie)
-*team Dariusz Lubomski (sketch PDA/PocketTopo)
-*team Jan Dudziec (DistoX1)
-*team Jan Dudziec (marking)
+*team "Dariusz Lubomski" notes pictures ;(sketch PDA/PocketTopo)
+*team "Jan Dudziec" instruments station ;(DistoX1, Spray)
 
-;Disto-X + Palm
 *instrument tape "DistoX1 <id>"
 *instrument compass "DistoX1 <id>"
 *instrument clino "DistoX1 <id>"
@@ -38,7 +35,7 @@
 *units compass backcompass degrees
 *units clino backclino degrees
 
-;wyczowalny przewiew do wewnatrz komina od jaskini, jest szansa na kopanie
+;wyczuwalny przewiew do wewnatrz komina od jaskini, jest szansa na kopanie
 
 *data normal from to tape compass clino ignoreall
 

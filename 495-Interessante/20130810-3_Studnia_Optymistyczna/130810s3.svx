@@ -17,16 +17,15 @@
 *begin 3_Studnia_Optymistyczna
 *title "Trzecia Studnia Optymistyczna"
 
-*cs UTM33N
-*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 2.9 degrees
 
 *date 2013.08.10
 
-;Dariusz Lubomski (kartowanie), Tomasz Biela i Michal Humienik(Disto + spray)
-*team Dariusz Lubomski (sketch PDA/PocketTopo)
-*team Tomasz Biela (DistoX1, marking)
-*team Michał Humienik (DistoX1, marking)
+*team "Dariusz Lubomski" notes pictures ;(PDA/PocketTopo)
+*team "Tomasz Biela" instruments station ;(DistoX1, Spray)
+*team "Michał Humienik" instruments station ;(DistoX1, Spray)
 
 *instrument tape "DistoX1 <id>"
 *instrument compass "DistoX1 <id>"

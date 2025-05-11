@@ -17,16 +17,15 @@
 *begin Kaskady_Viktorii3
 *title "Kaskady Viktorii 3"
 
-*cs UTM33N
-*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 3.0 degrees
 
 *date 2014.08.06
 
-;Karol Makowski (kartowanie), Mahyar Kafash (Disto), Krzysztof Kolodziejczyk (spray)
-*team Karol Makowski (sketch PDA/PocketTopo)
-*team Mahyar Kafash (DistoX1)
-*team Krzysztof Ko³odziejczyk (marking)
+*team "Karol Makowski" notes pictures ;(PDA/PocketTopo)
+*team "Mahyar Kafash" instruments ;(DistoX1)
+*team "Krzysztof Ko³odziejczyk" station ;(Spray)
 
 ;delta Disto = 0.4
 *instrument tape "DistoX1 <id>"

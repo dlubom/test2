@@ -17,16 +17,14 @@
 *begin Kroko1
 *title "Kroko 1"
 
-*cs UTM33N
-*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 2.9 degrees
 
 *date 2013.08.01
 
-;Tomasz Olczak(kartowanie+disto), Ralal Klimara(spray)
-*team Tomasz Olczak (sketch PDA/PocketTopo)
-*team Tomasz Olczak (DistoX1)
-*team Rafal Klimara (marking)
+*team "Tomasz Olczak" notes pictures instruments ;(PDA/PocketTopo, DistoX1)
+*team "Rafał Klimara" station ;(Spray)
 
 *instrument tape "DistoX1 <id>"
 *instrument compass "DistoX1 <id>"

@@ -17,16 +17,15 @@
 *begin Sala_przed_sala_z_wodospadem
 *title "Sala przed salą z wodospadem"
 
-*cs UTM33N
-*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 3.8 degrees
 
 *date 2019.07.31
 
-;Rafal Mateja, Marta Katafiasz
-*team <name surename> (sketch PDA/PocketTopo)
-*team <name surename> (DistoX2)
-*team <name surename> (marking)
+;(PDA/PocketTopo, DistoX2)
+*team "Rafał Mateja" ;unknown_role
+*team "Marta Katafiasz" ;unknown_role
 
 *instrument tape "DistoX2 <id>"
 *instrument compass "DistoX2 <id>"

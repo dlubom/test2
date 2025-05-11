@@ -18,16 +18,15 @@
 ;#SEGMENT	/Wspin nad Biala Salka
 *title "Wspin nad Białą Salką"
 
-*cs UTM33N
-*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 2.8 degrees
 
 *date 2012.08.13
 
-;Miroslaw  Kopertowski (obsluga Disto-X), Dariusz Lubomski (kartowanie), Maciej Dziurka
-*team Dariusz Lubomski (sketch PDA/PocketTopo)
-*team Mirosław Kopertowski (DistoX1)
-*team <name surename> (marking)
+*team "Dariusz Lubomski" notes pictures ;(PDA/PocketTopo)
+*team "Miroslaw Kopertowski" instruments ;(DistoX1)
+*team "Maciej Dziurka" ;unknown_role
 
 *instrument tape "DistoX1 <id>"
 *instrument compass "DistoX1 <id>"

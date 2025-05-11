@@ -15,17 +15,17 @@
 *case preserve
 
 *begin 1908lost
-*title "<add a title>"
+*title "1908lost"
 
-*cs UTM33N
-*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 3.8 degrees
 
 *date 2019.08.10
 
-*team <name surename> (sketch PDA/PocketTopo)
-*team <name surename> (DistoX2)
-*team <name surename> (marking)
+;DistoX2, PDA/PocketTopo
+*team "Tamasz Olczak" ;unknown_role
+*team "Marta Katafiasz" ;unknown_role
 
 *instrument tape "DistoX2 <id>"
 *instrument compass "DistoX2 <id>"
@@ -36,7 +36,6 @@
 *units clino backclino degrees
 
 ;#PREFIX	1908lost
-;tomek + marta
 
 *data normal from to tape compass clino ignoreall
 

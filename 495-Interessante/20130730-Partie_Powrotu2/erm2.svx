@@ -17,16 +17,16 @@
 *begin Partie_Powrotu2
 *title "Partie Powrotu 2"
 
-*cs UTM33N
-*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 2.9 degrees
 
 *date 2013.07.30
 
-;Mirek Kopertowski(kartowanie), Ewelina Raczynska, Rafal Mateja
-*team Miroslaw Kopertowski (sketch PDA/PocketTopo)
-*team <name surename> (DistoX1)
-*team <name surename> (marking)
+;DistoX1, PDA/PocketTopo
+*team "Miroslaw Kopertowski" notes pictures ;(PDA/PocketTopo)
+*team "Ewelina Raczynska" ;unknown_role
+*team "Rafał Mateja" ;unknown_role
 
 *instrument tape "DistoX1 <id>"
 *instrument compass "DistoX1 <id>"

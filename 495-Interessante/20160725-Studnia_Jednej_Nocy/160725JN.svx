@@ -18,15 +18,14 @@
 ;#PREFIX	MMSJN
 *title "Studnia Jednej Nocy"
 
-*cs UTM33N
-*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 3.3 degrees
 
 *date 2016.07.25
 
-;Marcin Slowik (palm, spray), Jarek Surmacz (distox)
-*team Marcin Słowik (sketch PDA/PocketTopo, marking)
-*team Jarosław Surmacz (DistoX1)
+*team "Marcin Słowik" notes pictures station ;(PDA/PocketTopo, Spray)
+*team "Jarosław Surmacz" instruments ;(DistoX1)
 
 *instrument tape "DistoX1 <id>"
 *instrument compass "DistoX1 <id>"

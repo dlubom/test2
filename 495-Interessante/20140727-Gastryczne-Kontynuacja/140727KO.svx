@@ -17,16 +17,16 @@
 *begin Gastryczne-Kontynuacja
 *title "Gastryczne - Kontynuacja"
 
-*cs UTM33N
-*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 3.0 degrees
 
 *date 2014.07.27
 
-;Darek Lubomski, Arek Kus, Marek Wierzbowski
-*team <name surename> (sketch PDA/PocketTopo)
-*team <name surename> (DistoX1)
-*team <name surename> (marking)
+;DistoX1, PDA/PocketTopo
+*team "Darek Lubomski" ;unknown_role
+*team "Arkadiusz Kus" instruments ;unknown_role
+*team "Marek Wierzbowski" station ;unknown_role
 
 *instrument tape "DistoX1 <id>"
 *instrument compass "DistoX1 <id>"

@@ -6,7 +6,7 @@
 ;cavern name de "Interessante höhle"
 ;cavern name pl "Ciekawa"
 ;cavern part de ""
-;cavern part pl "Zachodni - Komin Michala"
+;cavern part pl "Zachodni - Komin Michała"
 
 ;file date 2024-03-06
 ;file team "Karol Makowski"
@@ -15,20 +15,17 @@
 *case preserve
 
 *begin Zachodni-Komin_Michala
-;#SEGMENT	/Zachodni - Komin Michala
-*title "Zachodni - Komin Michala"
+;#SEGMENT	/Zachodni - Komin Michała
+*title "Zachodni - Komin Michała"
 
-*cs UTM33N
-*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 2.8 degrees
 
 *date 2012.08.09
 
-;Jan Dudziec (obsluga Disto-X), Michal Humienik (kartowanie)
-;Disto-X + Palm
-*team Michal Humienik (sketch PDA/PocketTopo)
-*team Jan Dudziec (DistoX1)
-*team <name surename> (marking)
+*team "Michał Humienik" notes pictures ;(PDA/PocketTopo)
+*team "Jan Dudziec" instruments ;(DistoX1)
 
 *instrument tape "DistoX1 <id>"
 *instrument compass "DistoX1 <id>"

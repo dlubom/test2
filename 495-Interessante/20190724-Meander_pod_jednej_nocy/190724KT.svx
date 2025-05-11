@@ -18,16 +18,15 @@
 ;#PREFIX	mndrjn
 *title "Meander pod Studnią Jednej Nocy"
 
-*cs UTM33N
-*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 3.8 degrees
 
 *date 2019.07.24
 
-;Karol Makowski (Palm), Tomasz Raczynski (Disto), Jakub Nowak
-*team Karol Makowski (sketch PDA/PocketTopo)
-*team Tomasz Raczynski (DistoX2)
-*team Jakub Nowak (marking)
+*team "Karol Makowski" notes pictures ;(PDA/PocketTopo)
+*team "Tomasz Raczynski" instruments ;(DistoX2)
+*team "Jakub Nowak" station  ;(Spray)
 
 *instrument tape "DistoX2 <id>"
 *instrument compass "DistoX2 <id>"

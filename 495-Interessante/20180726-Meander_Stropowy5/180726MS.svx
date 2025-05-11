@@ -19,16 +19,15 @@
 ;#SEGMENT	Meander Stropowy
 *title "Meander Stropowy"
 
-*cs UTM33N
-*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 3.6 degrees
 
 *date 2018.07.26
 
-;Karol Makowski (palm + spray), Krzysztof Chojnacki (DistoX2), Jakub Nowak (poreczownie)
-*team Karol Makowski (sketch PDA/PocketTopo, marking)
-*team Krzysztof Chojnacki (DistoX2)
-*team Jakub Nowak (installing ropes)
+*team "Karol Makowski" notes pictures station ;(PDA/PocketTopo, Spray)
+*team "Krzysztof Chojnacki" instruments ;(DistoX2)
+*team "Jakub Nowak" explorer assistant ;(poreczowanie)
 
 *instrument tape "DistoX2 <id>"
 *instrument compass "DistoX2 <id>"

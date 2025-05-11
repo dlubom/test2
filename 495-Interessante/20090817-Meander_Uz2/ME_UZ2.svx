@@ -17,15 +17,14 @@
 *begin Meander_uz2
 *title "Meander - uzupełnienia 2"
 
-*cs UTM33N
-*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
 
 *date 2009.08.17
 
-;Tomasz Olczak, Dariusz Bartoszewski
-*team <name surename> (sketch <device/app>)
-*team <name surename> (DistoX1)
-*team <name surename> (marking)
+;DistoX1, PDA/PocketTopo
+*team "Tomasz Olczak" ;unknown_role
+*team "Dariusz Bartoszewski" ;unknown_role
 
 *instrument tape "DistoX1 <id>"
 *instrument compass "DistoX1 <id>"

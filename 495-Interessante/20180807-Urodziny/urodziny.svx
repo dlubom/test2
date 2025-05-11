@@ -18,16 +18,16 @@
 ;#PREFIX	urodziny
 *title "Urodziny"
 
-*cs UTM33N
-*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 3.6 degrees
 
 *date 2018.08.07
 
-;Jakub Pysz (Palm), Adam Wladzinski, Filip Filar
-*team Jakub Pysz (sketch PDA/PocketTopo)
-*team Adam Władzinski (DistoX2, marking)
-*team Filip Filar (DistoX2, marking)
+;(PDA/PocketTopo, DistoX2)
+*team "Jakub Pysz" notes pictures ;(PDA/PocketTopo)
+*team "Adam Władzinski" ;unknown_role
+*team "Filip Filar" ;unknown_role
 
 *instrument tape "DistoX2 <id>"
 *instrument compass "DistoX2 <id>"

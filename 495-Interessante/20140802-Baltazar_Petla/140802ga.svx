@@ -17,16 +17,15 @@
 *begin Baltazar_Petla
 *title "<add a title>"
 
-*cs UTM33N
-*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 3.0 degrees
 
 *date 2014.08.02
 
-;Dariusz Lubomski(palm), Maciej Dziurka(spray), Nazi (Disto-X)
-*team Dariusz Lubomski (sketch PDA/PocketTopo)
-*team Nazanin Badrkhani (DistoX1)
-*team Maciej Dziurka (marking)
+*team "Dariusz Lubomski" notes pictures ;(PDA/PocketTopo)
+*team "Nazanin Badrkhani" instruments ;(DistoX1)
+*team "Maciej Dziurka" station ;(Spray)
 
 *instrument tape "DistoX1 <id>"
 *instrument compass "DistoX1 <id>"

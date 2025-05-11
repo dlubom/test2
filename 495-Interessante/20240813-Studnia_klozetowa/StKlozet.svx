@@ -1,41 +1,77 @@
-;*begin ciekawa_35
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-05-11
+;file team "Karol Makowski"
+
+;source file: StKlozet.srv
+*case preserve
+
 *begin Studnia_klozetowa
 *title "Studnia klozetowa"
+
+;;*cs UTM33N
+;;*declination auto	352609.751	5266796.793	1985	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 4.4 degrees
+
 *date 2024.08.13
-*team Adam WÅ‚adziÅ„ski (Tablet/Qave), Grzegorz Blok (DistoX2 H-3037)
+
+*team "Adam W³adziñski" notes pictures station ;(Tablet/Qave, Spray)
+*team "Grzegorz Blok" instruments ;(DistoX2)
+*team "Pawe³ ¯ebrowski" ;unknown_role (explorer?)
+
+*instrument tape "DistoX2 H-3037"
+*instrument compass "DistoX2 H-3037"
+*instrument clino "DistoX2 H-3037"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+;#PREFIX	StKlozet
+;#Prefix 35
+;Od poczatku
+
 *data normal from to tape compass clino ignoreall
-0	1	1.136	314.383	1.135
+
+0	1	1.136	314.383	1.135	; dowiazanie
 1	2	1.276	257.313	-9.774
 2	3	1.144	167.814	1.818
 3	4	1.131	294.725	-12.858
-4	5	1.335	253.370	-20.643
-5	6	1.802	164.297	8.040
-6	7	3.321	151.095	-78.970
+4	5	1.335	253.37	-20.643
+5	6	1.802	164.297	8.04
+6	7	3.321	151.095	-78.97
 7	8	12.703	227.518	-85.016
 8	9	3.527	313.542	-9.888
-*flags splay
-1	.	0.544	358.517	3.477
-1	.	1.468	346.707	-65.127
-2	.	0.334	198.831	28.488
-2	.	1.097	265.287	18.957
-2	.	1.039	163.927	-87.704
-2	.	0.136	194.612	22.478
-3	.	1.355	198.397	35.986
-3	.	0.202	155.325	26.285
-3	.	0.686	117.751	6.899
-3	.	0.393	116.257	20.352
-4	.	0.371	315.357	18.929
-6	.	0.557	152.957	28.240
-6	.	13.462	230.054	-75.992
-6	.	3.879	152.062	-79.036
-7	.	4.217	292.297	12.382
-7	.	0.360	122.531	13.250
-7	.	12.923	155.127	-86.995
-7	.	12.932	147.794	-87.446
-7	.	12.930	144.141	-87.303
-8	.	0.142	65.825	-4.955
-9	.	3.495	313.649	-9.465
-9	.	0.147	34.305	9.245
-9	.	2.174	26.197	-0.665
-9	.	0.145	19.720	8.630
+1	..	0.544	358.517	3.477
+1	..	1.468	346.707	-65.127
+2	..	0.334	198.831	28.488
+2	..	1.097	265.287	18.957
+2	..	1.039	163.927	-87.704
+2	..	0.136	194.612	22.478
+3	..	1.355	198.397	35.986
+3	..	0.202	155.325	26.285
+3	..	0.686	117.751	6.899
+3	..	0.393	116.257	20.352
+4	..	0.371	315.357	18.929
+6	..	0.557	152.957	28.24
+6	..	13.462	230.054	-75.992
+6	..	3.879	152.062	-79.036
+7	..	4.217	292.297	12.382
+7	..	0.36	122.531	13.25
+7	..	12.923	155.127	-86.995
+7	..	12.932	147.794	-87.446
+7	..	12.93	144.141	-87.303
+8	..	0.142	65.825	-4.955
+9	..	3.495	313.649	-9.465
+9	..	0.147	34.305	9.245
+9	..	2.174	26.197	-0.665
+9	..	0.145	19.72	8.63
 *end Studnia_klozetowa

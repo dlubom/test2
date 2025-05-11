@@ -18,16 +18,14 @@
 ;#PREFIX	sd
 *title "Syfon Dziewicy"
 
-*cs UTM33N
-*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 3.2 degrees
 
 *date 2015.08.06
 
-;Rafal Klimara(Palm), Jakub Nowak(Disto-X)
-*team Rafał Klimara (sketch PDA/PocketTopo)
-*team Jakub Nowak (DistoX1)
-*team <name surename> (marking)
+*team "Rafał Klimara" notes pictures ;(PDA/PocketTopo)
+*team "Jakub Nowak" instruments ;(DistoX1)
 
 *instrument tape "DistoX1 <id>"
 *instrument compass "DistoX1 <id>"

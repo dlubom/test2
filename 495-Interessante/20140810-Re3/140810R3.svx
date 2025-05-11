@@ -17,15 +17,14 @@
 *begin Re3
 *title "Re 3"
 
-*cs UTM33N
-*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
 
 *date 2014.08.10
 
-;Dariusz Lubomski(palm), Nazi (Disto), A. Puchalska (spray)
-*team Dariusz Lubomski (sketch Palm/PocketTopo)
-*team Nazanin Badrkhani (DistoX1)
-*team Aleksandra Puchalska (marking)
+*team "Dariusz Lubomski" notes pictures ;(PDA/PocketTopo)
+*team "Nazanin Badrkhani" instruments ;(DistoX1)
+*team "Aleksandra Puchalska" station ;(Spray)
 
 *instrument tape "DistoX1 <id>"
 *instrument compass "DistoX1 <id>"

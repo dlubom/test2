@@ -37,7 +37,7 @@
 *include 492-Korallenhohle\492-master.svx
 *include 493-Eisschrank\493-master.svx
 *include 494-Respektschacht\494-master.svx
-;;*include 495-Interessante\495-master.svx
+*include 495-Interessante\495-master.svx
 ;;
 ;;*include 498-Maander_unter_dem_Laschen\498-master.svx
 ;;

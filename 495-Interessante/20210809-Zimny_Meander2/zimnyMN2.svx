@@ -19,16 +19,15 @@
 ;#SEGMENT	Zimny Meander
 *title "Zimny Meander 2"
 
-*cs UTM33N
-*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 4.1 degrees
 
 *date 2021.08.09
 
-;team Tomasz Olczak, Jacek Szczygiel
-*team <name surename> (sketch Tablet/Qave)
-*team <name surename> (DistoX2)
-*team <name surename> (marking)
+;(Tablet/Qave, DistoX2)
+*team "Tomasz Olczak" ;unknown_role
+*team "Jacek Szczygieł" ;unknown_role
 
 *instrument tape "DistoX2 <id>"
 *instrument compass "DistoX2 <id>"

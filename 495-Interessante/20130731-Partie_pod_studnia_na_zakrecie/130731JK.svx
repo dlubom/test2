@@ -17,16 +17,14 @@
 *begin Partie_pod_studnia_na_zakrecie
 *title "Partie pod studnią na zakręcie"
 
-*cs UTM33N
-*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 2.9 degrees
 
 *date 2013.07.31
 
-;Justyna Wylazlowska (distoX), Karol Makowski (palm/sprej)
-*team Karol Makowski (sketch PDA/PocketTopo)
-*team Justyna Wylazłowska (DistoX1)
-*team Karol Makowski (marking)
+*team "Karol Makowski" notes pictures station ;(PDA/PocketTopo, Spray)
+*team "Justyna Wylazłowska" instruments ;(DistoX1)
 
 *instrument tape "DistoX1 <id>"
 *instrument compass "DistoX1 <id>"

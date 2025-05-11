@@ -17,16 +17,15 @@
 *begin Kontynuacja_Baltazara
 *title "Kontynuacja Baltazara"
 
-*cs UTM33N
-*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 2.9 degrees
 
 *date 2013.08.02
 
-;Dariusz Lubomski (kartowanie), Oliwia Rysnik (disto), Marcin Slowik(spray)
-*team Dariusz Lubomski (sketch PDA/PocketTopo)
-*team Oliwia Ryśnik (DistoX1)
-*team Marcin Słowik (marking)
+*team "Dariusz Lubomski" notes pictures ;(PDA/PocketTopo)
+*team "Oliwia Ryśnik" instruments ;(DistoX1)
+*team "Marcin Słowik" station ;(Spray)
 
 *instrument tape "DistoX1 <id>"
 *instrument compass "DistoX1 <id>"

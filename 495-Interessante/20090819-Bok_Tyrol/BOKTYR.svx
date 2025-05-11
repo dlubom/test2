@@ -17,16 +17,15 @@
 *begin Bok_od_sali_z_tyrolka
 *title "Bok od Sali z tyrolką"
 
-*cs UTM33N
-*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 2.4 degrees
 
 *date 2009.08.19
 
-;Jaroslaw Wrzesien, Maciej Dziurka
-*team <name surename> (sketch <device/app>)
-*team <name surename> (DistoX1)
-*team <name surename> (marking)
+;DistoX1, PDA/PocketTopo
+*team "Jarosław Wrzesień" ;unknown_role
+*team "Maciej Dziurka" ;unknown_role)
 
 *instrument tape "DistoX1 <id>"
 *instrument compass "DistoX1 <id>"

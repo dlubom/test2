@@ -19,16 +19,15 @@
 ;#SEGMENT	Meander Stropowy
 *title "Meander Podstropowy"
 
-*cs UTM33N
-*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 3.5 degrees
 
 *date 2017.08.08
 
-; Arek Kus (Palm + Spray), Marek Stawiasz (disto), SĹ‚awek Heteniak (przyĹ›piewki ludowe)
-*team <name surename> (sketch PDA/PocketTopo)
-*team <name surename> (DistoX1)
-*team <name surename> (marking)
+*team "Arkadiusz Kus" notes pictures station ;(PDA/PocketTopo, Spray)
+*team "Marek Stawiasz" instruments ;(DistoX1)
+*team "Sławomir Heteniak" assistant ;(przyśpiewki ludowe)
 
 *instrument tape "DistoX1 <id>"
 *instrument compass "DistoX1 <id>"

@@ -17,15 +17,14 @@
 *begin Rura_freatyczna2
 *title "Rura freatyczna 2"
 
-*cs UTM33N
-*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 2.9 degrees
 
 *date 2013.08.13
 
-;Tomasz Olczak (palm + spray), Rafal Klimara  (Disto)
-*team Tomasz Olczak (sketch PDA/PocketTopo, marking)
-*team Rafał Klimara (DistoX1)
+*team "Tomasz Olczak" notes pictures station ;(PDA/PocketTopo, Spray)
+*team "Rafał Klimara" instruments ;(DistoX1)
 
 *instrument tape "DistoX1 <id>"
 *instrument compass "DistoX1 <id>"

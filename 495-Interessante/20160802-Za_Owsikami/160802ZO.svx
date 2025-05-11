@@ -18,16 +18,14 @@
 ;#PREFIX	owss
 *title "Za Owsikami"
 
-*cs UTM33N
-*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 3.3 degrees
 
 *date 2016.08.02
 
-;Filip Filar (Palm), Slawomir Heteniak (Disto)
-*team Filip Filar (sketch PDA/PocketTopo)
-*team Sławomir Heteniak (DistoX1)
-*team <name surename> (marking)
+*team "Filip Filar" notes pictures ;(PDA/PocketTopo)
+*team "Sławomir Heteniak" instruments ;(DistoX1)
 
 *instrument tape "DistoX1 <id>"
 *instrument compass "DistoX1 <id>"

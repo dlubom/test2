@@ -18,17 +18,14 @@
 ;#SEGMENT	/Zachodni - meanderek
 *title "Zachodni - meanderek"
 
-*cs UTM33N
-*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 2.8 degrees
 
 *date 2012.08.09
 
-;Jan Dudziec (obsluga Disto-X), Michal Humienik (kartowanie)
-;Disto-X + Palm
-*team Michal Humienik (sketch PDA/PocketTopo)
-*team Jan Dudziec (DistoX1)
-*team <name surename> (marking)
+*team "Micha³ Humienik" notes pictures ;(PDA/PocketTopo)
+*team "Jan Dudziec" instruments ;(DistoX1)
 
 *instrument tape "DistoX1 <id>"
 *instrument compass "DistoX1 <id>"
@@ -67,7 +64,7 @@ wt011	wt012	1.92	134.68	24.93
 wt012	..	1.44	25.97	-79.6
 wt012	..	2.81	256.87	-0.12
 wt012	wt013	2.4	128.86	31.99
-wt013	wm282_03	6.03	202.31	-45.06	;do³¹czyæ do Zachodni - Komin Michala
+wt013	wm282_03	6.03	202.31	-45.06	;do³¹czyæ do Zachodni - Komin Micha³a
 wt003	wt014	2.3	17.85	19.55
 wt014	wt015	1.54	1.9	4.55
 wt015	wt015_01	6.65	87.25	66.78

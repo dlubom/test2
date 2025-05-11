@@ -17,16 +17,17 @@
 *begin Partie_Jana_Sopinskiego
 *title "Partie Jana Sopińskiego"
 
-*cs UTM33N
-*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 2.5 degrees
 
 *date 2010.08.11
 
-;Jan Sopinski, Michal Humienik, Adam Mioduszewski, Tomasz Olczak
-*team <name surename> (sketch <device/app>)
-*team <name surename> (DistoX1)
-*team <name surename> (marking)
+;DistoX1, PDA/PocketTopo
+*team "Jan Sopinski" ;unknown_role
+*team "Michał Humienik" ;unknown_role
+*team "Adam Mioduszewski";unknown_role
+*team "Tomasz Olczak" ;unknown_role
 
 *instrument tape "DistoX1 <id>"
 *instrument compass "DistoX1 <id>"

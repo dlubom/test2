@@ -18,16 +18,16 @@
 ;#PREFIX	pmm
 *title "Pod studnią z młotkiem"
 
-*cs UTM33N
-*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 3.9 degrees
 
 *date 2020.08.09
 
-;Zdzalik/Gaweska/Sitarz/
-*team <name surename> (sketch PDA/PocketTopo)
-*team <name surename> (DistoX2)
-*team <name surename> (marking)
+;(PDA/PocketTopo, DistoX2)
+*team "Joanna Żdżalik" ;unknown_role
+*team "Joanna Gawęska" ;unknown_role
+*team "Magdalena Sitarz" ;unknown_role
 
 *instrument tape "DistoX2 <id>"
 *instrument compass "DistoX2 <id>"

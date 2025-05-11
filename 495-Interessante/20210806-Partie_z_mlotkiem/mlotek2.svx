@@ -18,16 +18,15 @@
 ;#PREFIX	mlotek2
 *title "Partie z m³otkiem cz. 2"
 
-*cs UTM33N
-*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 4.1 degrees
 
 *date 2021.08.06
 
-;team Joanna Gawezka i Robert Glod
-*team <name surename> (sketch Tablet/Qave)
-*team <name surename> (DistoX2)
-*team <name surename> (marking)
+;(Tablet/Qave, DistoX2)
+*team "Joanna Gawêska" ;unknown_role
+*team "Robert G³ód" ;unknown_role
 
 *instrument tape "DistoX2 <id>"
 *instrument compass "DistoX2 <id>"

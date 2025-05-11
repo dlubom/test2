@@ -19,16 +19,15 @@
 ;Meander Na Dwa Razy
 *title "Na Dwa Razy"
 
-*cs UTM33N
-*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 3.6 degrees
 
 *date 2018.07.28
 
-;Michal Humiennik (Palm), Konrad Chojnacki (DistoX2), Damin Maslakiewicz (Spray)
-*team Michał Humienik (sketch PDA/PocketTopo)
-*team Konrad Chojnacki (DistoX2)
-*team Damian Maślakiewicz (marking)
+*team "Michał Humienik" notes pictures ;(PDA/PocketTopo)
+*team "Konrad Chojnacki" instruments ;(DistoX2)
+*team "Damian Maślakiewicz" station ;(Spray)
 
 *instrument tape "DistoX2 <id>"
 *instrument compass "DistoX2 <id>"

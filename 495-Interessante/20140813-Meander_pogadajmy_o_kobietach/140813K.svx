@@ -17,20 +17,19 @@
 *begin Meander_pogadajmy_o_kobietach
 *title "Meander pogadajmy o kobietach"
 
-*cs UTM33N
-*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 3.0 degrees
 
 *date 2014.08.13
 
-;Filip Filar, Michal Parczewski
-*team <name surename> (sketch PDA/PocketTopo)
-*team <name surename> (DistoX1)
-*team <name surename> (marking)
+;DistoX1, PDA/PocketTopo
+*team "Filip Filar" ;unknown_role
+*team "Michał Parczewski" ;unknown_role
 
 *instrument tape "DistoX1 <id>"
 *instrument compass "DistoX1 <id>"
-*instrument clino "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"Michał Parczewski
 
 *units tape backtape meters
 *units compass backcompass degrees

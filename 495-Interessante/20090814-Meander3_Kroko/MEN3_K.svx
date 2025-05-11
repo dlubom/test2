@@ -17,16 +17,15 @@
 *begin Meander3_Krokodylek
 *title "Meander 3 + Krokodylek"
 
-*cs UTM33N
-*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 2.4 degrees
 
 *date 2009.08.14
 
-;Dariusz Bartroszewski, Jaroslaw Wrzesien
-*team <name surename> (sketch <device/app>)
-*team <name surename> (DistoX1)
-*team <name surename> (marking)
+;DistoX1, PDA/PocketTopo
+*team "Dariusz Bartoszewski" ;unknown_role
+*team "Jarosław Wrzesień" ;unknown_role
 
 *instrument tape "DistoX1 <id>"
 *instrument compass "DistoX1 <id>"

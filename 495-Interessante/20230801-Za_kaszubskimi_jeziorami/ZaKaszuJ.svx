@@ -18,18 +18,16 @@
 ;#PREFIX	ZaKaJe
 *title "Za kaszubskimi jeziorami"
 
-*cs UTM33N
-*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 4.4 degrees
 
 *date 2023.08.01
 
-;team Karol Makowski, Adam Wladzinski, Pawel Zebrowski
-*team Karol Makowski (sketch Tablet/Qave, marking)
-*team Paweł Żebrowski (DistoX2, marking)
-*team Adam Władzinski (DistoX2, marking)
+*team "Karol Makowski" notes pictures station explorer ;(Tablet/Qave), Spray, poręczowanie)
+*team "Paweł Żebrowski" instruments ;(DistoX2)
+*team "Adam Władzinski" explorer ;(poręczowanie)
 
-;instrument "DistoX2 H-3746"
 *instrument tape "DistoX2 H-3746"
 *instrument compass "DistoX2 H-3746"
 *instrument clino "DistoX2 H-3746"

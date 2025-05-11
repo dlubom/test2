@@ -18,16 +18,15 @@
 ;#PREFIX	bat_com
 *title "Powrót do Baltazara Gąbki"
 
-*cs UTM33N
-*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 4.1 degrees
 
 *date 2021.07.31
 
-;Joanna Gawezka (Notes), Jakub Nowak (DixtoX2); Robert Glod (poreczownie)
-*team Joanna Gawęzka (sketch notes)
-*team Jakub Nowak (DistoX2)
-*team Robert Głód (installing ropes)
+*team "Joanna Gawęska" notes pictures ;(PDA/PocketTopo)
+*team "Jakub Nowak" instruments ;(DistoX2)
+*team "Robert Głód" explorer ;(poreczownie)
 
 *instrument tape "DistoX2 <id>"
 *instrument compass "DistoX2 <id>"

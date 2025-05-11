@@ -17,16 +17,16 @@
 *begin Meander_Zachodni3
 *title "Meander Zachodni 3"
 
-*cs UTM33N
-*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 2.5 degrees
 
 *date 2010.08.01
 
-;Maciej Dziurka, Karol Makowski, Lukasz Kralczynski
-*team <name surename> (sketch <device/app>)
-*team <name surename> (DistoX1)
-*team <name surename> (marking)
+;DistoX1, PDA/PocketTopo
+*team "Maciej Dziurka" ;unknown_role
+*team "Karol Makowski" ;unknown_role
+*team "Łukasz Kralczynski" ;unknown_role
 
 *instrument tape "DistoX1 <id>"
 *instrument compass "DistoX1 <id>"

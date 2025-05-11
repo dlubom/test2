@@ -17,16 +17,15 @@
 *begin Meander_Malina
 *title "Meander Malina"
 
-*cs UTM33N
-*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 3.2 degrees
 
 *date 2015.08.05
 
-;Arek Kus, Joanna Stepinska
-*team <name surename> (sketch PDA/PocketTopo)
-*team <name surename> (DistoX1)
-*team <name surename> (marking)
+;DistoX1, PDA/PocketTopo
+*team "Joanna Stępińska" ;unknown_role
+*team "Arkadiusz Kus" ;unknown_role
 
 *instrument tape "DistoX1 <id>"
 *instrument compass "DistoX1 <id>"

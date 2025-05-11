@@ -17,17 +17,16 @@
 *begin Tu_lis_ma_nore
 *title "Tu lis ma norê"
 
-*cs UTM33N
-*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 2.9 degrees
 
 *date 2013.08.06
 
-;Oliwia Rysnik, Rafal Mateja (kartowanie), Oliwia Rysnik, Rafal Mateja (disto), Ewelina, Rafal Klimara(spray)
-*team Oliwia Ryœnik (sketch PDA/PocketTopo, DistoX1)
-*team Rafa³ Mateja (sketch PDA/PocketTopo, DistoX1)
-*team Ewelina Raczyñska (marking)
-*team Rafa³ Klimara (marking)
+*team "Oliwia Ryœnik" notes pictures instruments ;(PDA/PocketTopo, DistoX1)
+*team "Rafa³ Mateja" notes pictures instruments ;(PDA/PocketTopo, DistoX1)
+*team "Ewelina Raczyñska" station ;(Spray)
+*team "Rafa³ Klimara" station ;(Spray)
 
 *instrument tape "DistoX1 <id>"
 *instrument compass "DistoX1 <id>"

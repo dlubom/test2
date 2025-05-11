@@ -1,6 +1,6 @@
 *begin mzb1
 *date 2017.07.26
-*team Marcin Slowik (Palm, Spray), Michal Humienik (Disto)
+*team Marcin Slowik (Palm, Spray), Michał Humienik (Disto)
 *instrument compass "DistoX"
 *instrument clino "DistoX"
 *instrument tape "DistoX"

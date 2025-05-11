@@ -17,15 +17,15 @@
 *begin amz-o
 *title "<add a title>"
 
-*cs UTM33N
-*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 2.8 degrees
 
 *date 2012.08.06
 
-*team <name surename> (sketch PDA/PocketTopo)
-*team <name surename> (DistoX2)
-*team <name surename> (marking)
+*team "name surname" notes pictures ;(PDA/PocketTopo)
+*team "name surname" (DistoX2)
+*team "name surname" station ;(Spray or Nail polish)
 
 *instrument tape "DistoX2 <id>"
 *instrument compass "DistoX2 <id>"

@@ -19,16 +19,15 @@
 ; "Meander Chorych Snow"
 *title "Meander Chorych Snów - Remake"
 
-*cs UTM33N
-*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 4.2 degrees
 
 *date 2022.07.26
 
-;team Arek Kus (Palm + spray), Stanislaw Dacy (DistoX2), Adam Wladzinski (poreczowanie)
-*team Arkadiusz Kus (sketch PDA/PocketTopo, marking)
-*team Stanisław Dacy (DistoX2)
-*team Adam Władzinski (installing ropes)
+*team "Arkadiusz Kus" notes pictures station ;(PDA/PocketTopo, Spray)
+*team "Stanisław Dacy" instruments ;(DistoX2)
+*team "Adam Władzinski" explorer ;(poreczowanie)
 
 *instrument tape "DistoX2 <id>"
 *instrument compass "DistoX2 <id>"

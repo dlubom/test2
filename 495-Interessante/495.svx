@@ -126,7 +126,7 @@
 *include 20120809-Zachodni_286\SD345678.svx			;Zachodni 286
 *equate Meander_Zachodni6.wm286	Zachodni_286.wm286
 ;------------------------------------------------------------------------------------------------
-*include 20120809-Zachodni-Komin_Michala\AS878989.svx		;Zachodni - Komin Michala
+*include 20120809-Zachodni-Komin_Michala\AS878989.svx		;Zachodni - Komin Michała
 *equate Meander_Zachodni6.wm282	Zachodni-Komin_Michala.wm282
 ;------------------------------------------------------------------------------------------------
 *include 20120809-Zachodni-meanderek\ZA120809.svx		;Zachodni - meanderek
