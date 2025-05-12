@@ -1,0 +1,58 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 496
+;cavern name de "Land_der_Regenmenschacht"
+;cavern name pl "Kraina Deszczowców"
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-05-13
+;file team "Karol Makowski"
+
+;source file: 496D9.SRV
+*case preserve
+
+*begin Deszcz02
+*title "<add a title>"
+
+;*cs UTM33N
+;*declination auto	353821.433	5266417.923	2010	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.4 degrees
+
+*date 2009.08.07
+
+;DistoX1, Notatnik?
+*team "Rafa³ Mateja" ;unknown_role
+*team "Oliwia Ryœnik" ;unknown_role
+*team "£ukasz Kralczynski" ;unknown_role
+
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+de1	de1_1	0.84	131.38	-43.62
+de1_1	de1_2	2.49	25.57	-17.97
+de1_2	de1_3	2.79	35.76	-34.14
+de1_3	de1_4	11.77	224.68	-79.88
+de1_4	de1_4_1	3.79	270.55	-87.16
+de1_4	de1_5	4.88	41.01	21.46
+de1_5	de1_6	9.33	62.55	-49.03
+de1_6	de1_7	31.63	38.97	-85.33
+de1_7	de1_8	30.05	340.64	-86.09
+de1_8	de1_9	3.75	154.53	7.64
+de1_9	de1_10	3.03	141.07	-34.35
+de1_9	de1_9_1	2.79	131.46	84.55
+de1_9_1	de1_9_2	4.4	157.91	-16.19
+de1_9_2	de1_9_3	5.3	119.59	-41.84
+de1_9_3	de1_9_4	2.1	25.32	-17.78
+de1_9_3	de1_9_5	2.68	166.77	25.46
+*end Deszcz02

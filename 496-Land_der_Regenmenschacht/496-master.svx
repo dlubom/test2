@@ -1,0 +1,8 @@
+*cs UTM33N
+*cs out UTM33N
+
+*declination auto	353821.433	5266417.923	2010
+
+*include 496.svx
+;#FIX	Deszcz	E13:03.465	N47:32.084	2010m	;dm
+*fix	496-Land_der_Regenmenschacht.01-eingang	353821.433	5266417.923	2010	;UTM zone 33N

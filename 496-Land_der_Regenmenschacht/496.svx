@@ -1,0 +1,29 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 496
+;cavern name de "Land_der_Regenmenschacht"
+;cavern name pl "Kraina Deszczowców"
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-05-13
+;file team "Karol Makowski"
+
+*case preserve
+
+*begin 496-Land_der_Regenmenschacht
+
+*cs UTM33N
+*declination auto	353821.433	5266417.923	2010
+
+*entrance	01-eingang
+
+*include Deszcz01\496DD.svx
+*include Deszcz02\496D9.svx
+
+*equate 01-eingang	Deszcz01.Deszcz		; entrance 01
+*equate Deszcz01.de1	Deszcz02.de1
+
+*end 496-Land_der_Regenmenschacht

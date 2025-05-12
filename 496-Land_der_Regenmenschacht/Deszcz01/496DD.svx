@@ -1,0 +1,60 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 496
+;cavern name de "Land_der_Regenmenschacht"
+;cavern name pl "Kraina Deszczowców"
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-05-13
+;file team "Karol Makowski"
+
+;source file: 496DD.SRV
+*case preserve
+
+*begin Deszcz01
+*title "<add a title>"
+
+;*cs UTM33N
+;*declination auto	353821.433	5266417.923	2010	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 1.8 degrees
+
+*entrance Deszcz
+
+;TODO data jest bledna
+*date 2003.08.16
+
+;Sunto, Notatnik
+*team "Dariusz Bartoszewski" ;unknown_role
+*team "Miros³aw Kopertowski" ;unknown_role
+*team "Oliwia Ryœnik" ;unknown_role
+
+*instrument tape "Sunto <id>"
+*instrument compass "Sunto <id>"
+*instrument clino "Sunto <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+;#NOTE	Deszcz	/Kraina Deszczowcow Land der Regenmenschacht [496]
+;#FLAG	Deszcz	/GPS Location
+;#FIX	Deszcz   E13:03.465  N47:32.084  2010m     ;dm
+
+
+*data normal from to tape compass clino ignoreall
+
+de1	de2	8.13	230.0	70.0
+de2	de3	3.02	212.0	55.0
+de3	de4	7.8	215.0	55.0
+de4	de5	6.34	200.0	15.0
+de5	de6	8.66	280.0	80.0
+de6	de7	3.32	300.0	25.0
+de7	de7_1	3.57	185.0	10.0
+de7	de8	1.56	60.0	15.0
+de8	de9	9.0	235.0	87.0
+de9	de1a	3.62	200.0	10.0
+de1a	Deszcz	8.85	10.0	65.0
+*end Deszcz01

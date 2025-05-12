@@ -136,7 +136,7 @@
 .BOOK	[408] Kitzgraben
 .NAME	KITZGR
 .PATH	408-Kitzgraben
-.STATUS	2569
+.STATUS	2568
 .REF	5266168.652 353907.226 33 -1.432 1992 1 47 31 57.040 13 3 32.299 27 "WGS 1984"
 .SURVEY	2020-08-01 - k01 (partie austriackie)
 .NAME	KITZG01
@@ -1582,7 +1582,7 @@
 .ENDBOOK
 .BOOK	[496] Kraina Deszczowcow Land der Regenmenschacht
 .NAME	496DESZ
-.STATUS	2570
+.STATUS	2569
 .REF	5266417.923 353821.433 33 -1.433 2010 1 47 32 5.040 13 3 27.900 27 "WGS 1984"
 .SURVEY	496_Land_der_Regenmenschacht_plan&profile_2009.pdf
 .NAME	496_Land_der_Regenmenschacht_plan&profile_2009.pdf
@@ -1590,11 +1590,11 @@
 .STATUS	327688
 .SURVEY	Deszcz2009
 .NAME	496D9
-.PATH	496_Land_der_Regenmenschacht
+.PATH	496-Land_der_Regenmenschacht\Deszcz02
 .STATUS	8
 .SURVEY	Deszcz
 .NAME	496DD
-.PATH	496_Land_der_Regenmenschacht
+.PATH	496-Land_der_Regenmenschacht\Deszcz01
 .STATUS	8
 .ENDBOOK
 .BOOK	[497] Hohle mit Oliphant
