@@ -39,8 +39,8 @@
 *include 494-Respektschacht\494-master.svx
 *include 495-Interessante\495-master.svx
 *include 496-Land_der_Regenmenschacht\496-master.svx
-;;
-;;*include 498-Maander_unter_dem_Laschen\498-master.svx
+
+*include 498-Maander_unter_dem_Laschen\498-master.svx
 ;;
 ;;*include 500-B3-6\500-master.svx
 ;;*include 501-Kitzgrabenwasserschacht\501-master.svx 
