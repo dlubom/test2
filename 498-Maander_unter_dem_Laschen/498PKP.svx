@@ -15,19 +15,18 @@
 *case preserve
 
 *begin 498PKP
-*title "Pod Kosowka"
+*title "Pod Kosówką"
 
-*cs UTM33N
-*declination auto	353229.710	5266345.648	1924	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	353229.710	5266345.648	1924	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 2.4 degrees
 
 *entrance podk
 
 *date 2009.08.12
 
-*team Darek Bartoszewski (sketch <device/app>)
-*team Tomek Olczak (DistoX1)
-*team Darek Bartoszewski (marking)
+*team "Darek Bartoszewski" ;unknown_role
+*team "Tomek Olczak" ;unknown_role
 
 *instrument tape "DistoX1 <id>"
 *instrument compass "DistoX1 <id>"
@@ -41,7 +40,6 @@
 ;#FLAG	podk	/GPS Location
 ;#FIX	podk   E13:02.995  N47:32.037   1924m     ;dm
 
-;Tomek Olczak, Darek Bartoszewski
 
 *data normal from to tape compass clino ignoreall
 
