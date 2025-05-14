@@ -1,0 +1,8 @@
+*cs UTM33N
+*cs out UTM33N
+
+*declination auto	352481.593	5265697.275	2145
+
+*include 499.svx		; otwor
+;*fix	499-Hoher_Schacht.01-eingang	0	0	0	;GPS Location UTM
+*fix	499-Hoher_Schacht.01-eingang	352481.593	5265697.275	2145	;GPS Location UTM

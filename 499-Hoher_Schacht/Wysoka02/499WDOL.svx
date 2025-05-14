@@ -1,0 +1,52 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 499
+;cavern name de "Höher Schacht"
+;cavern name pl "Wysoka"
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-05-14
+;file team "Karol Makowski"
+
+;source file: 499WDOL.SRV
+*case preserve
+
+*begin 499WDOL
+*title "<add a title>"
+
+;*cs UTM33N
+;*declination auto	352481.593	5265697.275	2145	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.4 degrees
+
+*date 2009.08.28
+
+;DistoX1, PDA/PocketTopo
+*team "Rafa³ Mateja" ;unknown_role
+*team "Oliwia Ryœnik" ;unknown_role
+*team "Marek Wierzbowski" ;unknown_role
+*team "Ali Balaghi" ;unknown_role
+
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+wys1	wys2	11.05	306.2	55.8
+wys2	wys3	2.21	21.7	21.8
+wys3	wys1_9	0.99	349.0	60.6
+wys12	wys13	2.85	299.3	40.3
+wys13	wys14	2.68	252.3	34.7
+wys14	wys15	1.95	336.0	47.3
+wys15	wys16	10.15	307.0	54.5
+wys16	wys17	5.81	302.0	57.2
+wys17	wys1_9	3.07	254.0	16.4
+*end 499WDOL

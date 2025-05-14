@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0" creator="survex 1.4.17 (aven) - https://survex.com/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<name>499-master</name>
+<time>2025-05-14T21:08:08Z</time>
+<trk><name>499-master</name><trkseg>
+<trkpt lon="13.04019996" lat="47.52795005"><ele>2145.00</ele></trkpt>
+<trkpt lon="13.04019479" lat="47.52796391"><ele>2145.04</ele></trkpt>
+<trkpt lon="13.04021244" lat="47.52796079"><ele>2140.55</ele></trkpt>
+<trkpt lon="13.04022144" lat="47.52797615"><ele>2118.89</ele></trkpt>
+<trkpt lon="13.04023523" lat="47.52798025"><ele>2118.79</ele></trkpt>
+<trkpt lon="13.04023042" lat="47.52800951"><ele>2117.05</ele></trkpt>
+<trkpt lon="13.04021200" lat="47.52802620"><ele>2101.38</ele></trkpt>
+<trkpt lon="13.04024779" lat="47.52803896"><ele>2105.01</ele></trkpt>
+<trkpt lon="13.04026934" lat="47.52802754"><ele>2105.52</ele></trkpt>
+<trkpt lon="13.04029265" lat="47.52802605"><ele>2106.44</ele></trkpt>
+</trkseg><trkseg>
+<trkpt lon="13.04021200" lat="47.52802620"><ele>2101.38</ele></trkpt>
+<trkpt lon="13.04024947" lat="47.52802594"><ele>2101.25</ele></trkpt>
+<trkpt lon="13.04029354" lat="47.52801283"><ele>2096.99</ele></trkpt>
+</trkseg><trkseg>
+<trkpt lon="13.04021200" lat="47.52802620"><ele>2101.38</ele></trkpt>
+<trkpt lon="13.04022919" lat="47.52798213"><ele>2097.66</ele></trkpt>
+<trkpt lon="13.04026134" lat="47.52799636"><ele>2097.10</ele></trkpt>
+<trkpt lon="13.04027466" lat="47.52797400"><ele>2092.28</ele></trkpt>
+</trkseg><trkseg>
+<trkpt lon="13.04027466" lat="47.52797400"><ele>2092.28</ele></trkpt>
+<trkpt lon="13.04027562" lat="47.52796961"><ele>2091.42</ele></trkpt>
+<trkpt lon="13.04026456" lat="47.52795277"><ele>2090.60</ele></trkpt>
+<trkpt lon="13.04032896" lat="47.52791797"><ele>2081.46</ele></trkpt>
+</trkseg><trkseg>
+<trkpt lon="13.04027466" lat="47.52797400"><ele>2092.28</ele></trkpt>
+<trkpt lon="13.04031269" lat="47.52798023"><ele>2091.42</ele></trkpt>
+<trkpt lon="13.04034717" lat="47.52796417"><ele>2086.53</ele></trkpt>
+<trkpt lon="13.04040767" lat="47.52793056"><ele>2078.27</ele></trkpt>
+<trkpt lon="13.04041420" lat="47.52791951"><ele>2076.84</ele></trkpt>
+<trkpt lon="13.04044243" lat="47.52792477"><ele>2075.31</ele></trkpt>
+<trkpt lon="13.04046699" lat="47.52791448"><ele>2073.47</ele></trkpt>
+</trkseg></trk>
+</gpx>

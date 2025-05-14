@@ -1,0 +1,31 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 499
+;cavern name de "Höher Schacht"
+;cavern name pl "Wysoka"
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-05-14
+;file team "Karol Makowski"
+
+*case preserve
+*begin 499-Hoher_Schacht
+
+*cs UTM33N
+*declination auto	352481.593	5265697.275	2145
+
+*entrance 01-eingang
+
+
+*include Wysoka01\499WYSO.svx
+*include Wysoka02\499WDOL.svx
+
+
+*equate 01-eingang	499WYSO.wys1_0	; entrance 01
+*equate 499WYSO.wys1_9	499WDOL.wys1_9
+
+
+*end 499-Hoher_Schacht

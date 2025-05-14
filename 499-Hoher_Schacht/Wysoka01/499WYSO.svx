@@ -1,0 +1,63 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 499
+;cavern name de "Höher Schacht"
+;cavern name pl "Wysoka"
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-05-14
+;file team "Karol Makowski"
+
+;source file: 499WYSO.SRV
+*case preserve
+
+*begin 499WYSO
+*title "<add a title>"
+
+;*cs UTM33N
+;*declination auto	352481.593	5265697.275	2145	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.4 degrees
+
+*entrance wys1_0
+
+*date 2009.08.15
+
+;DistoX1, PDA/PocketTopo
+*team "Rafa³ Mateja" ;unknown_role
+*team "Oliwia Ryœnik" ;unknown_role
+*team "Marek Wierzbowski" ;unknown_role
+*team "Ali Balaghi" ;unknown_role
+
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+;#NOTE	wys1.0	/Wysoka Z27 Hoher Schacht [499]
+;#FLAG	wys1.0	/GPS Location
+;#FIX	wys1.0   E13:02.412  N47:31.677   2145m     ;dm
+
+
+*data normal from to tape compass clino ignoreall
+
+wys1_0	wys1_1	1.6	343.33	1.5
+wys1_1	wys1_2	4.7	102.34	-72.97
+wys1_2	wys1_3	21.74	19.31	-85.16
+wys1_3	wys1_4	1.14	64.01	-4.86
+wys1_4	wys1_5	3.71	351.18	-27.95
+wys1_5	wys1_6	15.84	320.89	-81.61
+wys1_6	wys2_1	4.74	59.84	50.06
+wys2_1	wys2_2	2.12	125.65	13.74
+wys2_2	wys2_3	1.99	93.09	27.58
+wys1_6	wys3_1	2.82	88.17	-2.63
+wys3_1	wys3_2	5.59	111.24	-49.61
+wys1_6	wys1_7	6.28	162.79	-36.27
+wys1_7	wys1_8	2.94	54.4	-10.97
+wys1_8	wys1_9	5.52	155.62	-60.89
+*end 499WYSO
