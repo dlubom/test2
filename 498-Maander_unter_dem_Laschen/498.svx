@@ -1,3 +1,16 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 498
+;cavern name de "Maander unter dem Laschen"
+;cavern name pl "Pod Kosowka"
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2024-07-30
+;file team "Karol Makowski"
+
 *case preserve
 *begin 498-Maander_unter_dem_Laschen
 
