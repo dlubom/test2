@@ -1,0 +1,101 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 500
+;cavern name de "B3/6"
+;cavern name pl ""
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-05-14
+;file team "Karol Makowski"
+
+;source file: 21b3it.srv
+*case preserve
+
+*begin 21b3it
+*title "<add a title>"
+
+;*cs UTM33N
+;*declination auto	353041.033	5265995.102	2009	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 4.1 degrees
+
+*date 2021.07.30
+
+;Iza Przybysz, Tomasz Olczak
+*team "Name Surname" ;notes pictures station ;(<device/app>, Spray)
+*team "Name Surname" ;instruments ;(DistoX1)
+*team "Name Surname" ;station ;(Spray)
+*team "Name Surname" ;explorer assistant
+
+*instrument tape "DistoX2 <id>"
+*instrument compass "DistoX2 <id>"
+*instrument clino "DistoX2 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+;#PREFIX	21b3it
+
+*data normal from to tape compass clino ignoreall
+
+*flags duplicate
+1	2	0.873	359.4	-39.7	;powtorzony
+2	3	1.715	268.68	-30.6	;powtorzony
+3	4	4.584	337.4	-54.09	;powtorzony
+*flags not duplicate
+
+;4	b36:61	0.0	0.0	0.0
+4	5	2.247	264.4	-42.8
+5	6	2.122	220.91	-54.6
+6	7	0.739	17.12	-8.87
+7	8	3.851	181.41	-46.71
+8	9	2.352	161.81	-27.7
+9	10	1.827	201.18	4.71
+10	11	3.023	279.71	21.3
+9	12	2.189	153.2	-52.42
+12	13	3.188	104.6	-24.2
+13	14	1.435	74.72	-7.41
+14	15	0.988	42.81	-34.39
+15	16	4.136	45.7	-32.69
+16	17	0.673	6.3	12.96
+17	18	2.705	83.21	-25.4
+18	19	3.494	12.5	-42.2
+5	..	0.512	136.81	48.96
+5	..	0.83	214.53	-68.57
+6	..	0.822	90.98	4.18
+6	..	1.306	42.34	68.81
+6	..	1.502	88.57	-79.21
+8	..	0.416	95.38	-1.65
+8	..	1.41	300.19	87.41
+8	..	0.576	76.91	-62.6
+8	..	1.004	357.42	4.97
+9	..	0.308	280.87	-4.28
+9	..	1.234	349.73	-82.43
+10	..	0.388	327.15	-12.19
+10	..	0.856	313.88	-85.17
+11	..	0.8	174.02	-81.03
+11	..	0.981	100.56	62.86
+11	..	0.642	175.43	12.59
+11	..	0.378	29.82	-1.67
+12	..	0.354	29.62	-5.84
+12	..	0.553	47.73	-76.01
+13	..	0.411	343.78	-6.57
+13	..	0.755	239.21	23.66
+13	..	0.289	352.57	66.36
+14	..	0.552	328.65	13.63
+15	..	1.117	253.38	-86.41
+15	..	0.816	177.33	-2.53
+15	..	0.83	248.09	-69.0
+17	..	0.512	137.39	5.05
+17	..	0.822	51.31	-6.08
+17	..	1.091	259.38	-86.58
+17	..	0.68	290.38	86.85
+18	..	0.512	314.53	0.22
+18	..	0.945	72.52	-78.42
+18	..	0.366	2.49	75.42
+19	..	0.443	267.14	-3.89
+19	..	2.941	5.31	-13.21
+*end 21b3it

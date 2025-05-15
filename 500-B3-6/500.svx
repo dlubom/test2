@@ -1,17 +1,32 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 500
+;cavern name de "B3/6"
+;cavern name pl ""
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-05-14
+;file team "Karol Makowski"
+
 *case preserve
 *begin 500-B3-6
 
 *cs UTM33N
 ;*cs out UTM33N
-*declination auto	353042.556	5265990.801	2009
+*declination auto	353041.033	5265995.102	2009
 
 *entrance 01-eingang
 
-*include 150809\150809.svx
-*include 21b3-6\21b3it.svx  
+*include 20140726-Nazi\nazi.svx
+*include 20150809\150809.svx
+*include 20210730-21b3-6\21b3it.svx
 
 
 *equate 01-eingang	B3-6.0	; entrance 01
-*equate 21b3it.4	B3-6.61
+*equate B3-6.19	nazi.1_9
+*equate B3-6.61	21b3it.4
 
 *end 500-B3-6
