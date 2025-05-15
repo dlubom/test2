@@ -1,0 +1,8 @@
+*cs UTM33N
+*cs out UTM33N
+
+*declination auto	353589.513	5266729.532	1884
+
+*include 502.svx		; otwor
+;*fix	502-Schattenhohle.01-eingang	0	0	0	;GPS Location UTM
+*fix	502-Schattenhohle.01-eingang	353589.513	5266729.532	1884	;GPS Location UTM
