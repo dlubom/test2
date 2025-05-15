@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><name>503-master</name>
+<Style id="fix"><IconStyle><Icon><href>https://maps.google.com/mapfiles/kml/paddle/red-blank.png</href></Icon><color>ff0000ff</color><hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/></IconStyle></Style>
+<Style id="exp"><IconStyle><Icon><href>https://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href></Icon><color>ffff0000</color><hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/></IconStyle></Style>
+<Style id="ent"><IconStyle><Icon><href>https://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href></Icon><color>ff00ff00</color><hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/></IconStyle></Style>
+<Style id="surf"><LineStyle><color>ff00ff00</color></LineStyle></Style>
+<Style id="splay"><LineStyle><color>40ff00ff</color></LineStyle></Style>
+<Placemark><MultiGeometry><LineString><altitudeMode>absolute</altitudeMode><coordinates>
+13.05016671,47.53231666,1932.00
+13.05007144,47.53240268,1928.73
+13.05009932,47.53243555,1929.26
+</coordinates></LineString>
+<LineString><altitudeMode>absolute</altitudeMode><coordinates>
+13.05007144,47.53240268,1928.73
+13.05003444,47.53244399,1929.43
+13.05002156,47.53246509,1934.36
+</coordinates></LineString>
+<LineString><altitudeMode>absolute</altitudeMode><coordinates>
+13.05007144,47.53240268,1928.73
+13.04996111,47.53236112,1930.10
+</coordinates></LineString></MultiGeometry></Placemark>
+</Document></kml>

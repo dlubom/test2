@@ -1,0 +1,8 @@
+*cs UTM33N
+*cs out UTM33N
+
+*declination auto	353243.967	5266163.661	1932
+
+*include 503.svx		; otwor
+;*fix	503-Biwakko.01-eingang	0	0	0	;GPS Location UTM
+*fix	503-Biwakko.01-eingang	353243.967	5266163.661	1932	;GPS Location UTM

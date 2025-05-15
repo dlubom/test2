@@ -1,0 +1,48 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 503
+;cavern name de "Biwakko"
+;cavern name pl ""
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-05-16
+;file team "Karol Makowski"
+
+;source file: BIWAK.SRV
+*case preserve
+
+*begin biwakko
+*title "<add a title>"
+
+;*cs UTM33N
+;*declination auto	353243.967	5266163.661	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 3.0 degrees
+
+;#FIX	1_0   E13:03.010  N47:31.939   1932m     ;dm
+*entrance 1_0
+
+*date 2014.08.13
+
+;Machiar, Dariusz Bartoszewski
+*team "Dariusz Bartoszewski" notes pictures station ;(PDS/PocketTopo, Spray)
+*team "Mahyar Kafash" instruments ;(DistoX1)
+
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+*data normal from to tape compass clino ignoreall
+
+1_0	1_2	12.388	320.1	-15.3
+1_2	1_22	4.246	26.81	7.2
+1_2	1_23	5.419	325.7	7.4
+1_23	1_231	5.547	334.5	62.79
+1_2	1_3	9.601	237.9	8.2
+*end biwakko
