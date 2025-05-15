@@ -17,17 +17,17 @@
 *begin Kitz
 *title "<add a title>"
 
-*cs UTM33N
-*declination auto	354260.080	5266392.140	1991	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	354260.080	5266392.140	1991	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 2.6 degrees
 
+;#FIX	0   E13:03.815  N47:32.076   1991m
 *entrance 0
 
 *date 2011.08.11
 
-*team Radoslaw Paternoga (sketch Notes)
-*team Dariusz Lubomski (DistoX1)
-*team Radoslaw Paternoga (marking)
+*team "Radoslaw Paternoga" notes pictures station ;(sketch Notes)
+*team "Dariusz Lubomski" instruments ;(DistoX1)
 
 *instrument tape "DistoX1 <id>"
 *instrument compass "DistoX1 <id>"
@@ -36,14 +36,6 @@
 *units tape backtape meters
 *units compass backcompass degrees
 *units clino backclino degrees
-
-;#PREFIX	Kitz
-;#NOTE	0	/Kitzgrabenwasserschacht [501]
-;#FLAG	0	/GPS Location
-;#FIX	0   E13:03.815  N47:32.076   1991m
-
-;Disto-X
-;Radoslaw Paternoga (kartowanie-papier), Dariusz Lubomski (Disto-X)
 
 *data normal from to tape compass clino ignoreall
 

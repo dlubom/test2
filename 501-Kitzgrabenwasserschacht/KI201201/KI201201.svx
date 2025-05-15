@@ -17,15 +17,14 @@
 *begin Rura
 *title "Rura"
 
-*cs UTM33N
-*declination auto	354260.080	5266392.140	1991	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	354260.080	5266392.140	1991	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 2.8 degrees
 
 *date 2012.08.13
 
-*team Tomasz Olczak (sketch PDA/PocketTopo)
-*team Oliwia Ryśnik (DistoX1)
-*team Tomasz Olczak (marking)
+*team "Tomasz Olczak" notes pictures station ;(PDA/PocketTopo)
+*team "Oliwia Ryśnik" instruments ;(DistoX1)
 
 *instrument tape "DistoX1 <id>"
 *instrument compass "DistoX1 <id>"
@@ -34,11 +33,6 @@
 *units tape backtape meters
 *units compass backcompass degrees
 *units clino backclino degrees
-
-;#PREFIX	R
-;#SEGMENT	/Kitzgrabenwasserschacht - rura
-;Tomasz Olczak (PocketTopo), Oliwia Rysnik (Disto-X)
-;Disto-X + Palm
 
 *data normal from to tape compass clino ignoreall
 

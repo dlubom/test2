@@ -6,7 +6,7 @@
 ;cavern name de "Kitzgrabenwasserschacht"
 ;cavern name pl ""
 ;cavern part de ""
-;cavern part pl ""
+;cavern part pl "RR"
 
 ;file date 2024-07-30
 ;file team "Karol Makowski"
@@ -15,17 +15,16 @@
 *case preserve
 
 *begin RR
-*title "<add a title>"
+*title "RR"
 
-*cs UTM33N
-*declination auto	354260.080	5266392.140	1991	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	354260.080	5266392.140	1991	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 2.9 degrees
 
 *date 2013.08.06
 
-*team Tomasz Olczak (sketch PDA/PocketTopo)
-*team Tomasz Olczak (DistoX1)
-*team Tomasz Biela (marking)
+*team "Tomasz Olczak" notes pictures instruments ;(PDA/PocketTopo, DistoX1)
+*team "Tomasz Biela" station ;(Spray)
 
 *instrument tape "DistoX1 <id>"
 *instrument compass "DistoX1 <id>"
@@ -34,9 +33,6 @@
 *units tape backtape meters
 *units compass backcompass degrees
 *units clino backclino degrees
-
-;#PREFIX	RR
-;Tomasz Olczak (PocketTopo+DistoX), Tomasz Biela (spray)
 
 *data normal from to tape compass clino ignoreall
 

@@ -6,7 +6,7 @@
 ;cavern name de "Kitzgrabenwasserschacht"
 ;cavern name pl ""
 ;cavern part de ""
-;cavern part pl ""
+;cavern part pl "Do drugiego syfonu"
 
 ;file date 2024-07-30
 ;file team "Karol Makowski"
@@ -17,15 +17,16 @@
 *begin Do_drugiego_syfonu
 *title "Do drugiego syfonu"
 
-*cs UTM33N
-*declination auto	354260.080	5266392.140	1991	;GPS Location UTM of entrance for automatic declination calculation
+;*cs UTM33N
+;*declination auto	354260.080	5266392.140	1991	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 2.9 degrees
 
 *date 2013.08.08
 
-*team <name surename> (sketch <device/app>)
-*team <name surename> (DistoX1)
-*team <name surename> (marking)
+;(PDA/PocketTopo, DistoX1)
+*team "Tomasz Olczak" ;unknown_role
+*team "Marcin Słowik" ;unknown_role
+*team "Karol Makowski" ;unknown_role
 
 *instrument tape "DistoX1 <id>"
 *instrument compass "DistoX1 <id>"
@@ -34,9 +35,6 @@
 *units tape backtape meters
 *units compass backcompass degrees
 *units clino backclino degrees
-
-;#PREFIX	Kitz2
-;Tomasz Olczak, Marcin Slowik, Karol Makowski
 
 *data normal from to tape compass clino ignoreall
 

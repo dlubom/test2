@@ -1,3 +1,16 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 501
+;cavern name de "Kitzgrabenwasserschacht"
+;cavern name pl ""
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2024-07-30
+;file team "Karol Makowski"
+
 *case preserve
 *begin 501-Kitzgrabenwasserschacht
 
