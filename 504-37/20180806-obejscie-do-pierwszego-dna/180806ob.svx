@@ -1,0 +1,66 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 504
+;cavern name de "37"
+;cavern name pl ""
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-05-16
+;file team "Karol Makowski"
+
+;source file: 180806ob.srv
+*case preserve
+
+*begin Obejscie_do_pierwszego_dna
+*title "Obejście do pierwszego dna"
+
+;*cs UTM33N
+;*declination auto	353461.769	5265839.419	2012	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 3.6 degrees
+
+*date 2018.08.06
+
+*team "Arkadiusz Kus" notes pictures station ;(PDA/PocketTopo, Spray)
+*team "Rdoslaw Paternoga" instruments ;(DistoX1)
+
+*instrument tape "DistoX1 <id>"
+*instrument compass "DistoX1 <id>"
+*instrument clino "DistoX1 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+;#prefix zjazd37_4
+
+*data normal from to tape compass clino ignoreall
+
+;1_0	zjazd37_2:4_1	0.0	0.0	0.0
+;1_7	zjazd37:1_0	0.0	0.0	0.0
+;1_8	zjazd37:1_1	0.0	0.0	0.0
+1_0	1_1	5.501	253.82	72.77
+1_1	1_2	5.488	283.79	76.25
+1_2	1_3	1.687	81.88	27.23
+1_3	1_4	2.533	78.86	33.93
+1_4	1_5	6.668	302.0	61.17
+1_5	1_6	5.034	177.56	31.82
+1_6	1_7	1.68	263.59	-44.89
+*flags duplicate
+1_7	1_8	2.169	271.15	28.96
+*flags not duplicate
+1_1	..	0.901	98.3	1.21
+1_1	..	2.094	167.76	23.56
+1_1	..	0.966	256.97	39.1
+1_2	..	0.432	23.07	-18.19
+1_3	..	0.278	188.71	25.38
+1_3	..	0.896	319.97	83.73
+1_3	..	0.799	328.01	59.77
+1_4	..	0.121	273.34	-7.11
+1_4	..	2.287	317.44	-14.64
+1_4	..	0.987	216.67	23.2
+1_5	..	0.774	94.52	-0.89
+1_5	..	0.931	172.29	0.43
+*end Obejscie_do_pierwszego_dna

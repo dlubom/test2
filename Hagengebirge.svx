@@ -46,6 +46,7 @@
 *include 501-Kitzgrabenwasserschacht\501-master.svx
 *include 502-Schattenhohle\502-master.svx
 *include 503-Biwakko\503-master.svx
+*include 504-37\504-master.svx
 ;;
 ;;*include 571-Muminshohle\571-master.svx
 ;;*include 572-Querhohle\572-master.svx

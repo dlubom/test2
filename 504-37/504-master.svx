@@ -1,0 +1,8 @@
+*cs UTM33N
+*cs out UTM33N
+
+*declination auto	353461.769	5265839.419	2012
+
+*include 504.svx		; otwor
+;*fix	504-37.01-eingang	0	0	0	;GPS Location UTM
+*fix	504-37.01-eingang	353461.769	5265839.419	2012	;GPS Location UTM

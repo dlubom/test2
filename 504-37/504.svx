@@ -1,0 +1,48 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 504
+;cavern name de "37"
+;cavern name pl ""
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-05-16
+;file team "Karol Makowski"
+
+*case preserve
+*begin 504-37
+
+*cs UTM33N
+*declination auto	353461.769	5265839.419	2012
+
+*entrance 01-eingang
+
+
+*include 20150809-trzysie\150809a.svx	; 37
+*include 20150809-trzysie2\150809b.svx
+*include 20150809-trzysie3\150809c.svx
+*include 20150810-trzysie4\150810.svx
+*include 20160808-trzysie5\160808.svx
+*include 20180801-zjazd37\180801.svx
+*include 20180806-ciag-glowny\180806cg.svx
+*include 20180806-na-180\180806na.svx
+*include 20180806-obejscie-do-pierwszego-dna\180806ob.svx
+*include 20180812-meander\meander.svx
+
+
+*equate 01-eingang	trzysie.1_0	; entrance 01
+*equate trzysie.1_29	trzysie2.1_0
+*equate trzysie2.1_2	trzysie3.1_0
+*equate trzysie3.6_2	trzysie4.1_0
+*equate trzysie4.1_15	trzysie5.0
+*equate trzysie5.21	zjazd37.0_0
+*equate zjazd37.1_4	Ciag_glowny.1_0
+*equate trzysie5.19	Na_180.1_1
+*equate Ciag_glowny.4_1	Obejscie_do_pierwszego_dna.1_0
+*equate zjazd37.1_0	Obejscie_do_pierwszego_dna.1_7
+*equate Ciag_glowny.1_13	Meander.1_0
+
+
+*end 504-37
