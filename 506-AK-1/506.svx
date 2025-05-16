@@ -1,0 +1,29 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 506
+;cavern name de "AK-1"
+;cavern name pl ""
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-05-16
+;file team "Karol Makowski"
+
+*case preserve
+*begin 506-AK-1
+
+*cs UTM33N
+*declination auto	353387.017	5265636.684	2033
+
+*entrance 01-eingang
+
+
+*include 20160806-Ak1\160806.svx
+
+
+*equate 01-eingang	Ak1.1_0	; entrance 01
+
+
+*end 506-AK-1

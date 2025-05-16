@@ -1,0 +1,8 @@
+*cs UTM33N
+*cs out UTM33N
+
+*declination auto	353387.017	5265636.684	2033
+
+*include 506.svx		; otwor
+;*fix	506-AK-1.01-eingang	0	0	0	;GPS Location UTM
+*fix	506-AK-1.01-eingang	353387.017	5265636.684	2033	;GPS Location UTM
