@@ -32,14 +32,15 @@
 *include 486-A4-10\486-master.svx
 *include 487-Schneekoniginhohle\487-master.svx
 *include 488-A4-40\488-master.svx
-
+;489-Q1
+;490-B3-4
 *include 491-Hohle_in_Roten_Steinen\491-master.svx
 *include 492-Korallenhohle\492-master.svx
 *include 493-Eisschrank\493-master.svx
 *include 494-Respektschacht\494-master.svx
 *include 495-Interessante\495-master.svx
 *include 496-Land_der_Regenmenschacht\496-master.svx
-
+;497-Hohle_mit_Oliphant
 *include 498-Maander_unter_dem_Laschen\498-master.svx
 *include 499-Hoher_Schacht\499-master.svx
 *include 500-B3-6\500-master.svx
@@ -47,10 +48,10 @@
 *include 502-Schattenhohle\502-master.svx
 *include 503-Biwakko\503-master.svx
 *include 504-37\504-master.svx
-
 *include 506-AK-1\506-master.svx
 *include 507-X-Schacht\507-master.svx
 *include 508-Schacht_unter_dem_Stein\508-master.svx
+*include 567-Alte_Westmaander\567-master.svx
 ;;
 ;;*include 571-Muminshohle\571-master.svx
 ;;*include 572-Querhohle\572-master.svx

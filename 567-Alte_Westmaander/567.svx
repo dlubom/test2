@@ -1,0 +1,30 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 567
+;cavern name de "Alte Westmäander"
+;cavern name pl "Stary Meander Zachodni"
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-05-23
+;file team "Karol Makowski"
+
+*case preserve
+*begin 567-Alte_Westmaander
+
+*cs UTM33N
+*declination auto	353160.467	5264143.382	2090
+
+*entrance 01-eingang
+
+
+*include 20200805-Stary_Meander_Zachodni\STMEZACH.svx
+
+
+*equate 01-eingang	Stary_Meander_Zachodni.1_0	; entrance 01
+*equate 02-eingang	Stary_Meander_Zachodni.3_8	; entrance 02
+
+
+*end 567-Alte_Westmaander

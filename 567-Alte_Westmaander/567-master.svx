@@ -1,0 +1,8 @@
+*cs UTM33N
+*cs out UTM33N
+
+*declination auto	353160.467	5264143.382	2090
+
+*include 567.svx
+;*fix	567-Alte_Westmaander.01-eingang	0	0	0	;GPS Location UTM
+*fix	567-Alte_Westmaander.01-eingang	353160.467	5264143.382	2090	;GPS Location UTM
