@@ -1,0 +1,29 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 508
+;cavern name de "Schacht unter dem Stein"
+;cavern name pl "Studnia Pod Głazem"
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-05-23
+;file team "Karol Makowski"
+
+*case preserve
+*begin 508-Schacht_unter_dem_Stein
+
+*cs UTM33N
+*declination auto	353462.408	5265684.649	2048
+
+*entrance 01-eingang
+
+
+*include 20160807-schacht_1\sch_1.svx
+
+
+*equate 01-eingang	schacht_1.0	; entrance 01
+
+
+*end 508-Schacht_unter_dem_Stein

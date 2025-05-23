@@ -1,0 +1,8 @@
+*cs UTM33N
+*cs out UTM33N
+
+*declination auto	353462.408	5265684.649	2048
+
+*include 508.svx
+;*fix	508-Schacht_unter_dem_Stein.01-eingang	0	0	0	;GPS Location UTM
+*fix	508-Schacht_unter_dem_Stein.01-eingang	353462.408	5265684.649	2048	;GPS Location UTM

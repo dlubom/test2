@@ -50,6 +50,7 @@
 
 *include 506-AK-1\506-master.svx
 *include 507-X-Schacht\507-master.svx
+*include 508-Schacht_unter_dem_Stein\508-master.svx
 ;;
 ;;*include 571-Muminshohle\571-master.svx
 ;;*include 572-Querhohle\572-master.svx
