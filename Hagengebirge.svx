@@ -49,6 +49,7 @@
 *include 504-37\504-master.svx
 
 *include 506-AK-1\506-master.svx
+*include 507-X-Schacht\507-master.svx
 ;;
 ;;*include 571-Muminshohle\571-master.svx
 ;;*include 572-Querhohle\572-master.svx

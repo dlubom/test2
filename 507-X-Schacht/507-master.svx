@@ -1,0 +1,8 @@
+*cs UTM33N
+*cs out UTM33N
+
+*declination auto	353536.211	5265604.217	2058
+
+*include 507.svx
+;*fix	507-X-Schacht.01-eingang	0	0	0	;GPS Location UTM
+*fix	507-X-Schacht.01-eingang	353536.211	5265604.217	2058	;GPS Location UTM

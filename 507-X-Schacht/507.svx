@@ -1,0 +1,31 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 507
+;cavern name de "X Schacht"
+;cavern name pl "Studnia X"
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-05-23
+;file team "Karol Makowski"
+
+*case preserve
+*begin 507-X-Schacht
+
+*cs UTM33N
+*declination auto	353536.211	5265604.217	2058
+
+*entrance 01-eingang
+
+
+*include 20160806-stdx01\stdx01.svx	; 37
+*include 20160806-stdx02\stdx02.svx
+
+
+*equate 01-eingang	stdx01.1_0	; entrance 01
+*equate stdx01.1_26	stdx02.1_0
+
+
+*end 507-X-Schacht
