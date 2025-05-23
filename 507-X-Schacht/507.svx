@@ -25,7 +25,8 @@
 
 
 *equate 01-eingang	stdx01.1_0	; entrance 01
-*equate stdx01.1_26	stdx02.1_0
+; *equate stdx01.1_26	stdx02.1_0
+*equate stdx01.1_30	stdx02.1_4
 
 
 *end 507-X-Schacht
