@@ -1,0 +1,8 @@
+*cs UTM33N
+*cs out UTM33N
+
+*declination auto	353185.345	5264134.046	2077
+
+*include 568.svx
+;*fix	568-Alte_Ostmaander.01-eingang	0	0	0	;GPS Location UTM
+*fix	568-Alte_Ostmaander.01-eingang	353185.345	5264134.046	2077	;GPS Location UTM

@@ -1,0 +1,88 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 568
+;cavern name de "Alte Östmäander"
+;cavern name pl "Stary Meander Wschodni"
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-05-24
+;file team "Karol Makowski"
+
+;source file: pi1.srv
+*case preserve
+
+*begin Pietro_-1
+*title "Piêtro -1"
+
+;*cs UTM33N
+;*declination auto	353185.345	5264134.046	2077	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 3.9 degrees
+
+*date 2020.08.01
+
+;PDA/PocketTopo, DistoX2
+*team "Piotr Kopera" ;unknown_role
+*team "Florian Ma³ek" ;unknown_role
+
+*instrument tape "DistoX2 <id>"
+*instrument compass "DistoX2 <id>"
+*instrument clino "DistoX2 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+*data normal from to tape compass clino ignoreall
+
+1_0	1_1	7.976	15.06	-35.96
+1_1	1_2	5.086	73.46	-67.8
+1_2	1_3	8.99	223.26	-10.19
+1_3	1_4	3.626	332.18	-43.09
+1_4	1_5	7.786	235.29	-2.07
+1_5	1_6	10.156	230.24	-18.73
+1_6	1_7	1.729	295.69	-9.62
+1_7	1_8	4.786	181.35	29.46
+1_8	1_9	9.313	179.51	49.07
+1_1	..	4.809	205.9	29.43
+1_1	..	6.07	167.33	28.7
+1_1	..	3.24	98.44	-4.87
+1_1	..	4.38	186.09	13.25
+1_1	..	3.48	181.01	41.28
+1_1	..	4.68	43.52	-3.28
+1_1	..	2.871	73.03	-17.54
+1_2	..	4.13	222.52	19.27
+1_2	..	2.42	314.07	32.41
+1_2	..	2.96	225.56	-13.36
+1_2	..	4.76	239.57	-4.42
+1_2	..	4.36	206.49	0.84
+1_3	..	3.08	339.97	-0.15
+1_3	..	2.33	351.38	49.47
+1_4	..	3.43	267.88	79.09
+1_4	..	7.29	287.71	47.83
+1_4	1_4a	8.94	319.73	-37.04	;domiar
+1_4	..	3.25	299.1	-35.68
+1_4	..	2.699	259.8	-30.72
+1_4	..	4.859	264.85	-1.84
+1_4	..	5.491	229.47	-2.56
+1_4	..	10.56	207.02	-14.17
+1_5	..	0.74	120.17	-86.14
+1_5	..	0.76	302.95	-37.98
+1_5	..	0.949	121.67	-17.66
+1_5	..	3.01	231.4	13.21
+1_6	..	1.25	343.07	0.69
+1_6	..	3.07	130.8	4.13
+1_6	..	1.37	109.6	7.93
+1_6	..	0.68	341.85	19.24
+1_6	..	0.6	350.62	-13.6
+1_7	..	1.08	229.3	43.61
+1_8	..	1.7	225.56	85.09
+1_8	..	0.901	88.82	23.63
+1_8	..	3.12	269.61	-33.06
+1_9	..	6.55	339.82	41.62
+1_9	..	4.099	314.51	8.66
+1_9	..	5.33	356.94	-2.74
+1_9	..	2.79	28.12	-5.47
+*end Pietro_-1

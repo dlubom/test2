@@ -1,0 +1,31 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 568
+;cavern name de "Alte Östmäander"
+;cavern name pl "Stary Meander Wschodni"
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-05-24
+;file team "Karol Makowski"
+
+*case preserve
+*begin 568-Alte_Ostmaander
+
+*cs UTM33N
+*declination auto	353185.345	5264134.046	2077
+
+*entrance 01-eingang
+
+
+*include 20200801_pietro_0\pi0.svx
+*include 20200801_pietro_minus_1\pi1.svx
+
+
+*equate 01-eingang	Pietro_0.1_13	; entrance 01
+*equate Pietro_0.1_5	Pietro_-1.1_0
+
+
+*end 568-Alte_Ostmaander

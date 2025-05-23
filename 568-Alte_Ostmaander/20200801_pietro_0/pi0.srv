@@ -4,9 +4,9 @@
 #segment /StaryMWsch
 #prefix SMW
 ;
-#note 1.0	/Stary Meander Wschodni
-#flag	1.0	/GPS Location
-#FIX  1.0   E13:03.004  N47:30.843   2077m     ;dm
+#note 1.13	/Stary Meander Wschodni
+#flag	1.13	/GPS Location
+#FIX  1.13   E13:03.004  N47:30.843   2077m     ;dm
 1.1	1.0	80.0	24.59	3.609
 1.2	1.1	32.3	5.87	4.743
 1.3	1.2	88.64	4.03	4.529

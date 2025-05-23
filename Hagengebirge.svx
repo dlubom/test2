@@ -51,7 +51,9 @@
 *include 506-AK-1\506-master.svx
 *include 507-X-Schacht\507-master.svx
 *include 508-Schacht_unter_dem_Stein\508-master.svx
+
 *include 567-Alte_Westmaander\567-master.svx
+*include 568-Alte_Ostmaander\568-master.svx
 ;;
 ;;*include 571-Muminshohle\571-master.svx
 ;;*include 572-Querhohle\572-master.svx
