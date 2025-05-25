@@ -1,0 +1,29 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 562
+;cavern name de "Himmelfahr"
+;cavern name pl ""
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-05-25
+;file team "Karol Makowski"
+
+*case preserve
+*begin 562-Himmelfahr
+
+*cs UTM33N
+*declination auto	353838.987	5266116.130	1993
+
+*entrance 01-eingang
+
+
+*include T4\exp.svx
+
+
+*equate 01-eingang	T4.0	; entrance 01
+
+
+*end 562-Himmelfahr

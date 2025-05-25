@@ -1,0 +1,8 @@
+*cs UTM33N
+*cs out UTM33N
+
+*declination auto	353838.987	5266116.130	1993
+
+*include 562.svx
+;*fix	562-Himmelfahr.01-eingang	0	0	0	;GPS Location UTM
+*fix	562-Himmelfahr.01-eingang	353838.987	5266116.130	1993	;GPS Location UTM

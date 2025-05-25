@@ -1,0 +1,46 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 562
+;cavern name de "Himmelfahr"
+;cavern name pl ""
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-05-25
+;file team "Karol Makowski"
+
+;source file: exp.srv
+*case preserve
+
+*begin T4
+*title "T4"
+
+;*cs UTM33N
+;*declination auto	353838.987	5266116.130	1993	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 3.6 degrees
+
+;#FIX	0 E13:03.485 N47:31.921 1993m
+*entrance 0
+
+*date 2018.08.15
+
+;Tablet/Qave, DistoX2
+*team "Filip Filar" notes pictures ;(Tablet/Qave)
+*team "Marek Wierzbowski" ;unknown_role
+*team "Dariusz Lubomski" ;unknown_role
+
+*instrument tape "DistoX2 <id>"
+*instrument compass "DistoX2 <id>"
+*instrument clino "DistoX2 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+*data normal from to tape compass clino ignoreall
+
+0	1	26.0	196.0	-61.0
+1	2	21.0	252.0	-90.0
+*end T4
