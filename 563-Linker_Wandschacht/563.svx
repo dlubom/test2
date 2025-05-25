@@ -3,7 +3,7 @@
 ;cadastre masiv 1335	;Hagengebirge
 ;cadastre system	;
 ;cadastre cavern 563
-;cavern name de ""
+;cavern name de "Linker Wandschacht"
 ;cavern name pl "Lewa w Ścianie"
 ;cavern part de ""
 ;cavern part pl ""
@@ -12,7 +12,7 @@
 ;file team "Karol Makowski"
 
 *case preserve
-*begin 563-Lewa_w_Scianie
+*begin 563-Linker_Wandschacht
 
 *cs UTM33N
 *declination auto	352253.043	5265822.961	2188
@@ -23,7 +23,7 @@
 *include 180808\180808.svx
 
 
-*equate 01-eingang	LW563.1_0	; entrance 01
+*equate 01-eingang	Lewa_w_Scianie.1_0	; entrance 01
 
 
-*end 563-Lewa_w_Scianie
+*end 563-Linker_Wandschacht

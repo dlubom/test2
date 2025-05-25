@@ -3,7 +3,7 @@
 ;cadastre masiv 1335	;Hagengebirge
 ;cadastre system	;
 ;cadastre cavern 563
-;cavern name de ""
+;cavern name de "Linker Wandschacht"
 ;cavern name pl "Lewa w Œcianie"
 ;cavern part de ""
 ;cavern part pl ""
@@ -14,7 +14,7 @@
 ;source file: 180808.srv
 *case preserve
 
-*begin LW563
+*begin Lewa_w_Scianie
 *title "Lewa w Œcianie"
 
 ;*cs UTM33N
@@ -320,4 +320,4 @@
 1_38	..	0.263	152.51	18.63
 1_39	..	0.302	237.72	-26.59
 1_39	..	0.854	77.4	15.98
-*end LW563
+*end Lewa_w_Scianie
