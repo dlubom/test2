@@ -1,0 +1,8 @@
+*cs UTM33N
+*cs out UTM33N
+
+*declination auto	352293.304	5265930.921	2122
+
+*include 565.svx
+;*fix	565-Hohle_unter_dem_Steinpilz.01-eingang	0	0	0	;GPS Location UTM
+*fix	565-Hohle_unter_dem_Steinpilz.01-eingang	352293.304	5265930.921	2122	;GPS Location UTM

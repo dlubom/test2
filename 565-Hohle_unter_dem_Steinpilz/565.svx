@@ -1,0 +1,29 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 565
+;cavern name de "Höhle unter dem Steinpilz"
+;cavern name pl "Pod Grzybem"
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-05-25
+;file team "Karol Makowski"
+
+*case preserve
+*begin 565-Hohle_unter_dem_Steinpilz
+
+*cs UTM33N
+*declination auto	352293.304	5265930.921	2122
+
+*entrance 01-eingang
+
+
+*include SZ38\lka7.svx
+
+
+*equate 01-eingang	Pod_Grzybem.1_0	; entrance 01
+
+
+*end 565-Hohle_unter_dem_Steinpilz

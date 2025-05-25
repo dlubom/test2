@@ -55,6 +55,7 @@
 *include 562-Himmelfahr\562-master.svx
 *include 563-Linker_Wandschacht\563-master.svx	; Lewa w Ścianie
 *include 564-Rechter_Wandschacht\564-master.svx	; Prawa w Ścianie
+*include 565-Hohle_unter_dem_Steinpilz\565-master.svx	; Pod Grzybem
 
 *include 567-Alte_Westmaander\567-master.svx
 *include 568-Alte_Ostmaander\568-master.svx
