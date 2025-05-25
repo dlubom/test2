@@ -1,0 +1,29 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 563
+;cavern name de ""
+;cavern name pl "Lewa w Ścianie"
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-05-25
+;file team "Karol Makowski"
+
+*case preserve
+*begin 563-Lewa_w_Scianie
+
+*cs UTM33N
+*declination auto	352253.043	5265822.961	2188
+
+*entrance 01-eingang
+
+
+*include 180808\180808.svx
+
+
+*equate 01-eingang	LW563.1_0	; entrance 01
+
+
+*end 563-Lewa_w_Scianie
