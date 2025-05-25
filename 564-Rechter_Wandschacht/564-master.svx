@@ -1,0 +1,8 @@
+*cs UTM33N
+*cs out UTM33N
+
+*declination auto	352221.993	5265850.990	2191
+
+*include 564.svx
+;*fix	564-Rechter_Wandschacht.01-eingang	0	0	0	;GPS Location UTM
+*fix	564-Rechter_Wandschacht.01-eingang	352221.993	5265850.990	2191	;GPS Location UTM

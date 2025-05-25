@@ -1,0 +1,29 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 564
+;cavern name de ""
+;cavern name pl "Prawa w Ścianie"
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-05-25
+;file team "Karol Makowski"
+
+*case preserve
+*begin 564-Rechter_Wandschacht
+
+*cs UTM33N
+*declination auto	352221.993	5265850.990	2191
+
+*entrance 01-eingang
+
+
+*include 180807\180807dt.svx
+
+
+*equate 01-eingang	Prawa_w_Scianie.1_0	; entrance 01
+
+
+*end 564-Rechter_Wandschacht
