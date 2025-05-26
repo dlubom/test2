@@ -61,8 +61,7 @@
 *include 568-Alte_Ostmaander\568-master.svx
 *include 569-Dreischachtlhohle\569-master.svx
 *include 570-FK13\570-master.svx
-;;
-;;*include 571-Muminshohle\571-master.svx
+*include 571-Muminshohle\571-master.svx
 ;;*include 572-Querhohle\572-master.svx
 ;;*include 573-Widerspenstige_Hohle\573-master.svx
 ;;*include 574-Hohle_mit_Spiegeln\574-master.svx
