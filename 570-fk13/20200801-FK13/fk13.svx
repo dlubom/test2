@@ -1,0 +1,83 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 570
+;cavern name de "FK-13"
+;cavern name pl "FK-13"
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-05-26
+;file team "Karol Makowski"
+
+;source file: fk13.srv
+*case preserve
+
+*begin fk13
+*title "<add a title>"
+
+;*cs UTM33N
+;*declination auto	353069.072	5264578.620	2119	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 3.9 degrees
+
+*entrance 1_0
+
+;#FIX	1.0   E13:02.902  N47:31.081   2119m     ;dm
+*date 2020.08.01
+
+;M.Sitarz, J. Zd¿alik
+;PDA/PocketTopo, DistoX2
+*team "Magdalena Sitarz" ;unknown_role
+*team "Joanna Zd¿alik" ;unknown_role
+
+*instrument tape "DistoX2 <id>"
+*instrument compass "DistoX2 <id>"
+*instrument clino "DistoX2 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+*data normal from to tape compass clino ignoreall
+
+1_0	1_1	8.596	135.24	-84.25
+1_1	1_2	5.426	126.28	-62.84
+1_2	1_3	3.06	317.09	-26.94
+1_3	1_4	5.219	23.57	-76.36
+1_4	1_5	6.1	273.2	-46.86
+1_5	1_6	4.139	171.36	-16.2
+1_1	..	1.009	19.28	2.1
+1_1	..	1.37	324.7	-2.26
+1_1	..	0.61	284.43	13.18
+1_1	..	3.48	95.12	-23.35
+1_1	..	3.53	108.1	-12.15
+1_1	..	4.081	100.49	-14.24
+1_1	..	1.431	157.1	-4.41
+1_2	..	2.37	303.31	-6.2
+1_2	..	1.791	36.51	1.18
+1_2	..	1.71	147.96	-83.54
+1_2	..	3.339	300.6	-46.27
+1_2	..	3.53	331.46	-54.76
+1_2	..	2.14	69.94	-0.83
+1_3	..	3.6	149.26	-77.19
+1_3	..	3.76	76.05	-85.19
+1_4	..	0.48	230.55	8.02
+1_4	..	1.08	303.18	26.5
+1_4	..	1.15	180.1	0.8
+1_5	..	1.62	119.81	-60.14
+1_5	..	2.42	11.06	-5.69
+1_5	..	2.029	43.24	-2.46
+1_5	..	3.28	94.33	4.14
+1_5	..	3.03	136.86	2.55
+1_5	..	2.32	159.19	-1.73
+1_5	..	4.52	174.04	-14.26
+1_5	..	8.2	347.67	76.83
+1_4	..	2.58	137.6	-89.31
+1_6	..	0.4	226.25	55.39
+1_6	..	0.78	271.23	-76.12
+1_6	..	2.83	272.16	-13.2
+1_6	..	2.95	248.02	-12.23
+1_6	..	4.3	311.09	-8.37
+1_6	..	1.89	199.8	-1.09
+*end fk13

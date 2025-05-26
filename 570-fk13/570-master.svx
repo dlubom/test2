@@ -1,0 +1,8 @@
+*cs UTM33N
+*cs out UTM33N
+
+*declination auto	353069.072	5264578.620	2119
+
+*include 570.svx
+;*fix	570-FK13.01-eingang	0	0	0	;GPS Location UTM
+*fix	570-FK13.01-eingang	353069.072	5264578.620	2119	;GPS Location UTM
