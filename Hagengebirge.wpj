@@ -1862,7 +1862,7 @@
 .PATH	T4
 .STATUS	8
 .ENDBOOK
-.BOOK	[563] Lewa w Scianie
+.BOOK	[563] Lewa w Scianie (Linker Wandschacht)
 .NAME	KAHL_2
 .PATH	563-Lewa_w_Scianie
 .STATUS	2568
@@ -1875,7 +1875,7 @@
 .BOOK	[564] Prawa w Scianie (Rechter Wandschacht)
 .NAME	KAHL_1
 .PATH	564-Rechter_Wandschacht
-.STATUS	2569
+.STATUS	2568
 .REF	5265850.253 352221.849 33 -1.448 2191 1 47 31 45.360 13 2 12.120 27 "WGS 1984"
 .SURVEY	180807
 .NAME	180807DT
@@ -1885,7 +1885,7 @@
 .BOOK	[565] Pod Grzybem (Höhle unter dem Steinpilz)
 .NAME	SZ38
 .PATH	565-Hohle_unter_dem_Steinpilz
-.STATUS	2569
+.STATUS	2568
 .REF	5265930.921 352293.304 33 -1.448 2122 1 47 31 48.030 13 2 15.438 27 "WGS 1984"
 .SURVEY	lka7
 .NAME	LKA7
@@ -1927,11 +1927,12 @@
 .ENDBOOK
 .BOOK	[569] Dreischachtlhöhle
 .NAME	569
-.PATH	568-Alte_Ostmaander\..\569-Drei
-.STATUS	2570
-.REF	5264375.644 352930.379 33 -1.441 2100 1 47 30 58.200 13 2 47.760 27 "WGS 1984"
+.PATH	569-Dreischachtlhohle
+.STATUS	2569
+.REF	5264374.714 352930.481 33 -1.441 2100 1 47 30 58.170 13 2 47.766 27 "WGS 1984"
 .SURVEY	3s
 .NAME	3S
+.PATH	20200811-Trzy_Studzienki
 .STATUS	8
 .SURVEY	Dreischachtlhöhle planen.pdf
 .NAME	Dreischachtlhöhle planen.pdf

@@ -1,0 +1,29 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 569
+;cavern name de "Dreischachtlhöhle"
+;cavern name pl "Trzy Studzienki"
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-05-26
+;file team "Karol Makowski"
+
+*case preserve
+*begin 569-Dreischachtlhohle
+
+*cs UTM33N
+*declination auto	352930.481	5264374.714	2100
+
+*entrance 01-eingang
+
+
+*include 20200811-Trzy_Studzienki\3s.svx
+
+
+*equate 01-eingang	3s.1_0	; entrance 01
+
+
+*end 569-Dreischachtlhohle

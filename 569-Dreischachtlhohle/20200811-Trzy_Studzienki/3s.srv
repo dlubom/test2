@@ -1,6 +1,6 @@
 #units meters order=AVD
 #units A=D V=D
-#date 2020-08-01
+#date 2020-08-11	; oryginalnie byla data 2020-08-01
 #segment /3s
 #prefix 3s
 #note 1.0	/[569] Dreischachtlhöhle

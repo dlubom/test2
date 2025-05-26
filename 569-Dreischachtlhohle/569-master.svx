@@ -1,0 +1,8 @@
+*cs UTM33N
+*cs out UTM33N
+
+*declination auto	352930.481	5264374.714	2100
+
+*include 569.svx
+;*fix	569-Dreischachtlhohle.01-eingang	0	0	0	;GPS Location UTM
+*fix	569-Dreischachtlhohle.01-eingang	352930.481	5264374.714	2100	;GPS Location UTM
