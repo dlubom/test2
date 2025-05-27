@@ -1957,7 +1957,7 @@
 .BOOK	[571] Jaskinia Muminkow / Muminshohle
 .NAME	571MUMIN
 .PATH	571-Muminshohle
-.STATUS	2569
+.STATUS	2568
 .REF	5264677.412 353386.183 33 -1.436 2090 1 47 31 8.340 13 3 9.180 27 "WGS 1984"
 .SURVEY	Jaskinia Muminków - przekrój.png
 .NAME	Jaskinia Muminków - przekrój.png
@@ -1973,7 +1973,7 @@
 .BOOK	[572] Jaskinia Poprzeczna / Querhohle
 .NAME	QUER
 .PATH	572-Querhohle
-.STATUS	2570
+.STATUS	2569
 .REF	5265228.121 352932.991 33 -1.441 2101 1 47 31 25.800 13 2 46.860 27 "WGS 1984"
 .SURVEY	1335_572 Querhöhle_Grundriss.pdf
 .NAME	1335_572 Querhöhle_Grundriss.pdf
@@ -1986,6 +1986,7 @@
 .STATUS	327688
 .SURVEY	2021-08-06 - Poprzeczna
 .NAME	POPRZECZ
+.PATH	20210816-Poprzeczna
 .STATUS	8
 .ENDBOOK
 .BOOK	[573] Przekorna Studnia / Widerspenstige Hohle
