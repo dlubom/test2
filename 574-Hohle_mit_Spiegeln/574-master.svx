@@ -3,5 +3,5 @@
 *declination auto	352617.699	5265818.017	2086
 
 *include 574.svx
-;#FIX	574-Z_lustrami.01-eingang	E13:02.518	N47:31.744	2086m	;dm
-*fix	574-Z_lustrami.01-eingang	352617.699	5265818.017	2086	;GPS Location UTM
+;#FIX	574-Hohle_mit_Spiegeln.01-eingang	E13:02.518	N47:31.744	2086m	;dm
+*fix	574-Hohle_mit_Spiegeln.01-eingang	352617.699	5265818.017	2086	;GPS Location UTM

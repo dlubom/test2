@@ -2014,7 +2014,7 @@
 .BOOK	[574] Z lustrami / Hohle mit Spiegeln
 .NAME	Z_LUSTRA
 .PATH	574-Hohle_mit_Spiegeln
-.STATUS	2570
+.STATUS	2569
 .REF	5265818.017 352617.699 33 -1.444 2086 1 47 31 44.640 13 2 31.080 27 "WGS 1984"
 .SURVEY	JaskiniaZLustrami_Przekroj.png
 .NAME	JaskiniaZLustrami_Przekroj.png
@@ -2024,6 +2024,7 @@
 .STATUS	327688
 .SURVEY	2021-08-13 - Z Lustrami
 .NAME	LUSTRA
+.PATH	20210813-Z_lustrami
 .STATUS	8
 .ENDBOOK
 .BOOK	[575] Odwroconego Egzorcyzmu / Umgekehrter Exorzismus
