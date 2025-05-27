@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0" creator="survex 1.4.17 (aven) - https://survex.com/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<name>573-master</name>
+<time>2025-05-27T19:46:24Z</time>
+<trk><name>573-master</name><trkseg>
+<trkpt lon="13.04801666" lat="47.53285003"><ele>1973.00</ele></trkpt>
+<trkpt lon="13.04799713" lat="47.53282855"><ele>1963.53</ele></trkpt>
+<trkpt lon="13.04801159" lat="47.53284697"><ele>1957.37</ele></trkpt>
+<trkpt lon="13.04800313" lat="47.53284935"><ele>1955.70</ele></trkpt>
+<trkpt lon="13.04800320" lat="47.53285466"><ele>1955.08</ele></trkpt>
+</trkseg></trk>
+</gpx>

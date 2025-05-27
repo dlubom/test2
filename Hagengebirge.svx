@@ -63,7 +63,7 @@
 *include 570-FK13\570-master.svx
 *include 571-Muminshohle\571-master.svx
 *include 572-Querhohle\572-master.svx
-;;*include 573-Widerspenstige_Hohle\573-master.svx
+*include 573-Widerspenstige_Hohle\573-master.svx
 ;;*include 574-Hohle_mit_Spiegeln\574-master.svx
 ;;*include 575-Umgekehrter_Exorzismus\575-master.svx
 ;;*include 576-Unter_dem_Steinbock\576-master.svx

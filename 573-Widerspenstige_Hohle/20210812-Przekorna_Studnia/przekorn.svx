@@ -1,0 +1,59 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 573
+;cavern name de "Widerspenstige Höhle"
+;cavern name pl "Przekorna Studnia"
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-05-27
+;file team "Karol Makowski"
+
+;source file: przekorn.srv
+*case preserve
+
+*begin Przekorna_Studnia
+*title "<add a title>"
+
+;*cs UTM33N
+;*declination auto	353083.641	5266226.997	1973	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 4.0 degrees
+
+;#FIX	1.0   E13:02.881  N47:31.971   1973m
+*entrance 1_0
+
+*date 2021.08.12
+
+;PDA/PocketTopo, DistoX2
+*team "Izabela Przybysz" notes pictures ;(PDA/PocketTopo, Spray)
+*team "Tomasz Olczak" instruments ;(DistoX2)
+
+*instrument tape "DistoX2 <id>"
+*instrument compass "DistoX2 <id>"
+*instrument clino "DistoX2 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+*data normal from to tape compass clino ignoreall
+
+1_0	2_0	9.873	207.6	-73.49
+2_0	3_0	6.585	23.98	-69.35
+3_0	4_0	1.81	288.46	-67.54
+4_0	5_0	0.852	356.6	-46.19
+1_0	..	2.347	223.38	-14.43
+1_0	..	1.093	192.0	-19.67
+1_0	..	1.943	251.81	-18.86
+1_0	..	4.657	227.71	-77.19
+2_0	..	1.889	46.86	6.72
+2_0	..	0.444	123.33	-1.03
+2_0	..	0.761	206.96	20.13
+2_0	..	0.648	334.32	-11.75
+2_0	..	0.977	39.66	-29.48
+3_0	..	1.029	239.06	-3.45
+3_0	..	1.761	198.51	-0.23
+3_0	..	0.988	159.31	2.09
+*end Przekorna_Studnia

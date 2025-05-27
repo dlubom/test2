@@ -1973,7 +1973,7 @@
 .BOOK	[572] Jaskinia Poprzeczna / Querhohle
 .NAME	QUER
 .PATH	572-Querhohle
-.STATUS	2569
+.STATUS	2568
 .REF	5265228.121 352932.991 33 -1.441 2101 1 47 31 25.800 13 2 46.860 27 "WGS 1984"
 .SURVEY	1335_572 Querhöhle_Grundriss.pdf
 .NAME	1335_572 Querhöhle_Grundriss.pdf
@@ -1992,7 +1992,7 @@
 .BOOK	[573] Przekorna Studnia / Widerspenstige Hohle
 .NAME	PRZEKOR
 .PATH	573-Widerspenstige_Hohle
-.STATUS	2570
+.STATUS	2568
 .REF	5266145.686 353081.596 33 -1.440 1973 1 47 31 55.626 13 2 52.860 27 "WGS 1984"
 .SURVEY	przekorna-ns.pdf
 .NAME	przekorna-ns.pdf
@@ -2008,6 +2008,7 @@
 .STATUS	327688
 .SURVEY	2021-08-12 - Przekorna Studnia
 .NAME	PRZEKORN
+.PATH	20210812-Przekorna_Studnia
 .STATUS	8
 .ENDBOOK
 .BOOK	[574] Z lustrami / Hohle mit Spiegeln

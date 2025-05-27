@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><name>573-master</name>
+<Style id="fix"><IconStyle><Icon><href>https://maps.google.com/mapfiles/kml/paddle/red-blank.png</href></Icon><color>ff0000ff</color><hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/></IconStyle></Style>
+<Style id="exp"><IconStyle><Icon><href>https://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href></Icon><color>ffff0000</color><hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/></IconStyle></Style>
+<Style id="ent"><IconStyle><Icon><href>https://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href></Icon><color>ff00ff00</color><hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/></IconStyle></Style>
+<Style id="surf"><LineStyle><color>ff00ff00</color></LineStyle></Style>
+<Style id="splay"><LineStyle><color>40ff00ff</color></LineStyle></Style>
+<Placemark><MultiGeometry><LineString><altitudeMode>absolute</altitudeMode><coordinates>
+13.04801666,47.53285003,1973.00
+13.04799713,47.53282855,1963.53
+13.04801159,47.53284697,1957.37
+13.04800313,47.53284935,1955.70
+13.04800320,47.53285466,1955.08
+</coordinates></LineString></MultiGeometry></Placemark>
+</Document></kml>
