@@ -1,11 +1,31 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 575
+;cavern name de "Umgekehrter Exorzismus"
+;cavern name pl "Jaskinia Odwróconego Egzorcyzmu"
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-05-27
+;file team "Karol Makowski"
+
+*case preserve
+
 *begin Studnia13
 *title "Studnia 13"
 
-*cs UTM33N
-*declination auto 352617.791	5265751.998	2089.4
+;*cs UTM33N
+;*declination auto 352617.791	5265751.998	2089.4
+;*declination 4.2 degrees
 
 *date 2023.07.25
-*team Jagna Kicyla, Kamila Roter
+
+;Tablet/Qave, DistoX2
+*team "Jagna Kicyła" ;unknown_role
+*team "Kamila Roter" ;unknown_role
+
 *instrument tape "DistoX2 H10"
 *instrument compass "DistoX2 H10"
 *instrument clino "DistoX2 H10"
@@ -17,13 +37,11 @@
 
 *data normal from to tape compass clino ignoreall
 
-*begin
 *flags duplicate
 0	1	17.236	5.793	-35.645
 1	2	7.102	129.677	10.637
 2	3	3.719	34.100	7.580	; przenumerowanie 13 na 3
-*end
-
+*flags not duplicate
 3	4	5.737	172.050	-82.390	; przenumerowanie 13 na 3 oraz 13_1 na 4
 4	5	4.881	97.940	-32.810	; przenumerowanie 13_1 na 4 oraz 13_2 na 5
 5	5_1	4.936	135.430	-20.130	; przenumerowanie 13_2 na 5 oraz 13_2_1 na 5_1
@@ -35,12 +53,10 @@
 6	7	18.836	141.820	-62.620	; przenumerowanie 13_3 na 6 oraz 13_4 na 7
 7	8	3.101	54.540	-15.353	; przenumerowanie 13_4 na 7 oraz 13_5 na 8
 ;*equate Studnia13.8	zlotowka.110	; (zamkniecie petli; blad = 6.4m)
-
-*begin
 *flags duplicate
 8	9	2.411	30.024	19.312	; przenumerowanie 13_5 na 8 oraz 13_6 na 9
 9	10	2.689	79.944	-37.533	; przenumerowanie 13_6 na 9 oraz 13_7 na 10
-*end
+*flags not duplicate
 
 *flags splay
 0	.	17.448	5.713	-35.327

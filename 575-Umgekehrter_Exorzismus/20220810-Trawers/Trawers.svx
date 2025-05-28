@@ -1,14 +1,35 @@
-*begin Trawers
-*title "Trawers nad prozkiem"
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 575
+;cavern name de "Umgekehrter Exorzismus"
+;cavern name pl "Jaskinia Odwróconego Egzorcyzmu"
+;cavern part de ""
+;cavern part pl ""
 
-*cs UTM33N
-*declination auto 352617.791	5265751.998	2089.4
+;file date 2025-05-27
+;file team "Karol Makowski"
+
+*case preserve
+
+*begin Trawers
+*title "Trawers nad prożkiem"
+
+;*cs UTM33N
+;*declination auto 352617.791	5265751.998	2089.4
+;*declination 4.1 degrees
 
 *date 2022.08.10
-*team Jagna Kicyla (szkic Qave), Rafal Mateja (DistoX2), Radoslaw Paternoga (DistoX2)
+
+*team "Jagna Kicyła" notes pictures ;(Tablet/Qave)
+*team "Rafał Mateja" instruments ;(DistoX2)
+*team "Radosław Paternoga" instruments ;(DistoX2)
+
 *instrument tape "DistoX2"
 *instrument compass "DistoX2"
 *instrument clino "DistoX2"
+
 *data normal from to tape compass clino ignoreall
 11_1	11	3.800	106.840	-74.450
 11_2	11_1	9.276	106.912	-36.249

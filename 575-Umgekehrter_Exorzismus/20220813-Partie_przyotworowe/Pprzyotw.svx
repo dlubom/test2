@@ -1,14 +1,33 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 575
+;cavern name de "Umgekehrter Exorzismus"
+;cavern name pl "Jaskinia Odwróconego Egzorcyzmu"
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-05-27
+;file team "Karol Makowski"
+
+*case preserve
+
 *begin Pprzyotw
 *title "Partie przyotworowe"
 
-*cs UTM33N
-*declination auto 352617.791	5265751.998	2089.4
+;*cs UTM33N
+;*declination auto 352617.791	5265751.998	2089.4
+;*declination 4.1 degrees
 
 *date 2022.08.13
-*team Rafal Mateja
+
+*team "Rafał Mateja" notes pictures instruments station ;(Tablet/Qave, DistoX2, Spray)
+
 *instrument tape "DistoX2"
 *instrument compass "DistoX2"
 *instrument clino "DistoX2"
+
 *data normal from to tape compass clino ignoreall
 0	1	2.574	51.414	-29.269
 1	2	1.999	357.383	-14.703

@@ -1,15 +1,36 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 575
+;cavern name de "Umgekehrter Exorzismus"
+;cavern name pl "Jaskinia Odwróconego Egzorcyzmu"
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-05-27
+;file team "Karol Makowski"
+
+*case preserve
+
 *begin grmj33
 *title "Ciagi poziome"
 
-*cs UTM33N
-*declination auto 352617.791	5265751.998	2089.4
+;*cs UTM33N
+;*declination auto	352617.791	5265751.998	2089.4
+;*declination 4.1 degrees
 
 *date 2022.07.29
-*team Joanna Przymus (szkic SexyTopo), Jagna Kicyla (DistoX2)
+
+*team "Joanna Przymus" notes pictures ;(Tablet/SexyTopo)
+*team "Jagna Kicyła" instruments ;(DistoX2)
+
 *instrument tape "DistoX2 ?"
 *instrument compass "DistoX2 ?"
 *instrument clino "DistoX2 ?"
+
 *alias station - ..
+
 *data normal from to tape compass clino ignoreall
 1	-	3.633	13.96	26.46	
 1	-	1.035	351.31	17.11	

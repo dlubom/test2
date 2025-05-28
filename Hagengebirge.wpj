@@ -2014,7 +2014,7 @@
 .BOOK	[574] Z lustrami / Hohle mit Spiegeln
 .NAME	Z_LUSTRA
 .PATH	574-Hohle_mit_Spiegeln
-.STATUS	2569
+.STATUS	2568
 .REF	5265818.017 352617.699 33 -1.444 2086 1 47 31 44.640 13 2 31.080 27 "WGS 1984"
 .SURVEY	JaskiniaZLustrami_Przekroj.png
 .NAME	JaskiniaZLustrami_Przekroj.png
@@ -2029,68 +2029,68 @@
 .ENDBOOK
 .BOOK	[575] Odwroconego Egzorcyzmu / Umgekehrter Exorzismus
 .NAME	ODWREGZ
-.PATH	575-Umgekehrter_Exorzismus\otworowe
-.STATUS	2568
+.PATH	575-Umgekehrter_Exorzismus
+.STATUS	2569
 .REF	5265751.306 352617.272 33 -1.444 2089 1 47 31 42.480 13 2 31.140 27 "WGS 1984"
 .SURVEY	2022-08-13 - Partie przyotworowe
 .NAME	PPRZYOTW
-.PATH	..\Pprzyotw
+.PATH	20220813-Partie_przyotworowe
 .STATUS	8
 .SURVEY	2022-08-10 - Trawers nad prozkiem
 .NAME	TRAWERS
-.PATH	..\Trawers
+.PATH	20220810-Trawers
 .STATUS	8
 .SURVEY	2022-08-07 - Ciagi od przejscia granicznego
 .NAME	ZAGRANIC
-.PATH	..\Zagranica
+.PATH	20220807-Zagranica
 .STATUS	8
 .SURVEY	2022-08-04 - Partie nad Studni¹ Motyla
 .NAME	NADMOTYL
-.PATH	..\NadMotyl
+.PATH	20220804-NadMotyl
 .STATUS	8
 .SURVEY	2022-08-04 - Gorne Pietro Poziome
 .NAME	POZIOM2
-.PATH	..\poziom2
+.PATH	20220804-poziom2
 .STATUS	8
 .SURVEY	2022-07-31 - Zlotowka
 .NAME	ZLOTOWKA
-.PATH	..\Zlotowka
+.PATH	20220731-Studnie_Zlotowe
 .STATUS	8
 .SURVEY	2022-07-29 - Partie poziome
 .NAME	GRMJ33
-.PATH	..\poziom1
+.PATH	20220729-poziom1
 .STATUS	8
 .SURVEY	2023-07-23 - Studnia Bambika - Podwójna studnia
 .NAME	BAMBIK2S
-.PATH	..\Bambik2S
+.PATH	20230723-Bambik2S
 .STATUS	8
 .SURVEY	2023-07-24 - Przed koniem
 .NAME	PRZEDKON
-.PATH	..\PrzedKoniem
+.PATH	20230724-Przed_Koniem
 .STATUS	8
 .SURVEY	2023-07-25 - Studnia 13
 .NAME	STUDN_13
-.PATH	..\Studnia13
+.PATH	20230725-Studnia13
 .STATUS	8
 .SURVEY	2023-07-27 - Obok studni 13
 .NAME	OBOKST13
-.PATH	..\ObokStudni13
+.PATH	20230727-Obok_Studni13
 .STATUS	8
 .SURVEY	2023-07-28 - Misja na Marsa
 .NAME	NAMARSA
-.PATH	..\MisjaNaMarsa
+.PATH	20230728-Misja_na_Marsa
 .STATUS	8
 .SURVEY	2023-07-30 - Studnia z niebiesk¹ lin¹
 .NAME	STNEBLIN
-.PATH	..\StNiebLin
+.PATH	20230729-Studnia_z_Niebieska_Lina
 .STATUS	8
 .SURVEY	2023-07-31 - Studnia babci Hani
 .NAME	STBAHANI
-.PATH	..\StBabciHani
+.PATH	20230731-Studnia_Babci_Hani
 .STATUS	8
 .SURVEY	2023-08-11 - Pod studni¹ babci Hani
 .NAME	PDSTBAHA
-.PATH	..\PodStBabciHani
+.PATH	20230811-Pod_Studnia_Babci_Hani
 .STATUS	8
 .ENDBOOK
 .BOOK	[576] Pod Koziorozcem / Unter dem Steinbock

@@ -1,22 +1,40 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 575
+;cavern name de "Umgekehrter Exorzismus"
+;cavern name pl "Jaskinia Odwróconego Egzorcyzmu"
+;cavern part de ""
+;cavern part pl "Przed koniem"
+
+;file date 2025-05-27
+;file team "Karol Makowski"
+
+*case preserve
+
 *begin Przed_koniem
 *title "Przed koniem"
 
-*cs UTM33N
-*declination auto 352617.791	5265751.998	2089.4
+;*cs UTM33N
+;*declination auto 352617.791	5265751.998	2089.4
+;*declination 4.2 degrees
 
 *date 2023.07.24
-*team Joanna Gaweska, Jakub Nowak
+
+*team "Joanna Gawęska" notes pictures station ;(Tablet/Qave, Spray)
+*team "Jakub Nowak" instruments ;(DistoX2)
+
 *instrument tape "DistoX2 H11"
 *instrument compass "DistoX2 H11"
 *instrument clino "DistoX2 H11"
+
 *data normal from to tape compass clino ignoreall
 
-*begin
 *flags duplicate
 0	1	9.184	196.562	40.981
 1	2	3.265	210.024	4.006
-*end
-
+*flags not duplicate
 2	2_1	2.790	103.940	-48.510	; punkt 2 podlaczyc do poziom2.16_10
 2_1	2_2	3.395	47.195	-56.107
 2_2	2_3	5.916	33.503	-48.133
@@ -24,18 +42,16 @@
 2_4	2_5	2.701	67.264	-46.752
 2_5	2_6	3.937	358.044	-40.421
 2_6	2_7	11.562	66.341	-69.961	; domiar do dna studni zamieniony na pomiar po zjechanu tej studni
-
-*begin
 *flags duplicate
 *SD tape 1 metres	; duza wartosc odchylenia standardowego, zeby po zamknieciu petli w punktach 2 oraz 6, caly blad zostal rozrzucony po tym zduplikowanym ciagu, a cavern nie zmodyfikowal starego ciagu 
 *SD compass 90 degrees	;
 *SD clino 90 degrees	;
 2	3	9.438	187.291	7.491
 3	4	10.198	168.580	7.165
-4	5	7.779	126.790	0.317
+;4	5	7.779	126.790	0.317	; oryginalny pomiar
+4a	5	7.779	126.790	0.317	; rozdzielenie zdulikowanego ciągu na 2 różne, żeby uniknąć pętli
 5	6	8.863	169.920	-11.451
-*end
-
+*flags not duplicate
 6	6_1	4.419	66.660	-1.110	; punkt 6 podlaczyc do poziom2.16_14
 6_1	6_2	9.143	64.935	-21.473
 6_2	6_3	7.244	41.039	-24.789

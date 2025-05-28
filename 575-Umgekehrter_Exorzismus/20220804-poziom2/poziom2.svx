@@ -1,14 +1,34 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 575
+;cavern name de "Umgekehrter Exorzismus"
+;cavern name pl "Jaskinia Odwróconego Egzorcyzmu"
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-05-27
+;file team "Karol Makowski"
+
+*case preserve
+
 *begin poziom2
 *title "Gliniaste ciagi poziome"
 
-*cs UTM33N
-*declination auto 352617.791	5265751.998	2089.4
+;*cs UTM33N
+;*declination auto 352617.791	5265751.998	2089.4
+;*declination 4.1 degrees
 
 *date 2022.08.04
-*team Jaga Kicyla (szkic Qave), Rafal Mateja (DistoX2)
+
+*team "Jaga Kicyła" notes pictures ;(Tablet/Qave)
+*team "Rafał Mateja" instruments ;(DistoX2)
+
 *instrument tape "DistoX2"
 *instrument compass "DistoX2"
 *instrument clino "DistoX2"
+
 *data normal from to tape compass clino ignoreall
 0	16_1	8.999	210.120	-85.770
 16_1	16_2	2.926	223.330	-4.352

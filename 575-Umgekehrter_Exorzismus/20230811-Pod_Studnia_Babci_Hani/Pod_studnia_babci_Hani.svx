@@ -1,14 +1,34 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 575
+;cavern name de "Umgekehrter Exorzismus"
+;cavern name pl "Jaskinia Odwróconego Egzorcyzmu"
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-05-27
+;file team "Karol Makowski"
+
+*case preserve
+
 *begin Pod_studnia_babci_Hani
 *title "Pod studnią babci Hani"
 
-*cs UTM33N
-*declination auto 352617.791	5265751.998	2089.4
+;*cs UTM33N
+;*declination auto 352617.791	5265751.998	2089.4
+;*declination 4.2 degrees
 
 *date 2023.08.11
-*team Karol Makowski, Sylwia Dendys
+
+*team "Karol Makowski" notes pictures station ;(Tablet/Qave, Spray)
+*team "Sylwia Dendys" instruments ;(DistoX2)
+
 *instrument tape "DistoX2 MAGDA"
 *instrument compass "DistoX2 MAGDA"
 *instrument clino "DistoX2 MAGDA"
+
 *data normal from to tape compass clino ignoreall
 
 0	1	5.386	160.274	42.523
@@ -27,10 +47,9 @@
 13	14	1.384	291.995	51.482
 14	15	3.406	22.018	65.839
 
-*begin
 *flags duplicate
 15	16	5.756	0.767	58.890
-*end
+*flags not duplicate
 
 *flags splay
 0	.	4.037	141.614	0.555

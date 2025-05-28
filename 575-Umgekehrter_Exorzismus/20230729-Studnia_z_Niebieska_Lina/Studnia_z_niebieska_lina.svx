@@ -1,14 +1,35 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 575
+;cavern name de "Umgekehrter Exorzismus"
+;cavern name pl "Jaskinia Odwróconego Egzorcyzmu"
+;cavern part de ""
+;cavern part pl "Studnia z niebieską liną"
+
+;file date 2025-05-27
+;file team "Karol Makowski"
+
+*case preserve
+
 *begin Studnia_z_niebieska_lina
 *title "Studnia z niebieską liną"
 
-*cs UTM33N
-*declination auto 352617.791	5265751.998	2089.4
+;*cs UTM33N
+;*declination auto 352617.791	5265751.998	2089.4
+;*declination 4.2 degrees
 
 *date 2023.07.29
-*team Jagna Kicyla, Piotr Kopera
+
+;Tablet/Qave, DistoX2
+*team "Jagna Kicyła" ;unknown_role
+*team "Piotr Kopera" ;unknown_role
+
 *instrument tape "DistoX2 MAGDA"
 *instrument compass "DistoX2 MAGDA"
 *instrument clino "DistoX2 MAGDA"
+
 *data normal from to tape compass clino ignoreall
 101	100	9.239	86.680	-78.960
 101	102	3.989	15.310	5.400
@@ -17,13 +38,12 @@
 104	105	8.423	126.815	75.421
 105	106_666	3.125	179.470	8.310
 
-*begin
 *flags duplicate
 107_666	106_666	6.539	235.850	6.710
 108_666	107_666	3.897	175.850	-7.320
 109_666	108_666	6.694	168.200	14.320
 110_666	109_666	4.378	186.670	-6.080
-*end
+*flags not duplicate
 
 *flags splay
 101	.	3.490	139.010	-19.830

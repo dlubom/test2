@@ -1,11 +1,31 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 575
+;cavern name de "Umgekehrter Exorzismus"
+;cavern name pl "Jaskinia Odwróconego Egzorcyzmu"
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-05-27
+;file team "Karol Makowski"
+
+*case preserve
+
 *begin Obok_studni_13
 *title "Obok Studni 13"
 
-*cs UTM33N
-*declination auto 352617.791	5265751.998	2089.4
+;*cs UTM33N
+;*declination auto 352617.791	5265751.998	2089.4
+;*declination 4.2 degrees
 
 *date 2023.07.27
-*team Jagna Kicyla, Kamila Roter
+
+;Tablet/Qave, DistoX2
+*team "Jagna Kicyła" ;unknown_role
+*team "Kamila Roter" ;unknown_role
+
 *instrument tape "DistoX2 H10"
 *instrument compass "DistoX2 H10"
 *instrument clino "DistoX2 H10"

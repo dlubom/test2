@@ -1,14 +1,35 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 575
+;cavern name de "Umgekehrter Exorzismus"
+;cavern name pl "Jaskinia Odwróconego Egzorcyzmu"
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-05-27
+;file team "Karol Makowski"
+
+*case preserve
+
 *begin NadMotyl
 *title "Partie nad Studnia Motyla"
 
-*cs UTM33N
-*declination auto 352617.791	5265751.998	2089.4
+;*cs UTM33N
+;*declination auto 352617.791	5265751.998	2089.4
+;*declination 4.1 degrees
 
 *date 2022.08.04
-*team Jarek Paszkiewicz (DistoX2), Wanda Cacha (szkic Qave)
+
+*team "Wanda Cacha" notes pictures ;(Tablet/Qave)
+*team "Jarosław Paszkiewicz" instruments ;(DistoX2)
+*team "Karol Makowski" assistant
+
 *instrument tape "DistoX2"
 *instrument compass "DistoX2"
 *instrument clino "DistoX2"
+
 *data normal from to tape compass clino ignoreall
 0	1	4.278	92.994	46.122
 1	2	1.033	156.782	18.845

@@ -1,25 +1,46 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 575
+;cavern name de "Umgekehrter Exorzismus"
+;cavern name pl "Jaskinia Odwróconego Egzorcyzmu"
+;cavern part de ""
+;cavern part pl "Misja na Marsa"
+
+;file date 2025-05-27
+;file team "Karol Makowski"
+
+*case preserve
+
 *begin Misja_na_Marsa
 *title "Misja na Marsa"
 
-*cs UTM33N
-*declination auto 352617.791	5265751.998	2089.4
+;*cs UTM33N
+;*declination auto 352617.791	5265751.998	2089.4
+;*declination 4.2 degrees
 
 *date 2023.07.28
-*team Jagna Kicyla, Asia Gaweska, Rafal Mateja
+
+;Tablet/Qave, DistoX2
+*team "Jagna Kicyła" ;unknown_role
+*team "Joanna Gawęska" ;unknown_role
+*team "Rafał Mateja" ;unknown_role
+
 *instrument tape "DistoX2 MAGDA"
 *instrument compass "DistoX2 MAGDA"
 *instrument clino "DistoX2 MAGDA"
+
 *data normal from to tape compass clino ignoreall
 0	1	5.902	303.098	40.270
 1	2	12.194	309.380	45.928
 2	3	7.324	272.342	39.322
 3	4	3.937	14.892	15.222
 
-*begin
 *flags duplicate
 0_1	0	8.171	273.220	39.890
 0_2	0_1	9.967	295.330	39.590
-*end
+*flags not duplicate
 
 *flags splay
 1	.	4.265	201.588	-5.570
