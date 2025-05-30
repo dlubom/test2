@@ -2096,10 +2096,11 @@
 .BOOK	[576] Pod Koziorozcem / Unter dem Steinbock
 .NAME	PODKOZI
 .PATH	576-Unter_dem_Steinbock
-.STATUS	2570
+.STATUS	2569
 .REF	5265717.493 352635.248 33 -1.444 2083 1 47 31 41.400 13 2 32.040 27 "WGS 1984"
 .SURVEY	2022-07-27 - Pod Koziorozcem
 .NAME	PODKOZIO
+.PATH	20220727-Pod_Koziorozcem
 .STATUS	8
 .ENDBOOK
 .BOOK	[577] Moj pierwszy raz / Das Erste Mal
