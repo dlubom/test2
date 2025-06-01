@@ -7,6 +7,15 @@
 
 *declination 0 degrees
 *data normal from to tape compass clino ignoreall
-baza	baza1	10	0	0
+; iks
+baza	baza1	10	45	0
+baza	baza2	10	135	0
+baza	baza3	10	225	0
+baza	baza4	10	315	0
 
+; kwadrat
+baza1	baza2	14.2	180	0
+baza2	baza3	14.2	270	0
+baza3	baza4	14.2	0	0
+baza4	baza1	14.2	90	0
 *end _BAZA
