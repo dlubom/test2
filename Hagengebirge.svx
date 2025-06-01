@@ -51,12 +51,12 @@
 *include 506-AK-1\506-master.svx
 *include 507-X-Schacht\507-master.svx
 *include 508-Schacht_unter_dem_Stein\508-master.svx
-
+;;
 *include 562-Himmelfahr\562-master.svx
 *include 563-Linker_Wandschacht\563-master.svx	; Lewa w Ścianie
 *include 564-Rechter_Wandschacht\564-master.svx	; Prawa w Ścianie
 *include 565-Hohle_unter_dem_Steinpilz\565-master.svx	; Pod Grzybem
-
+;;
 *include 567-Alte_Westmaander\567-master.svx
 *include 568-Alte_Ostmaander\568-master.svx
 *include 569-Dreischachtlhohle\569-master.svx
@@ -69,7 +69,7 @@
 *include 576-Unter_dem_Steinbock\576-master.svx
 *include 577-Das_Erste_Mal\577-master.svx
 *include 578-Hohle_unter_den_Felsbrucken\578-master.svx
-;;*include 579-Vorderer_Kragenkopf_Eishohle\579-master.svx
+*include 579-Vorderer_Kragenkopf_Eishohle\579-master.svx
 ;;
 *include 581-Warme_Hohle\581-master.svx
 ;;*include Kamieniolom\kamieniolom-master.svx

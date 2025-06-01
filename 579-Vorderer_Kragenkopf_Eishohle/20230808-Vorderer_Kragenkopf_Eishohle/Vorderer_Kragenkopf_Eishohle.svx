@@ -1,21 +1,44 @@
-*begin 20230808-Vorderer_Kragenkopf_Eishohle
-*title "Vorderer Kragenkopf Eishohle"
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 579
+;cavern name de "Vorderer Kragenkopf Eishöhle"
+;cavern name pl ""
+;cavern part de ""
+;cavern part pl ""
 
-;*declination	4.4 degrees
+;file date 2025-06-01
+;file team "Karol Makowski"
+
+*begin Vorderer_Kragenkopf_Eishohle
+*title "Vorderer Kragenkopf Eishöhle"
+
 *cs UTM33N
 *declination auto	353051	5264811	2134	;GPS Location UTM (SAGIS)
+;*declination	4.3 degrees
 
-*entrance	0
-*entrance	6_3
 ;*fix	0	353053.087	5264811.803	2140.0	;GPS Location UTM (koordynaty i wysokość ze smartfona)
 ;*fix	0	353051	5264811	2134	;GPS Location UTM (SAGIS)
 ;#FIX 	0	E13:02.883354	N47:31.206539	2134m	;dm WGS84 (SAGIS)
+*entrance	0
+*entrance	6_3
 
 *date 2023.08.08
-*team Wanda Cacha, Barbara Jablonska, Radoslaw Paternoga, Jaroslaw Paszkiewicz
+
+*team "Wanda Cacha" ;unknown_role
+*team "Barbara Jablonska" ;unknown_role
+*team "Radoslaw Paternoga" ;unknown_role
+*team "Jaroslaw Paszkiewicz" ;unknown_role
+
 *instrument tape "DistoX2 NEW"
 *instrument compass "DistoX2 NEW"
 *instrument clino "DistoX2 NEW"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
 *data normal from to tape compass clino ignoreall
 0	1	1.620	346.132	-57.861
 1	2	1.862	335.121	-55.975
@@ -413,4 +436,4 @@
 6_2	.	2.633	190.333	66.852
 6_2	.	2.637	190.388	66.912
 6_2	.	1.117	198.424	55.997
-*end 20230808-Vorderer_Kragenkopf_Eishohle
+*end Vorderer_Kragenkopf_Eishohle

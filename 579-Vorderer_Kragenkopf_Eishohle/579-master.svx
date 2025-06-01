@@ -1,7 +1,7 @@
 *cs UTM33N
 *cs out UTM33N
 
-*declination auto 353051	5264811	2134
+*declination auto	353051	5264811	2134
 
 *include 579.svx		; otwor
 ;*fix	579-Vorderer_Kragenkopf_Eishohle.01-eingang	0	0	0
