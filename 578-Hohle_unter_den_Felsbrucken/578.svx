@@ -1,3 +1,16 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 578
+;cavern name de "Höhle unter den Felsbrücken"
+;cavern name pl "Pod Skalnymi Mostami"
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-06-01
+;file team "Karol Makowski"
+
 *case preserve
 *begin 578-Hohle_unter_den_Felsbrucken
 
@@ -7,13 +20,13 @@
 
 
 *entrance 01-eingang
-*include 20230811-Pod_skalnymi_mostami\Pod_skalnymi_mostami.svx		; otwor
+*include 20230811-Pod_Skalnymi_Mostami\Pod_skalnymi_mostami.svx		; otwor
 *include 20240822-Ciagi_od_sali_z_groblami\OdGrobli.svx			; Ciągi od Sali z groblami
 *include 20240823-Bok_glownej_pochylni\BokPochy.svx			; Boczny ciąg w dolnej części głównej pochylni
 
-*equate 01-eingang	20230811-Pod_skalnymi_mostami.0			; entrance 01
-*equate 20230811-Pod_skalnymi_mostami.24	Ciagi_od_sali_z_groblami.1
-*equate Ciagi_od_sali_z_groblami.1_3_2		Ciagi_od_sali_z_groblami.1	; zamknięcie pętli
-*equate 20230811-Pod_skalnymi_mostami.16	Bok_glownej_pochylni.0
+*equate 01-eingang	Pod_Skalnymi_Mostami.0			; entrance 01
+*equate Pod_Skalnymi_Mostami.24	Ciagi_od_sali_z_groblami.1
+*equate Ciagi_od_sali_z_groblami.1_3_2	Ciagi_od_sali_z_groblami.1	; zamknięcie pętli
+*equate Pod_Skalnymi_Mostami.16	Bok_glownej_pochylni.0
 
 *end 578-Hohle_unter_den_Felsbrucken

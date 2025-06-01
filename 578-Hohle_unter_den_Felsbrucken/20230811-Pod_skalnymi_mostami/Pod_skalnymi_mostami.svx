@@ -1,9 +1,22 @@
-*begin 20230811-Pod_skalnymi_mostami
-*title "Pod skalnymi mostami"
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 578
+;cavern name de "Höhle unter den Felsbrücken"
+;cavern name pl "Pod Skalnymi Mostami"
+;cavern part de ""
+;cavern part pl ""
 
-;*declination	4.4 degrees
-*cs UTM33N
-*declination auto	353001	5264558	2132	;GPS Location UTM (SAGIS)
+;file date 2025-06-01
+;file team "Karol Makowski"
+
+*begin Pod_Skalnymi_Mostami
+*title "Pod Skalnymi Mostami"
+
+;*cs UTM33N
+;*declination auto	353001	5264558	2132	;GPS Location UTM (SAGIS)
+;*declination	4.3 degrees
 
 *entrance	0
 ;*fix	0	353012.571	5264558.541	2136.0	;GPS Location UTM (koordynaty i wysokość ze smartfona)
@@ -11,10 +24,20 @@
 ;#FIX 	0	E13:02.8486	N47:31.0694	2132m	;dm WGS84 (SAGIS)
 
 *date 2023.08.11
-*team Radoslaw Paternoga, Jaroslaw Paszkiewicz, Wanda Cacha
+
+;(Tablet/Qave, DixtoX2)
+*team "Radoslaw Paternoga" ;unknown_role
+*team "Jaroslaw Paszkiewicz" ;unknown_role
+*team "Wanda Cacha" ;unknown_role
+
 *instrument tape "DistoX2 NEW"
 *instrument compass "DistoX2 NEW"
 *instrument clino "DistoX2 NEW"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
 *data normal from to tape compass clino ignoreall
 0	1	1.103	276.528	-24.413
 1	2	1.583	327.883	-6.824
@@ -267,4 +290,4 @@
 12_0_1_7	.	0.297	98.328	-65.517
 12_0_1_7	.	0.378	168.481	-23.329
 12_0_1_7	.	0.226	4.977	5.213
-*end 20230811-Pod_skalnymi_mostami
+*end Pod_Skalnymi_Mostami

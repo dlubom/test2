@@ -1,13 +1,38 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 578
+;cavern name de "Höhle unter den Felsbrücken"
+;cavern name pl "Pod Skalnymi Mostami"
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-06-01
+;file team "Karol Makowski"
+
 ;*begin podskalnymimostami_28
 *begin Ciagi_od_sali_z_groblami
 *title "Ciągi od sali z groblami"
 
-;*declination	4.5 degrees
-*cs UTM33N
-*declination auto	353001	5264558	2132	;GPS Location UTM (SAGIS)
+;*cs UTM33N
+;*declination auto	353001	5264558	2132	;GPS Location UTM (SAGIS)
+;*declination	4.4 degrees
 
 *date 2024.08.22
-*team Karol Makowski (Tablet/Qave), Jarek Paszkiewicz (Spray), Wanda Cacha (DistoX2 H-3037)
+
+*team "Karol Makowski" notes pictures ;(Tablet/Qave)
+*team "Wanda Cacha" instruments ;(DistoX2 H-3037)
+*team "Jarosław Paszkiewicz" station ;(Spray)
+
+*instrument tape "DistoX2 H-3037"
+*instrument compass "DistoX2 H-3037"
+*instrument clino "DistoX2 H-3037"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
 *data normal from to tape compass clino ignoreall
 *flags duplicate
 0	1	8.468	318.280	31.670	; powtorzony
