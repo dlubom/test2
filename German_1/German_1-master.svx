@@ -1,0 +1,8 @@
+*cs UTM33N
+*cs out UTM33N
+
+*declination auto 352398.167	5264978.423	2081
+
+*include German_1.svx		; otwor
+;*fix	German_1.01-eingang	0	0	0
+*fix	German_1.01-eingang	352398.167	5264978.423	2081	;GPS Location UTM
