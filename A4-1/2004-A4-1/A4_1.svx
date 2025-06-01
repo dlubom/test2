@@ -1,0 +1,47 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern nie wpisana do katastra!
+;cavern name de ""
+;cavern name pl "A4-1"
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-06-01
+;file team "Karol Makowski"
+
+;source file: A4_1.SRV
+*case preserve
+
+*begin A4_1
+*title "<add a title>"
+
+;*cs UTM33N
+;*declination auto	352049.650	5266748.491	2006	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 1.8 degrees
+
+;#FIX	a401-0   E13:02.047  N47:32.238   2006m     ;dm
+*entrance a401-0
+
+;TODO data jest bledna
+*date 2004.05.09
+
+*team "Maja Juniewicz" ;unknown_role
+*team "Marcin Kaniewski" ;unknown_role
+*team "Radosław Raternoga" ;unknown_role
+
+*instrument tape "? <id>"
+*instrument compass "? <id>"
+*instrument clino "? <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+*data normal from to tape compass clino ignoreall
+
+a401-0	a401-1	4.93	243.0	-44.0
+a401-1	a401-2	5.15	258.0	-86.0
+a401-2	a401-3	2.8	184.0	-28.0
+*end A4_1

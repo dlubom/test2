@@ -1,0 +1,8 @@
+*cs UTM33N
+*cs out UTM33N
+
+*declination auto	352049.650	5266748.491	2006
+
+*include A4-1.svx		; otwor
+;*fix	A4-1.01-eingang	0	0	0
+*fix	A4-1.01-eingang	352049.650	5266748.491	2006	;GPS Location UTM (koordynaty i wysokość ze smartfona)

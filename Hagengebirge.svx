@@ -74,8 +74,10 @@
 *include 581-Warme_Hohle\581-master.svx
 
 
-;;-----------------------------------------------------------------------------
+;;------------------------------------ Bez wpisu do katastra ------------------------------------
+*include A4-1\A4-1-master.svx
 *include German_1\German_1-master.svx
+*include Kamieniolom\kamieniolom-master.svx
 *include Kamieniolom\kamieniolom-master.svx
 
 

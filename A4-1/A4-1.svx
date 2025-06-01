@@ -1,0 +1,28 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern nie wpisana do katastra!
+;cavern name de ""
+;cavern name pl "A4-1"
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-06-01
+;file team "Karol Makowski"
+
+*case preserve
+*begin A4-1
+
+*cs UTM33N
+*declination auto	352049.650	5266748.491	2006	;GPS Location UTM
+
+*entrance 01-eingang
+
+*include 2004-A4-1\A4_1.svx	; otwor
+
+
+*equate 01-eingang	A4_1.a401-0			; entrance 01
+
+
+*end A4-1
