@@ -72,7 +72,10 @@
 *include 579-Vorderer_Kragenkopf_Eishohle\579-master.svx
 ;;
 *include 581-Warme_Hohle\581-master.svx
-;;*include Kamieniolom\kamieniolom-master.svx
+
+
+;;-----------------------------------------------------------------------------
+*include Kamieniolom\kamieniolom-master.svx
 
 
 *include grenze_sagis.svx

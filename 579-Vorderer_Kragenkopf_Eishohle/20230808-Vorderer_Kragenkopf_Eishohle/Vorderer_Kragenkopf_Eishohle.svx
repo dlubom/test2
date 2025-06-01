@@ -14,8 +14,8 @@
 *begin Vorderer_Kragenkopf_Eishohle
 *title "Vorderer Kragenkopf Eishöhle"
 
-*cs UTM33N
-*declination auto	353051	5264811	2134	;GPS Location UTM (SAGIS)
+;*cs UTM33N
+;*declination auto	353051	5264811	2134	;GPS Location UTM (SAGIS)
 ;*declination	4.3 degrees
 
 ;*fix	0	353053.087	5264811.803	2140.0	;GPS Location UTM (koordynaty i wysokość ze smartfona)

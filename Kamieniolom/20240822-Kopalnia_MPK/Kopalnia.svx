@@ -1,8 +1,28 @@
 ;*begin kopalniampk_12
 *begin Kopalnia
 *title "Kopalnia MPK"
+
+;*cs UTM33N
+;*declination auto	353914.432	5265691.644	2011.7	;GPS Location UTM (SAGIS)
+;*declination	4.4 degrees
+
+;#FIX 	0	E13:03.553560	N47:31.693380	2011.7m	; dm WGS84 (SAGIS)
+*entrance 0
+
 *date 2024.08.22
-*team Paluch Koniu
+
+;(Tablet/Qave, DistoX2)
+*team "Adam Władziński" ;unknown_role
+*team "Paweł Żebrowski" ;unknown_role
+
+*instrument tape "DistoX2 <id>"
+*instrument compass "DistoX2 <id>"
+*instrument clino "DistoX2 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
 *data normal from to tape compass clino ignoreall
 0	1	4.784	324.335	-1.769
 1	2	3.778	274.438	-0.721
