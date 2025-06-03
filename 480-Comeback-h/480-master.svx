@@ -6,4 +6,4 @@
 *include 480.svx
 ;*fix	480-Comeback.01-eingang	0	0	0	;GPS Location UTM
 *fix	480-Comeback.01-eingang	352474.211	5266598.197	1971	;GPS Location UTM (SAGIS)
-*fix	480-Comeback.02-eingang	352492.426	5266623.684	1969	;GPS Location UTM (SAGIS)
+;*fix	480-Comeback.02-eingang	352492.426	5266623.684	1969	;GPS Location UTM (SAGIS)
