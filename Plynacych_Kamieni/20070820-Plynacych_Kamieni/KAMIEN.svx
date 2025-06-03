@@ -1,0 +1,58 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern TODO nie wpisana do katastra!
+;cavern name de ""
+;cavern name pl "P³ynacych_Kamieni"
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-06-01
+;file team "Karol Makowski"
+
+;source file: KAMIEN.SRV
+*case preserve
+
+*begin kam
+*title "<add a title>"
+
+;*cs UTM33N
+;*declination auto	353851.412	5266211.452	1990	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 2.2 degrees
+
+;#FIX	pk01   E13:03:29.55564  N47:31:58.38138   1990m     ;dms
+*entrance pk01
+
+*date 2007.08.20
+
+*team "Name Surname" notes pictures station ;(Tablet/Qave, Spray)
+*team "Name Surname" instruments ;(DistoX2)
+*team "Name Surname" ;unknown_role
+
+*instrument tape "DistoX2 <id>"
+*instrument compass "DistoX2 <id>"
+*instrument clino "DistoX2 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+;#PREFIX	kam
+;#NOTE	pk01	/Plynacych Kamieni
+;#FLAG	pk01	/GPS Location
+
+;TODO nie wpisana do katastra
+
+*data normal from to tape compass clino ignoreall
+
+pk01	pk02	7.57	170.0	-67.0
+pk02	pk03	2.33	75.0	-68.0
+pk03	pk04	7.82	290.0	-85.0
+pk04	pk05	4.86	115.0	-51.0
+pk05	pk06	7.3	165.0	-70.0
+pk06	pk07	2.0	204.0	-57.0
+pk07	pk08	17.7	175.0	-75.0
+pk08	pk09	5.52	315.0	-40.0
+pk09	pk10	0.5	0.0	-90.0
+*end kam

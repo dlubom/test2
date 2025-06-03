@@ -1,0 +1,8 @@
+*cs UTM33N
+*cs out UTM33N
+
+*declination auto	353851.412	5266211.452	1990
+
+*include Plynacych_Kamieni.svx		; otwor
+;*fix	Plynacych_Kamieni.01-eingang	0	0	0	;GPS Location UTM;
+*fix	Plynacych_Kamieni.01-eingang	353851.412	5266211.452	1990

@@ -1,0 +1,28 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern TODO nie wpisana do katastra!
+;cavern name de ""
+;cavern name pl "Płynacych_Kamieni"
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-06-01
+;file team "Karol Makowski"
+
+*case preserve
+*begin Plynacych_Kamieni
+
+*cs UTM33N
+*declination auto	353851.412	5266211.452	1990
+
+
+*entrance 01-eingang
+
+*include 20070820-Plynacych_Kamieni\KAMIEN.svx
+
+
+*equate 01-eingang	kam.pk01	; entrance 01
+
+*end Plynacych_Kamieni
