@@ -2,5 +2,18 @@
 #note baza	/Baza
 #flag	baza	/GPS Location
 #FIX   baza   E13:02.381  N47:32.295   1935m     ;dm
-baza	baza1	 10	0	0
+#Units DECL=0
+#Units GRID=0
+; iks
+baza	baza1	10	45	0
+baza	baza2	10	135	0
+baza	baza3	10	225	0
+baza	baza4	10	315	0
+
+; kwadrat
+baza1	baza2	14.2	180	0
+baza2	baza3	14.2	270	0
+baza3	baza4	14.2	0	0
+baza4	baza1	14.2	90	0
+
 
