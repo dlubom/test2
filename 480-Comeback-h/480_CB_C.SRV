@@ -7,7 +7,7 @@
 #note cbh40	/Comeback-hohle
 #flag	cbh39	/GPS Location
 #flag	cbh33	/GPS Location
-#FIX   cbh39   E13:02.388  N47:32.163   1981m     ;dm
+#FIX   cbh39   E13:02.388  N47:32.163   1971m     ;dm
 ;#FIX   cbh33   E13:02.402  N47:32.177                     ;dm TODO brak wysokosci
 cbh2	cbh1	1.52	86.00	-46.80
 cbh3	cbh2	4.15	99.00	-38.70

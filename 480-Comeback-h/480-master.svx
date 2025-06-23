@@ -1,7 +1,7 @@
 *cs UTM33N
 *cs out UTM33N
 
-*declination auto	352474.211	5266598.197	1981
+*declination auto	352474.211	5266598.197	1971
 
 *include 480.svx
 ;*fix	480-Comeback.01-eingang	0	0	0	;GPS Location UTM
