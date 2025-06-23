@@ -17,6 +17,7 @@
 ;*cs UTM33N
 ;*declination auto	352617.791	5265751.998	2089.4
 
+;============================ 2022 ===============================
 *include 20220731-Studnie_Zlotowe\zlotowka.svx
 *entrance 01-eingang
 *equate 01-eingang	zlotowka.0_1		; entrance 01
@@ -24,24 +25,29 @@
 *include 20220729-poziom1\grmj33.svx
 *equate grmj33.4	zlotowka.3
 *equate grmj33.21_1	grmj33.1			; zamkniecie petli (przesuniecie = 0.4 m)
+; *solve
 
 *include 20220804-poziom2\poziom2.svx
 *equate poziom2.0	grmj33.16
+; *solve
 
 *include 20220804-NadMotyl\NadMotyl.svx
 *equate NadMotyl.0	zlotowka.107
+; *solve
 
 *include 20220813-Partie_przyotworowe\Pprzyotw.svx
 *equate Pprzyotw.0	zlotowka.0_2
+; *solve
 
 *include 20220810-Trawers\Trawers.svx
 *equate Trawers.11	grmj33.11
 *equate Trawers.11_5_1_3	Trawers.11_4	; zamkniecie petli (przesuniecie = 0.13 m)
+; *solve
 
 *include 20220807-Zagranica\Zagranica.svx
 *equate Zagranica.16_46	poziom2.16_46
 
-;;;*solve					; zafixowanie ciagu pomiarowego z 2022 roku (nie przesunie sie po zamknieciu nowych petli)
+; *solve					; zafixowanie ciagu pomiarowego z 2022 roku (nie przesunie sie po zamknieciu nowych petli)
 
 ;============================ 2023 ===============================
 *include 20230723-Bambik2S\Bambik2S.svx		; 2023
@@ -53,7 +59,7 @@
 
 *include 20230725-Studnia13\Studnia_13.svx		; 2023
 *equate Studnia13.3	grmj33.13
-*equate Studnia13.8	zlotowka.110		; zamkniecie petli (przesuniecie = 6.42 m)
+; *equate Studnia13.8	zlotowka.110		; zamkniecie petli (przesuniecie = 6.42 m)
 
 *include 20230727-Obok_Studni13\Obok_studni_13.svx	; 2023
 *equate Obok_studni_13.13	Studnia13.3

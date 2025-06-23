@@ -30,7 +30,9 @@
 *instrument clino "DistoX2"
 
 *data normal from to tape compass clino ignoreall
+*flags duplicate
 16_45	16_46	4.115	220.990	-15.450
+*flags not duplicate
 16_46	16_47	1.956	344.269	-2.932
 16_48	16_47	2.888	119.573	21.901
 16_49	16_48	6.971	46.011	87.184

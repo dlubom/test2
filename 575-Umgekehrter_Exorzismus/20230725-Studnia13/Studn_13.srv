@@ -21,7 +21,7 @@ grmj33:13	3	0	0	0	; dowiazanie
 5	6	16.015	186.470	-84.590	; przenumerowanie 13.2 na 5 oraz 13.3 na 6
 6	7	18.836	141.820	-62.620	; przenumerowanie 13.3 na 6 oraz 13.4 na 7
 7	8	3.101	54.540	-15.353	; przenumerowanie 13.4 na 7 oraz 13.5 na 8
-;8	zlotowka:110	0	0	0	; przenumerowanie 13.5 na 8 (zamkniecie petli - nie zamykam z powodu bledu = 6.4m)
+;;8	zlotowka:110	0	0	0	; przenumerowanie 13.5 na 8 (zamkniecie petli - ogromny blad = 6.4m)
 ;8	9	2.411	30.024	19.312	; powtorzone zlotowka:110 - zlotowka:111 (przenumerowanie 13.5 na 8 oraz 13.6 na 9)
 ;9	10	2.689	79.944	-37.533	; powtorzone zlotowka:111 - zlotowka:112 (przenumerowanie 13.6 na 9 oraz 13.7 na 10)
 0	-	17.448	5.713	-35.327
