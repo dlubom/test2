@@ -7,9 +7,9 @@
 <Style id="surf"><LineStyle><color>ff00ff00</color></LineStyle></Style>
 <Style id="splay"><LineStyle><color>40ff00ff</color></LineStyle></Style>
 <Placemark><MultiGeometry><LineString><altitudeMode>absolute</altitudeMode><coordinates>
-13.03621080,47.53605169,2006.00
-13.03616826,47.53603809,2002.58
-13.03616349,47.53603756,1997.44
-13.03616020,47.53601537,1996.12
+13.03411166,47.53730500,2006.00
+13.03406899,47.53729140,2002.58
+13.03406436,47.53729087,1997.44
+13.03406106,47.53726877,1996.12
 </coordinates></LineString></MultiGeometry></Placemark>
 </Document></kml>

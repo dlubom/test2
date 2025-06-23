@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0" creator="survex 1.4.17 (aven) - https://survex.com/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<name>487-master</name>
+<time>2025-06-23T19:15:30Z</time>
+<trk><name>487-master</name><trkseg>
+<trkpt lon="13.03811666" lat="47.53608333"><ele>1968.00</ele></trkpt>
+<trkpt lon="13.03811538" lat="47.53610706"><ele>1966.15</ele></trkpt>
+<trkpt lon="13.03811982" lat="47.53620153"><ele>1954.48</ele></trkpt>
+<trkpt lon="13.03811266" lat="47.53620483"><ele>1945.22</ele></trkpt>
+<trkpt lon="13.03816885" lat="47.53618023"><ele>1938.54</ele></trkpt>
+<trkpt lon="13.03817584" lat="47.53619592"><ele>1932.18</ele></trkpt>
+<trkpt lon="13.03816324" lat="47.53618814"><ele>1929.54</ele></trkpt>
+<trkpt lon="13.03815997" lat="47.53619025"><ele>1928.37</ele></trkpt>
+<trkpt lon="13.03812991" lat="47.53619837"><ele>1905.15</ele></trkpt>
+<trkpt lon="13.03810747" lat="47.53616577"><ele>1901.55</ele></trkpt>
+<trkpt lon="13.03807381" lat="47.53621676"><ele>1897.97</ele></trkpt>
+<trkpt lon="13.03804973" lat="47.53629238"><ele>1897.52</ele></trkpt>
+<trkpt lon="13.03800048" lat="47.53630180"><ele>1897.38</ele></trkpt>
+<trkpt lon="13.03800048" lat="47.53630180"><ele>1894.48</ele></trkpt>
+</trkseg><trkseg>
+<trkpt lon="13.03804973" lat="47.53629238"><ele>1897.52</ele></trkpt>
+<trkpt lon="13.03800442" lat="47.53628522"><ele>1897.52</ele></trkpt>
+</trkseg><trkseg>
+<trkpt lon="13.03817584" lat="47.53619592"><ele>1932.18</ele></trkpt>
+<trkpt lon="13.03819247" lat="47.53620610"><ele>1932.18</ele></trkpt>
+<trkpt lon="13.03819247" lat="47.53620610"><ele>1927.78</ele></trkpt>
+<trkpt lon="13.03819861" lat="47.53624094"><ele>1927.78</ele></trkpt>
+</trkseg></trk>
+</gpx>

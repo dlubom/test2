@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0" creator="survex 1.4.17 (aven) - https://survex.com/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<name>486-master</name>
+<time>2025-06-23T19:15:30Z</time>
+<trk><name>486-master</name><trkseg>
+<trkpt lon="13.03497163" lat="47.53627836"><ele>2025.00</ele></trkpt>
+<trkpt lon="13.03489756" lat="47.53620888"><ele>2013.23</ele></trkpt>
+<trkpt lon="13.03481740" lat="47.53612796"><ele>1998.87</ele></trkpt>
+<trkpt lon="13.03482539" lat="47.53613818"><ele>1996.74</ele></trkpt>
+<trkpt lon="13.03484001" lat="47.53609191"><ele>1999.08</ele></trkpt>
+<trkpt lon="13.03487097" lat="47.53608479"><ele>1994.64</ele></trkpt>
+</trkseg><trkseg>
+<trkpt lon="13.03484001" lat="47.53609191"><ele>1999.08</ele></trkpt>
+<trkpt lon="13.03492189" lat="47.53608035"><ele>2003.65</ele></trkpt>
+</trkseg><trkseg>
+<trkpt lon="13.03482539" lat="47.53613818"><ele>1996.74</ele></trkpt>
+<trkpt lon="13.03478961" lat="47.53617824"><ele>1994.20</ele></trkpt>
+<trkpt lon="13.03479786" lat="47.53620285"><ele>1995.57</ele></trkpt>
+<trkpt lon="13.03479511" lat="47.53621603"><ele>1992.55</ele></trkpt>
+</trkseg></trk>
+</gpx>

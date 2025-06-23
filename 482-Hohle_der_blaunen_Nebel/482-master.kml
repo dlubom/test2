@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><name>482-master</name>
+<Style id="fix"><IconStyle><Icon><href>https://maps.google.com/mapfiles/kml/paddle/red-blank.png</href></Icon><color>ff0000ff</color><hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/></IconStyle></Style>
+<Style id="exp"><IconStyle><Icon><href>https://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href></Icon><color>ffff0000</color><hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/></IconStyle></Style>
+<Style id="ent"><IconStyle><Icon><href>https://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href></Icon><color>ff00ff00</color><hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/></IconStyle></Style>
+<Style id="surf"><LineStyle><color>ff00ff00</color></LineStyle></Style>
+<Style id="splay"><LineStyle><color>40ff00ff</color></LineStyle></Style>
+<Placemark><MultiGeometry><LineString><altitudeMode>absolute</altitudeMode><coordinates>
+13.04264996,47.53385003,1978.00
+13.04268495,47.53385252,1973.48
+</coordinates></LineString>
+<LineString><altitudeMode>absolute</altitudeMode><coordinates>
+13.04268495,47.53385252,1973.48
+13.04271480,47.53384646,1970.93
+</coordinates></LineString>
+<LineString><altitudeMode>absolute</altitudeMode><coordinates>
+13.04271480,47.53384646,1970.93
+13.04273354,47.53387854,1970.36
+</coordinates></LineString>
+<LineString><altitudeMode>absolute</altitudeMode><coordinates>
+13.04273354,47.53387854,1970.36
+13.04267518,47.53387944,1967.57
+</coordinates></LineString>
+<LineString><altitudeMode>absolute</altitudeMode><coordinates>
+13.04267518,47.53387944,1967.57
+13.04266595,47.53389161,1966.63
+</coordinates></LineString>
+<LineString><altitudeMode>absolute</altitudeMode><coordinates>
+13.04266595,47.53389161,1966.63
+13.04269265,47.53388837,1961.61
+</coordinates></LineString>
+<LineString><altitudeMode>absolute</altitudeMode><coordinates>
+13.04269265,47.53388837,1961.61
+13.04272852,47.53389924,1954.72
+</coordinates></LineString>
+<LineString><altitudeMode>absolute</altitudeMode><coordinates>
+13.04272852,47.53389924,1954.72
+13.04273985,47.53393021,1948.58
+</coordinates></LineString>
+<LineString><altitudeMode>absolute</altitudeMode><coordinates>
+13.04273985,47.53393021,1948.58
+13.04275584,47.53394686,1940.12
+</coordinates></LineString>
+<LineString><altitudeMode>absolute</altitudeMode><coordinates>
+13.04275584,47.53394686,1940.12
+13.04277742,47.53393841,1938.50
+</coordinates></LineString>
+<LineString><altitudeMode>absolute</altitudeMode><coordinates>
+13.04273985,47.53393021,1948.58
+13.04273985,47.53393021,1948.58
+13.04274575,47.53395038,1947.55
+</coordinates></LineString>
+<LineString><altitudeMode>absolute</altitudeMode><coordinates>
+13.04266595,47.53389161,1966.63
+13.04266595,47.53389161,1966.63
+</coordinates></LineString>
+<LineString><altitudeMode>absolute</altitudeMode><coordinates>
+13.04266595,47.53389161,1966.63
+13.04265124,47.53390863,1965.16
+</coordinates></LineString>
+<LineString><altitudeMode>absolute</altitudeMode><coordinates>
+13.04265124,47.53390863,1965.16
+13.04265599,47.53391294,1964.01
+</coordinates></LineString>
+<LineString><altitudeMode>absolute</altitudeMode><coordinates>
+13.04268495,47.53385252,1973.48
+13.04268495,47.53385252,1973.48
+13.04264394,47.53382626,1973.47
+</coordinates></LineString>
+<LineString><altitudeMode>absolute</altitudeMode><coordinates>
+13.04271480,47.53384646,1970.93
+13.04271480,47.53384646,1970.93
+13.04273119,47.53385232,1970.35
+</coordinates></LineString>
+<LineString><altitudeMode>absolute</altitudeMode><coordinates>
+13.04273119,47.53385232,1970.35
+13.04272667,47.53384531,1973.72
+13.04273484,47.53384365,1974.19
+</coordinates></LineString></MultiGeometry></Placemark>
+</Document></kml>

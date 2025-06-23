@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx version="1.0" creator="survex 1.4.17 (aven) - https://survex.com/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
 <name>507-master</name>
-<time>2025-05-23T19:24:12Z</time>
+<time>2025-06-23T19:15:39Z</time>
 <trk><name>507-master</name><trkseg>
 <trkpt lon="13.05475463" lat="47.52742029"><ele>2016.33</ele></trkpt>
 <trkpt lon="13.05475463" lat="47.52742029"><ele>2016.33</ele></trkpt>
@@ -113,23 +113,25 @@
 <trkpt lon="13.05490876" lat="47.52745917"><ele>2012.97</ele></trkpt>
 <trkpt lon="13.05492871" lat="47.52746581"><ele>2013.48</ele></trkpt>
 </trkseg><trkseg>
-<trkpt lon="13.05471575" lat="47.52721051"><ele>2012.86</ele></trkpt>
-<trkpt lon="13.05470909" lat="47.52719312"><ele>2012.28</ele></trkpt>
-<trkpt lon="13.05469898" lat="47.52718638"><ele>2011.61</ele></trkpt>
-<trkpt lon="13.05466809" lat="47.52719539"><ele>2006.53</ele></trkpt>
-<trkpt lon="13.05466072" lat="47.52719707"><ele>2005.36</ele></trkpt>
-<trkpt lon="13.05465971" lat="47.52720281"><ele>2002.37</ele></trkpt>
-<trkpt lon="13.05466547" lat="47.52720498"><ele>2000.94</ele></trkpt>
-<trkpt lon="13.05460478" lat="47.52720440"><ele>1994.05</ele></trkpt>
-<trkpt lon="13.05458907" lat="47.52716949"><ele>1997.39</ele></trkpt>
-<trkpt lon="13.05456697" lat="47.52713834"><ele>1995.87</ele></trkpt>
-<trkpt lon="13.05460002" lat="47.52709598"><ele>1991.19</ele></trkpt>
-<trkpt lon="13.05465887" lat="47.52711047"><ele>1990.03</ele></trkpt>
+<trkpt lon="13.05466118" lat="47.52719888"><ele>2005.46</ele></trkpt>
+<trkpt lon="13.05466031" lat="47.52720462"><ele>2002.47</ele></trkpt>
+<trkpt lon="13.05466607" lat="47.52720679"><ele>2001.04</ele></trkpt>
+<trkpt lon="13.05460525" lat="47.52720621"><ele>1994.15</ele></trkpt>
+<trkpt lon="13.05458967" lat="47.52717130"><ele>1997.49</ele></trkpt>
+<trkpt lon="13.05456744" lat="47.52714015"><ele>1995.96</ele></trkpt>
+<trkpt lon="13.05460062" lat="47.52709779"><ele>1991.28</ele></trkpt>
+<trkpt lon="13.05465934" lat="47.52711228"><ele>1990.12</ele></trkpt>
 </trkseg><trkseg>
-<trkpt lon="13.05460478" lat="47.52720440"><ele>1994.05</ele></trkpt>
-<trkpt lon="13.05461161" lat="47.52723898"><ele>1988.43</ele></trkpt>
+<trkpt lon="13.05460525" lat="47.52720621"><ele>1994.15</ele></trkpt>
+<trkpt lon="13.05461207" lat="47.52724079"><ele>1988.53</ele></trkpt>
 </trkseg><trkseg>
-<trkpt lon="13.05458907" lat="47.52716949"><ele>1997.39</ele></trkpt>
-<trkpt lon="13.05458472" lat="47.52715412"><ele>2008.50</ele></trkpt>
+<trkpt lon="13.05458967" lat="47.52717130"><ele>1997.49</ele></trkpt>
+<trkpt lon="13.05458532" lat="47.52715593"><ele>2008.60</ele></trkpt>
+</trkseg><trkseg>
+<trkpt lon="13.05466118" lat="47.52719888"><ele>2005.46</ele></trkpt>
+<trkpt lon="13.05466855" lat="47.52719720"><ele>2006.63</ele></trkpt>
+<trkpt lon="13.05469944" lat="47.52718819"><ele>2011.71</ele></trkpt>
+<trkpt lon="13.05470956" lat="47.52719493"><ele>2012.37</ele></trkpt>
+<trkpt lon="13.05471622" lat="47.52721232"><ele>2012.95</ele></trkpt>
 </trkseg></trk>
 </gpx>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0" creator="survex 1.4.17 (aven) - https://survex.com/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<name>429-master</name>
+<time>2025-06-23T19:15:28Z</time>
+<trk><name>429-master</name><trkseg>
+<trkpt lon="13.04726668" lat="47.52283330"><ele>2140.00</ele></trkpt>
+<trkpt lon="13.04706406" lat="47.52277352"><ele>2134.59</ele></trkpt>
+<trkpt lon="13.04708155" lat="47.52272460"><ele>2137.01</ele></trkpt>
+<trkpt lon="13.04708569" lat="47.52269524"><ele>2139.64</ele></trkpt>
+</trkseg><trkseg>
+<trkpt lon="13.04706406" lat="47.52277352"><ele>2134.59</ele></trkpt>
+<trkpt lon="13.04696517" lat="47.52272468"><ele>2137.91</ele></trkpt>
+<trkpt lon="13.04689182" lat="47.52265370"><ele>2139.75</ele></trkpt>
+</trkseg><trkseg>
+<trkpt lon="13.04706406" lat="47.52277352"><ele>2134.59</ele></trkpt>
+<trkpt lon="13.04697267" lat="47.52285565"><ele>2137.91</ele></trkpt>
+<trkpt lon="13.04693779" lat="47.52291471"><ele>2142.25</ele></trkpt>
+</trkseg></trk>
+</gpx>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0" creator="survex 1.4.17 (aven) - https://survex.com/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<name>340-master</name>
+<time>2025-06-23T19:15:24Z</time>
+<trk><name>340-master</name><trkseg>
+<trkpt lon="13.04716671" lat="47.52805552"><ele>2015.00</ele></trkpt>
+<trkpt lon="13.04710592" lat="47.52802893"><ele>2006.55</ele></trkpt>
+<trkpt lon="13.04708304" lat="47.52806562"><ele>2004.46</ele></trkpt>
+<trkpt lon="13.04710350" lat="47.52808000"><ele>2002.56</ele></trkpt>
+<trkpt lon="13.04707584" lat="47.52808763"><ele>2000.74</ele></trkpt>
+<trkpt lon="13.04706843" lat="47.52810829"><ele>1999.47</ele></trkpt>
+</trkseg></trk>
+</gpx>
