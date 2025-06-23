@@ -18,7 +18,7 @@
 *title "<add a title>"
 
 ;*cs UTM33N
-;*declination auto	353589.513	5266729.532	1884	;GPS Location UTM of entrance for automatic declination calculation
+;*declination auto	353589.950	5266727.927	1886.36	;GPS Location UTM of entrance for automatic declination calculation
 ;*declination 2.8 degrees
 
 ;#FIX	sh   E13.054573  N47.537469   1886.36m

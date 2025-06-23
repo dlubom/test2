@@ -15,7 +15,7 @@
 *begin 502-Schattenhohle
 
 *cs UTM33N
-*declination auto	353589.513	5266729.532	1884
+*declination auto	353589.950	5266727.927	1886.36
 
 *entrance 01-eingang
 
