@@ -26,8 +26,8 @@
 *include 481_CL\481_CL.svx	;Ciąg lewy
 
 *equate 01-eingang	481_CG.sz0	; entrance 01
-*equate 481_CG.sz26	481_CH.A01	;
-*equate 481_CH.A02	481_CL.L01	;
-*equate 481_CH.A43	481_CDW.W01	;
+*equate 481_CG.sz26	481_CH.sz26	;
+*equate 481_CH.A02	481_CL.A02	;
+*equate 481_CH.A43	481_CDW.A43	;
 
 *end 481-Spaltchen
