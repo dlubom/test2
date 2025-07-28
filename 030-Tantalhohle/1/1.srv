@@ -2,7 +2,7 @@
 #date 1986-09-18
 ;#units V=P
 #prefix 30tan
-#note 0	/Tantalhohle [30]
+#note 0	/[030] Tantalhohle
 #flag	0	/GPS Location
 #FIX   0   E13:04.858  N47:29.768 1710m     ;dm
 ;UWAGA w 93	94 byl upad 123 - zakladam ze to blad i zmienilem na 12

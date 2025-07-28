@@ -2,7 +2,7 @@
 #units A=D V=D
 #date 2014-08-07
 #prefix t1
-#note t1	/Tschikpausenhohle
+#note t1	/[421] Tschikpausenhohle
 #flag	t1	/GPS Location
 #FIX   t1  E13:03.965  N47:32.158   1950m     ;dm
 t1	1.1	313.35	-43.76	2.679

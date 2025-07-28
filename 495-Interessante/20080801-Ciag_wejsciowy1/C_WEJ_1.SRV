@@ -1,7 +1,7 @@
 #Units Meters Order=DAV
 ;data jest przypuszczalna
 #date 2008-08-01
-#note 000	/495 Ciekawa
+#note 000	/[495] Ciekawa / Interessante
 #flag	000	/GPS Location
 ;#FIX    000   E13:02.988 N47:31.999   1932m
 #FIX    000   E13:02.978 N47:31.996   1932m	; SAGIS

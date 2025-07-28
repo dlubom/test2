@@ -4,7 +4,7 @@
 ;Dariusz Lubomski(Palm); Tomasz Raczynski (Disto)
 #prefix PW564
 #flag 1.0	/GPS Location
-#note 1.0	/PrawaWScia_564
+#note 1.0	/[564] Prawa w Scianie / Rechter Wandschacht
 #FIX   1.0  E13.0367  N47.5292667   2191m
 1.0	1.1	180.44	-4.13	5.009
 1.1	1.2	166.35	-50.98	10.606

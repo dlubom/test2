@@ -4,7 +4,7 @@
 #segment /StaryMWsch
 #prefix SMW
 ;
-#note 1.13	/Stary Meander Wschodni
+#note 1.13	/[568] Stary Meander Wschodni / Alte Ostmaander
 #flag	1.13	/GPS Location
 #FIX  1.13   E13:03.004  N47:30.843   2077m     ;dm
 1.1	1.0	80.0	24.59	3.609

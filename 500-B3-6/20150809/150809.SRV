@@ -6,7 +6,7 @@
 ;
 ; TEAM lubomski paternoga
 #prefix b36
-#note B3-6	/B3-6
+#note B3-6	/[500] B3-6
 #flag	B3-6	/GPS Location
 #FIX   B3-6   E13:02.853  N47:31.843   2009m
 B3-6	0	0	0	0

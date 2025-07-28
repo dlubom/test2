@@ -1,6 +1,6 @@
 #Units Meters Order=DAV
 ;TODO na planie zmienic numer
-#note a497	/Hohle mit Oliphant [497]
+#note a497	/[497] Hohle mit Oliphant
 #flag	a497	/GPS Location
 #FIX  a497  E13:2.95  N47:31.916667   1968m     ;dm
 ;TODO fikcyjny strzal

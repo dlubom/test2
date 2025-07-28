@@ -3,7 +3,7 @@
 #Prefix Moj1raz
 ;title "Moj pierwszy (drugi) raz"
 
-#note 0	/Moj pierwszy (drugi) raz
+#note 0	/[577] Moj pierwszy raz / Das Erste Mal
 #flag	0	/GPS Location
 #flag	0	/Entrance
 #FIX 	0	352651.14	5266813.91	1978.1	;UTM zone 33N (zweryfikowane w SAGIS przez Marka Wierzbowskiego)

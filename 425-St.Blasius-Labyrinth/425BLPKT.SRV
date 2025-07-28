@@ -3,7 +3,7 @@
 ;TODO kto kartowal
 ;TODO otwory zdaje sie sa dwa
 #date 2010-03-01
-#note bl20	/St. Blasius-Labyrinth [425]
+#note bl20	/[425] St. Blasius-Labyrinth
 #flag	bl20	/GPS Location
 #FIX   bl20   E13:02.579  N47:31.664   2090m     ;dm
 bl00	bl01	7.20	211.50	-19.80

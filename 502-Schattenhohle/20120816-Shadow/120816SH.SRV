@@ -4,7 +4,7 @@
 ;Dariusz Lubomski (kartowani + Disto-X), Mirek Kopertowski (znaczenie pkt.)
 ;Disto-X + zeszyt
 #prefix Shadow
-#note sh	/Shadow
+#note sh	/[502] Jaskinia Cienia / Schattenhöhle / Shadow
 #flag	sh	/GPS Location
 #FIX  sh   E13.054573  N47.537469   1886.36m
 sh	1	5.22	97.97	-33

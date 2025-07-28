@@ -3,7 +3,7 @@
 #segment /340
 #prefix 340
 ;Adam Mioduszewski - rysowanie, Rados³aw Paternoga - DistoX
-#note 340	/340
+#note 340	/[340] 340
 #flag	340	/GPS Location
 #FIX  340   E13:02.83  N47:31.68333   2015m     ;dm
 340       1.1      10.050  234.60  -57.20

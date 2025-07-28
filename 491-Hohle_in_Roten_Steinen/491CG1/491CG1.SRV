@@ -1,7 +1,7 @@
 #Units Meters Order=DAV
 ;Zbigniew Tabaczynski, Swierszczu
 #date 2005-08-01
-#note cg01	/W Czerwonych Kamieniach Hohle in Roten Steinen J1 [491]
+#note cg01	/[491] W Czerwonych Kamieniach / Hohle in Roten Steinen J1
 #flag	cg01	/GPS Location
 #FIX  cg01   E13:03.282  N47:32.113   1880m     ;dm
 ;dane wykomentowane do grad

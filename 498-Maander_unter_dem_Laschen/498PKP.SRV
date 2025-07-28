@@ -1,7 +1,7 @@
 #Units Meters Order=DAV
 ;Tomek Olczak, Darek Bartoszewski
 #date 2009-08-12
-#note podk	/Pod Kosowka Maander unter dem Laschen [498]
+#note podk	/[498] Pod Kosowka / Maander unter dem Laschen
 #flag	podk	/GPS Location
 #FIX  podk   E13:02.995  N47:32.037   1924m     ;dm
 podk	podk1	1.74	118.26	-8.67

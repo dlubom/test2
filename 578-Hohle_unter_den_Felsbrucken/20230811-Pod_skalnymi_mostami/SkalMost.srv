@@ -2,7 +2,7 @@
 #Units A=D V=D
 #prefix SkalMost
 
-#note 0	/[578] Pod Skalnymi Mostami
+#note 0	/[578] Pod Skalnymi Mostami / Höhle unter den Felsbrücken
 #flag	0	/GPS Location
 ;#FIX	0	E13:02:51.468	N47:31:4.188	2136m	;dms
 ;#FIX 	0	E13:02.8578	N47:31.0698	2136m	;dm

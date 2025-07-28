@@ -1,7 +1,7 @@
 #Units Meters Order=DAV
 ;Rafal Mateja, Oliwia Rysnik
 #date 2009-08-15
-#note wys1.0	/Wysoka Z27 Hoher Schacht [499]
+#note wys1.0	/[499] Wysoka / Hoher Schacht Z27
 #flag	wys1.0	/GPS Location
 #FIX   wys1.0   E13:02.412  N47:31.677   2145m     ;dm
 wys1.0	wys1.1	1.60	343.33	1.50

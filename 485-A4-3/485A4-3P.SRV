@@ -1,6 +1,6 @@
 #Units Meters Order=DAV
 #date 2004-08-21
-#note a403-0	/A4-3 [485]
+#note a403-0	/[485] A4-3
 #flag	a403-0	/GPS Location
 ;#FIX  a403-0   E13:02.095  N47:32.177   2025m     ;dm
 #FIX  a403-0   E13:02.0800  N47:32.1883   2007m     ;dm

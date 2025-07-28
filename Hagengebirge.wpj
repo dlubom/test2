@@ -3,6 +3,9 @@
 .NAME	PROJECT
 .STATUS	1051139
 .REF	5266269.591 353380.125 33 -1.437 1940 1 47 31 59.880 13 3 6.982 27 "WGS 1984"
+.SURVEY	granica
+.NAME	GRANICA
+.STATUS	8
 .BOOK	A4-1
 .NAME	A4-1
 .PATH	A4-1
@@ -19,7 +22,7 @@
 .ENDBOOK
 .BOOK	Baza
 .NAME	BAZA
-.STATUS	2570
+.STATUS	2568
 .REF	5266700.180 352625.710 33 -1.446 1850 1 47 32 13.205 13 2 30.399 27 "WGS 1984"
 .SURVEY	Baza
 .NAME	BAZAPK
@@ -416,7 +419,7 @@
 .BOOK	[428] Patrickhohle TODO
 .NAME	428-PAT
 .PATH	428-Patrickhohle
-.STATUS	2569
+.STATUS	2568
 .REF	5265142.856 353228.376 33 -1.438 2075 1 47 31 23.280 13 3 1.080 27 "WGS 1984"
 .SURVEY	pat
 .NAME	PAT
@@ -439,7 +442,7 @@
 .NAME	429GR001
 .PATH	429-Grenzlandruine
 .ENDBOOK
-.BOOK	[479] Kasztanowa Kastanienhohle
+.BOOK	[479] Kasztanowa / Kastanienhohle
 .NAME	479KAST
 .STATUS	2568
 .REF	5266915.875 352738.258 33 -1.444 1970 1 47 32 20.280 13 2 35.520 27 "WGS 1984"
@@ -525,7 +528,7 @@
 .PATH	480-Comeback-h
 .STATUS	2560
 .ENDBOOK
-.BOOK	[481] Szparka Spaltchen
+.BOOK	[481] Szparka / Spaltchen
 .NAME	481_SZP
 .STATUS	2568
 .REF	5266007.240 352390.254 33 -1.447 2130 1 47 31 50.580 13 2 19.980 27 "WGS 1984"
@@ -554,7 +557,7 @@
 .PATH	481-Spaltchen\481_CG
 .STATUS	2560
 .ENDBOOK
-.BOOK	[482] Niebieskich Mgie³ Hohle der blaunen Nebel
+.BOOK	[482] Niebieskich Mgie³ / Hohle der blaunen Nebel
 .NAME	482BL
 .STATUS	2568
 .REF	5266348.297 352682.533 33 -1.444 1978 1 47 32 1.860 13 2 33.540 27 "WGS 1984"
@@ -612,7 +615,7 @@
 .NAME	486A4-10
 .PATH	486-A4-10
 .ENDBOOK
-.BOOK	[487] Krolowej Sniegu Schneekoniginhohle A4-36
+.BOOK	[487] Krolowej Sniegu / Schneekoniginhohle A4-36
 .NAME	487KROS
 .STATUS	2568
 .REF	5266605.101 352347.620 33 -1.447 1968 1 47 32 9.900 13 2 17.220 27 "WGS 1984"
@@ -643,9 +646,9 @@
 .STATUS	2560
 .REF	5266642.896 352318.830 33 -1.448 1954 1 47 32 11.100 13 2 15.798 27 "WGS 1984"
 .ENDBOOK
-.BOOK	[489] Q1 A3-2
+.BOOK	[489] Q1 A3-2 <TODO>
 .NAME	489Q1
-.STATUS	2570
+.STATUS	2568
 .REF	5266398.794 352444.074 33 -1.446 2015 1 47 32 3.300 13 2 22.080 27 "WGS 1984"
 .SURVEY	489_Q1_plan&profile_2006.gif
 .NAME	489_Q1_plan&profile_2006.gif
@@ -656,9 +659,9 @@
 .PATH	489-Q1
 .STATUS	2560
 .ENDBOOK
-.BOOK	[490] B3-4
+.BOOK	[490] B3-4 <TODO>
 .NAME	490B3_4
-.STATUS	2570
+.STATUS	2568
 .REF	5265946.120 352682.436 33 -1.444 2046 1 47 31 48.840 13 2 34.020 27 "WGS 1984"
 .SURVEY	490
 .NAME	490
@@ -669,7 +672,7 @@
 .PATH	490-B3-4
 .STATUS	327688
 .ENDBOOK
-.BOOK	[491] W Czerwonych Kamieniach Hohle in Roten Steinen J1
+.BOOK	[491] W Czerwonych Kamieniach / Hohle in Roten Steinen J1
 .NAME	491CZ
 .STATUS	2568
 .REF	5266477.383 353593.236 33 -1.435 1880 1 47 32 6.780 13 3 16.920 27 "WGS 1984"
@@ -730,7 +733,7 @@
 .PATH	491-Hohle_in_Roten_Steinen\491CG1
 .STATUS	8
 .ENDBOOK
-.BOOK	[492] Koralowa Korallenhohle A3-8 P04
+.BOOK	[492] Koralowa / Korallenhohle A3-8 P04
 .NAME	492KOR
 .STATUS	2568
 .REF	5266265.961 352346.582 33 -1.447 2040 1 47 31 58.920 13 2 17.580 27 "WGS 1984"
@@ -748,7 +751,7 @@
 .NAME	492P04
 .PATH	492-Korallenhohle\492P04
 .ENDBOOK
-.BOOK	[493] Lodowka Eisschrank A3-86
+.BOOK	[493] Lodowka / Eisschrank A3-86
 .NAME	493LOD
 .STATUS	2568
 .REF	5266796.793 352609.751 33 -1.445 1985 1 47 32 16.320 13 2 29.520 27 "WGS 1984"
@@ -793,7 +796,7 @@
 .PATH	494-Respektschacht\494_ST
 .STATUS	2560
 .ENDBOOK
-.BOOK	[495] Ciekawa Interessante Höhle
+.BOOK	[495] Ciekawa / Interessante Höhle
 .NAME	495CIE
 .STATUS	2568
 .REF	5266270.244 353206.478 33 -1.439 1932 1 47 31 59.760 13 2 58.680 27 "WGS 1984"
@@ -1582,7 +1585,7 @@
 .PATH	495-Interessante\20110806-Studnia_pod_Wiszaca_Polka
 .STATUS	2560
 .ENDBOOK
-.BOOK	[496] Kraina Deszczowcow Land der Regenmenschacht
+.BOOK	[496] Kraina Deszczowcow / Land der Regenmenschacht
 .NAME	496DESZ
 .STATUS	2568
 .REF	5266417.923 353821.433 33 -1.433 2010 1 47 32 5.040 13 3 27.900 27 "WGS 1984"
@@ -1599,9 +1602,9 @@
 .PATH	496-Land_der_Regenmenschacht\Deszcz01
 .STATUS	8
 .ENDBOOK
-.BOOK	[497] Hohle mit Oliphant
+.BOOK	[497] Hohle mit Oliphant <TODO>
 .NAME	497
-.STATUS	2570
+.STATUS	2568
 .REF	5266152.145 353185.939 33 -1.439 1969 1 47 31 55.920 13 2 57.840 27 "WGS 1984"
 .SURVEY	497
 .NAME	497SR
@@ -1612,7 +1615,7 @@
 .PATH	497-Hohle_mit_Oliphant
 .STATUS	327688
 .ENDBOOK
-.BOOK	[498] Meander Pod Kosowka Maander unter dem Laschen
+.BOOK	[498] Meander Pod Kosowka / Maander unter dem Laschen
 .NAME	498PK
 .STATUS	2568
 .REF	5266345.648 353229.710 33 -1.439 1924 1 47 32 2.220 13 2 59.700 27 "WGS 1984"
@@ -1625,7 +1628,7 @@
 .PATH	498-Maander_unter_dem_Laschen
 .STATUS	8
 .ENDBOOK
-.BOOK	[499] Wysoka Z27 Hoher Schacht
+.BOOK	[499] Wysoka / Hoher Schacht Z27
 .NAME	499-WYS
 .STATUS	2568
 .REF	5265697.275 352481.593 33 -1.446 2145 1 47 31 40.620 13 2 24.720 27 "WGS 1984"
@@ -1710,7 +1713,7 @@
 .NAME	501KITPK
 .PATH	501-Kitzgrabenwasserschacht\501KITPK
 .ENDBOOK
-.BOOK	[502] Jaskinia Cienia Schattenhöhle
+.BOOK	[502] Jaskinia Cienia / Schattenhöhle
 .NAME	SHD
 .STATUS	2568
 .REF	5266727.927 353589.950 33 -1.435 1886 0 47 32 14.888 13 3 16.463 27 "WGS 1984"
@@ -1833,7 +1836,7 @@
 .PATH	20160806-stdx01
 .STATUS	8
 .ENDBOOK
-.BOOK	[508] Schacht under dem Stein
+.BOOK	[508] Studnia pod G³azem / Schacht under dem Stein
 .NAME	SCH1
 .PATH	508-Schacht_unter_dem_Stein
 .STATUS	2568
@@ -1865,7 +1868,7 @@
 .PATH	T4
 .STATUS	8
 .ENDBOOK
-.BOOK	[563] Lewa w Scianie (Linker Wandschacht)
+.BOOK	[563] Lewa w Scianie / Linker Wandschacht
 .NAME	KAHL_2
 .PATH	563-Linker_Wandschacht
 .STATUS	2568
@@ -1875,7 +1878,7 @@
 .PATH	180808
 .STATUS	8
 .ENDBOOK
-.BOOK	[564] Prawa w Scianie (Rechter Wandschacht)
+.BOOK	[564] Prawa w Scianie / Rechter Wandschacht
 .NAME	KAHL_1
 .PATH	564-Rechter_Wandschacht
 .STATUS	2568
@@ -1885,7 +1888,7 @@
 .PATH	180807
 .STATUS	8
 .ENDBOOK
-.BOOK	[565] Pod Grzybem (Höhle unter dem Steinpilz)
+.BOOK	[565] Pod Grzybem / Höhle unter dem Steinpilz
 .NAME	SZ38
 .PATH	565-Hohle_unter_dem_Steinpilz
 .STATUS	2568
@@ -1895,7 +1898,7 @@
 .PATH	SZ38
 .STATUS	8
 .ENDBOOK
-.BOOK	[567] Alte Westmaander
+.BOOK	[567] Stary Meander Zachodni / Alte Westmaander
 .NAME	567AW
 .PATH	567-Alte_Westmaander
 .STATUS	2568
@@ -1908,7 +1911,7 @@
 .PATH	20200805-Stary_Meander_Zachodni
 .STATUS	8
 .ENDBOOK
-.BOOK	[568] Alte Ostmaander
+.BOOK	[568] Stary Meander Wschodni / Alte Ostmaander
 .NAME	STM
 .PATH	568-Alte_Ostmaander
 .STATUS	2568
@@ -1928,7 +1931,7 @@
 .PATH	20200801_pietro_minus_1
 .STATUS	8
 .ENDBOOK
-.BOOK	[569] Dreischachtlhöhle
+.BOOK	[569] Trzy Studzienki / Dreischachtlhöhle
 .NAME	569
 .PATH	569-Dreischachtlhohle
 .STATUS	2568
@@ -2117,7 +2120,7 @@
 .STATUS	520
 .REF	5266814.000 352650.000 33 -1.444 1980 1 47 32 16.910 13 2 31.423 27 "WGS 1984"
 .ENDBOOK
-.BOOK	[578] Höhle unter den Felsbrücken
+.BOOK	[578] Pod Skalnymi Mostami / Höhle unter den Felsbrücken
 .NAME	SKALNEMO
 .PATH	578-Hohle_unter_den_Felsbrucken
 .STATUS	2568
@@ -2145,7 +2148,7 @@
 .PATH	20230808-Vorderer_Kragenkopf_Eishohle
 .STATUS	8
 .ENDBOOK
-.BOOK	[581] Warme Höhle
+.BOOK	[581] Jaskinia Ciepla / Warme Höhle
 .NAME	CIEPLA
 .PATH	581-Warme_Hohle
 .STATUS	2568
@@ -2166,9 +2169,11 @@
 .SURVEY	TerenX
 .NAME	TERENXX
 .PATH	Teren
-.STATUS	10
+.STATUS	2570
+.REF	5266269.591 353380.125 33 -1.437 1940 1 47 31 59.880 13 3 6.982 27 "WGS 1984"
 .SURVEY	TerenY
 .NAME	TERENX
 .PATH	Teren
-.STATUS	10
+.STATUS	2570
+.REF	5266269.591 353380.125 33 -1.437 1940 1 47 31 59.880 13 3 6.982 27 "WGS 1984"
 .ENDBOOK

@@ -4,7 +4,7 @@
 ;delta Disto = 0.0
 #date 2014-08-13
 #prefix biwakko
-#note biwakko	/Biwakko
+#note biwakko	/[503] Biwakko
 #flag	biwakko	/GPS Location
 #FIX   biwakko   E13:03.010  N47:31.939   1932m     ;dm
 biwakko	1.2	320.1	-15.3	12.388
