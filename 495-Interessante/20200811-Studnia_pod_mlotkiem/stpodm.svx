@@ -26,9 +26,9 @@
 
 ;(Tablet/Qave, DistoX2)
 ;team Akf 2020.08.11
-*team <name surname> ;unknown_role
-*team <name surname> ;unknown_role
-*team <name surname> ;unknown_role
+; *team <name surname> ;unknown_role
+; *team <name surname> ;unknown_role
+; *team <name surname> ;unknown_role
 
 *instrument tape "DistoX2 <id>"
 *instrument compass "DistoX2 <id>"
@@ -37,7 +37,6 @@
 *units tape backtape meters
 *units compass backcompass degrees
 *units clino backclino degrees
-
 
 *data normal from to tape compass clino ignoreall
 

@@ -1,0 +1,17 @@
+*cs UTM33N
+;*cs out UTM33N
+
+;Totes Gebirge exaple (południk przez 37-kę)
+;*cs out custom "+proj=tmerc +lat_0=0 +lon_0=13.0532 +k=1 +x_0=0 +y_0=-5200000 +ellps=bessel +towgs84=577.326,90.129,463.919,5.137,1.474,5.297,2.4232"
+
+;BMN-M31 (EPSG:31258)
+;*cs out custom "+proj=tmerc +lat_0=0 +lon_0=13.3333 +k=1 +x_0=450000 +y_0=-5000000 +ellps=bessel +towgs84=577.326,90.129,463.919,5.137,1.474,5.297,2.4232"
+
+;BMN-M31 (EPSG:31258), ale południk przechodzi przez otwór 37-ki
+*cs out custom "+proj=tmerc +lat_0=0 +lon_0=13.0532 +k=1 +x_0=450000 +y_0=-5000000 +ellps=bessel +towgs84=577.326,90.129,463.919,5.137,1.474,5.297,2.4232"
+
+*declination auto	353461.769	5265839.419	2012
+
+*include 504.svx
+;*fix	504-37.01-eingang	0	0	0	;GPS Location UTM
+*fix	504-37.01-eingang	353461.769	5265839.419	2012	;GPS Location UTM

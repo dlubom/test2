@@ -1,9 +1,10 @@
 *cs UTM33N
 *cs out UTM33N
 
-*declination auto 352220.853	5266654.633	1974
+*declination auto 352214.76	5266645.01	1970
 
 *include 581.svx		; otwor
 ;*fix	581-Warme_Hohle.01-eingang	0	0	0
-*fix	581-Warme_Hohle.01-eingang	352220.853	5266654.633	1974	;GPS Location UTM (koordynaty i wysokość ze smartfona)
-;*fix	581-Warme_Hohle.01-eingang	353051	5264811	2134	;GPS Location UTM (SAGIS)
+;*fix	581-Warme_Hohle.01-eingang	352220.853	5266654.633	1974	;GPS Location UTM (koordynaty i wysokość ze smartfona)
+;#FIX	581-Warme_Hohle.01-eingang	E13,036339	N47,536412	1970m	;GPS Location WGS84 (SAGIS)
+*fix	581-Warme_Hohle.01-eingang	352214.76	5266645.01	1970	;GPS Location UTM (SAGIS)

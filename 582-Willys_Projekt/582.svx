@@ -1,0 +1,35 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 582
+;cavern name de "Willys Project"
+;cavern name pl "Problem Willyego"
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-08-26
+;file team "Karol Makowski"
+
+
+*case preserve
+*begin 582-Problem_Willyego
+
+*cs UTM33N
+; *declination auto	352192	5266620	1980	;GPS Location UTM (koordynaty ze smartfona Jarka Paszkiewicza CAT C53, wysokość orientacyjna względem Ciepłej)
+*declination auto	352189.84	5266618.51	1977	;GPS Location UTM (SAGIS)
+
+*entrance 01-eingang
+	
+*include Willy01\Willy01.svx	; otwor (w górę)
+*include Willy02\Willy02.svx	; otwor (w dół)
+*include Willy03\Willy03.svx	; studnia Sarlacc z potencjalnie zagubionym pomiarem
+
+
+*equate 01-eingang	w02.0		; entrance 01
+; *equate 01-eingang	w01.0e		; entrance 01
+*equate w02.1	w01.0		; 
+*equate w01.3	w02.4		; 
+*equate w03.2	w02.9_8_2		; 
+
+*end 582-Problem_Willyego

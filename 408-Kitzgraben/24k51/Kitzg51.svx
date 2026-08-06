@@ -30,6 +30,11 @@
 *instrument clino "DistoX2 MAGDA"
 *data normal from to tape compass clino ignoreall
 
+; duża wartość odchylenia standardowego, żeby zmniejszyć istotność pomiarów wewnątrz bloku begin - end (całej sesji pomiarowej), gdyż był duży błąd po zamknięciu pętli
+; *sd tape 2 metres
+; *sd compass 90 degrees
+; *sd clino 90 degrees
+
 0	1	5.488	41.904	24.353
 1	2	6.398	9.610	-56.180
 2	3	2.849	32.274	34.341

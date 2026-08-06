@@ -76,6 +76,19 @@
 *include 24k50\Kitzg50.svx	; Ciąg za Salką z filarem
 *include 24k51\Kitzg51.svx	; Ciąg za Salką z filarem cz.2
 *include 24k52\Kitzg52.svx	; Z Galerii do Marmitowego meandra
+*include 25k53\Kitzg53.svx	; Zjazdy w kanałach Kitzgraben
+*include 25k54\Kitzg54.svx	; Galanty
+*include 25k55\Kitzg55.svx	; Mikołaj
+*include 25k56\Kitzg56.svx	; Pod kociami
+*include 25k57\Kitzg57.svx	; Za Salą z Filarem 2
+*include 25k58\Kitzg58.svx	; Przed Salą z Blokami
+*include 25k59\Kitzg59.svx	; Sala bez śledzia (za prysznicem)
+*include 25k60\Kitzg60.svx	; Za Salą z Filarem 3
+*include 25k61\Kitzg61.svx	; Suche Błota
+*include 25k62\Kitzg62.svx	; Suche błota lewo korytarz i komin
+*include 25k63\Kitzg63.svx	; Ciąg pod czarną rurą/pochylnią
+*include 25k64\Kitzg64.svx	; Okienko nad Płonym Trawersem
+*include 25k65\Kitzg65.svx	; Prawa odnoga Meandra Pacmana
 
 
 *equate 01-eingang	k01.1_0	; entrance 01
@@ -157,6 +170,29 @@
 *equate k52.13	k43.23	; zamknięcie pętli [Pierwodna długość  36.89m (  3 odcinków), przesunięto o   0.59m ( 0.20m/odcinek). Błąd   1.60%]
 *equate k52.16_3_1	k52.9	; zamknięcie pętli [Pierwodna długość  27.38m (  4 odcinków), przesunięto o   0.30m ( 0.08m/odcinek). Błąd   1.11%]
 *equate k52.23	k41.50	; zamknięcie pętli [Pierwodna długość  27.60m (  7 odcinków), przesunięto o   0.21m ( 0.03m/odcinek). Błąd   0.77%]
+;---- 2025 ----
+*equate k53.0_7	k36.1_0	; według Asi i Filipa ciąg k36 jest niepoprawny (na końcu nie powinno być "ślimaka/spirali")
+*equate k54.0	k44.21_2	;
+*equate k54.2_9	k44.15_1	; zamknięcie pętli
+*equate k55.8_3	k44.21_50_13	;
+*equate k56.11_6	k44.21_3	; zamknięcie pętli
+*equate k56.14	k44.21_17_7	; zamknięcie pętli
+*equate k57.0_0_7_1_11	k51.20	;
+*equate k58.2	k43.49	;
+*equate k58.11	k43.40	; zamknięcie pętli
+*equate k58.6_5_3_2_1_5_1_2	k43.56	; zamknięcie pętli
+*equate k58.6_5_3_2_1_5_1_1_9	k43.57	; zamknięcie pętli
+*equate k59.0	k43.31	; 
+*equate k59.2	k43.33	; 
+*equate k59.8	k43.37	; 
+*equate k60.1	k57.0_0_27	; 
+*equate k61.2	k32.19	; 
+*equate k62.4	k32.12	; 
+*equate k63.1	k59.0_5	; 
+*equate k63.13_2	k52.23	; zamkniecie pętli
+*equate k63.13_2	k41.50	; zamkniecie pętli
+*equate k64.2	k43.30	; 
+*equate k65.3	k46.21	; 
 
 
 *end 408-Kitzgraben

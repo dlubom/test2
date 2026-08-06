@@ -5,4 +5,7 @@
 
 *include 408.svx		; otwor
 ;*fix	408-Kitzgraben.01-eingang	0	0	0	;GPS Location UTM
+;*fix	408-Kitzgraben.01-eingang	47.5325111	13.0589719	1992	;GPS Location WGS84 (d) (po korekcie w SAGIS)
+;*fix	408-Kitzgraben.01-eingang	47 31.950667 N	13 3.538317 E	1992	;GPS Location WGS84 (dm) (po korekcie w SAGIS)
+;*fix	408-Kitzgraben.01-eingang	47 31 57.04000 N	13 3 32.29900 E	1992	;GPS Location WGS84 (dms) (po korekcie w SAGIS)
 *fix	408-Kitzgraben.01-eingang	353907.226	5266168.652	1992	;GPS Location UTM (po korekcie w SAGIS)

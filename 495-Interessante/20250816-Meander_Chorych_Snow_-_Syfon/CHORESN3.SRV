@@ -1,0 +1,15 @@
+#units meters order=DAV
+#units A=D V=D
+#prefix MCHS03
+; "Meander Chorych Snow - Syfon"
+
+#date 2025-08-16
+
+;team "Adam Wladzinski" instruments notes pictures station explorer ;(pomiar "na oko", brak notatek i szkicu)
+;team "Piotr Kopera" instruments notes pictures station explorer ;(pomiar "na oko", brak notatek i szkicu)
+
+;
+;Pomiar wykonany metoda "na oko". Wedlug Adama Wladzinskiego od 5m do 25m, (Piotr Kopera twierdzi, ze 20m), meander kontynuuje sie w tym samym kierunku i ok. 5m przed koncem, 2m nizej, jest syfon.
+;
+MCHS02:1.21	1.0	0	0	0
+1.0	1.1	20.00	135.00	8.00	; pomiar "na oko"

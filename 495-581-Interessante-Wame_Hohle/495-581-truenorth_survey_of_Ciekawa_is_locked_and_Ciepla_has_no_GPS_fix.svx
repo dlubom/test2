@@ -1,0 +1,37 @@
+*case preserve
+*begin
+
+*cs UTM33N
+
+;BMN-M31 (EPSG:31258), ale południk przechodzi przez otwór jaskini Ciekawej
+*cs out custom "+proj=tmerc +lat_0=0 +lon_0=13.0496 +k=1 +x_0=450000 +y_0=-5000000 +ellps=bessel +towgs84=577.326,90.129,463.919,5.137,1.474,5.297,2.4232"
+
+;BMN-M31 (EPSG:31258), ale południk przechodzi przez otwór jaskini Ciepłej
+;*cs out custom "+proj=tmerc +lat_0=0 +lon_0=13.0363 +k=1 +x_0=450000 +y_0=-5000000 +ellps=bessel +towgs84=577.326,90.129,463.919,5.137,1.474,5.297,2.4232"
+
+;*declination auto	352471.604	5266842.907	1935	; Baza
+*declination auto	353206.478	5266270.244	1932	; GPS Location UTM of entrance of Interessante cave (SAGIS)
+;*declination auto	352214.76	5266645.01	1970	; GPS Location UTM of entrance of Warme Hohle cave (SAGIS)
+
+*fix	495-Interessante.01-eingang	353206.478	5266270.244	1932	;GPS Location UTM (SAGIS)
+; *fix	581-Warme_Hohle.01-eingang	352214.76	5266645.01	1970	;GPS Location UTM (SAGIS)
+
+
+*include ..\495-Interessante\495.svx
+*solve
+*include ..\581-Warme_Hohle\581.svx
+;*include Jumper-Warme-Interessante\Jumper_495-581.svx		; wirtualny łącznik Ciepła - Ciekawa, który przejmuje cały błąd połączenia (ponad 22 m, odległość pozioma ponad 20 m, pionowa ponad 9 m) i nie jest wliczany do długości systemu
+
+
+;;--------------------- Bezpośrednie połączenie jaskini Ciepłej z Ciekawą -----------------------
+*equate 581-Warme_Hohle.c05.6	495-Interessante.Obejscie_60.ob020			; połączenie przez Adrenalinę na maxa
+*equate 581-Warme_Hohle.c09.2	495-Interessante.Obejscie_do_Nikad.ob056		; pierwotne połączenie
+
+;;----------- Alterantywne połączenie jaskini Ciepłej z Ciekawą (wirtualne pochylnie)-------------
+; *equate 581-Warme_Hohle.c05.6	Jumper-Warme-Interessante.1_0
+; *equate Jumper-Warme-Interessante.1_1	495-Interessante.Obejscie_60.ob020		; połączenie przez Adrenalinę na maxa
+; *equate 581-Warme_Hohle.c09.2	Jumper-Warme-Interessante.2_0
+; *equate Jumper-Warme-Interessante.2_1	495-Interessante.Obejscie_do_Nikad.ob056	; pierwotne połączenie
+
+
+*end

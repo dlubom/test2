@@ -1,0 +1,108 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de ""
+;cavern part pl "Krêta Galeria"
+
+;file date 2025-08-23
+;file team "Karol Makowski"
+
+;source file: KretaGaW.srv
+*case preserve
+
+;#PREFIX	KretaGaW
+*begin KretaGaW
+*title "Kreta Galeria  - wspinanie za Sala z Prysznicem"
+
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 4.5 degrees
+
+*date 2025.08.17
+
+;team Adam Wladzinski (DistoX2 H10), Magda Sitarz (Tablet/Qave, poreczowaie), Lukasz Kupper (poreczowanie, Tablet/Qave)
+*team "£ukasz Kupper" notes pictures station explorer ;(Tablet/Qave, Spray)
+*team "Magda Sitarz" notes pictures station explorer ;(Tablet/Qave, Spray)
+*team "Adam W³adziñski" instruments ;(DistoX2)
+
+*instrument tape "DistoX2 H10"
+*instrument compass "DistoX2 H10"
+*instrument clino "DistoX2 H10"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+*data normal from to tape compass clino ignoreall
+*flags duplicate
+0	1	5.05	135.066	-1.364
+1	2	4.036	192.242	35.297
+2	3	5.43	72.742	18.333
+*flags not duplicate
+1	4	5.355	326.27	49.962
+4	5	8.644	2.177	54.763
+5	6	11.323	233.67	24.496
+6	7	4.78	198.076	29.182
+7	8	1.94	75.851	44.678
+8	9	2.696	144.348	6.227
+9	10	6.462	210.855	16.289
+10	11	4.982	248.419	-5.175
+11	12	6.721	246.599	44.381
+12	13	7.265	322.053	-35.433
+0	..	5.031	133.907	-0.846
+0	..	5.033	134.374	-0.813
+0	..	5.452	134.275	-0.676
+1	..	1.323	67.56	1.192
+4	..	1.188	60.123	4.889
+4	..	4.395	255.531	-83.518
+4	..	3.885	46.818	77.432
+5	..	8.632	2.747	54.657
+5	..	4.041	341.483	3.647
+5	..	2.93	186.268	-4.878
+5	..	6.753	126.799	-13.656
+5	..	8.175	154.638	19.138
+5	..	2.986	185.559	-1.483
+5	..	7.687	162.806	-64.561
+5	..	6.975	192.173	64.193
+5	..	5.901	151.425	-70.939
+6	..	11.294	233.52	24.34
+6	..	1.179	94.686	-3.582
+7	..	0.892	60.013	-0.786
+7	..	0.472	73.718	-46.505
+7	..	0.515	60.249	77.173
+7	..	0.612	49.351	-69.895
+7	..	0.547	71.356	54.278
+7	..	1.999	76.915	45.099
+8	..	1.134	234.421	1.813
+9	..	1.744	5.383	9.168
+9	..	1.55	246.313	4.224
+9	..	1.51	168.107	78.014
+9	..	1.54	237.541	84.298
+9	..	3.164	126.194	43.934
+10	..	0.82	190.492	84.496
+10	..	1.163	74.938	-81.985
+10	..	6.735	150.875	31.075
+10	..	0.813	102.546	5.499
+10	..	9.656	244.968	-62.001
+11	..	3.816	259.827	35.283
+11	..	2.184	351.947	3.235
+11	..	2.628	256.421	12.717
+11	..	1.697	139.279	4.043
+11	..	3.024	219.545	12.997
+11	..	4.64	49.169	0.851
+11	..	3.81	37.925	0.928
+11	..	3.71	81.035	7.3
+11	..	6.471	303.563	74.02
+11	..	11.229	319.164	61.221
+11	..	6.824	247.489	44.731
+12	..	7.787	322.114	-14.079
+12	..	5.563	11.151	-4.834
+12	..	5.277	9.701	0.038
+12	..	4.268	351.595	52.361
+12	..	8.837	336.11	-46.637
+12	..	7.386	323.146	-35.997
+*end KretaGaW

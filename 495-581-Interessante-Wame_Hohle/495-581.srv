@@ -1,0 +1,15 @@
+#units meters order=DAV
+#Units A=D V=D
+
+#SEGMENT /Jumper	; definicja segmentu
+
+;c05:6	ob020	0	0	0	; dowiazanie
+;c09:2	ob056	0	0	0	; dowiazanie
+
+;Jumper, ktory zabezpiecza ciagi jaskinii Ciekawej przed przesunieciem po polaczeniu z jaskinia Ciepla (wirtualne pochylnie, ktore reprezentuja caly blad polaczenia)
+;c05:6	ob020p	22.22	175.32	-25.3	; polaczenie przez Adrenaline na maxa
+c05:6	ob020	22.30	173.50	-25.17	; polaczenie przez Adrenaline na maxa
+;c09:2	ob056p	22.10	174.99	-24.73	; pierwotne polaczenie
+c09:2	ob056	22.19	173.20	-24.23	; pierwotne polaczenie
+
+#SEGMENT /	; koniec segmentu

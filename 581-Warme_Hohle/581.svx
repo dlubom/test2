@@ -16,16 +16,38 @@
 *begin 581-Warme_Hohle
 
 *cs UTM33N
-*declination auto	352220.853	5266654.633	1974	;GPS Location UTM (Locus)
+*declination auto	352214.76	5266645.01	1970	;GPS Location UTM (Locus)
 
 *entrance 01-eingang
 	
 *include Ciepla01\Ciepla01.svx	; otwor
 *include Ciepla02\Ciepla02.svx	; 2-ga sesja
+*include Ciepla03\Ciepla03.svx	; 3-cia sesja
+*include Ciepla04\Ciepla04.svx	; 4-ta sesja
+*include Ciepla05\Ciepla05.svx	; 5-ta sesja
+*include Ciepla06\Ciepla06.svx	; 6-ta sesja (kontynuacja Studni z Paskiem)
+*include Ciepla07\Ciepla07.svx	; 7-ta sesja
+*include Ciepla08\Ciepla08.svx	; 8-ta sesja (kontynuacja kontynuacji Studni z Paskiem)
+*include Ciepla09\Ciepla09.svx	; 9-ta sesja (Big gay do Ciekawej)
+*include Ciepla10\Ciepla10.svx	; 10-ta sesja (Meander nad studnią)
+*include Ciepla11\Ciepla11.svx	; 11-ta sesja (Stara rura)
+*include Ciepla12\Ciepla12.svx	; 12-ta sesja (Studnia za błotym przełazem)
+*include Ciepla13\Ciepla13.svx	; 13-ta sesja (FM)
 
 
-*equate 01-eingang	c01.0			; entrance 01
-*equate c02.2	c01.13_13			; 
-
+*equate 01-eingang	c01.0		; entrance 01
+*equate c02.2	c01.13_13		; 
+*equate c03.2	c02.12		; 
+*equate c04.1	c03.11		; 
+*equate c05.2	c04.19_2		; 
+*equate c06.18	c01.16		; kontynuacja Studni z Paskiem
+*equate c07.1	c04.21		; 
+*equate c08.2	c06.0		; kontynuacja kontynuacji Studni z Paskiem
+*equate c09.5_4	c04.17		; Big Gay do Ciekawej
+*equate c10.3	c04.22		; Meander nad studnią
+*equate c10.13_2_10	c10.13		; zamknięcie izolowanej pętli
+*equate c11.3	c10.13_2_5		; 
+*equate c12.2	c11.7		; 
+*equate c13.0	c12.2_6		; 
 
 *end 581-Warme_Hohle

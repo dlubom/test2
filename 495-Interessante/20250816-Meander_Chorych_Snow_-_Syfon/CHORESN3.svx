@@ -1,0 +1,49 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 495
+;cavern name de "Interessante höhle"
+;cavern name pl "Ciekawa"
+;cavern part de ""
+;cavern part pl "Meander Chorych Snów"
+
+;file date 2026-02-06
+;file team "Karol Makowski"
+
+*case preserve
+
+*begin Meander_Chorych_Snow_Syfon
+*title "Meander Chorych Snów - Syfon"
+
+;*cs UTM33N
+;*declination auto	353206.478	5266270.244	1932	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 4.5 degrees
+
+*date 2025.08.12
+
+*team "Adam Władziński" instruments notes pictures station explorer ;(pomiar "na oko", brak notatek i szkicu)
+*team "Piotr Kopera" instruments notes pictures station explorer ;(pomiar "na oko", brak notatek i szkicu)
+
+*instrument tape "DistoX2 <id>"
+*instrument compass "DistoX2 <id>"
+*instrument clino "DistoX2 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+
+*data normal from to tape compass clino ignoreall
+
+;MCHS02:1_21	1_0	0.0	0.0	0.0
+*begin
+; Pomiar wykonany metodą "na oko". Według Adama Władzińskiego od 5m do 25m (Piotr Kopera twierdzi, że 20m), meander kontynuuje się w tym samym kierunku i ok. 5m przed końcem, 2m niżej, jest syfon.
+; duża wartość odchylenia standardowego, żeby zmniejszyć istotność pomiarów wewnątrz bloku begin - end
+*sd tape 5 metres
+*sd compass 90 degrees
+*sd clino 90 degrees
+1_0	1_1	20.00	135.00	8.00
+*end
+
+*end Meander_Chorych_Snow_Syfon

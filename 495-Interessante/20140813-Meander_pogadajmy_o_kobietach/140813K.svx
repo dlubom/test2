@@ -29,7 +29,7 @@
 
 *instrument tape "DistoX1 <id>"
 *instrument compass "DistoX1 <id>"
-*instrument clino "DistoX1 <id>"Michał Parczewski
+*instrument clino "DistoX1 <id>"
 
 *units tape backtape meters
 *units compass backcompass degrees

@@ -37,7 +37,7 @@
 
 *flags duplicate
 ;;1_8	1_9	26.16	-0.57	3.326	; blad azymutu odkryty w sesji k02p, a zweryfikowany w sesji k02w
-;1_8	1_9err	26.16	-0.57	3.326	; zmieniono nazwz punktu 1_9 na 1_9err
+1_8	1_9err	26.16	-0.57	3.326	; zmieniono nazwz punktu 1_9 na 1_9err
 *flags not duplicate
 
 1_9	1_10	339.12	-83.26	5.311

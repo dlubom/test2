@@ -1,0 +1,79 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 581
+;cavern name de "Warme Höhle"
+;cavern name pl "Ciep³a"
+;cavern part de ""
+;cavern part pl ""
+
+;file date 2025-08-27
+;file team "Karol Makowski"
+
+;source file: Ciepla11.srv
+*case preserve
+
+;#PREFIX	c11
+*begin c11
+*title "Stara rura"
+
+;*cs UTM33N
+;*declination auto	352214.76	5266645.01	1970	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 4.5 degrees
+
+*date 2025.08.26
+
+;team Karol Makowski (Tablet/Qave, punkty), Jakub Grubba (DixtoX2 H-3746)
+*team "Karol Makowski" notes pictures station ;(Tablet/Qave, Spray)
+*team "Jakub Grubba" instruments ;(DistoX2)
+
+*instrument tape "DistoX2 H-3746"
+*instrument compass "DistoX2 H-3746"
+*instrument clino "DistoX2 H-3746"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+*data normal from to tape compass clino ignoreall
+
+*flags duplicate
+0	1	2.914	92.02	-15.74	; powtorzony
+1	2	2.402	347.21	-12.6	; powtorzony
+2	3	2.28	30.63	-38.425	; powtorzony
+*flags not duplicate
+3	4	6.82	65.96	-34.927
+4	5	5.183	340.529	-15.758
+5	6	3.933	112.198	1.366
+6	7	3.305	9.175	34.818
+3	..	2.101	38.463	-10.393
+3	..	1.615	138.642	1.791
+3	..	6.911	164.158	4.005
+3	..	1.892	184.526	9.179
+3	..	1.125	225.84	16.315
+3	..	4.104	223.742	68.038
+3	..	1.371	66.121	-71.955
+4	..	1.455	318.878	-6.998
+4	..	3.313	357.951	-17.814
+4	..	1.419	68.632	-4.477
+4	..	3.878	349.816	-15.776
+4	..	3.603	336.061	-16.721
+5	..	1.137	130.38	0.055
+5	..	0.775	68.45	72.372
+5	..	1.26	23.28	11.146
+5	..	0.394	88.369	-35.98
+6	..	1.522	341.34	17.628
+6	..	1.304	6.136	71.647
+6	..	1.0	253.795	-6.345
+6	..	1.484	40.309	28.477
+7	..	1.97	118.515	-6.196
+7	..	2.726	99.349	-58.881
+7	..	1.222	96.987	-80.513
+7	..	2.462	170.436	-4.944
+7	..	3.233	189.954	27.526
+7	..	1.027	240.216	-3.45
+7	..	0.832	298.526	-1.505
+7	..	0.957	12.662	-2.966
+7	..	7.393	338.818	-6.883
+*end c11

@@ -15,17 +15,26 @@
 
 ;*begin cieplaa427_43
 *begin c02
+*title "Ciepła02"
+
+;*cs UTM33N
+;*declination auto	352214.76	5266645.01	1970	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 4.5 degrees
+
 *date 2024.08.24
+
 *team "Magdalena Dziurgot" instruments ;(DistoX2 ?)
 *team "Łukasz Stankowski" notes pictures ;(Tablet/Qave)
 *team "Jakub Nowak" explorer ;(Poręczowanie)
+
 *instrument tape "DistoX2 ?"
 *instrument compass "DistoX2 ?"
 *instrument clino "DistoX2 ?"
+
 *data normal from to tape compass clino ignoreall
 *flags duplicate
-;0	1	8.524	90.399	-78.842
-;1	2	2.460	149.193	-43.328
+;0	1	8.524	90.399	-78.842	; powtorzony
+;1	2	2.460	149.193	-43.328	; powtorzony
 *flags not duplicate
 2	3	2.863	144.185	-8.859
 3	4	10.808	358.887	-78.038

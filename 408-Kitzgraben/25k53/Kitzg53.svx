@@ -1,0 +1,72 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 408
+;cavern name de "Kitzgrabenschacht"
+;cavern name pl ""
+;cavern part de ""
+;cavern part pl "Zjazdy w kanałach Kitzgraben"
+
+;file date 2025-08-17
+;file team "Karol Makowski"
+
+;source file: Kitzg53.srv
+*case preserve
+
+;#PREFIX	45
+*begin k53
+*title "Zjazdy w kanałach Kitzgraben"
+
+;*cs UTM33N
+;*declination auto	353907.226	5266168.652	1992	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 4.5 degrees
+
+*date 2025.08.12
+
+;team Filip Filar (Tablet/Qave), Joanna Krolewicz (DistoX2 H-3037)
+*team "Filip Filar" notes pictures station ;(Tablet/Qave, Spray)
+*team "Joanna Królewicz" instruments ;(DistoX2)
+
+*instrument tape "DistoX2 H-3037"
+*instrument compass "DistoX2 H-3037"
+*instrument clino "DistoX2 H-3037"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+*data normal from to tape compass clino ignoreall
+
+0	1	3.017	46.038	-36.456
+0	0_1	5.873	332.849	66.423
+0_1	0_2	4.22	285.818	48.272
+0_2	0_3	3.138	296.246	61.853
+0_3	0_4	0.697	331.556	0.352
+0_4	0_5	5.349	18.885	11.213
+0_5	0_6	7.963	274.561	56.246
+0_6	0_7	1.476	112.709	53.157
+0	..	3.21	44.896	-33.393
+0	..	2.051	7.811	-8.795
+0	..	1.835	335.544	-1.577
+0	..	0.707	274.466	2.159
+0	..	1.132	336.934	-85.073
+0	..	5.877	333.034	66.572
+0	..	5.515	312.061	53.454
+0_1	..	3.959	286.386	48.642
+0_1	..	0.797	228.148	-3.12
+0_1	..	1.393	9.042	4.905
+0_2	..	1.859	22.148	14.26
+0_2	..	1.744	189.316	14.93
+0_2	..	3.144	296.268	61.891
+0_2	..	3.18	296.34	61.793
+0_3	..	0.709	331.985	0.352
+0_3	..	0.704	331.815	0.346
+0_5	..	1.235	359.544	5.784
+0_5	..	2.401	210.35	-14.991
+0_5	..	1.482	178.478	-78.948
+0_5	..	1.866	289.88	-5.4
+0_6	..	1.139	347.838	-4.515
+0_6	..	1.089	279.322	1.945
+0_6	..	1.041	280.322	54.091
+*end k53

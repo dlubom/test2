@@ -15,12 +15,21 @@
 
 ;*begin cieplaa427_42
 *begin c01
+*title "Ciepła01"
+
+;*cs UTM33N
+;*declination auto	352214.76	5266645.01	1970	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 4.5 degrees
+
 *date 2024.08.22
+
 *team "Grzegorz Blok" instruments notes pictures ;(DistoX2 ?, Tablet/Qave)
 *team "Łukasz Kupper" instruments notes pictures ;(DistoX2 ?, Tablet/Qave)
+
 *instrument tape "DistoX2 ?"
 *instrument compass "DistoX2 ?"
 *instrument clino "DistoX2 ?"
+
 *data normal from to tape compass clino ignoreall
 0	1	7.662	84.917	-81.125
 1	2	5.802	342.323	-82.906
@@ -38,12 +47,14 @@
 13	14	4.039	298.683	-55.583
 14	15	3.117	60.425	-37.430
 15	16	2.774	76.871	-58.766
-16	17	3.713	102.057	-38.989
-17	18	3.052	57.737	-43.652
-18	19	4.972	17.970	-59.315
-19	20	9.365	117.792	-75.260
-20	21	12.579	147.631	-88.050
-21	22	3.254	135.938	-3.479
+*flags duplicate
+16	17	3.713	102.057	-38.989	; ponownie zmierzone w sesji c06
+17	18	3.052	57.737	-43.652	; ponownie zmierzone w sesji c06
+18	19	4.972	17.970	-59.315	; ponownie zmierzone w sesji c06
+19	20	9.365	117.792	-75.260	; ponownie zmierzone w sesji c06
+20	21	12.579	147.631	-88.050	; ponownie zmierzone w sesji c06
+21	22	3.254	135.938	-3.479	; ponownie zmierzone w sesji c06
+*flags not duplicate
 13	13_1	4.643	144.906	24.088
 13_1	13_2	3.260	149.136	25.345
 13_2	13_3	2.434	196.130	-11.530

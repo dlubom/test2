@@ -1,0 +1,10 @@
+*cs UTM33N
+*cs out UTM33N
+
+*declination auto 352189.84	5266618.51	1977
+
+*include 582.svx		; otwor
+;*fix	582-Problem_Willyego.01-eingang	0	0	0
+;*fix	582-Problem_Willyego.01-eingang	352192	5266620	1980	;GPS Location UTM (koordynaty ze smartfona Jarka Paszkiewicza CAT C53, wysokość orientacyjna względem Ciepłej)
+;#FIX	582-Problem_Willyego.01-eingang	E13,036017	N47,536168	1977m	;GPS Location WGS84 (SAGIS)
+*fix	582-Problem_Willyego.01-eingang	352189.84	5266618.51	1977	;GPS Location UTM (SAGIS)

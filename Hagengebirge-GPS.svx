@@ -1,0 +1,13 @@
+; *fix	158-Atschiloch	354306.335	5265881.318	2025	;GPS Location UTM
+; *fix	280-Alvermannschacht	352352.891	5266962.668	1977.3	;GPS Location UTM zone 33N
+*fix	408-Kitzgraben	353907.226	5266168.652	1992	;GPS Location UTM (po korekcie w SAGIS)
+; *fix	424-Eisrutschn	353169.357	5264942.323	2072	;UTM zone 33N
+; *fix	479-Kastanienhohle	352738.258	5266915.875	1970	;GPS Location UTM
+; *fix	491-Hohle_in_Roten_Steinen	353593.236	5266477.383	1880	;GPS Location UTM
+*fix	495-Interessante	353206.478	5266270.244	1932	;GPS Location UTM (SAGIS)
+*fix	504-37	353461.769	5265839.419	2012	;GPS Location UTM
+; *fix	575-Umgekehrter_Exorzismus	352617.791	5265751.998	2089.4	;GPS Location UTM (SAGIS)
+; *fix	578-Hohle_unter_den_Felsbrucken	353001	5264558	2132	;GPS Location UTM (SAGIS)
+*fix	581-Warme_Hohle	352214.76	5266645.01	1970	;GPS Location UTM (SAGIS)
+*fix	Problem_Williego	352189.84	5266618.51	1977	;GPS Location UTM (SAGIS)
+

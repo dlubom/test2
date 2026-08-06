@@ -1,0 +1,2204 @@
+;WALLS Project File
+.BOOK	Hagengebirge Project
+.NAME	PROJECT
+.STATUS	1051139
+.REF	5266269.591 353380.125 33 -1.437 1940 1 47 31 59.880 13 3 6.982 27 "WGS 1984"
+.BOOK	A4-1
+.NAME	A4-1
+.PATH	A4-1
+.STATUS	2570
+.REF	5266748.491 352049.650 33 -1.450 2006 1 47 32 14.298 13 2 2.802 27 "WGS 1984"
+.SURVEY	a4-1
+.NAME	A4_1
+.PATH	2004-A4-1
+.STATUS	8
+.SURVEY	A4-1_plan.gif
+.NAME	A4-1_plan.gif
+.PATH	A4-1
+.STATUS	327688
+.ENDBOOK
+.BOOK	Baza
+.NAME	BAZA
+.STATUS	2570
+.REF	5266700.180 352625.710 33 -1.446 1850 1 47 32 13.205 13 2 30.399 27 "WGS 1984"
+.SURVEY	Baza
+.NAME	BAZAPK
+.PATH	Baza
+.STATUS	2304
+.ENDBOOK
+.BOOK	German_1
+.NAME	GER
+.PATH	German_1
+.STATUS	2570
+.REF	5264978.423 352398.167 33 -1.446 2081 1 47 31 17.280 13 2 21.600 27 "WGS 1984"
+.SURVEY	ger
+.NAME	GERMAN_1
+.PATH	german_1
+.STATUS	2568
+.REF	5266134.622 353373.317 33 -1.437 1940 1 47 31 55.505 13 3 6.818 27 "WGS 1984"
+.ENDBOOK
+.BOOK	Kamieniolom
+.NAME	STEINBRU
+.STATUS	10
+.SURVEY	2024-08-22
+.NAME	KOPALNIA
+.PATH	Kamieniolom\20240822-Kopalnia_MPK
+.STATUS	8
+.ENDBOOK
+.BOOK	Plynacych Kamieni
+.NAME	PLKAM
+.PATH	Plynacych_Kamieni
+.STATUS	2570
+.REF	5266134.622 353373.317 33 -1.437 1940 1 47 31 55.505 13 3 6.818 27 "WGS 1984"
+.SURVEY	Plynacych Kamieni
+.NAME	KAMIEN
+.PATH	20070820-Plynacych_Kamieni
+.STATUS	8
+.ENDBOOK
+.BOOK	Problem Williego
+.NAME	WILLIE
+.PATH	Problem_Willego
+.STATUS	8
+.SURVEY	2025-08-22 - Willie01
+.NAME	WILLIE01
+.PATH	Willie01
+.STATUS	8
+.SURVEY	2025-08-24 - Willie02
+.NAME	WILLIE02
+.PATH	Willie02
+.STATUS	8
+.SURVEY	2025-08-26 - Willie03
+.NAME	WILLIE03
+.PATH	Willie03
+.STATUS	8
+.ENDBOOK
+.BOOK	[030] Tantalhohle
+.NAME	30TANT
+.PATH	030-Tantalhohle
+.STATUS	2570
+.REF	5262084.817 355462.725 33 -1.415 1710 1 47 29 46.080 13 4 51.480 27 "WGS 1984"
+.SURVEY	1
+.NAME	1
+.PATH	1
+.STATUS	8
+.ENDBOOK
+.BOOK	[158] Atschiloch
+.NAME	158AT
+.PATH	158-Atschiloch
+.STATUS	2570
+.REF	5265881.318 354306.335 33 -1.428 2025 1 47 31 48.060 13 3 51.720 27 "WGS 1984"
+.SURVEY	190802
+.NAME	190802
+.PATH	2019-08-02
+.STATUS	8
+.SURVEY	900810 - Aust
+.NAME	900810
+.PATH	1990-08-10
+.STATUS	8
+.ENDBOOK
+.BOOK	[280] Alvermannschacht
+.NAME	280ALV
+.PATH	280-Alvermannschacht
+.STATUS	2570
+.REF	5266962.668 352352.891 33 -1.447 1983 1 47 32 21.480 13 2 17.040 27 "WGS 1984"
+.SURVEY	280_Alvermannschacht_plan_2003.gif
+.NAME	280_Alvermannschacht_plan_2003.gif
+.PATH	280-Alvermannschacht
+.STATUS	327688
+.SURVEY	280_Alvermannschacht_profile_2003.gif
+.NAME	280_Alvermannschacht_profile_2003.gif
+.PATH	280-Alvermannschacht
+.STATUS	327688
+.SURVEY	Alvermann - 1 sesja
+.NAME	280_A1S
+.PATH	280_ALS1
+.STATUS	2568
+.SURVEY	Alvermann - Sesja 2
+.NAME	280_ALS2
+.PATH	280_ALS2
+.STATUS	2568
+.SURVEY	Alvermann - sesja 3
+.NAME	280ALS3
+.PATH	280_ALS3
+.STATUS	2568
+.SURVEY	Alvermann - sesja 4
+.NAME	280_ALS4
+.PATH	280_ALS4
+.STATUS	2568
+.SURVEY	Alvermann - sesja 5
+.NAME	280ALS5
+.PATH	280_ALS5
+.STATUS	2568
+.SURVEY	Alvermann - sesja 6
+.NAME	280ALS6
+.PATH	280_ALS6
+.STATUS	2568
+.ENDBOOK
+.BOOK	[340]
+.NAME	340
+.STATUS	2570
+.REF	5265695.790 353006.270 33 -1.440 2015 2 47 31 41.000 13 2 49.800 27 "WGS 1984"
+.SURVEY	340
+.NAME	340SR
+.PATH	340
+.STATUS	8
+.ENDBOOK
+.BOOK	[343]
+.NAME	343
+.STATUS	2570
+.REF	5265699.670 352974.980 33 -1.441 2022 2 47 31 41.100 13 2 48.300 27 "WGS 1984"
+.SURVEY	343
+.NAME	343SV
+.PATH	343
+.STATUS	8
+.ENDBOOK
+.BOOK	[408] Kitzgraben
+.NAME	KITZGR
+.PATH	408-Kitzgraben
+.STATUS	2570
+.REF	5266168.652 353907.226 33 -1.432 1992 1 47 31 57.040 13 3 32.299 27 "WGS 1984"
+.SURVEY	2020-08-01 - k01 (partie austriackie)
+.NAME	KITZG01
+.PATH	20k01
+.STATUS	520
+.REF	5266169.292 353906.840 33 -1.432 2000 1 47 31 57.060 13 3 32.280 27 "WGS 1984"
+.SURVEY	2020-08-12 - k02
+.NAME	KITZG02
+.PATH	20k02
+.STATUS	8
+.SURVEY	2021-07-26 - k03
+.NAME	KITZG03
+.PATH	21k03
+.STATUS	10
+.SURVEY	2021-08-03 - k04
+.NAME	KITZG04
+.PATH	21k04
+.STATUS	8
+.SURVEY	2021-08-06 - k02p (poprawki i uzupe³nienia k2)
+.NAME	KITZG02P
+.PATH	21k02p
+.STATUS	8
+.SURVEY	2021-08-10 - k05
+.NAME	KITZG05
+.PATH	21k05
+.STATUS	8
+.SURVEY	2021-08-11 - k06
+.NAME	KITZG06
+.PATH	21k06
+.STATUS	8
+.SURVEY	2021-08-12 - k07
+.NAME	KITZG07
+.PATH	21k07
+.STATUS	8
+.SURVEY	2021-08-13 - k08
+.NAME	KITZG08
+.PATH	21k08
+.STATUS	8
+.SURVEY	2021-08-13 - k09
+.NAME	KITZG09
+.PATH	21k09
+.STATUS	10
+.SURVEY	2022-07-24 - k02w (weryfikacja bledu w sesji k02)
+.NAME	KITZG02W
+.PATH	22k02w
+.STATUS	8
+.SURVEY	2022-07-24 - k04p (studnia Zbycha Rybaka oraz Wielka Studnia)
+.NAME	KITZG04P
+.PATH	22k04p
+.STATUS	8
+.SURVEY	2022-07-26 - k10
+.NAME	KITZG10
+.PATH	22k10
+.STATUS	8
+.SURVEY	2022-07-28 - k11
+.NAME	KITZG11
+.PATH	22k11
+.STATUS	8
+.SURVEY	2022-07-31 - k12
+.NAME	KITZG12
+.PATH	22k12
+.STATUS	8
+.SURVEY	2022-08-02 - k13 (rejon studni z tyrolka)
+.NAME	KITZG13
+.PATH	22k13
+.STATUS	8
+.SURVEY	2022-08-03 - k14 (kontynuacja k12)
+.NAME	KITZG14
+.PATH	22k14
+.STATUS	8
+.SURVEY	2022-08-04 - k15 Syfon Kujona (petla)
+.NAME	KITZG15
+.PATH	22k15
+.STATUS	8
+.SURVEY	2022-08-07 - k16 (Meanderek przy rozdrozu)
+.NAME	KITZG16
+.PATH	22k16
+.STATUS	8
+.SURVEY	2022-08-07 - k17 (kontynuacja k14)
+.NAME	KITZG17
+.PATH	22k17
+.STATUS	8
+.SURVEY	2022-08-11 - k18 (korytarz za trawersem)
+.NAME	KITZG18
+.PATH	22k18
+.STATUS	8
+.SURVEY	2022-08-12 - k19 (kontynuacja k19)
+.NAME	KITZG19
+.PATH	22k19
+.STATUS	8
+.SURVEY	2023-07-27 - k20 (Kroczek)
+.NAME	KITZG20
+.PATH	23k20
+.STATUS	8
+.SURVEY	2023-07-29 - k21 (Studnie pod Kroczkiem)
+.NAME	KITZG21
+.PATH	23k21
+.STATUS	8
+.SURVEY	2023-07-29 - k22 (Dzien Paluszka)
+.NAME	KITZG22
+.PATH	23k22
+.STATUS	8
+.SURVEY	2023-07-31 - k23 (Studnie pod Kroczkiem2)
+.NAME	KITZG23
+.PATH	23k23
+.STATUS	8
+.SURVEY	2023-07-31 - k25 (Za kokosankami)
+.NAME	KITZG25
+.PATH	23k25
+.STATUS	8
+.SURVEY	2023-08-01 - k24 (Kitz meander)
+.NAME	KITZG24
+.PATH	23k24
+.STATUS	8
+.SURVEY	2023-08-04 - k26 (Za kolektorem)
+.NAME	KITZG26
+.PATH	23k26
+.STATUS	8
+.SURVEY	2023-08-05 - k27 (Nad kolektorem)
+.NAME	KITZG27
+.PATH	23k27
+.STATUS	8
+.SURVEY	2023-08-08 - k28 Studnia jubilata (Kolektor)
+.NAME	KITZG28
+.PATH	23k28
+.STATUS	8
+.SURVEY	2023-08-09 - k29 (Meanderek przy rozdrozu - kontynuacja k16)
+.NAME	KITZG29
+.PATH	23k29
+.STATUS	8
+.SURVEY	2023-08-09 - k30 (Korytarz grzybowski)
+.NAME	KITZG30
+.PATH	23k30
+.STATUS	8
+.SURVEY	2023-08-12 - k31 (Skazni na Showshank)
+.NAME	KITZG31
+.PATH	23k31
+.STATUS	8
+.SURVEY	2023-08-12 - k32 (Suche b³ota)
+.NAME	KITZG32
+.PATH	23k32
+.STATUS	8
+.SURVEY	2024-08-12 - k33 (Studzienki pod drugim biwakiem aka. Studnia 3H)
+.NAME	KITZG33
+.PATH	24k33
+.STATUS	8
+.SURVEY	2024-08-12 - k34 (Trawers pod Ruletk¹)
+.NAME	KITZG34
+.PATH	24k34
+.STATUS	8
+.SURVEY	2024-08-13 - k35 (Studnia Eskapistów)
+.NAME	KITZG35
+.PATH	24k35
+.STATUS	8
+.SURVEY	2024-08-15 - k36 (Kitzgraben Express)
+.NAME	KITZG36
+.PATH	24k36
+.STATUS	8
+.SURVEY	2024-08-15 - k37 (Partie marmitowe)
+.NAME	KITZG37
+.PATH	24k37
+.STATUS	8
+.SURVEY	2024-08-15 - k38 (Komin bezglutenowy aka. Studnia bez honoru)
+.NAME	KITZG38
+.PATH	24k38
+.STATUS	8
+.SURVEY	2024-08-17 - k40 (Suche b³ota (prawy ci¹g))
+.NAME	KITZG40
+.PATH	24k40
+.STATUS	8
+.SURVEY	2024-08-18 - k41 (Marmitowy meander)
+.NAME	KITZG41
+.PATH	24k41
+.STATUS	8
+.SURVEY	2024-08-18 - k42 (Od 2-go biwaku do rozdroza - powtorzone pomiary)
+.NAME	KITZG42
+.PATH	24k42
+.STATUS	8
+.SURVEY	2024-08-20 - k43 (Z³odziejskie Galerie)
+.NAME	KITZG43
+.PATH	24k43
+.STATUS	8
+.SURVEY	2024-08-21 - k44 (Z³odziejskie Galerie cz.2)
+.NAME	KITZG44
+.PATH	24k44
+.STATUS	8
+.SURVEY	2024-08-21 - k45 (Kontynuacja partii za jeziorkiem)
+.NAME	KITZG45
+.PATH	24k45
+.STATUS	8
+.SURVEY	2024-08-24 - k46 (Meander Pacmana)
+.NAME	KITZG46
+.PATH	24k46
+.STATUS	8
+.SURVEY	2024-08-25 - k47 (Probably polaczenie z Czerwonymi Kamieniami)
+.NAME	KITZG47
+.PATH	24k47
+.STATUS	8
+.SURVEY	2024-08-27 - k48 (Galeria od punktu 21.29)
+.NAME	KITZG48
+.PATH	24k48
+.STATUS	8
+.SURVEY	2024-08-27 - k49 (Galeria od punktu 21.53)
+.NAME	KITZG49
+.PATH	24k49
+.STATUS	8
+.SURVEY	2024-08-27 - k50 (Ci¹g za salk¹ z filarem)
+.NAME	KITZG50
+.PATH	24k50
+.STATUS	8
+.SURVEY	2024-08-28 - k51 (Ci¹g za salk¹ z filarem cz.2)
+.NAME	KITZG51
+.PATH	24k51
+.STATUS	8
+.SURVEY	2024-08-29 - k52 (Z Galerii do Marmitowego meandra)
+.NAME	KITZG52
+.PATH	24k52
+.STATUS	8
+.SURVEY	kitzgraben2021-plan.pdf
+.NAME	kitzgraben2021-plan.pdf
+.PATH	_Plan_Profile
+.STATUS	327688
+.SURVEY	kitzgraben2021-WE.pdf
+.NAME	kitzgraben2021-WE.pdf
+.PATH	_Plan_Profile
+.STATUS	327688
+.ENDBOOK
+.BOOK	[421] Tschikpausenhohle
+.NAME	421
+.PATH	421-Tschikpausenhohle
+.STATUS	2570
+.REF	5266539.329 354452.013 33 -1.427 1950 1 47 32 9.480 13 3 57.900 27 "WGS 1984"
+.SURVEY	Tschikpausenhohle
+.NAME	NA1
+.PATH	na1
+.STATUS	8
+.ENDBOOK
+.BOOK	[424] Eisrutschn
+.NAME	424E
+.PATH	424-Eisrutschn
+.STATUS	2570
+.REF	5264942.323 353169.357 33 -1.438 2072 1 47 31 16.740 13 2 58.500 27 "WGS 1984"
+.SURVEY	aust
+.NAME	AUST
+.PATH	aust
+.STATUS	8
+.SURVEY	lodowa plan 2020.pdf
+.NAME	lodowa plan 2020.pdf
+.STATUS	327688
+.SURVEY	lodowa przekroj 2020.pdf
+.NAME	lodowa przekroj 2020.pdf
+.STATUS	327688
+.SURVEY	marta klipi mi przodki
+.NAME	M
+.PATH	martaklipimiprzodki
+.STATUS	8
+.ENDBOOK
+.BOOK	[425] St. Blasius-Labyrinth
+.NAME	425BL
+.PATH	425-St.Blasius-Labyrinth
+.STATUS	2570
+.REF	5265667.913 352690.487 33 -1.444 2090 1 47 31 39.840 13 2 34.740 27 "WGS 1984"
+.SURVEY	St. Blasius-Labyrinth [425]
+.NAME	425BLPKT
+.ENDBOOK
+.BOOK	[426] Gerollheimer
+.NAME	GERO
+.PATH	426-Gerollheimer
+.STATUS	2570
+.REF	5265514.358 352753.149 33 -1.443 2052 1 47 31 34.920 13 2 37.920 27 "WGS 1984"
+.SURVEY	Gerollenheim
+.NAME	GEROLL
+.STATUS	8
+.ENDBOOK
+.BOOK	[428] Patrickhohle TODO
+.NAME	428-PAT
+.PATH	428-Patrickhohle
+.STATUS	2570
+.REF	5265142.856 353228.376 33 -1.438 2075 1 47 31 23.280 13 3 1.080 27 "WGS 1984"
+.SURVEY	pat
+.NAME	PAT
+.STATUS	8
+.ENDBOOK
+.BOOK	[429] Grenzlandruine
+.NAME	429GR
+.PATH	428-Patrickhohle\..
+.STATUS	2570
+.REF	5265115.254 352999.199 33 -1.440 2140 1 47 31 22.200 13 2 50.160 27 "WGS 1984"
+.SURVEY	429_Grenzlandruine_1.JPG
+.NAME	429_Grenzlandruine_1.JPG
+.PATH	429-Grenzlandruine
+.STATUS	327688
+.SURVEY	429_Grenzlandruine_2.JPG
+.NAME	429_Grenzlandruine_2.JPG
+.PATH	429-Grenzlandruine
+.STATUS	327688
+.SURVEY	Grenzlandruine
+.NAME	429GR001
+.PATH	429-Grenzlandruine
+.ENDBOOK
+.BOOK	[479] Kasztanowa / Kastanienhohle
+.NAME	479KAST
+.STATUS	2570
+.REF	5266915.875 352738.258 33 -1.444 1970 1 47 32 20.280 13 2 35.520 27 "WGS 1984"
+.SURVEY	479_Kastanienhohle_plan_2004.gif
+.NAME	479_Kastanienhohle_plan_2004.gif
+.PATH	479-Kastanienhohle
+.STATUS	327688
+.SURVEY	479_Kastanienhohle_profile_2004.gif
+.NAME	479_Kastanienhohle_profile_2004.gif
+.PATH	479-Kastanienhohle
+.STATUS	327688
+.SURVEY	Bok
+.NAME	479BOK
+.PATH	479-Kastanienhohle\479BOK
+.STATUS	8
+.SURVEY	Ci¹g g³ówny od Studni Kryszta³owej do Salki na Rozdro¿u
+.NAME	479ROZ
+.PATH	479-Kastanienhohle\479ROZ
+.STATUS	8
+.SURVEY	Darek i Zbyszek
+.NAME	479DZ
+.PATH	479-Kastanienhohle\479DZ
+.STATUS	8
+.SURVEY	Do Œródsyfonu
+.NAME	479SROD
+.PATH	479-Kastanienhohle\479SROD
+.STATUS	8
+.SURVEY	Kasztanowa Sopocka Busola Pierwszy pomiar
+.NAME	479SOP
+.PATH	479-Kastanienhohle\479SOP
+.STATUS	8
+.SURVEY	Korytarz z wod¹ do Studni St³uczonego Ty³ka
+.NAME	479WTYL
+.PATH	479-Kastanienhohle\479WTYL
+.STATUS	8
+.SURVEY	Meander do Ty³u i Salka Zachwytu
+.NAME	479ZACH
+.PATH	479-Kastanienhohle\479ZACH
+.STATUS	8
+.SURVEY	Obejœcie gór¹ od Studni St³uczonego Ty³ka
+.NAME	479TYL
+.PATH	479-Kastanienhohle\479TYL
+.STATUS	8
+.SURVEY	Od Dziurawej Studni do grifonu
+.NAME	479GRIF
+.PATH	479-Kastanienhohle\479GRIF
+.STATUS	8
+.SURVEY	Od Salki na Rozdzielu do dna nastepnej studni
+.NAME	479NAST
+.PATH	479-Kastanienhohle\479NAST
+.STATUS	8
+.SURVEY	Petla nad Dziurawym Kominem
+.NAME	479KOM
+.PATH	479-Kastanienhohle\479KOM
+.STATUS	8
+.SURVEY	Pomiar z Vaskiem przyrzadami stopnie plus grad
+.NAME	479VAS
+.PATH	479-Kastanienhohle\479VAS
+.STATUS	8
+.SURVEY	Przez Studniê z Want¹ do Hydrozagadki
+.NAME	479HYDRO
+.PATH	479-Kastanienhohle\479HYDRO
+.STATUS	8
+.SURVEY	Syfony
+.NAME	479SYFO
+.PATH	479-Kastanienhohle\479SYFO
+.STATUS	8
+.ENDBOOK
+.BOOK	[480] Comeback-hohle A3-36
+.NAME	480CB
+.STATUS	2570
+.REF	5266598.197 352474.211 33 -1.446 1971 1 47 32 9.780 13 2 23.280 27 "WGS 1984"
+.SURVEY	480_Comeback-hohle_plan_2002.jpg
+.NAME	480_Comeback-hohle_plan_2002.jpg
+.PATH	480-Comeback-h
+.STATUS	327688
+.SURVEY	480_Comeback-hohle_profile_2002.jpg
+.NAME	480_Comeback-hohle_profile_2002.jpg
+.PATH	480-Comeback-h
+.STATUS	327688
+.SURVEY	Comeback-hohle
+.NAME	480_CB_C
+.PATH	480-Comeback-h
+.STATUS	2560
+.ENDBOOK
+.BOOK	[481] Szparka / Spaltchen
+.NAME	481_SZP
+.STATUS	2570
+.REF	5266007.240 352390.254 33 -1.447 2130 1 47 31 50.580 13 2 19.980 27 "WGS 1984"
+.SURVEY	481_Spaltchen_profile_2003.gif
+.NAME	481_Spaltchen_profile_2003.gif
+.PATH	481-Spaltchen
+.STATUS	327688
+.SURVEY	481_Spaltchen_plan_2003.gif
+.NAME	481_Spaltchen_plan_2003.gif
+.PATH	481-Spaltchen
+.STATUS	327688
+.SURVEY	ciag do wantowiska
+.NAME	481_CDW
+.PATH	481-Spaltchen\481_CDW
+.STATUS	2560
+.SURVEY	ciag lewy
+.NAME	481_CL
+.PATH	481-Spaltchen\481_CL
+.STATUS	2560
+.SURVEY	ciag horyzontalny
+.NAME	481_CH
+.PATH	481-Spaltchen\481_CH
+.STATUS	2560
+.SURVEY	ciag glowny
+.NAME	481_CG
+.PATH	481-Spaltchen\481_CG
+.STATUS	2560
+.ENDBOOK
+.BOOK	[482] Niebieskich Mgie³ / Hohle der blaunen Nebel
+.NAME	482BL
+.STATUS	2570
+.REF	5266348.297 352682.533 33 -1.444 1978 1 47 32 1.860 13 2 33.540 27 "WGS 1984"
+.SURVEY	482
+.NAME	482
+.PATH	482-Hohle_der_blaunen_Nebel
+.STATUS	8
+.SURVEY	482_Hohle_der_blaunen_Nebel_plan&profile_2003.gif
+.NAME	482_Hohle_der_blaunen_Nebel_plan&profile_2003.gif
+.PATH	482-Hohle_der_blaunen_Nebel
+.STATUS	327688
+.ENDBOOK
+.BOOK	[483] WH2
+.NAME	483WH2
+.STATUS	2570
+.REF	5266093.405 352692.048 33 -1.444 2044 1 47 31 53.616 13 2 34.302 27 "WGS 1984"
+.SURVEY	WH2 [483]
+.NAME	WH2
+.PATH	483-WH2
+.ENDBOOK
+.BOOK	[484] Neuhauserschacht
+.NAME	484
+.STATUS	2570
+.REF	5267643.168 356504.807 33 -1.407 1601 1 47 32 46.860 13 5 34.740 27 "WGS 1984"
+.SURVEY	484
+.NAME	484N
+.PATH	484-Neuhauserschacht
+.STATUS	2568
+.SURVEY	484_Neuhauserschacht_plan&profile_2003.gif
+.NAME	484_Neuhauserschacht_plan&profile_2003.gif
+.PATH	484_Neuhauserschacht
+.STATUS	327688
+.ENDBOOK
+.BOOK	[485] A4-3
+.NAME	485A4-3
+.STATUS	2570
+.REF	5266654.268 352089.059 33 -1.450 2007 1 47 32 11.280 13 2 4.800 27 "WGS 1984"
+.SURVEY	485_A4-3_plan_2004.gif
+.NAME	485_A4-3_plan_2004.gif
+.PATH	485-A4-3
+.STATUS	327688
+.SURVEY	A4-3
+.NAME	485A4-3P
+.PATH	485-A4-3
+.ENDBOOK
+.BOOK	[486] A4-10
+.NAME	486A410
+.STATUS	2570
+.REF	5266633.323 352111.120 33 -1.450 2025 1 47 32 10.620 13 2 5.880 27 "WGS 1984"
+.SURVEY	486_A4-10_plan_2004.gif
+.NAME	486_A4-10_plan_2004.gif
+.PATH	486-A4-10
+.STATUS	327688
+.SURVEY	a4-10
+.NAME	486A4-10
+.PATH	486-A4-10
+.ENDBOOK
+.BOOK	[487] Krolowej Sniegu / Schneekoniginhohle A4-36
+.NAME	487KROS
+.STATUS	2570
+.REF	5266605.101 352347.620 33 -1.447 1968 1 47 32 9.900 13 2 17.220 27 "WGS 1984"
+.SURVEY	487_Schneekoniginhohle_profile.gif
+.NAME	487_Schneekoniginhohle_profile.gif
+.PATH	487-Schneekoniginhohle
+.STATUS	327688
+.SURVEY	487_Schneekoniginhohle_plan.gif
+.NAME	487_Schneekoniginhohle_plan.gif
+.PATH	487-Schneekoniginhohle
+.STATUS	327688
+.SURVEY	Krolowej Sniegu
+.NAME	KROSNI
+.PATH	487-Schneekoniginhohle
+.STATUS	2560
+.ENDBOOK
+.BOOK	[488] A4-40
+.NAME	488A440
+.STATUS	2570
+.REF	5266642.906 352318.454 33 -1.448 1954 1 47 32 11.100 13 2 15.780 27 "WGS 1984"
+.SURVEY	488_A4-40_plan_2004.gif
+.NAME	488_A4-40_plan_2004.gif
+.PATH	488-A4-40
+.STATUS	327688
+.SURVEY	A4-40
+.NAME	488A440P
+.PATH	488-A4-40
+.STATUS	2560
+.REF	5266642.896 352318.830 33 -1.448 1954 1 47 32 11.100 13 2 15.798 27 "WGS 1984"
+.ENDBOOK
+.BOOK	[489] Q1 A3-2 <TODO>
+.NAME	489Q1
+.STATUS	2570
+.REF	5266398.794 352444.074 33 -1.446 2015 1 47 32 3.300 13 2 22.080 27 "WGS 1984"
+.SURVEY	489_Q1_plan&profile_2006.gif
+.NAME	489_Q1_plan&profile_2006.gif
+.PATH	489-Q1
+.STATUS	327688
+.SURVEY	Q1 A3-2 [489]
+.NAME	489Q1P
+.PATH	489-Q1
+.STATUS	2560
+.ENDBOOK
+.BOOK	[490] B3-4 <TODO>
+.NAME	490B3_4
+.STATUS	2570
+.REF	5265946.120 352682.436 33 -1.444 2046 1 47 31 48.840 13 2 34.020 27 "WGS 1984"
+.SURVEY	490
+.NAME	490
+.PATH	490-B3-4
+.STATUS	8
+.SURVEY	490_B3-4_plan&profile_2006.gif
+.NAME	490_B3-4_plan&profile_2006.gif
+.PATH	490-B3-4
+.STATUS	327688
+.ENDBOOK
+.BOOK	[491] W Czerwonych Kamieniach / Hohle in Roten Steinen J1
+.NAME	491CZ
+.STATUS	2570
+.REF	5266477.383 353593.236 33 -1.435 1880 1 47 32 6.780 13 3 16.920 27 "WGS 1984"
+.SURVEY	491_Hohle_in_Roten_Steinen_profile_2010.pdf
+.NAME	491_Hohle_in_Roten_Steinen_profile_2010.pdf
+.PATH	491-Hohle_in_Roten_Steinen
+.STATUS	327688
+.SURVEY	491_Hohle_in_Roten_Steinen_plan_2010.pdf
+.NAME	491_Hohle_in_Roten_Steinen_plan_2010.pdf
+.PATH	491-Hohle_in_Roten_Steinen
+.STATUS	327688
+.SURVEY	dookola woda
+.NAME	491DKW
+.PATH	491-Hohle_in_Roten_Steinen\491DKW
+.STATUS	8
+.SURVEY	26nc6w2a
+.NAME	491_26
+.PATH	491-Hohle_in_Roten_Steinen\491_26
+.STATUS	8
+.SURVEY	Za meandrem
+.NAME	491ZAMEA
+.PATH	491-Hohle_in_Roten_Steinen\491ZAMEA
+.STATUS	8
+.SURVEY	Meander
+.NAME	491MEA
+.PATH	491-Hohle_in_Roten_Steinen\491MEA
+.STATUS	8
+.SURVEY	Do dna
+.NAME	491DD
+.PATH	491-Hohle_in_Roten_Steinen\491DD
+.STATUS	8
+.SURVEY	W dol do syfonu
+.NAME	491WDDS
+.PATH	491-Hohle_in_Roten_Steinen\491WDDS
+.STATUS	8
+.SURVEY	2006
+.NAME	4912006
+.PATH	491-Hohle_in_Roten_Steinen\4912006
+.STATUS	8
+.SURVEY	Ci¹g za Wod¹
+.NAME	491CZW
+.PATH	491-Hohle_in_Roten_Steinen\491CZW
+.STATUS	8
+.SURVEY	Ci¹g G³ówny Suchy
+.NAME	491CGS
+.PATH	491-Hohle_in_Roten_Steinen\491CGS
+.STATUS	8
+.SURVEY	Ci¹g G³ówny Meander Gimnastyczny
+.NAME	491CGMG
+.PATH	491-Hohle_in_Roten_Steinen\491CGMG
+.STATUS	8
+.SURVEY	Ci¹g G³ówny pomiary 2
+.NAME	491CG2
+.PATH	491-Hohle_in_Roten_Steinen\491CG2
+.STATUS	8
+.SURVEY	Ci¹g G³ówny pomiary 1
+.NAME	491CG1
+.PATH	491-Hohle_in_Roten_Steinen\491CG1
+.STATUS	8
+.ENDBOOK
+.BOOK	[492] Koralowa / Korallenhohle A3-8 P04
+.NAME	492KOR
+.STATUS	2570
+.REF	5266265.961 352346.582 33 -1.447 2040 1 47 31 58.920 13 2 17.580 27 "WGS 1984"
+.SURVEY	492_Korallenhohle_plan_2006.gif
+.NAME	492_Korallenhohle_plan_2006.gif
+.PATH	492-Korallenhohle
+.STATUS	327688
+.SURVEY	p04a
+.NAME	492P04A
+.PATH	492-Korallenhohle\492P04A
+.SURVEY	pow
+.NAME	492POW
+.PATH	492-Korallenhohle\492POW
+.SURVEY	P04
+.NAME	492P04
+.PATH	492-Korallenhohle\492P04
+.ENDBOOK
+.BOOK	[493] Lodowka / Eisschrank A3-86
+.NAME	493LOD
+.STATUS	2570
+.REF	5266796.793 352609.751 33 -1.445 1985 1 47 32 16.320 13 2 29.520 27 "WGS 1984"
+.SURVEY	493_Eisschrank_plan_2006.gif
+.NAME	493_Eisschrank_plan_2006.gif
+.PATH	493-Eisschrank
+.STATUS	327688
+.SURVEY	Lodowka
+.NAME	493LOPK
+.PATH	493-Eisschrank
+.ENDBOOK
+.BOOK	[494] Respektschacht
+.NAME	494_RESP
+.STATUS	2570
+.REF	5265982.472 353892.128 33 -1.432 2025 1 47 31 51.000 13 3 31.800 27 "WGS 1984"
+.SURVEY	494_Respektschacht_plan_2008.jpg
+.NAME	494_Respektschacht_plan_2008.jpg
+.PATH	494_Respektschacht
+.STATUS	327688
+.SURVEY	494_Respektschacht_profile_2008.gif
+.NAME	494_Respektschacht_profile_2008.gif
+.PATH	494_Respektschacht
+.STATUS	327688
+.SURVEY	Ciag glowny
+.NAME	494_CG
+.PATH	494-Respektschacht\494_CG
+.STATUS	2560
+.SURVEY	obok_Mysiej_d
+.NAME	494_OMD
+.PATH	494-Respektschacht\494_OMD
+.STATUS	2568
+.SURVEY	obok_mysiej_g
+.NAME	494_OBG
+.PATH	494-Respektschacht\494_OBG
+.STATUS	2560
+.SURVEY	ponizej_studni
+.NAME	494_PS
+.PATH	494-Respektschacht\494_PS
+.STATUS	2560
+.SURVEY	Studnia
+.NAME	494_ST
+.PATH	494-Respektschacht\494_ST
+.STATUS	2560
+.ENDBOOK
+.BOOK	[495] Ciekawa / Interessante Höhle
+.NAME	495CIE
+.STATUS	2568
+.REF	5266270.244 353206.478 33 -1.439 1932 1 47 31 59.760 13 2 58.680 27 "WGS 1984"
+.SURVEY	!_Uwaga
+.NAME	UWAGA
+.PATH	495-Interessante
+.STATUS	10
+.SURVEY	2012-07-31 - Amazonka
+.NAME	120731AM
+.PATH	495-Interessante\20120731-Amazonka
+.STATUS	8
+.SURVEY	2012-08-01 - Boczny komin w partiach Optymistycznych
+.NAME	120731BK
+.PATH	495-Interessante\20120801-Boczny_komin_w_partiach_Optymistycznych
+.STATUS	8
+.SURVEY	2012-08-01 - Gang Kutasów
+.NAME	120802GK
+.PATH	495-Interessante\20120801-Gang_Kutasow
+.STATUS	8
+.SURVEY	2012-08-03 - Ciek pod wisz polka
+.NAME	120803WI
+.PATH	495-Interessante\20120803-Ciek_pod_wisz_polka
+.STATUS	8
+.SURVEY	2012-08-06 - Partie Gastryczne
+.NAME	120806PG
+.PATH	495-Interessante\20120806-Partie_Gastryczne
+.STATUS	8
+.SURVEY	2012-08-07 - Parite Gastryczne - Okna
+.NAME	120807GO
+.PATH	495-Interessante\20120807-Partie_Gastryczne-Okna
+.STATUS	8
+.SURVEY	2012-08-07 - Partie Baltazara G¹bki
+.NAME	120807BZ
+.PATH	495-Interessante\20120807-Partie_Baltazara_Gabki
+.STATUS	8
+.SURVEY	2012-08-07 - Pochylnie bez pradu
+.NAME	120807PP
+.PATH	495-Interessante\20120807-Pochylnie_bez_pradu
+.STATUS	8
+.SURVEY	2012-08-08 - Zachodni 285-287
+.NAME	ZA285287
+.PATH	495-Interessante\20120809-Zachodni_285-287
+.STATUS	8
+.SURVEY	2012-08-09 - Amazonka kontynuacja
+.NAME	120809AK
+.PATH	495-Interessante\20120809-Amazonka-kontynuacja
+.STATUS	8
+.SURVEY	2012-08-09 - Zachodni - 286
+.NAME	SD345678
+.PATH	495-Interessante\20120809-Zachodni_286
+.STATUS	8
+.SURVEY	2012-08-09 - Zachodni - Komin Micha³a
+.NAME	AS878989
+.PATH	495-Interessante\20120809-Zachodni-Komin_Michala
+.STATUS	8
+.SURVEY	2012-08-09 - Zachodni - meanderek
+.NAME	ZA120809
+.PATH	495-Interessante\20120809-Zachodni-meanderek
+.STATUS	8
+.SURVEY	2012-08-10 - Zachodni - pó³noc kontynuacja
+.NAME	ZA098765
+.PATH	495-Interessante\20120810-Zachodni-polnoc_kontynuacja
+.STATUS	8
+.SURVEY	2012-08-12 - Partie Gastryczne - Meander w oknie
+.NAME	120812PM
+.PATH	495-Interessante\20120812-Partie_Gastryczne-Meander_w_oknie
+.STATUS	8
+.SURVEY	2012-08-13 - Wspin nad Biala salka
+.NAME	120813BS
+.PATH	495-Interessante\20120813-Wspin_nad_Biala_Salka
+.STATUS	8
+.SURVEY	2012-08-15 - Zachodni
+.NAME	120815Z
+.PATH	495-Interessante\20120815-Zachodni
+.STATUS	8
+.SURVEY	2012-08-15 - Zachodni Dol
+.NAME	120815ZD
+.PATH	495-Interessante\20120815-Zachodni-Dol
+.STATUS	8
+.SURVEY	2012-10-07 - Partie Powrotu
+.NAME	121007PP
+.PATH	495-Interessante\20121007-Partie_Powrotu
+.STATUS	8
+.SURVEY	2013-07-29 - SMN
+.NAME	ERM
+.PATH	495-Interessante\20130729-SMN
+.STATUS	8
+.SURVEY	2013-07-30 - Partie Powrotu 2
+.NAME	ERM2
+.PATH	495-Interessante\20130730-Partie_Powrotu2
+.STATUS	8
+.SURVEY	2013-07-31 - Partie pod studnia na zakrecie
+.NAME	130731JK
+.PATH	495-Interessante\20130731-Partie_pod_studnia_na_zakrecie
+.STATUS	8
+.SURVEY	2013-08-01 - Kroko 1
+.NAME	KROKO1
+.PATH	495-Interessante\20130801-Kroko1
+.STATUS	8
+.SURVEY	2013-08-02 - Kontynuacja Baltazara
+.NAME	DOM0208
+.PATH	495-Interessante\20130802-Kontynuacja_Baltazara
+.STATUS	8
+.SURVEY	2013-08-02 - Kroko 2
+.NAME	KROKO2
+.PATH	495-Interessante\20130802-Kroko2
+.STATUS	8
+.SURVEY	2013-08-02 - Kroko 3
+.NAME	KROKO3
+.PATH	495-Interessante\20130802-Kroko3
+.STATUS	8
+.SURVEY	2013-08-03 - Ciag wejsciowy - podmeander
+.NAME	CIORANIE
+.PATH	495-Interessante\20130803-Ciag_wejsciowy-podmeander
+.STATUS	8
+.SURVEY	2013-08-04 - Kijanka
+.NAME	130804KM
+.PATH	495-Interessante\20130804-Kijanka
+.STATUS	8
+.SURVEY	2013-08-05 - Powiew zachodu
+.NAME	130805PZ
+.PATH	495-Interessante\20130805-Powiew_Zachodu
+.STATUS	8
+.SURVEY	2013-08-05 - Rura freatyczna
+.NAME	130805KM
+.PATH	495-Interessante\20130805-Rura_freatyczna
+.STATUS	8
+.SURVEY	2013-08-06 -Tu lis ma nore
+.NAME	130806ER
+.PATH	495-Interessante\20130806-Tu_lis_ma_nore
+.STATUS	8
+.SURVEY	2013-08-07 - Dziki Zachod
+.NAME	130807DZ
+.PATH	495-Interessante\20130807-Dziki_Zachod
+.STATUS	8
+.SURVEY	2013-08-08 - Partie drzemiacego smoka
+.NAME	130808RE
+.PATH	495-Interessante\20130808-Partie_drzemiacego_smoka
+.STATUS	8
+.SURVEY	2013-08-08 - Wspin nad Biala Salka Kontynuacja
+.NAME	130808KP
+.PATH	495-Interessante\20130808-Wspin_nad_Biala_Salka-Kontynuacja
+.STATUS	8
+.SURVEY	2013-08-09 - Dziki Zachod 2
+.NAME	130809DZ
+.PATH	495-Interessante\20130809-Dziki_Zachod2
+.STATUS	8
+.SURVEY	2013-08-09 - Studnia na rozdrozu
+.NAME	130809SR
+.PATH	495-Interessante\20130809-Studnia_na_rozdrozu
+.STATUS	8
+.SURVEY	2013-08-10 - 3 Studnia Optymistyczna
+.NAME	130810S3
+.PATH	495-Interessante\20130810-3_Studnia_Optymistyczna
+.STATUS	8
+.SURVEY	2013-08-13 - Kolo
+.NAME	130813KO
+.PATH	495-Interessante\20130813-Kolo
+.STATUS	8
+.SURVEY	2013-08-13 - Rura freatyczna 2
+.NAME	130813F2
+.PATH	495-Interessante\20130813-Rura_freatyczna2
+.STATUS	8
+.SURVEY	2013-08-13 - Studnia RT
+.NAME	130813RT
+.PATH	495-Interessante\20130813-Studnia_RT
+.STATUS	8
+.SURVEY	2013-08-14 - Zach dom
+.NAME	130814JD
+.PATH	495-Interessante\20130814-Zach_dom
+.STATUS	8
+.SURVEY	2013-08-16 - Pietro Kutasow
+.NAME	130816PK
+.PATH	495-Interessante\20130816-Pietro_Kutasow
+.STATUS	8
+.SURVEY	2014-07-22 - Gastryczne dolny meander
+.NAME	140722PD
+.PATH	495-Interessante\20140722-Gastryczne_dolny_meander
+.STATUS	8
+.SURVEY	2014-07-22 - Partie Gastryczne Przekop
+.NAME	140722PP
+.PATH	495-Interessante\20140722-Partie_Gastryczne_Przekop
+.STATUS	8
+.SURVEY	2014-07-27 - Gastryczne - Kontynuacja
+.NAME	140727KO
+.PATH	495-Interessante\20140727-Gastryczne-Kontynuacja
+.STATUS	8
+.SURVEY	2014-07-28 - Fantazja
+.NAME	140728FA
+.PATH	495-Interessante\20140728-Fantazja
+.STATUS	8
+.SURVEY	2014-07-29 - Boki Trawers
+.NAME	140729BT
+.PATH	495-Interessante\20140729-Boki_Trawers
+.STATUS	8
+.SURVEY	2014-07-30 - Kolorowe ska³y - bok1
+.NAME	140730K1
+.PATH	495-Interessante\20140730-Kolorowe_skaly-bok1
+.STATUS	8
+.SURVEY	2014-07-30 - Kolorowe ska³y - bok2
+.NAME	140730K2
+.PATH	495-Interessante\20140730-Kolorowe_skaly-bok2
+.STATUS	8
+.SURVEY	2014-07-31 - Kaskady Viktorii
+.NAME	140731KV
+.PATH	495-Interessante\20140731-Kaskady_Viktorii
+.STATUS	8
+.SURVEY	2014-08-02 - Baltazar Petla
+.NAME	140802GA
+.PATH	495-Interessante\20140802-Baltazar_Petla
+.STATUS	8
+.SURVEY	2014-08-02 - Domiary do Pochylnie bez Pradu
+.NAME	140802TK
+.PATH	495-Interessante\20140802-Domiary_do_Pochylnie_bez_Pradu
+.STATUS	8
+.SURVEY	2014-08-03 - Czarna Pochylnia
+.NAME	140803CZ
+.PATH	495-Interessante\20140803-Czarna_Pochylnia
+.STATUS	8
+.SURVEY	2014-08-03 - Fantazja 2
+.NAME	140803F2
+.PATH	495-Interessante\20140803-Fantazja2
+.STATUS	8
+.SURVEY	2014-08-03 - Obejscie 60
+.NAME	140803OB
+.PATH	495-Interessante\20140803-Obejscie_60
+.STATUS	8
+.SURVEY	2014-08-03 - Woda w Meandrze
+.NAME	140803WM
+.PATH	495-Interessante\20140803-Woda_w_Meandrze
+.STATUS	8
+.SURVEY	2014-08-04 - Re
+.NAME	140804RE
+.PATH	495-Interessante\20140804-Re
+.STATUS	8
+.SURVEY	2014-08-05 - Kaskady Viktorii 2
+.NAME	140805V2
+.PATH	495-Interessante\20140805-Kaskady_Viktorii2
+.STATUS	8
+.SURVEY	2014-08-05 - Poprawki
+.NAME	140805PO
+.PATH	495-Interessante\20140805-Poprawki
+.STATUS	8
+.SURVEY	2014-08-06 - Kaskady Viktorii 3
+.NAME	140806V3
+.PATH	495-Interessante\20140806-Kaskady_Viktorii3
+.STATUS	8
+.SURVEY	2014-08-07 - Partie gastryczne - meanderek
+.NAME	140807GM
+.PATH	495-Interessante\20140807-Partie_gastryczne-meanderek
+.STATUS	8
+.SURVEY	2014-08-08 - Jeziorko
+.NAME	140808JE
+.PATH	495-Interessante\20140808-Jeziorko
+.STATUS	8
+.SURVEY	2014-08-08 - meander odbytniczy
+.NAME	140808MO
+.PATH	495-Interessante\20140808-Meander_odbytniczy
+.STATUS	8
+.SURVEY	2014-08-08 - Re2
+.NAME	140808R2
+.PATH	495-Interessante\20140808-Re2
+.STATUS	8
+.SURVEY	2014-08-10 - niegryzie
+.NAME	NIEGRYZ
+.PATH	495-Interessante\20140810-niegryzie
+.STATUS	8
+.SURVEY	2014-08-10 - Re3 - UWAGA
+.NAME	140810R3
+.PATH	495-Interessante\20140810-Re3
+.STATUS	10
+.SURVEY	2014-08-11 - Obejœcie do Nik¹d
+.NAME	140811ON
+.PATH	495-Interessante\20140811-Obejscie_do_Nikad
+.STATUS	8
+.SURVEY	2014-08-12 - Brzytwa 2
+.NAME	140812B2
+.PATH	495-Interessante\20140812-Brzytwa2
+.STATUS	8
+.SURVEY	2014-08-12 - st
+.NAME	140812ST
+.PATH	495-Interessante\20140812-st
+.STATUS	8
+.SURVEY	2014-08-13 - Kaskady Lafiryndy
+.NAME	140813KL
+.PATH	495-Interessante\20140813-Kaskady_Lafiryndy
+.STATUS	8
+.SURVEY	2014-08-13 - Meander pogadajmy o kobietach
+.NAME	140813K
+.PATH	495-Interessante\20140813-Meander_pogadajmy_o_kobietach
+.STATUS	8
+.SURVEY	2014-08-14 - G¹bki - Studnia z meandrem
+.NAME	140813GK
+.PATH	495-Interessante\20140814-Gabki-Studnia_z_meandrem
+.STATUS	8
+.SURVEY	2015-07-22 - Partie za wschodnim biwakiem
+.NAME	150722E1
+.PATH	495-Interessante\20150722-Partie_za_wschodnim_biwakiem
+.STATUS	8
+.SURVEY	2015-07-28 - Meander za Morzem Guinessa
+.NAME	150728G1
+.PATH	495-Interessante\20150728-Meander_za_Morzem_Guinessa
+.STATUS	8
+.SURVEY	2015-08-01 - g¹bki za biwakiem 1
+.NAME	150801AT
+.PATH	495-Interessante\20150801-Gabki_za_biwakiem1
+.STATUS	8
+.SURVEY	2015-08-01 - g¹bki za biwakiem 2
+.NAME	150801Z2
+.PATH	495-Interessante\20150801-Gabki_za_biwakiem2
+.STATUS	8
+.SURVEY	2015-08-01 - g¹bki za biwakiem 3
+.NAME	150801Z3
+.PATH	495-Interessante\20150801-Gabki_za_biwakiem3
+.STATUS	8
+.SURVEY	2015-08-01 - g¹bki za biwakiem 4
+.NAME	150801Z4
+.PATH	495-Interessante\20150801-Gabki_za_biwakiem4
+.STATUS	8
+.SURVEY	2015-08-02 - partie za przekopem
+.NAME	150802ZP
+.PATH	495-Interessante\20150802-Partie_za_przekopem
+.STATUS	8
+.SURVEY	2015-08-04 - Piêkny Meander
+.NAME	150804PO
+.PATH	495-Interessante\20150804-Piekny_Meander
+.STATUS	8
+.SURVEY	2015-08-05 - drugi syfon
+.NAME	150805DS
+.PATH	495-Interessante\20150805-Drugi_syfon
+.STATUS	8
+.SURVEY	2015-08-05 - Meander Malina
+.NAME	150805MA
+.PATH	495-Interessante\20150805-Meander_Malina
+.STATUS	8
+.SURVEY	2015-08-05 - rury
+.NAME	150805RU
+.PATH	495-Interessante\20150805-rury
+.STATUS	8
+.SURVEY	2015-08-06 - Syfon Dziewicy
+.NAME	150806DZ
+.PATH	495-Interessante\20150806-Syfon_Dziewicy
+.STATUS	8
+.SURVEY	2015-08-06 - Wielka Sala
+.NAME	150806SA
+.PATH	495-Interessante\20150806-Wielka_Sala
+.STATUS	8
+.SURVEY	2015-08-06 - Wspinanie w meandrze
+.NAME	150806WS
+.PATH	495-Interessante\20150806-Wspinanie_w_meandrze
+.STATUS	8
+.SURVEY	2015-08-11 - Krêta Galeria
+.NAME	150811MA
+.PATH	495-Interessante\20150811-Kreta_Galeria
+.STATUS	8
+.SURVEY	2015-08-12 - Nie chce mi siê
+.NAME	150812DW
+.PATH	495-Interessante\20150812-Nie_chce_mi_sie
+.STATUS	8
+.SURVEY	2015-08-13 - Spl¹tany Meander
+.NAME	150813OK
+.PATH	495-Interessante\20150813-Splatany_Meander
+.STATUS	8
+.SURVEY	2016-07-20 - Na raty
+.NAME	RKM07-20
+.PATH	495-Interessante\20160720-Na_raty
+.STATUS	8
+.SURVEY	2016-07-20 - Na raty 2
+.NAME	RKM2
+.PATH	495-Interessante\20160720-Na_raty2
+.STATUS	8
+.SURVEY	2016-07-25 - Studnia Jednej Nocy
+.NAME	160725JN
+.PATH	495-Interessante\20160725-Studnia_Jednej_Nocy
+.STATUS	8
+.SURVEY	2016-07-26 - Nowa Jaskinia
+.NAME	160726NJ
+.PATH	495-Interessante\20160726-Nowa_Jaskinia
+.STATUS	8
+.SURVEY	2016-07-28 - Meander Kaszuba
+.NAME	MKASZUBA
+.PATH	495-Interessante\20160728-Meander_Kaszuba
+.STATUS	8
+.SURVEY	2016-08-02 - Za Owsikami
+.NAME	160802ZO
+.PATH	495-Interessante\20160802-Za_Owsikami
+.STATUS	8
+.SURVEY	2016-08-04 - odnoga
+.NAME	160804OD
+.PATH	495-Interessante\20160804-Odnoga
+.STATUS	8
+.SURVEY	2016-08-08 - Bok 1
+.NAME	BOK1
+.PATH	495-Interessante\20160808-Bok1
+.STATUS	8
+.SURVEY	2016-08-09 - Bok 2
+.NAME	BOKI 2
+.PATH	495-Interessante\20160809-Bok2
+.STATUS	8
+.SURVEY	2016-08-10 - Bez karty
+.NAME	160810BK
+.PATH	495-Interessante\20160810-Bez_karty
+.STATUS	8
+.SURVEY	2017-07-26 - Meander Stropowy 1
+.NAME	170726ME
+.PATH	495-Interessante\20170726-Meander_Stropowy1
+.STATUS	8
+.SURVEY	2017-07-26 - Po³¹czenie
+.NAME	170726MK
+.PATH	495-Interessante\20170726-Polaczenie
+.STATUS	8
+.SURVEY	2017-07-30 - Meander Stropowy 2
+.NAME	170730ME
+.PATH	495-Interessante\20170730-Meander_Stropowy2
+.STATUS	8
+.SURVEY	2017-08-04 - Meander Stropowy 3
+.NAME	170804KM
+.PATH	495-Interessante\20170804-Meander_Stropowy3
+.STATUS	8
+.SURVEY	2017-08-08 - Meander Stropowy 4
+.NAME	PODSTROP
+.PATH	495-Interessante\20170808-Meander_Stropowy4
+.STATUS	8
+.SURVEY	2017-08-09 - Górne piêtro meandra kaszuba
+.NAME	KASZUBGO
+.PATH	495-Interessante\20170809-Gorne_pietro_meandra_kaszuba
+.STATUS	8
+.SURVEY	2017-08-09 - Meander Chorych Snów
+.NAME	CHORESNY
+.PATH	495-Interessante\20170809-Meander_Chorych_Snow
+.STATUS	10
+.SURVEY	2017-08-11 - Boczna odnoga
+.NAME	DTA
+.PATH	495-Interessante\20170811-Boczna_odnoga
+.STATUS	8
+.SURVEY	2017-08-12 - ToNieTu
+.NAME	OLW
+.PATH	495-Interessante\20170812-ToNieTu
+.STATUS	8
+.SURVEY	2017-08-15 - Zapomniany korytarz
+.NAME	170815ZK
+.PATH	495-Interessante\20170815-Zapomniany_korytarz
+.STATUS	8
+.SURVEY	2018-07-26 - Meander Stropowy 5
+.NAME	180726MS
+.PATH	495-Interessante\20180726-Meander_Stropowy5
+.STATUS	8
+.SURVEY	2018-07-28 - Na Dwa Razy
+.NAME	180728N2
+.PATH	495-Interessante\20180728-Na_Dwa_Razy
+.STATUS	8
+.SURVEY	2018-07-29 - Meander Razy Kilka
+.NAME	180729RK
+.PATH	495-Interessante\20180729-Meander_Razy_Kilka
+.STATUS	8
+.SURVEY	2018-08-01 - Meander Stropowy 6
+.NAME	180801KA
+.PATH	495-Interessante\20180801-Meander_Stropowy6
+.STATUS	8
+.SURVEY	2018-08-07 - Urodziny
+.NAME	URODZINY
+.PATH	495-Interessante\20180807-Urodziny
+.STATUS	8
+.SURVEY	2018-08-12 - Urodziny 2
+.NAME	180812ME
+.PATH	495-Interessante\20180812-Urodziny2
+.STATUS	8
+.SURVEY	2019-07-24 - Meander pod jednej nocy
+.NAME	190724KT
+.PATH	495-Interessante\20190724-Meander_pod_jednej_nocy
+.STATUS	8
+.SURVEY	2019-07-30 - Pod wodospad
+.NAME	190730PW
+.PATH	495-Interessante\20190730-Pod_wodospad
+.STATUS	8
+.SURVEY	2019-07-31 - Gangbang
+.NAME	190731GB
+.PATH	495-Interessante\20190731-Gangbang
+.STATUS	8
+.SURVEY	2019-07-31 - Podwójny meander
+.NAME	190731KK
+.PATH	495-Interessante\20190731-Podwojny_meander
+.STATUS	8
+.SURVEY	2019-07-31 - Sala przed sal¹ z wodospadem
+.NAME	190731PW
+.PATH	495-Interessante\20190731-Sala_przed_sala_z_wodospadem
+.STATUS	8
+.SURVEY	2019-08-01 - Nie mam pojêcia
+.NAME	190801NP
+.PATH	495-Interessante\20190801-Nie_mam_pojecia
+.STATUS	8
+.SURVEY	2019-08-06 - RuraPomiedzySZWiSZB
+.NAME	190806MP
+.PATH	495-Interessante\20190806-RuraPomiedzySZWiSZB
+.STATUS	8
+.SURVEY	2019-08-09 - obejscieijt
+.NAME	1989IJT
+.PATH	495-Interessante\20190809-obejscieijt
+.STATUS	8
+.SURVEY	2019-08-10 - bezimienna
+.NAME	190810DZ
+.PATH	495-Interessante\20190810-bezimienna
+.STATUS	8
+.SURVEY	2019-08-10 - Komin o g³upiej nazwie
+.NAME	IJT19081
+.PATH	495-Interessante\20190810-Komin_o_glupiej_nazwie
+.STATUS	8
+.SURVEY	2019-08-10 - obwodoijt
+.NAME	19810
+.PATH	495-Interessante\20190810-obwodoijt
+.STATUS	10
+.SURVEY	2019-08-10 - popierdolka
+.NAME	190810__
+.PATH	495-Interessante\20190810-popierdolka
+.STATUS	8
+.SURVEY	2020-07-28 - RP
+.NAME	200728RP
+.PATH	495-Interessante\20200728-RP
+.STATUS	8
+.SURVEY	2020-07-28 - WF
+.NAME	200728WF
+.PATH	495-Interessante\20200728-WF
+.STATUS	8
+.SURVEY	2020-07-30 - OB
+.NAME	JT3007
+.PATH	495-Interessante\20200730-OB
+.STATUS	8
+.SURVEY	2020-07-31 - JT
+.NAME	3107JT
+.PATH	495-Interessante\20200731-JT
+.STATUS	8
+.SURVEY	2020-07-31 - NA
+.NAME	3107NAC
+.PATH	495-Interessante\20200731-NA
+.STATUS	8
+.SURVEY	2020-07-31 - Nad kolankiem
+.NAME	3107NADK
+.PATH	495-Interessante\20200731-Nad_kolankiem
+.STATUS	8
+.SURVEY	2020-08-06 - Syfon 2 Kul
+.NAME	SYF2KUL
+.PATH	495-Interessante\20200806-Syfon_2_Kul
+.STATUS	8
+.SURVEY	2020-08-09 - Pod studnia z mlotkiem
+.NAME	POD
+.PATH	495-Interessante\20200809-Pod_studnia_z_mlotkiem
+.STATUS	8
+.SURVEY	2020-08-11 - Studnia pod mlotkiem
+.NAME	STPODM
+.PATH	495-Interessante\20200811-Studnia_pod_mlotkiem
+.STATUS	8
+.SURVEY	2021-07-26 - Meander Stropowy 7
+.NAME	21STROP1
+.PATH	495-Interessante\20210726-Meander_Stropowy7
+.STATUS	8
+.SURVEY	2021-07-31 - Meander Stropowy 8
+.NAME	21STROP2
+.PATH	495-Interessante\20210731-Meander_Stropowy8
+.STATUS	8
+.SURVEY	2021-07-31 - Powrót do Baltazara G¹bki
+.NAME	21BALTGA
+.PATH	495-Interessante\20210731-Powrot_do_Baltazara_Gabki
+.STATUS	8
+.SURVEY	2021-08-04 - Meander Stropowy 9
+.NAME	21STROP3
+.PATH	495-Interessante\20210804-Meander_Stropowy9
+.STATUS	8
+.SURVEY	2021-08-06 - Partie z m³otkiem
+.NAME	MLOTEK2
+.PATH	495-Interessante\20210806-Partie_z_mlotkiem
+.STATUS	8
+.SURVEY	2021-08-06 - Zimny Meander 1
+.NAME	ZIMNYMN
+.PATH	495-Interessante\20210806-Zimny_Meander1
+.STATUS	8
+.SURVEY	2021-08-09 - Zimny Meander 2
+.NAME	ZIMNYMN2
+.PATH	495-Interessante\20210809-Zimny_Meander2
+.STATUS	8
+.SURVEY	2022-07-26 - Meander Chorych Snów Remake
+.NAME	CHORESN2
+.PATH	495-Interessante\20220726-Meander_Chorych_Snow_Remake
+.STATUS	8
+.SURVEY	2022-07-26 - Zimny Meander 3
+.NAME	ZIMNYMN3
+.PATH	495-Interessante\20220726-Zimny_Meander3
+.STATUS	8
+.SURVEY	2022-07-30 - Zachodnie gówno 1
+.NAME	ZACHGOW1
+.PATH	495-Interessante\20220730-Zachodnie_gowno1
+.STATUS	8
+.REF	5266134.620 353373.320 33 -1.439 1940 1 47 31 55.505 13 3 6.818 27 "WGS 1984"
+.SURVEY	2022-07-31 - Ciagi z Blotnym Bajorem
+.NAME	BLBAJORO
+.PATH	495-Interessante\20220731-Ciagi_z_Blotnym_Bajorem
+.STATUS	8
+.SURVEY	2022-07-31 - Nowa Nadzieja
+.NAME	NOWNADZI
+.PATH	495-Interessante\20220731-Nowa_Nadzieja
+.STATUS	8
+.SURVEY	2022-08-03 - Studnia Zombie
+.NAME	STZOMBIE
+.PATH	495-Interessante\20220803-Studnia_Zombie
+.STATUS	8
+.SURVEY	2022-08-08 - Zimny Meander 4
+.NAME	ZIMNYMN4
+.PATH	495-Interessante\20220808-Zimny_Meander4
+.STATUS	8
+.SURVEY	2022-08-11 - Studnia Zombie 2
+.NAME	STZOMBI2
+.PATH	495-Interessante\20220811-Studnia_Zombie2
+.STATUS	8
+.SURVEY	2023-08-01 - Za kaszubskimi jeziorami
+.NAME	ZAKASZUJ
+.PATH	495-Interessante\20230801-Za_kaszubskimi_jeziorami
+.STATUS	8
+.SURVEY	2024-08-13 - Studnia klozetowa
+.NAME	STKLOZET
+.PATH	495-Interessante\20240813-Studnia_klozetowa
+.STATUS	8
+.SURVEY	2025-08-17 - Krêta Galeria - wspinanie za Sal¹ z Prysznicem
+.NAME	KRETAGAW
+.PATH	495-Interessante\20250817-Kreta_Galeria_-_wspinanie_za_Sala_z_Prysznicem
+.STATUS	8
+.SURVEY	Bok od Sali z tyrolk¹
+.NAME	BOKTYR
+.PATH	495-Interessante\20090819-Bok_Tyrol
+.STATUS	2560
+.SURVEY	Ci¹g wejœciowy 1
+.NAME	C_WEJ_1
+.PATH	495-Interessante\20080801-Ciag_wejsciowy1
+.STATUS	2560
+.SURVEY	Ci¹g wejœciowy 2
+.NAME	C_WEJ_2
+.PATH	495-Interessante\20080801-Ciag_wejsciowy2
+.STATUS	2560
+.SURVEY	Ci¹gi Pó³nocne 1
+.NAME	CIAPL1
+.PATH	495-Interessante\20090805-Ciagi_Polnocne1
+.STATUS	2560
+.SURVEY	Ci¹gi Pó³nocne 2
+.NAME	CIPL2
+.PATH	495-Interessante\20090819-Ciagi_Polnocne2
+.STATUS	2560
+.SURVEY	Ci¹gi Pó³nocne 3
+.NAME	CPN3
+.PATH	495-Interessante\20090815-Ciagi_Polnocne3
+.STATUS	2560
+.SURVEY	Ci¹gi Pó³nocne 4
+.NAME	CIPL4
+.PATH	495-Interessante\20100803-Ciagi_Polnocne4
+.STATUS	2560
+.SURVEY	Dolne Ci¹gi
+.NAME	DOLCI
+.PATH	495-Interessante\20110806-Dolne_Ciagi
+.STATUS	2560
+.SURVEY	domiary do poligonu
+.NAME	495DDP
+.PATH	495-Interessante\20110801-Domiary_do_poligonu
+.STATUS	2560
+.SURVEY	Gang Bia³ych Kamieni 1
+.NAME	GABIK1
+.PATH	495-Interessante\20090820-Gang_Bialych_Kamieni1
+.STATUS	2560
+.SURVEY	Gang Bia³ych Kamieni 2
+.NAME	GABIK2
+.PATH	495-Interessante\20100804-Gang_Bialych_Kamieni2
+.STATUS	2560
+.SURVEY	Gang Bia³ych Kamieni 3
+.NAME	GABKA3
+.PATH	495-Interessante\20110731-Gang_Bialych_Kamieni3
+.STATUS	2560
+.SURVEY	Gang Bia³ych Kamieni 4 remake
+.NAME	GBK4RE
+.PATH	495-Interessante\20110808-Gang_Bialych_Kamieni4_remake
+.STATUS	2304
+.SURVEY	Gang Bia³ych Kamieni 5
+.NAME	GBK5
+.PATH	495-Interessante\20110808-Gang_Bialych_Kamieni5
+.STATUS	2560
+.SURVEY	Gang Bia³ych Kamieni domiary 1
+.NAME	GABAKD1
+.PATH	495-Interessante\20110803-Gang_Bialych_Kamieni-domiary1
+.SURVEY	Gang Bia³ych Kamieni domiary 2
+.NAME	GBIKAD2
+.PATH	495-Interessante\20110806-Gang_Bialych_Kamieni-domiary2
+.STATUS	2560
+.SURVEY	Gang Bia³ych Kamieni domiary 3 remake
+.NAME	GBKD3R
+.PATH	495-Interessante\20110811-Gang_Bialych_Kamieni-domiary3_remake
+.STATUS	2560
+.SURVEY	Gangi 1
+.NAME	GANGI1
+.PATH	495-Interessante\20090820-Gangi1
+.STATUS	2560
+.SURVEY	interessante_section_deutch_2016_de.png
+.NAME	interessante_section_deutch_2016_de.png
+.PATH	_Plan_Profile
+.STATUS	327688
+.SURVEY	interessante_section_deutch_2016_pl.png
+.NAME	interessante_section_deutch_2016_pl.png
+.PATH	_Plan_Profile
+.STATUS	327688
+.SURVEY	Meander - uzupe³nienia 1
+.NAME	MEA_UZ1
+.PATH	495-Interessante\20090805-Meander_Uz1
+.STATUS	2560
+.SURVEY	Meander - uzupe³nienia 2
+.NAME	ME_UZ2
+.PATH	495-Interessante\20090817-Meander_Uz2
+.STATUS	2560
+.SURVEY	Meander 1
+.NAME	MEAND1
+.PATH	495-Interessante\20090805-Meander1
+.STATUS	2560
+.SURVEY	Meander 2
+.NAME	MEA2
+.PATH	495-Interessante\20090805-Meander2
+.STATUS	2560
+.SURVEY	Meander 3
+.NAME	MEAND2
+.PATH	495-Interessante\20090807-Meander3
+.STATUS	2560
+.SURVEY	Meander 3 + Krokodylek
+.NAME	MEN3_K
+.PATH	495-Interessante\20090814-Meander3_Kroko
+.STATUS	2560
+.SURVEY	Meander Zachodni - domiary
+.NAME	MEZACDO
+.PATH	495-Interessante\20100807-Meander_Zachodni-domiary
+.STATUS	2560
+.SURVEY	Meander Zachodni 1 + Dolne C
+.NAME	MZACH1_D
+.PATH	495-Interessante\20090817-Meander_Zachodni1+Dolne_C
+.STATUS	2560
+.SURVEY	Meander Zachodni 2
+.NAME	MEZACH2
+.PATH	495-Interessante\20100801-Meander_Zachodni2
+.STATUS	2560
+.SURVEY	Meander Zachodni 3
+.NAME	MEZACH3
+.PATH	495-Interessante\20100801-Meander_Zachodni3
+.STATUS	2560
+.SURVEY	Meander Zachodni 4
+.NAME	MEZACH4
+.PATH	495-Interessante\20100804-Meander_Zachodni4
+.STATUS	2560
+.SURVEY	Meander Zachodni 5
+.NAME	MENZACH5
+.PATH	495-Interessante\20100807-Meander_Zachodni5
+.STATUS	2560
+.SURVEY	Meander Zachodni 6
+.NAME	MEAZAC6
+.PATH	495-Interessante\20110729-Meander_Zachodni6
+.STATUS	2560
+.SURVEY	Meander Zachodni 7
+.NAME	MEZA7
+.PATH	495-Interessante\20110811-Meander_Zachodni7
+.STATUS	2560
+.SURVEY	Partie Jana Sopiñskiego
+.NAME	PAJANA
+.PATH	495-Interessante\20100811-Partie_Jana_Sopinskiego
+.STATUS	2560
+.SURVEY	Partie Kawowe
+.NAME	PAKAW
+.PATH	495-Interessante\20100721-Partie_kawowe
+.STATUS	2560
+.SURVEY	Partie Krokodylka
+.NAME	PAKROK
+.PATH	495-Interessante\20110806-Partie_Krokodylka
+.STATUS	2560
+.SURVEY	plan - 2020 - DE
+.NAME	plan20_deutsch.pdf
+.PATH	495-Interessante\_Plan_Profile
+.STATUS	327688
+.SURVEY	plan - 2020 - PL
+.NAME	plan20_polski.pdf
+.PATH	495-Interessante\_Plan_Profile
+.STATUS	327688
+.SURVEY	plan16_deutsch_v3.png
+.NAME	plan16_deutsch_v3.png
+.PATH	_Plan_Profile
+.STATUS	327688
+.SURVEY	plan16_PL_v3_big.png
+.NAME	plan16_PL_v3_big.png
+.PATH	_Plan_Profile
+.STATUS	327688
+.SURVEY	Studnia pod Wisz¹c¹ Pó³k¹
+.NAME	STPWIP
+.PATH	495-Interessante\20110806-Studnia_pod_Wiszaca_Polka
+.STATUS	2560
+.ENDBOOK
+.BOOK	[496] Kraina Deszczowcow / Land der Regenmenschacht
+.NAME	496DESZ
+.STATUS	2570
+.REF	5266417.923 353821.433 33 -1.433 2010 1 47 32 5.040 13 3 27.900 27 "WGS 1984"
+.SURVEY	496_Land_der_Regenmenschacht_plan&profile_2009.pdf
+.NAME	496_Land_der_Regenmenschacht_plan&profile_2009.pdf
+.PATH	496_Land_der_Regenmenschacht
+.STATUS	327688
+.SURVEY	Deszcz2009
+.NAME	496D9
+.PATH	496-Land_der_Regenmenschacht\Deszcz02
+.STATUS	8
+.SURVEY	Deszcz
+.NAME	496DD
+.PATH	496-Land_der_Regenmenschacht\Deszcz01
+.STATUS	8
+.ENDBOOK
+.BOOK	[497] Hohle mit Oliphant <TODO>
+.NAME	497
+.STATUS	2570
+.REF	5266152.145 353185.939 33 -1.439 1969 1 47 31 55.920 13 2 57.840 27 "WGS 1984"
+.SURVEY	497
+.NAME	497SR
+.PATH	497-Hohle_mit_Oliphant
+.STATUS	8
+.SURVEY	497_Hohle_mit_Oliphant_plan&profile_2006.gif
+.NAME	497_Hohle_mit_Oliphant_plan&profile_2006.gif
+.PATH	497-Hohle_mit_Oliphant
+.STATUS	327688
+.ENDBOOK
+.BOOK	[498] Meander Pod Kosowka / Maander unter dem Laschen
+.NAME	498PK
+.STATUS	2570
+.REF	5266345.648 353229.710 33 -1.439 1924 1 47 32 2.220 13 2 59.700 27 "WGS 1984"
+.SURVEY	498_Maander_unter_dem_Laschen_plan&profile_2009.png
+.NAME	498_Maander_unter_dem_Laschen_plan&profile_2009.png
+.PATH	498_Maander_unter_dem_Laschen
+.STATUS	327688
+.SURVEY	podkosowka
+.NAME	498PKP
+.PATH	498-Maander_unter_dem_Laschen
+.STATUS	8
+.ENDBOOK
+.BOOK	[499] Wysoka / Hoher Schacht Z27
+.NAME	499-WYS
+.STATUS	2570
+.REF	5265697.275 352481.593 33 -1.446 2145 1 47 31 40.620 13 2 24.720 27 "WGS 1984"
+.SURVEY	499_Hoher_Schacht_plan&profile_2009.pdf
+.NAME	499_Hoher_Schacht_plan&profile_2009.pdf
+.PATH	499_Hoher_Schacht
+.STATUS	65544
+.SURVEY	499_Hoher_Schacht_plan&profile_2009.png
+.NAME	499_Hoher_Schacht_plan&profile_2009.png
+.PATH	499_Hoher_Schacht
+.STATUS	327688
+.SURVEY	wysdol
+.NAME	499WDOL
+.PATH	499-Hoher_Schacht\Wysoka02
+.SURVEY	Wysoka
+.NAME	499WYSO
+.PATH	499-Hoher_Schacht\Wysoka01
+.REF	5265697.275 352481.593 33 -1.446 2145 1 47 31 40.620 13 2 24.720 27 "WGS 1984"
+.ENDBOOK
+.BOOK	[500] B3-6
+.NAME	B3-6
+.STATUS	2570
+.REF	5265995.102 353041.033 33 -1.440 2009 1 47 31 50.718 13 2 51.102 27 "WGS 1984"
+.SURVEY	2014-07-26 - Nazi
+.NAME	NAZI
+.PATH	500-B3-6\20140726-Nazi
+.STATUS	8
+.SURVEY	500_B3-6_plan&profile_2010.pdf
+.NAME	500_B3-6_plan&profile_2010.pdf
+.PATH	500-B3-6
+.STATUS	327688
+.SURVEY	500_B3-6_plan&profile_2015.png
+.NAME	500_B3-6_plan&profile_2015.png
+.PATH	500-B3-6
+.STATUS	327688
+.SURVEY	2021-07-30 - Iza_Tomek
+.NAME	21B3IT
+.PATH	500-B3-6\20210730-21b3-6
+.STATUS	8
+.SURVEY	2015-08-09 - b3.6
+.NAME	150809
+.PATH	500-B3-6\20150809
+.STATUS	8
+.ENDBOOK
+.BOOK	[501] Kitzgrabenwasserschacht
+.NAME	501KIT
+.STATUS	2570
+.REF	5266392.140 354260.080 33 -1.428 1991 1 47 32 4.560 13 3 48.900 27 "WGS 1984"
+.SURVEY	501_Kizgrabenwasserschacht_plan_2013.svg
+.NAME	501_Kizgrabenwasserschacht_plan_2013.svg
+.PATH	501-Kitzgrabenwasserschacht
+.STATUS	327688
+.SURVEY	501_Kizgrabenwasserschacht_profile_2013.svg
+.NAME	501_Kizgrabenwasserschacht_profile_2013.svg
+.PATH	501-Kitzgrabenwasserschacht
+.STATUS	327688
+.SURVEY	501_Kizgrabenwasserschacht_plan_2013.pdf
+.NAME	501_Kizgrabenwasserschacht_plan_2013.pdf
+.PATH	501-Kitzgrabenwasserschacht
+.STATUS	327688
+.SURVEY	501_Kizgrabenwasserschacht_profile_2013.pdf
+.NAME	501_Kizgrabenwasserschacht_profile_2013.pdf
+.PATH	501-Kitzgrabenwasserschacht
+.STATUS	327688
+.SURVEY	2013-08-08 - Do drugiego syfonu
+.NAME	501KITTM
+.PATH	501-Kitzgrabenwasserschacht\501KITTM
+.STATUS	8
+.SURVEY	2013-08-06
+.NAME	KIC1
+.PATH	501-Kitzgrabenwasserschacht\KIC1
+.STATUS	10
+.SURVEY	2012-08-13 - Do syfonu
+.NAME	DS201208
+.PATH	501-Kitzgrabenwasserschacht\DS201208
+.STATUS	8
+.SURVEY	2012-08-13 - Rura
+.NAME	KI201201
+.PATH	501-Kitzgrabenwasserschacht\KI201201
+.STATUS	8
+.SURVEY	Kitzgrabenwasserschacht
+.NAME	501KITPK
+.PATH	501-Kitzgrabenwasserschacht\501KITPK
+.ENDBOOK
+.BOOK	[502] Jaskinia Cienia / Schattenhöhle
+.NAME	SHD
+.STATUS	2570
+.REF	5266727.927 353589.950 33 -1.435 1886 0 47 32 14.888 13 3 16.463 27 "WGS 1984"
+.SURVEY	502_Schattenhohle_plan&profile_2012.pdf
+.NAME	502_Schattenhohle_plan&profile_2012.pdf
+.PATH	502-Schattenhohle
+.STATUS	327688
+.SURVEY	2012-08-16 - Shadow
+.NAME	120816SH
+.PATH	502-Schattenhohle\20120816-Shadow
+.STATUS	8
+.ENDBOOK
+.BOOK	[503] Biwakko
+.NAME	503
+.PATH	503-Biwakko
+.STATUS	2570
+.REF	5266163.661 353243.967 33 -1.438 1932 1 47 31 56.340 13 3 0.600 27 "WGS 1984"
+.SURVEY	503_Biwakko_plany_and_profile_2014.pdf
+.NAME	503_Biwakko_plany_and_profile_2014.pdf
+.STATUS	327688
+.SURVEY	2014-08-13 - Biwakko
+.NAME	BIWAK
+.PATH	20140813-Biwakko
+.STATUS	8
+.ENDBOOK
+.BOOK	[504] 37
+.NAME	37
+.PATH	504-37
+.STATUS	2570
+.REF	5265839.419 353461.769 33 -1.436 2012 1 47 31 46.020 13 3 11.400 27 "WGS 1984"
+.SURVEY	37-plan-2015.pdf
+.NAME	37-plan-2015.pdf
+.STATUS	327688
+.SURVEY	37-profile-2015.pdf
+.NAME	37-profile-2015.pdf
+.STATUS	327688
+.SURVEY	37-profile-2016.pdf
+.NAME	37-profile-2016.pdf
+.STATUS	327688
+.SURVEY	20150809 - a
+.NAME	150809A
+.PATH	20150809-trzysie
+.STATUS	8
+.SURVEY	20150809 - b
+.NAME	150809B
+.PATH	20150809-trzysie2
+.STATUS	8
+.SURVEY	20150809 - c
+.NAME	150809C
+.PATH	20150809-trzysie3
+.STATUS	8
+.SURVEY	20150810 - d
+.NAME	150810
+.PATH	20150810-trzysie4
+.STATUS	8
+.SURVEY	20160808 - 37
+.NAME	160808
+.PATH	20160808-trzysie5
+.STATUS	8
+.SURVEY	20180801 - zjazd37
+.NAME	180801
+.PATH	20180801-zjazd37
+.STATUS	8
+.SURVEY	20180806 - Ci¹g g³ówny
+.NAME	180806CG
+.PATH	20180806-ciag-glowny
+.STATUS	8
+.SURVEY	20180806 - Na 180
+.NAME	180806NA
+.PATH	20180806-na-180
+.STATUS	8
+.SURVEY	20180806 - obejscie
+.NAME	180806OB
+.PATH	20180806-obejscie-do-pierwszego-dna
+.STATUS	8
+.SURVEY	20180812 - meander
+.NAME	MEANDER
+.PATH	20180812-meander
+.STATUS	8
+.ENDBOOK
+.BOOK	[506] AK-1
+.NAME	AK1
+.PATH	506_AK-1
+.STATUS	2570
+.REF	5265637.409 353387.663 33 -1.437 2033 1 47 31 39.420 13 3 8.100 27 "WGS 1984"
+.SURVEY	AK-1-profile.pdf
+.NAME	AK-1-profile.pdf
+.STATUS	327688
+.SURVEY	AK-1-plan.pdf
+.NAME	AK-1-plan.pdf
+.STATUS	327688
+.SURVEY	20160806 - Ak1
+.NAME	160806
+.PATH	..\506-AK-1\20160806-Ak1
+.STATUS	8
+.ENDBOOK
+.BOOK	[507] X-Schacht
+.NAME	STDX
+.PATH	507-X-Schacht
+.STATUS	2570
+.REF	5265604.032 353536.206 33 -1.435 2058 1 47 31 38.460 13 3 15.240 27 "WGS 1984"
+.SURVEY	der x_schacht_grundriss_aufriss_1_500_DE.pdf
+.NAME	der x_schacht_grundriss_aufriss_1_500_DE.pdf
+.PATH	..\507_X-Schacht
+.STATUS	327688
+.SURVEY	der x_schacht_grundriss_1_500_DE.pdf
+.NAME	der x_schacht_grundriss_1_500_DE.pdf
+.PATH	..\507_X-Schacht
+.STATUS	327688
+.SURVEY	der x_schacht_aufriss_1_500_DE.pdf
+.NAME	der x_schacht_aufriss_1_500_DE.pdf
+.PATH	..\507_X-Schacht
+.STATUS	327688
+.SURVEY	Studnia-X_2
+.NAME	STDX02
+.PATH	20160806-stdx02
+.STATUS	8
+.SURVEY	Studnia-X
+.NAME	STDX01
+.PATH	20160806-stdx01
+.STATUS	8
+.ENDBOOK
+.BOOK	[508] Studnia pod G³azem / Schacht under dem Stein
+.NAME	SCH1
+.PATH	508-Schacht_unter_dem_Stein
+.STATUS	2570
+.REF	5265684.649 353462.408 33 -1.436 2048 2 47 31 41.010 13 3 11.616 27 "WGS 1984"
+.SURVEY	Schacht unter dem Stein W-E.JPG
+.NAME	Schacht unter dem Stein W-E.JPG
+.STATUS	327688
+.SURVEY	Schacht unter dem Stein W-E.pdf
+.NAME	Schacht unter dem Stein W-E.pdf
+.STATUS	327688
+.SURVEY	Schacht unter dem Stein.JPG
+.NAME	Schacht unter dem Stein.JPG
+.STATUS	327688
+.SURVEY	Schacht unter dem Stein.pdf
+.NAME	Schacht unter dem Stein.pdf
+.STATUS	327688
+.SURVEY	schacht_1
+.NAME	SCH_1
+.PATH	20160807-schacht_1
+.STATUS	8
+.ENDBOOK
+.BOOK	[562] Himmelfahr
+.NAME	T4
+.PATH	562-Himmelfahr
+.STATUS	2570
+.REF	5266115.389 353838.968 33 -1.432 1993 1 47 31 55.260 13 3 29.100 27 "WGS 1984"
+.SURVEY	T4
+.NAME	EXP
+.PATH	T4
+.STATUS	8
+.ENDBOOK
+.BOOK	[563] Lewa w Scianie / Linker Wandschacht
+.NAME	KAHL_2
+.PATH	563-Linker_Wandschacht
+.STATUS	2570
+.REF	5265822.961 352253.043 33 -1.448 2188 1 47 31 44.502 13 2 13.644 27 "WGS 1984"
+.SURVEY	180808
+.NAME	180808
+.PATH	180808
+.STATUS	8
+.ENDBOOK
+.BOOK	[564] Prawa w Scianie / Rechter Wandschacht
+.NAME	KAHL_1
+.PATH	564-Rechter_Wandschacht
+.STATUS	2570
+.REF	5265850.253 352221.849 33 -1.448 2191 1 47 31 45.360 13 2 12.120 27 "WGS 1984"
+.SURVEY	180807
+.NAME	180807DT
+.PATH	180807
+.STATUS	8
+.ENDBOOK
+.BOOK	[565] Pod Grzybem / Höhle unter dem Steinpilz
+.NAME	SZ38
+.PATH	565-Hohle_unter_dem_Steinpilz
+.STATUS	2570
+.REF	5265930.921 352293.304 33 -1.448 2122 1 47 31 48.030 13 2 15.438 27 "WGS 1984"
+.SURVEY	lka7
+.NAME	LKA7
+.PATH	SZ38
+.STATUS	8
+.ENDBOOK
+.BOOK	[567] Stary Meander Zachodni / Alte Westmaander
+.NAME	567AW
+.PATH	567-Alte_Westmaander
+.STATUS	2570
+.REF	5264143.749 353160.602 33 -1.438 2090 1 47 30 50.880 13 2 59.040 27 "WGS 1984"
+.SURVEY	Alte_Westmaander_plan&profile_v2.pdf
+.NAME	Alte_Westmaander_plan&profile_v2.pdf
+.STATUS	327688
+.SURVEY	STMEZACH
+.NAME	STMEZACH
+.PATH	20200805-Stary_Meander_Zachodni
+.STATUS	8
+.ENDBOOK
+.BOOK	[568] Stary Meander Wschodni / Alte Ostmaander
+.NAME	STM
+.PATH	568-Alte_Ostmaander
+.STATUS	2570
+.REF	5264134.046 353185.345 33 -1.438 2077 1 47 30 50.586 13 3 0.234 27 "WGS 1984"
+.SURVEY	Alte Ostmaander v3 przekroj.pdf
+.NAME	Alte Ostmaander v3 przekroj.pdf
+.STATUS	327688
+.SURVEY	Alte Ostmaander v4 plan.pdf
+.NAME	Alte Ostmaander v4 plan.pdf
+.STATUS	327688
+.SURVEY	pietro 0
+.NAME	PI0
+.PATH	20200801_pietro_0
+.STATUS	8
+.SURVEY	pietro 1
+.NAME	PI1
+.PATH	20200801_pietro_minus_1
+.STATUS	8
+.ENDBOOK
+.BOOK	[569] Trzy Studzienki / Dreischachtlhöhle
+.NAME	569
+.PATH	569-Dreischachtlhohle
+.STATUS	2570
+.REF	5264374.714 352930.481 33 -1.441 2100 1 47 30 58.170 13 2 47.766 27 "WGS 1984"
+.SURVEY	3s
+.NAME	3S
+.PATH	20200811-Trzy_Studzienki
+.STATUS	8
+.SURVEY	Dreischachtlhöhle planen.pdf
+.NAME	Dreischachtlhöhle planen.pdf
+.STATUS	327688
+.SURVEY	Dreischachtlhöhle sektion.pdf
+.NAME	Dreischachtlhöhle sektion.pdf
+.STATUS	327688
+.ENDBOOK
+.BOOK	[570] FK-13
+.NAME	570FK13
+.PATH	570-FK13
+.STATUS	2570
+.REF	5264578.620 353069.072 33 -1.439 2119 1 47 31 4.884 13 2 54.144 27 "WGS 1984"
+.SURVEY	FK13.pdf
+.NAME	FK13.pdf
+.STATUS	327688
+.SURVEY	fk13
+.NAME	FK13
+.PATH	20200801-FK13
+.STATUS	8
+.ENDBOOK
+.BOOK	[571] Jaskinia Muminkow / Muminshohle
+.NAME	571MUMIN
+.PATH	571-Muminshohle
+.STATUS	2570
+.REF	5264677.412 353386.183 33 -1.436 2090 1 47 31 8.340 13 3 9.180 27 "WGS 1984"
+.SURVEY	Jaskinia Muminków - przekrój.png
+.NAME	Jaskinia Muminków - przekrój.png
+.STATUS	327688
+.SURVEY	Jaskinia Muminków - plan.png
+.NAME	Jaskinia Muminków - plan.png
+.STATUS	327688
+.SURVEY	2021-07-30 Jaskinia Muminkow
+.NAME	MUMINKOW
+.PATH	20210730-Muminkow
+.STATUS	8
+.ENDBOOK
+.BOOK	[572] Jaskinia Poprzeczna / Querhohle
+.NAME	QUER
+.PATH	572-Querhohle
+.STATUS	2570
+.REF	5265228.121 352932.991 33 -1.441 2101 1 47 31 25.800 13 2 46.860 27 "WGS 1984"
+.SURVEY	1335_572 Querhöhle_Grundriss.pdf
+.NAME	1335_572 Querhöhle_Grundriss.pdf
+.STATUS	327688
+.SURVEY	1335_572 Querhöhle_Aufriss.pdf
+.NAME	1335_572 Querhöhle_Aufriss.pdf
+.STATUS	327688
+.SURVEY	J. Poprzeczna plan.pdf
+.NAME	J. Poprzeczna plan.pdf
+.STATUS	327688
+.SURVEY	2021-08-06 - Poprzeczna
+.NAME	POPRZECZ
+.PATH	20210816-Poprzeczna
+.STATUS	8
+.ENDBOOK
+.BOOK	[573] Przekorna Studnia / Widerspenstige Hohle
+.NAME	PRZEKOR
+.PATH	573-Widerspenstige_Hohle
+.STATUS	2570
+.REF	5266145.686 353081.596 33 -1.440 1973 1 47 31 55.626 13 2 52.860 27 "WGS 1984"
+.SURVEY	przekorna-ns.pdf
+.NAME	przekorna-ns.pdf
+.STATUS	327688
+.SURVEY	przekorna-planDE.pdf
+.NAME	przekorna-planDE.pdf
+.STATUS	327688
+.SURVEY	przekorna-nsPL.png
+.NAME	przekorna-nsPL.png
+.STATUS	327688
+.SURVEY	przekorna-planPL.png
+.NAME	przekorna-planPL.png
+.STATUS	327688
+.SURVEY	2021-08-12 - Przekorna Studnia
+.NAME	PRZEKORN
+.PATH	20210812-Przekorna_Studnia
+.STATUS	8
+.ENDBOOK
+.BOOK	[574] Z lustrami / Hohle mit Spiegeln
+.NAME	Z_LUSTRA
+.PATH	574-Hohle_mit_Spiegeln
+.STATUS	2570
+.REF	5265818.017 352617.699 33 -1.444 2086 1 47 31 44.640 13 2 31.080 27 "WGS 1984"
+.SURVEY	JaskiniaZLustrami_Przekroj.png
+.NAME	JaskiniaZLustrami_Przekroj.png
+.STATUS	327688
+.SURVEY	JaskiniaZLustrami_Plan.png
+.NAME	JaskiniaZLustrami_Plan.png
+.STATUS	327688
+.SURVEY	2021-08-13 - Z Lustrami
+.NAME	LUSTRA
+.PATH	20210813-Z_lustrami
+.STATUS	8
+.ENDBOOK
+.BOOK	[575] Odwroconego Egzorcyzmu / Umgekehrter Exorzismus
+.NAME	ODWREGZ
+.PATH	575-Umgekehrter_Exorzismus
+.STATUS	2570
+.REF	5265751.306 352617.272 33 -1.444 2089 1 47 31 42.480 13 2 31.140 27 "WGS 1984"
+.SURVEY	2022-08-13 - Partie przyotworowe
+.NAME	PPRZYOTW
+.PATH	20220813-Partie_przyotworowe
+.STATUS	8
+.SURVEY	2022-08-10 - Trawers nad prozkiem
+.NAME	TRAWERS
+.PATH	20220810-Trawers
+.STATUS	8
+.SURVEY	2022-08-07 - Ciagi od przejscia granicznego
+.NAME	ZAGRANIC
+.PATH	20220807-Zagranica
+.STATUS	8
+.SURVEY	2022-08-04 - Partie nad Studni¹ Motyla
+.NAME	NADMOTYL
+.PATH	20220804-NadMotyl
+.STATUS	8
+.SURVEY	2022-08-04 - Gorne Pietro Poziome
+.NAME	POZIOM2
+.PATH	20220804-poziom2
+.STATUS	8
+.SURVEY	2022-07-31 - Zlotowka
+.NAME	ZLOTOWKA
+.PATH	20220731-Studnie_Zlotowe
+.STATUS	8
+.SURVEY	2022-07-29 - Partie poziome
+.NAME	GRMJ33
+.PATH	20220729-poziom1
+.STATUS	8
+.SURVEY	2023-07-23 - Studnia Bambika - Podwójna studnia
+.NAME	BAMBIK2S
+.PATH	20230723-Bambik2S
+.STATUS	8
+.SURVEY	2023-07-24 - Przed koniem
+.NAME	PRZEDKON
+.PATH	20230724-Przed_Koniem
+.STATUS	8
+.SURVEY	2023-07-25 - Studnia 13
+.NAME	STUDN_13
+.PATH	20230725-Studnia13
+.STATUS	8
+.SURVEY	2023-07-27 - Obok studni 13
+.NAME	OBOKST13
+.PATH	20230727-Obok_Studni13
+.STATUS	8
+.SURVEY	2023-07-28 - Misja na Marsa
+.NAME	NAMARSA
+.PATH	20230728-Misja_na_Marsa
+.STATUS	8
+.SURVEY	2023-07-30 - Studnia z niebiesk¹ lin¹
+.NAME	STNEBLIN
+.PATH	20230729-Studnia_z_Niebieska_Lina
+.STATUS	8
+.SURVEY	2023-07-31 - Studnia babci Hani
+.NAME	STBAHANI
+.PATH	20230731-Studnia_Babci_Hani
+.STATUS	8
+.SURVEY	2023-08-11 - Pod studni¹ babci Hani
+.NAME	PDSTBAHA
+.PATH	20230811-Pod_Studnia_Babci_Hani
+.STATUS	8
+.ENDBOOK
+.BOOK	[576] Pod Koziorozcem / Unter dem Steinbock
+.NAME	PODKOZI
+.PATH	576-Unter_dem_Steinbock
+.STATUS	2570
+.REF	5265717.493 352635.248 33 -1.444 2083 1 47 31 41.400 13 2 32.040 27 "WGS 1984"
+.SURVEY	2022-07-27 - Pod Koziorozcem
+.NAME	PODKOZIO
+.PATH	20220727-Pod_Koziorozcem
+.STATUS	8
+.ENDBOOK
+.BOOK	[577] Moj pierwszy raz / Das Erste Mal
+.NAME	MOJ12RAZ
+.PATH	577-Das_Erste_Mal
+.STATUS	2570
+.REF	5266813.962 352651.601 33 -1.444 1978 1 47 32 16.910 13 2 31.500 27 "WGS 1984"
+.SURVEY	2022-08-01 Mój pierwszy (drugi) raz
+.NAME	MOJ1RAZ
+.PATH	20220801-Moj_pierwszy_raz
+.STATUS	520
+.REF	5266814.000 352650.000 33 -1.444 1980 1 47 32 16.910 13 2 31.423 27 "WGS 1984"
+.ENDBOOK
+.BOOK	[578] Pod Skalnymi Mostami / Höhle unter den Felsbrücken
+.NAME	SKALNEMO
+.PATH	578-Hohle_unter_den_Felsbrucken
+.STATUS	2570
+.REF	5264558.000 353001.000 33 -1.440 2132 1 47 31 4.161 13 2 50.916 27 "WGS 1984"
+.SURVEY	2023-08-11 - Pod Skalnymi Mostami
+.NAME	SKALMOST
+.PATH	20230811-Pod_skalnymi_mostami
+.STATUS	8
+.SURVEY	2024-08-22 - Ci¹gi od sali z groblami
+.NAME	ODGROBLI
+.PATH	20240822-Ciagi_od_sali_z_groblami
+.STATUS	8
+.SURVEY	2024-08-23 - Bok g³ównej pochylni
+.NAME	BOKPOCHY
+.PATH	20240823-Bok_glownej_pochylni
+.STATUS	8
+.ENDBOOK
+.BOOK	[579] Vorderer Kragenkopf Eishöhle
+.NAME	KRAGE_EH
+.PATH	579-Vorderer_Kragenkopf_Eishohle
+.STATUS	2570
+.REF	5264811.000 353051.000 33 -1.440 2134 1 47 31 12.392 13 2 53.001 27 "WGS 1984"
+.SURVEY	2023-08-08 - Vorderer Kragenkopf Eishöhle
+.NAME	KRAGKOPF
+.PATH	20230808-Vorderer_Kragenkopf_Eishohle
+.STATUS	8
+.ENDBOOK
+.BOOK	[581] Jaskinia Ciepla / Warme Höhle
+.NAME	CIEPLA
+.PATH	581-Warme_Hohle
+.STATUS	2571
+.REF	5266654.633 352220.853 33 -1.449 1974 1 47 32 11.400 13 2 11.100 27 "WGS 1984"
+.SURVEY	2024-08-22 - Ciepla01
+.NAME	CIEPLA01
+.PATH	Ciepla01
+.STATUS	8
+.SURVEY	2024-08-24 - Ciepla02
+.NAME	CIEPLA02
+.PATH	Ciepla02
+.STATUS	8
+.SURVEY	2025-08-11 - Ciepla03
+.NAME	CIEPLA03
+.PATH	Ciepla03
+.STATUS	8
+.ENDBOOK
+.SURVEY	granica
+.NAME	GRANICA
+.STATUS	10
+.SURVEY	Poziomice
+.NAME	DEM
+.PATH	Teren
+.STATUS	10
+.SURVEY	TerenX
+.NAME	TERENXX
+.PATH	Teren
+.STATUS	2570
+.REF	5266269.591 353380.125 33 -1.437 1940 1 47 31 59.880 13 3 6.982 27 "WGS 1984"
+.SURVEY	TerenY
+.NAME	TERENX
+.PATH	Teren
+.STATUS	2570
+.REF	5266269.591 353380.125 33 -1.437 1940 1 47 31 59.880 13 3 6.982 27 "WGS 1984"
+.ENDBOOK

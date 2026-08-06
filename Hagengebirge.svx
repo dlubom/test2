@@ -26,20 +26,20 @@
 *include 481-Spaltchen\481-master.svx
 *include 482-Hohle_der_blaunen_Nebel\482-master.svx
 *include 483-WH2\483-master.svx
-*include 484-Neuhauserschacht\484-master.svx
+*include 484-Neuhauserschacht\484-master-TODO.svx		; TODO
 *include 485-A4-3\485-master.svx
 *include 486-A4-10\486-master.svx
 *include 487-Schneekoniginhohle\487-master.svx
 *include 488-A4-40\488-master.svx
-;489-Q1	; brak pomiarow
-;490-B3-4	; brak pomiarow
+; 489-Q1	; brak pomiarow
+; 490-B3-4	; brak pomiarow
 *include 491-Hohle_in_Roten_Steinen\491-master.svx
 *include 492-Korallenhohle\492-master.svx
 *include 493-Eisschrank\493-master.svx
 *include 494-Respektschacht\494-master.svx
 *include 495-Interessante\495-master.svx
 *include 496-Land_der_Regenmenschacht\496-master.svx
-;497-Hohle_mit_Oliphant	; brak pomiarow
+; 497-Hohle_mit_Oliphant	; brak pomiarow
 *include 498-Maander_unter_dem_Laschen\498-master.svx
 *include 499-Hoher_Schacht\499-master.svx
 *include 500-B3-6\500-master.svx
@@ -50,12 +50,12 @@
 *include 506-AK-1\506-master.svx
 *include 507-X-Schacht\507-master.svx
 *include 508-Schacht_unter_dem_Stein\508-master.svx
-;
+
 *include 562-Himmelfahr\562-master.svx
 *include 563-Linker_Wandschacht\563-master.svx	; Lewa w Ścianie
 *include 564-Rechter_Wandschacht\564-master.svx	; Prawa w Ścianie
 *include 565-Hohle_unter_dem_Steinpilz\565-master.svx	; Pod Grzybem
-;
+
 *include 567-Alte_Westmaander\567-master.svx
 *include 568-Alte_Ostmaander\568-master.svx
 *include 569-Dreischachtlhohle\569-master.svx
@@ -69,8 +69,10 @@
 *include 577-Das_Erste_Mal\577-master.svx
 *include 578-Hohle_unter_den_Felsbrucken\578-master.svx
 *include 579-Vorderer_Kragenkopf_Eishohle\579-master.svx
-;
+
+*solve					; "zabetonowanie" ciągów powyżej dyrektywy *solve
 *include 581-Warme_Hohle\581-master.svx
+*include 582-Willys_Projekt\582-master.svx
 
 
 ;;------------------------------------ Bez wpisu do katastra ------------------------------------
@@ -82,5 +84,21 @@
 
 
 *include grenze_sagis.svx
+
+
+;;====================================== Systemy jaskiniowe =====================================
+
+;;------------------------------------ System Ciekawa - Ciepła ----------------------------------
+;;--------------------- Bezpośrednie połączenie jaskini Ciepłej z Ciekawą -----------------------
+; *equate 581-Warme_Hohle.c05.6	495-Interessante.Obejscie_60.ob020			; połączenie przez Adrenalinę na maxa
+; *equate 581-Warme_Hohle.c09.2	495-Interessante.Obejscie_do_Nikad.ob056		; pierwotne połączenie
+;;----------- Alterantywne połączenie jaskini Ciepłej z Ciekawą (wirtualne pochylnie) -----------
+*include 495-581-Interessante-Wame_Hohle\Jumper_495-581.svx		; wirtualny łącznik Ciepła - Ciekawa, który przejmuje cały błąd połączenia (ponad 22 m, odległość pozioma ponad 20 m, pionowa ponad 9 m) i nie jest wliczany do długości systemu
+*equate 581-Warme_Hohle.c05.6	Jumper-Warme-Interessante.1_0
+*equate Jumper-Warme-Interessante.1_1	495-Interessante.Obejscie_60.ob020		; połączenie przez Adrenalinę na maxa
+*equate 581-Warme_Hohle.c09.2	Jumper-Warme-Interessante.2_0
+*equate Jumper-Warme-Interessante.2_1	495-Interessante.Obejscie_do_Nikad.ob056	; pierwotne połączenie
+
+
 
 *end

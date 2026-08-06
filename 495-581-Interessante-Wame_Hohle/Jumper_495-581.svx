@@ -1,0 +1,13 @@
+*begin Jumper-Warme-Interessante
+
+*declination 0 degrees
+
+*data normal from to tape compass clino ignoreall
+*flags duplicate
+;1_0	1_1	22.22	175.32	-25.3	; połączenie przez Adrenalinę na maxa
+1_0	1_1	22.30	173.50	-25.17	; połączenie przez Adrenalinę na maxa
+;2_0	2_1	22.10	174.99	-24.73	; pierwotne połączenie
+2_0	2_1	22.19	173.20	-24.23	; pierwotne połączenie
+*flags not duplicate
+
+*end Jumper-Warme-Interessante

@@ -1,0 +1,24 @@
+*case preserve
+*begin
+
+*cs UTM33N
+*cs out UTM33N
+
+*declination auto	352471.604	5266842.907	1935	; Baza
+
+*infer exports on
+
+
+*include ..\495-Interessante\495-master.svx
+*solve
+*include ..\581-Warme_Hohle\581-master.svx
+
+
+*include ..\grenze_sagis.svx
+
+;;-------------------------------------- Systemy jaskiniowe ------------------------------------
+*equate 581-Warme_Hohle.c05.6	495-Interessante.Obejscie_60.ob020
+*equate 581-Warme_Hohle.c09.2	495-Interessante.Obejscie_do_Nikad.ob056
+
+
+*end

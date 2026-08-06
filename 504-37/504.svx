@@ -30,6 +30,7 @@
 *include 20180806-na-180\180806na.svx
 *include 20180806-obejscie-do-pierwszego-dna\180806ob.svx
 *include 20180812-meander\meander.svx
+*include 20250811-Kontynuacja_meandra\KontMndr.svx
 
 
 *equate 01-eingang	trzysie.1_0	; entrance 01
@@ -43,6 +44,8 @@
 *equate Ciag_glowny.4_1	Obejscie_do_pierwszego_dna.1_0
 *equate zjazd37.1_0	Obejscie_do_pierwszego_dna.1_7
 *equate Ciag_glowny.1_13	Meander.1_0
+*equate Meander.1_11	Kontynuacja_meandra.0
+
 
 
 *end 504-37

@@ -1,0 +1,105 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 581
+;cavern name de "Warme Höhle"
+;cavern name pl "Ciep³a"
+;cavern part de ""
+;cavern part pl "Partie za studnia z paskiem"
+
+;file date 2025-08-20
+;file team "Karol Makowski"
+
+;source file: Ciepla08.srv
+*case preserve
+
+;#PREFIX	c08
+*begin c08
+*title "Partie za studnia z paskiem"
+
+;*cs UTM33N
+;*declination auto	352214.76	5266645.01	1970	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 4.5 degrees
+
+*date 2025.08.19
+
+;team Joanna Piskorek (DistoX2 #?), Marta Blok (Tablet/Qave), Grzegorz Blok (Spray)
+*team "Marta Blok" notes pictures station ;(Tablet/Qave, Spray)
+*team "Joanna Piskorek" instruments ;(DistoX2)
+*team "Grzegorz Blok" station explorer ;(Spray)
+
+*instrument tape "DistoX2 <id>"
+*instrument compass "DistoX2 <id>"
+*instrument clino "DistoX2 <id>"
+
+*units tape backtape meters
+*units compass backcompass degrees
+*units clino backclino degrees
+
+*data normal from to tape compass clino ignoreall
+
+*flags duplicate
+0	1	7.942	345.386	-82.859	; powtorzony
+1	2	10.696	144.269	-57.528	; powtorzony
+*flags not duplicate
+2	3	4.712	150.959	-51.191
+3	4	3.333	126.072	-61.368
+4	5	11.856	137.302	-83.555
+5	6	27.259	332.69	-87.398
+6	7	2.757	126.912	-9.776
+7	8	1.778	183.351	-12.242
+8	9	1.79	280.358	-10.679
+2	..	0.834	105.903	-12.047
+2	..	2.717	154.155	2.032
+2	..	1.541	141.268	0.231
+2	..	0.679	160.488	-1.439
+2	..	0.616	66.385	-2.109
+2	..	0.681	159.527	-5.334
+2	..	1.582	82.87	-84.15
+3	..	1.33	340.087	-39.974
+3	..	2.357	340.444	0.417
+3	..	3.458	309.287	-85.853
+3	..	2.151	340.768	-24.708
+3	..	5.471	134.16	79.036
+3	..	4.345	143.344	51.487
+3	..	3.217	59.013	87.99
+3	..	6.499	143.069	-5.103
+3	..	3.578	154.424	-58.024
+3	..	4.422	134.484	-55.569
+3	..	9.285	143.696	-79.783
+3	..	3.672	140.548	-79.376
+3	..	31.732	142.256	-74.603
+3	..	3.409	175.15	-82.035
+3	..	7.347	140.663	-16.71
+4	..	0.858	239.612	-0.258
+5	..	11.909	136.989	-83.578
+5	..	11.943	137.373	-83.535
+5	..	2.375	98.108	-2.565
+5	..	4.745	125.03	0.379
+5	..	5.161	138.933	1.626
+5	..	1.772	199.77	1.055
+5	..	3.504	175.737	-6.075
+5	..	26.929	330.172	-87.226
+5	..	28.361	329.54	-87.297
+5	..	27.342	330.359	-87.297
+5	..	26.902	330.216	-87.286
+5	..	27.331	329.755	-87.352
+5	..	28.907	333.616	-87.479
+6	..	2.268	73.575	6.29
+6	..	2.778	20.841	14.568
+6	..	2.627	126.645	7.344
+6	..	1.227	354.479	9.564
+6	..	7.658	346.218	82.452
+6	..	1.559	349.986	-76.229
+6	..	2.54	105.859	-51.509
+7	..	1.738	183.675	-20.561
+7	..	0.638	286.908	-1.78
+7	..	1.636	225.286	-83.079
+7	..	0.776	224.973	60.337
+8	..	0.372	82.343	0.791
+8	..	2.286	162.548	25.972
+8	..	0.568	147.096	-21.555
+8	..	0.769	334.962	-7.729
+9	..	0.456	211.932	-16.924
+*end c08
