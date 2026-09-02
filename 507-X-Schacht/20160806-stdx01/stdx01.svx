@@ -14,7 +14,7 @@
 ;source file: stdx01.srv
 *case preserve
 
-*begin stdx01
+*begin stx01
 *title "<add a title>"
 
 ;*cs UTM33N
@@ -456,4 +456,4 @@
 1_62	..	1.899	322.89	-6.71
 1_62	..	3.03	5.4	64.89
 1_62	..	1.166	256.04	-81.41
-*end stdx01
+*end stx01

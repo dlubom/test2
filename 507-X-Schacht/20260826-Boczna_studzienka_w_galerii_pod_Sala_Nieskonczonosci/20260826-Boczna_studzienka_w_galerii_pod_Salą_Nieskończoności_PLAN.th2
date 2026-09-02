@@ -1,0 +1,30 @@
+encoding utf-8
+# Created at 2026.08.26 22:24:24 by Qave ver. 3.238 rev. 3.2
+
+survey studniax_67 \
+-title "Boczna studzienka w galerii pod Salą Nieskończoności"
+
+centerline
+team "Radosław Paternoga (DistoX2 H-5006), Michał Parczewski (Tablet/Qave)"
+date 2026.08.26
+data normal from to tape compass clino
+
+0 1  1.401 347.957 27.332
+1 2  4.489 99.399 66.865
+2 3  2.918 92.036 73.810
+3 4  0.781 177.735 82.110
+
+1 - 1.511 99.833 1.154
+1 - 1.924 20.891 -1.219
+1 - 1.244 169.272 0.824
+1 - 6.647 100.272 66.566
+2 - 0.625 169.645 1.099
+2 - 2.585 240.233 -8.377
+2 - 2.018 286.848 5.246
+3 - 0.582 6.064 15.282
+3 - 1.295 297.416 -3.153
+3 - 1.036 176.451 13.046
+3 - 1.918 53.174 38.161
+
+endcenterline
+endsurvey

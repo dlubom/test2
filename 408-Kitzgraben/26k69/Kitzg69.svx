@@ -1,0 +1,52 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 408
+;cavern name de "Kitzgrabenschacht"
+;cavern name pl ""
+;cavern part de ""
+;cavern part pl "Gabinet Owalny"
+
+;file date 2026-08-25
+;file team "Karol Makowski"
+
+;source file: 20260824-Komin_z_salki_gdzie_się_najbardziej_sypie.svx
+*case preserve
+
+
+*begin k69
+*title "Komin z salki gdzie się najbardziej sypie"
+
+;*cs UTM33N
+;*declination auto	353907.226	5266168.652	1992	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 4.6 degrees
+
+*date 2026.08.24
+
+;*team Magda Sitarz (Tablet/Qave), Marek Wierzbowski (DistoX2 H-5006, poręczowanie)
+*team "Magda Sitarz" notes pictures ;(Tablet/Qave)
+*team "Marek Wierzbowski" instruments explorer ;(DistoX2 H-5006, poręczowanie)
+
+*instrument tape "DistoX2 H-5006"
+*instrument compass "DistoX2 H-5006"
+*instrument clino "DistoX2 H-5006"
+
+*units tape meters
+*units compass degrees
+*units clino degrees
+
+*data normal from to tape compass clino ignoreall
+;5	6	7.853	120.223	-59.493	; kopia k67 z pkt 5 do 6
+0_1	0	2.6	119.000	-57.000	; fejkowy pomiar, ok. 1/3 kopii k67 z pkt 5 do 6
+0	1	4.769	45.520	8.011
+1	2	4.585	40.069	40.305
+2	2_1	12.297	42.067	-81.101	; pomiar do dna studzienki (na podstawie zakomentowanych domiarów z punktu 3)
+2	3	14.181	326.061	74.092
+*flags splay
+1	.		4.654	39.990	40.523
+1	.		4.649	39.930	40.496
+; 3	.		11.624	43.517	-79.969	; to powinien być pomiar do dna studzienki, ale z punktu 2, a nie 3
+; 3	.		12.297	42.067	-81.101	; to powinien być pomiar do dna studzienki, ale z punktu 2, a nie 3
+; 3	.		12.591	50.186	-80.370	; to powinien być pomiar do dna studzienki, ale z punktu 2, a nie 3
+*end k69

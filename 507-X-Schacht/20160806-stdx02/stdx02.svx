@@ -14,7 +14,7 @@
 ;source file: stdx02.srv
 *case preserve
 
-*begin stdx02
+*begin stx02
 *title "<add a title>"
 
 ;*cs UTM33N
@@ -88,4 +88,4 @@
 1_10	..	1.54	321.0	4.13
 1_10	..	1.31	8.49	7.1
 1_10	..	1.22	151.9	10.44
-*end stdx02
+*end stx02

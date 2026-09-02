@@ -1,7 +1,7 @@
 #units meters order=AVD
 #units A=D V=D
 #date 2016-08-06
-#prefix stx2
+#prefix stx02
 ;Arek Kus, Slawomir Heteniak
 ;1.0	1.1	191.26	-16.17	2.08	;powtorzony
 ;1.1	1.2	222.01	-31.82	1.259	;powtorzony

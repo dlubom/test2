@@ -24,6 +24,7 @@
 *include Willy01\Willy01.svx	; otwor (w górę)
 *include Willy02\Willy02.svx	; otwor (w dół)
 *include Willy03\Willy03.svx	; studnia Sarlacc z potencjalnie zagubionym pomiarem
+*include Willy04\Willy04.svx	; Ciągi pod górkę - kontynuacja
 
 
 *equate 01-eingang	w02.0		; entrance 01
@@ -31,5 +32,6 @@
 *equate w02.1	w01.0		; 
 *equate w01.3	w02.4		; 
 *equate w03.2	w02.9_8_2		; 
+*equate w04.2	w01.16		; 
 
 *end 582-Problem_Willyego

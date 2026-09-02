@@ -1,0 +1,19 @@
+#units meters order=DAV
+#Units A=D V=D
+#Prefix k69
+
+#date 2026-08-24
+;team: Magda Sitarz (Tablet/Qave), Marek Wierzbowski (DistoX2 H-5006, poreczowanie)
+;title: Komin z salki gdzie sie najbardziej sypie
+;5	6	7.853	120.223	-59.493	; kopia k67 z pkt 5 do 6
+k67:5	0.1	0	0	0	; dowiazanie
+0.1	0	2.6	119.000	-57.000	; fejkowy pomiar, ok. 1/3 kopii k67 z pkt 5 do 6
+0	1	4.769	45.520	8.011
+1	2	4.585	40.069	40.305
+2	2.1	12.297	42.067	-81.101	; pomiar do dna studzienki (na podstawie zakomentowanych domiarów z punktu 3)
+2	3	14.181	326.061	74.092
+1	-	4.654	39.990	40.523
+1	-	4.649	39.930	40.496
+;3	-	11.624	43.517	-79.969	; to powinien byc pomiar do dna studzienki, ale z punktu 2, a nie 3
+;3	-	12.297	42.067	-81.101	; to powinien byc pomiar do dna studzienki, ale z punktu 2, a nie 3
+;3	-	12.591	50.186	-80.370	; to powinien byc pomiar do dna studzienki, ale z punktu 2, a nie 3

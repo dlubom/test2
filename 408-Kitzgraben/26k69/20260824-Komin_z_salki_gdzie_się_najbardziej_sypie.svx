@@ -1,0 +1,14 @@
+*begin kitzgraben_8
+*date 2026.08.24
+*team Magda Sitarz (Tablet/Qave), Marek Wierzbowski (DistoX2 H-5006, poręczowanie)
+*data normal from to tape compass clino ignoreall
+0	1	4.769	45.520	8.011
+1	2	4.585	40.069	40.305
+2	3	14.181	326.061	74.092
+*flags splay
+1	.		4.654	39.990	40.523
+1	.		4.649	39.930	40.496
+3	.		11.624	43.517	-79.969
+3	.		12.297	42.067	-81.101
+3	.		12.591	50.186	-80.370
+*end kitzgraben_8

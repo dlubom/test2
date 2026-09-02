@@ -33,6 +33,14 @@
 *include Ciepla11\Ciepla11.svx	; 11-ta sesja (Stara rura)
 *include Ciepla12\Ciepla12.svx	; 12-ta sesja (Studnia za błotym przełazem)
 *include Ciepla13\Ciepla13.svx	; 13-ta sesja (FM)
+*include Ciepla14\Ciepla14.svx	; 14-ta sesja (Za Studnią z Muszlą)
+*include Ciepla15\Ciepla15.svx	; 15-ta sesja (Partie Ironman)
+*include Ciepla16\Ciepla16.svx	; 16-ta sesja (Sala z wielkim głazem)
+*include Ciepla17\Ciepla17.svx	; 17-ta sesja (Meander za studnią bez aku)
+*include Ciepla18\Ciepla18.svx	; 18-ta sesja (Partie za Trzema Siostrami)
+*include Ciepla19\Ciepla19.svx	; 19-ta sesja (Partie poniżej Ironmana)
+*include Ciepla20\Ciepla20.svx	; 20-ta sesja (Kontynuacja meandra za studnią bez aku)
+*include Ciepla21\Ciepla21.svx	; 21-ta sesja (Poniżej Shit Monster Meandra)
 
 
 *equate 01-eingang	c01.0		; entrance 01
@@ -46,8 +54,17 @@
 *equate c09.5_4	c04.17		; Big Gay do Ciekawej
 *equate c10.3	c04.22		; Meander nad studnią
 *equate c10.13_2_10	c10.13		; zamknięcie izolowanej pętli
-*equate c11.3	c10.13_2_5		; 
+*equate c11.3	c10.13_2_5	; 
 *equate c12.2	c11.7		; 
 *equate c13.0	c12.2_6		; 
+*equate c14.2	c08.5		; 
+*equate c15.0	c13.8_7_14	; 
+*equate c16.2	c13.8_7_10	; 
+*equate c17.12	c14.13_3_7	; 
+*equate c18.0	c10.13_3		; 
+*equate c18.2_6	c10.8		; zamknięcie pętli
+*equate c19.1	c15.6		; 
+*equate c20.2	c17.9		; 
+*equate c21.12	c19.51		; 
 
 *end 581-Warme_Hohle

@@ -1,0 +1,90 @@
+;cadastre country Austria
+;cadastre state Salzburg
+;cadastre masiv 1335	;Hagengebirge
+;cadastre system	;
+;cadastre cavern 581
+;cavern name de "Warme Höhle"
+;cavern name pl "Ciepła"
+;cavern part de ""
+;cavern part pl "Kontynuacja meandra za studnią bez aku"
+
+;file date 2026-08-18
+;file team "Karol Makowski"
+
+;source file: 20260820-Kontynuacja_meandra_za_studnią_bez_aku.svx
+*case preserve
+
+;#PREFIX	ciepla_19
+*begin c20
+*title "Kontynuacja meandra za studnią bez aku"
+
+;*cs UTM33N
+;*declination auto	352214.76	5266645.01	1970	;GPS Location UTM of entrance for automatic declination calculation
+;*declination 4.6 degrees
+
+*date 2026.08.20
+
+;*team Paweł Żebrowski (Tablet/Qave), Łukasz Kupper (DistoX2 H-5007)
+*team "Paweł Żebrowski" notes pictures ;(Tablet/Qave)
+*team "Łukasz Kupper" instruments ;(DistoX2 H-5007)
+
+*instrument tape "DistoX2 H-5007"
+*instrument compass "DistoX2 H-5007"
+*instrument clino "DistoX2 H-5007"
+
+*units tape meters
+*units compass degrees
+*units clino degrees
+
+*data normal from to tape compass clino ignoreall
+*flags duplicate
+0	1	1.386	316.877	8.271
+1	2	1.830	350.235	5.068
+*flags not duplicate
+2	3	3.340	278.053	-34.365
+3	4	4.150	183.726	-6.352
+4	5	2.876	147.360	9.179
+5	6	2.548	220.182	-44.830
+6	7	4.466	178.694	-28.746
+7	8	3.881	159.285	-16.928
+8	9	3.859	175.783	-26.684
+9	10	3.971	174.653	-16.575
+10	11	3.061	202.258	-26.184
+11	12	2.351	209.152	-50.750
+*flags splay
+3	.		0.645	154.188	-5.449
+3	.		0.363	188.416	23.313
+3	.		0.894	238.151	-61.705
+4	.		0.787	73.251	21.967
+4	.		0.753	91.214	49.054
+4	.		0.288	141.339	-83.331
+4	.		0.441	267.891	4.235
+5	.		0.340	217.293	86.545
+5	.		1.093	253.098	-62.847
+5	.		1.013	262.634	-59.518
+5	.		0.467	271.099	1.132
+6	.		0.406	69.626	0.599
+6	.		2.398	80.261	62.512
+6	.		2.734	182.313	-78.635
+7	.		0.656	76.564	2.834
+7	.		4.872	95.361	65.698
+7	.		1.373	296.752	-70.054
+7	.		3.057	254.982	-76.965
+8	.		1.156	65.253	85.122
+8	.		0.470	258.470	4.246
+8	.		3.239	244.160	-77.772
+9	.		0.964	276.883	-44.539
+9	.		1.682	269.072	-84.342
+9	.		1.448	89.242	78.426
+9	.		2.281	174.705	-15.677
+10	.		0.414	263.507	10.596
+10	.		0.433	154.072	85.397
+10	.		0.582	234.338	-69.005
+11	.		1.030	118.202	72.839
+11	.		0.392	119.702	-8.372
+11	.		3.080	198.435	-79.442
+12	.		0.734	271.154	-6.405
+12	.		0.756	285.727	53.465
+12	.		1.682	285.447	-77.223
+12	.		0.285	297.043	3.307
+*end c20

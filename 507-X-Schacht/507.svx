@@ -20,13 +20,25 @@
 *entrance 01-eingang
 
 
-*include 20160806-stdx01\stdx01.svx	; 37
+*include 20160806-stdx01\stdx01.svx
 *include 20160806-stdx02\stdx02.svx
+*include 20260816-Bez_nazwy\stdx03.svx
+*include 20260819-Meander\stdx04.svx
+*include 20260820-Sala_Nieskonczonosci\stdx05.svx
+*include 20260821-Gang_pod_Sala_Nieskonczonosci\stdx06.svx
+*include 20260826-Boczna_studzienka_w_galerii_pod_Sala_Nieskonczonosci\stdx07.svx
+*include 20260827-Studnia_pod_Sala_Nieskonczonosci\stdx08.svx
 
 
-*equate 01-eingang	stdx01.1_0	; entrance 01
-; *equate stdx01.1_26	stdx02.1_0
-*equate stdx01.1_30	stdx02.1_4
+*equate 01-eingang	stx01.1_0		; entrance 01
+*equate stx02.1_4	stx01.1_30
+*equate stx03.3	stx01.1_60
+*equate stx03.13_4	stx03.11		; zamknięcie izolowanej pętli
+*equate stx04.0	stx03.10
+*equate stx05.2	stx04.7
+*equate stx06.2_6_4_2_7	stx05.7
+*equate stx07.4	stx06.2_6_6		; Michał Parczewski nie ma pewności
+*equate stx08.2	stx06.0
 
 
 *end 507-X-Schacht
