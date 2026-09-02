@@ -94,11 +94,11 @@
 6	..	5.496	19.38	71.505
 6	..	4.18	16.672	65.907
 6	..	9.03	203.67	-2.225
-6	..	6.801	281.255	-71.884	; podejrzenie zgubionego punktu (Marta jednak twierdzi, że to domiaty do miejsca, gdzie nie doszli)
-6	..	6.793	281.986	-72.213	; podejrzenie zgubionego punktu (Marta jednak twierdzi, że to domiaty do miejsca, gdzie nie doszli)
-6	..	7.116	282.063	-71.9	; podejrzenie zgubionego punktu (Marta jednak twierdzi, że to domiaty do miejsca, gdzie nie doszli)
-6	..	6.802	280.981	-71.878	; podejrzenie zgubionego punktu (Marta jednak twierdzi, że to domiaty do miejsca, gdzie nie doszli)
-6	..	6.806	280.931	-71.697	; podejrzenie zgubionego punktu (Marta jednak twierdzi, że to domiaty do miejsca, gdzie nie doszli)
+6	..	6.801	281.255	-71.884	; podejrzenie zgubionego punktu (Marta jednak twierdzi, że to domiary do miejsca, gdzie nie doszli)
+6	..	6.793	281.986	-72.213	; podejrzenie zgubionego punktu (Marta jednak twierdzi, że to domiary do miejsca, gdzie nie doszli)
+6	..	7.116	282.063	-71.9	; podejrzenie zgubionego punktu (Marta jednak twierdzi, że to domiary do miejsca, gdzie nie doszli)
+6	..	6.802	280.981	-71.878	; podejrzenie zgubionego punktu (Marta jednak twierdzi, że to domiary do miejsca, gdzie nie doszli)
+6	..	6.806	280.931	-71.697	; podejrzenie zgubionego punktu (Marta jednak twierdzi, że to domiary do miejsca, gdzie nie doszli)
 6	..	7.88	165.817	-9.932
 6	..	4.034	129.117	-1.544
 6	..	1.965	119.174	-1.73
@@ -183,7 +183,7 @@
 7_3	..	2.834	356.314	-6.542	; domiar z punktu 7_4 przeniesiony do punktu 7_3
 7_3	..	2.376	4.763	-13.266	; domiar z punktu 7_4 przeniesiony do punktu 7_3
 ; *flags duplicate
-; 7_3	7_4	4.673	4.964	-25.164	; podejrzany pomiar, niemal identyczny do poprzedniego z punktu 7_2 do 7_3 
+; 7_3	7_4	4.673	4.964	-25.164	; podejrzany pomiar, niemal identyczny do poprzedniego z punktu 7_2 do 7_3
 ; 7_4	..	0.402	94.999	-0.093
 ; 7_4	..	1.167	213.03	82.678
 ; 7_4	..	1.073	221.962	77.811
