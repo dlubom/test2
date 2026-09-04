@@ -140,299 +140,299 @@
 .PATH	408-Kitzgraben
 .STATUS	2568
 .REF	5266168.652 353907.226 33 -1.432 1992 1 47 31 57.040 13 3 32.299 27 "WGS 1984"
-.SURVEY	2026-08-24 - k69 (Komin z salki gdzie siê najbardziej sypie)
-.NAME	KITZG69
-.PATH	26k69
-.STATUS	8
-.SURVEY	2026-08-24 - k68 (Dalszy ci¹g Studni z P¹czkami)
-.NAME	KITZG68
-.PATH	26k68
-.STATUS	8
-.SURVEY	2026-08-17 - k67 (Z sali Owalnej w¹skim korytarzykiem do studzienki)
-.NAME	KITZG67
-.PATH	26k67
-.STATUS	8
-.SURVEY	2026-08-17 - k66 (Boczek przed sal¹ Szalonego Knura)
-.NAME	KITZG66
-.PATH	26k66
-.STATUS	8
-.SURVEY	kitzgraben2021-WE.pdf
-.NAME	kitzgraben2021-WE.pdf
-.PATH	_Plan_Profile
-.STATUS	327688
-.SURVEY	kitzgraben2021-plan.pdf
-.NAME	kitzgraben2021-plan.pdf
-.PATH	_Plan_Profile
-.STATUS	327688
-.SURVEY	2025-08-26 - k65 (Prawa odnoga Meandra Pacmana)
-.NAME	KITZG65
-.PATH	25k65
-.STATUS	8
-.SURVEY	2025-08-26 - k64 (Okienko nad P³onym Trawersem)
-.NAME	KITZG64
-.PATH	25k64
-.STATUS	8
-.SURVEY	2025-08-25 - k63 (Ci¹g pod czarn¹ rur¹/pochylni¹)
-.NAME	KITZG63
-.PATH	25k63
-.STATUS	8
-.SURVEY	2025-08-21 - k62 (Suche b³ota lewo czêœæ koncówka)
-.NAME	KITZG62
-.PATH	25k62
-.STATUS	8
-.SURVEY	2025-08-21 - k61 (Suche b³ota lewo czêœæ koncówka)
-.NAME	KITZG61
-.PATH	25k61
-.STATUS	8
-.SURVEY	2025-08-21 - k60 (Za Salk¹ z filarem 3)
-.NAME	KITZG60
-.PATH	25k60
-.STATUS	8
-.SURVEY	2025-08-19 - k59 (Sala bez œledzia) (za prysznicem)
-.NAME	KITZG59
-.PATH	25k59
-.STATUS	8
-.SURVEY	2025-08-18 - k58 (Przed Sal¹ z Blokami)
-.NAME	KITZG58
-.PATH	25k58
-.STATUS	8
-.SURVEY	2025-08-16 - k57 (Za Sala z Filarem)
-.NAME	KITZG57
-.PATH	25k57
-.STATUS	8
-.SURVEY	2025-08-15 - k56 (Pod kociami)
-.NAME	KITZG56
-.PATH	25k56
-.STATUS	8
-.SURVEY	2025-08-15 - k55 (Miko³aj)
-.NAME	KITZG55
-.PATH	25k55
-.STATUS	8
-.SURVEY	2025-08-15 - k54 (Galanty)
-.NAME	KITZG54
-.PATH	25k54
-.STATUS	8
-.SURVEY	2025-08-12 - k53 (Zjazdy w kana³ach Kitzgraben)
-.NAME	KITZG53
-.PATH	25k53
-.STATUS	8
-.SURVEY	2024-08-29 - k52 (Z Galerii do Marmitowego meandra)
-.NAME	KITZG52
-.PATH	24k52
-.STATUS	8
-.SURVEY	2024-08-28 - k51 (Ci¹g za salk¹ z filarem cz.2)
-.NAME	KITZG51
-.PATH	24k51
-.STATUS	8
-.SURVEY	2024-08-27 - k50 (Ci¹g za salk¹ z filarem)
-.NAME	KITZG50
-.PATH	24k50
-.STATUS	8
-.SURVEY	2024-08-27 - k49 (Galeria od punktu 21.53)
-.NAME	KITZG49
-.PATH	24k49
-.STATUS	8
-.SURVEY	2024-08-27 - k48 (Galeria od punktu 21.29)
-.NAME	KITZG48
-.PATH	24k48
-.STATUS	8
-.SURVEY	2024-08-25 - k47 (Probably polaczenie z Czerwonymi Kamieniami)
-.NAME	KITZG47
-.PATH	24k47
-.STATUS	8
-.SURVEY	2024-08-24 - k46 (Meander Pacmana)
-.NAME	KITZG46
-.PATH	24k46
-.STATUS	8
-.SURVEY	2024-08-21 - k45 (Kontynuacja partii za jeziorkiem)
-.NAME	KITZG45
-.PATH	24k45
-.STATUS	8
-.SURVEY	2024-08-21 - k44 (Z³odziejskie Galerie cz.2)
-.NAME	KITZG44
-.PATH	24k44
-.STATUS	8
-.SURVEY	2024-08-20 - k43 (Z³odziejskie Galerie)
-.NAME	KITZG43
-.PATH	24k43
-.STATUS	8
-.SURVEY	2024-08-18 - k42 (Od 2-go biwaku do rozdroza - powtorzone pomiary)
-.NAME	KITZG42
-.PATH	24k42
-.STATUS	8
-.SURVEY	2024-08-18 - k41 (Marmitowy meander)
-.NAME	KITZG41
-.PATH	24k41
-.STATUS	8
-.SURVEY	2024-08-17 - k40 (Suche b³ota (prawy ci¹g))
-.NAME	KITZG40
-.PATH	24k40
-.STATUS	8
-.SURVEY	2024-08-15 - k38 (Komin bezglutenowy aka. Studnia bez honoru)
-.NAME	KITZG38
-.PATH	24k38
-.STATUS	8
-.SURVEY	2024-08-15 - k37 (Partie marmitowe)
-.NAME	KITZG37
-.PATH	24k37
-.STATUS	8
-.SURVEY	2024-08-15 - k36 (Kitzgraben Express)
-.NAME	KITZG36
-.PATH	24k36
-.STATUS	8
-.SURVEY	2024-08-13 - k35 (Studnia Eskapistów)
-.NAME	KITZG35
-.PATH	24k35
-.STATUS	8
-.SURVEY	2024-08-12 - k34 (Trawers pod Ruletk¹)
-.NAME	KITZG34
-.PATH	24k34
-.STATUS	8
-.SURVEY	2024-08-12 - k33 (Studzienki pod drugim biwakiem aka. Studnia 3H)
-.NAME	KITZG33
-.PATH	24k33
-.STATUS	8
-.SURVEY	2023-08-12 - k32 (Suche b³ota)
-.NAME	KITZG32
-.PATH	23k32
-.STATUS	8
-.SURVEY	2023-08-12 - k31 (Skazni na Showshank)
-.NAME	KITZG31
-.PATH	23k31
-.STATUS	8
-.SURVEY	2023-08-09 - k30 (Korytarz grzybowski)
-.NAME	KITZG30
-.PATH	23k30
-.STATUS	8
-.SURVEY	2023-08-09 - k29 (Meanderek przy rozdrozu - kontynuacja k16)
-.NAME	KITZG29
-.PATH	23k29
-.STATUS	8
-.SURVEY	2023-08-08 - k28 Studnia jubilata (Kolektor)
-.NAME	KITZG28
-.PATH	23k28
-.STATUS	8
-.SURVEY	2023-08-05 - k27 (Nad kolektorem)
-.NAME	KITZG27
-.PATH	23k27
-.STATUS	8
-.SURVEY	2023-08-04 - k26 (Za kolektorem)
-.NAME	KITZG26
-.PATH	23k26
-.STATUS	8
-.SURVEY	2023-08-01 - k24 (Kitz meander)
-.NAME	KITZG24
-.PATH	23k24
-.STATUS	8
-.SURVEY	2023-07-31 - k25 (Za kokosankami)
-.NAME	KITZG25
-.PATH	23k25
-.STATUS	8
-.SURVEY	2023-07-31 - k23 (Studnie pod Kroczkiem2)
-.NAME	KITZG23
-.PATH	23k23
-.STATUS	8
-.SURVEY	2023-07-29 - k22 (Dzien Paluszka)
-.NAME	KITZG22
-.PATH	23k22
-.STATUS	8
-.SURVEY	2023-07-29 - k21 (Studnie pod Kroczkiem)
-.NAME	KITZG21
-.PATH	23k21
-.STATUS	8
-.SURVEY	2023-07-27 - k20 (Kroczek)
-.NAME	KITZG20
-.PATH	23k20
-.STATUS	8
-.SURVEY	2022-08-12 - k19 (kontynuacja k19)
-.NAME	KITZG19
-.PATH	22k19
-.STATUS	8
-.SURVEY	2022-08-11 - k18 (korytarz za trawersem)
-.NAME	KITZG18
-.PATH	22k18
-.STATUS	8
-.SURVEY	2022-08-07 - k17 (kontynuacja k14)
-.NAME	KITZG17
-.PATH	22k17
-.STATUS	8
-.SURVEY	2022-08-07 - k16 (Meanderek przy rozdrozu)
-.NAME	KITZG16
-.PATH	22k16
-.STATUS	8
-.SURVEY	2022-08-04 - k15 Syfon Kujona (petla)
-.NAME	KITZG15
-.PATH	22k15
-.STATUS	8
-.SURVEY	2022-08-03 - k14 (kontynuacja k12)
-.NAME	KITZG14
-.PATH	22k14
-.STATUS	8
-.SURVEY	2022-08-02 - k13 (rejon studni z tyrolka)
-.NAME	KITZG13
-.PATH	22k13
-.STATUS	8
-.SURVEY	2022-07-31 - k12
-.NAME	KITZG12
-.PATH	22k12
-.STATUS	8
-.SURVEY	2022-07-28 - k11
-.NAME	KITZG11
-.PATH	22k11
-.STATUS	8
-.SURVEY	2022-07-26 - k10
-.NAME	KITZG10
-.PATH	22k10
-.STATUS	8
-.SURVEY	2022-07-24 - k04p (studnia Zbycha Rybaka oraz Wielka Studnia)
-.NAME	KITZG04P
-.PATH	22k04p
-.STATUS	8
-.SURVEY	2022-07-24 - k02w (weryfikacja bledu w sesji k02)
-.NAME	KITZG02W
-.PATH	22k02w
-.STATUS	8
-.SURVEY	2021-08-13 - k09
-.NAME	KITZG09
-.PATH	21k09
-.STATUS	10
-.SURVEY	2021-08-13 - k08
-.NAME	KITZG08
-.PATH	21k08
-.STATUS	8
-.SURVEY	2021-08-12 - k07
-.NAME	KITZG07
-.PATH	21k07
-.STATUS	8
-.SURVEY	2021-08-11 - k06
-.NAME	KITZG06
-.PATH	21k06
-.STATUS	8
-.SURVEY	2021-08-10 - k05
-.NAME	KITZG05
-.PATH	21k05
-.STATUS	8
-.SURVEY	2021-08-06 - k02p (poprawki i uzupe³nienia k2)
-.NAME	KITZG02P
-.PATH	21k02p
-.STATUS	8
-.SURVEY	2021-08-03 - k04
-.NAME	KITZG04
-.PATH	21k04
-.STATUS	8
-.SURVEY	2021-07-26 - k03
-.NAME	KITZG03
-.PATH	21k03
-.STATUS	10
-.SURVEY	2020-08-12 - k02
-.NAME	KITZG02
-.PATH	20k02
-.STATUS	8
 .SURVEY	2020-08-01 - k01 (partie austriackie)
 .NAME	KITZG01
 .PATH	20k01
 .STATUS	520
 .REF	5266169.292 353906.840 33 -1.432 2000 1 47 31 57.060 13 3 32.280 27 "WGS 1984"
+.SURVEY	2020-08-12 - k02
+.NAME	KITZG02
+.PATH	20k02
+.STATUS	8
+.SURVEY	2021-07-26 - k03
+.NAME	KITZG03
+.PATH	21k03
+.STATUS	10
+.SURVEY	2021-08-03 - k04
+.NAME	KITZG04
+.PATH	21k04
+.STATUS	8
+.SURVEY	2021-08-06 - k02p (poprawki i uzupe³nienia k2)
+.NAME	KITZG02P
+.PATH	21k02p
+.STATUS	8
+.SURVEY	2021-08-10 - k05
+.NAME	KITZG05
+.PATH	21k05
+.STATUS	8
+.SURVEY	2021-08-11 - k06
+.NAME	KITZG06
+.PATH	21k06
+.STATUS	8
+.SURVEY	2021-08-12 - k07
+.NAME	KITZG07
+.PATH	21k07
+.STATUS	8
+.SURVEY	2021-08-13 - k08
+.NAME	KITZG08
+.PATH	21k08
+.STATUS	8
+.SURVEY	2021-08-13 - k09
+.NAME	KITZG09
+.PATH	21k09
+.STATUS	10
+.SURVEY	2022-07-24 - k02w (weryfikacja bledu w sesji k02)
+.NAME	KITZG02W
+.PATH	22k02w
+.STATUS	8
+.SURVEY	2022-07-24 - k04p (studnia Zbycha Rybaka oraz Wielka Studnia)
+.NAME	KITZG04P
+.PATH	22k04p
+.STATUS	8
+.SURVEY	2022-07-26 - k10
+.NAME	KITZG10
+.PATH	22k10
+.STATUS	8
+.SURVEY	2022-07-28 - k11
+.NAME	KITZG11
+.PATH	22k11
+.STATUS	8
+.SURVEY	2022-07-31 - k12
+.NAME	KITZG12
+.PATH	22k12
+.STATUS	8
+.SURVEY	2022-08-02 - k13 (rejon studni z tyrolka)
+.NAME	KITZG13
+.PATH	22k13
+.STATUS	8
+.SURVEY	2022-08-03 - k14 (kontynuacja k12)
+.NAME	KITZG14
+.PATH	22k14
+.STATUS	8
+.SURVEY	2022-08-04 - k15 Syfon Kujona (petla)
+.NAME	KITZG15
+.PATH	22k15
+.STATUS	8
+.SURVEY	2022-08-07 - k16 (Meanderek przy rozdrozu)
+.NAME	KITZG16
+.PATH	22k16
+.STATUS	8
+.SURVEY	2022-08-07 - k17 (kontynuacja k14)
+.NAME	KITZG17
+.PATH	22k17
+.STATUS	8
+.SURVEY	2022-08-11 - k18 (korytarz za trawersem)
+.NAME	KITZG18
+.PATH	22k18
+.STATUS	8
+.SURVEY	2022-08-12 - k19 (kontynuacja k19)
+.NAME	KITZG19
+.PATH	22k19
+.STATUS	8
+.SURVEY	2023-07-27 - k20 (Kroczek)
+.NAME	KITZG20
+.PATH	23k20
+.STATUS	8
+.SURVEY	2023-07-29 - k21 (Studnie pod Kroczkiem)
+.NAME	KITZG21
+.PATH	23k21
+.STATUS	8
+.SURVEY	2023-07-29 - k22 (Dzien Paluszka)
+.NAME	KITZG22
+.PATH	23k22
+.STATUS	8
+.SURVEY	2023-07-31 - k23 (Studnie pod Kroczkiem2)
+.NAME	KITZG23
+.PATH	23k23
+.STATUS	8
+.SURVEY	2023-07-31 - k25 (Za kokosankami)
+.NAME	KITZG25
+.PATH	23k25
+.STATUS	8
+.SURVEY	2023-08-01 - k24 (Kitz meander)
+.NAME	KITZG24
+.PATH	23k24
+.STATUS	8
+.SURVEY	2023-08-04 - k26 (Za kolektorem)
+.NAME	KITZG26
+.PATH	23k26
+.STATUS	8
+.SURVEY	2023-08-05 - k27 (Nad kolektorem)
+.NAME	KITZG27
+.PATH	23k27
+.STATUS	8
+.SURVEY	2023-08-08 - k28 Studnia jubilata (Kolektor)
+.NAME	KITZG28
+.PATH	23k28
+.STATUS	8
+.SURVEY	2023-08-09 - k29 (Meanderek przy rozdrozu - kontynuacja k16)
+.NAME	KITZG29
+.PATH	23k29
+.STATUS	8
+.SURVEY	2023-08-09 - k30 (Korytarz grzybowski)
+.NAME	KITZG30
+.PATH	23k30
+.STATUS	8
+.SURVEY	2023-08-12 - k31 (Skazni na Showshank)
+.NAME	KITZG31
+.PATH	23k31
+.STATUS	8
+.SURVEY	2023-08-12 - k32 (Suche b³ota)
+.NAME	KITZG32
+.PATH	23k32
+.STATUS	8
+.SURVEY	2024-08-12 - k33 (Studzienki pod drugim biwakiem aka. Studnia 3H)
+.NAME	KITZG33
+.PATH	24k33
+.STATUS	8
+.SURVEY	2024-08-12 - k34 (Trawers pod Ruletk¹)
+.NAME	KITZG34
+.PATH	24k34
+.STATUS	8
+.SURVEY	2024-08-13 - k35 (Studnia Eskapistów)
+.NAME	KITZG35
+.PATH	24k35
+.STATUS	8
+.SURVEY	2024-08-15 - k36 (Kitzgraben Express)
+.NAME	KITZG36
+.PATH	24k36
+.STATUS	8
+.SURVEY	2024-08-15 - k37 (Partie marmitowe)
+.NAME	KITZG37
+.PATH	24k37
+.STATUS	8
+.SURVEY	2024-08-15 - k38 (Komin bezglutenowy aka. Studnia bez honoru)
+.NAME	KITZG38
+.PATH	24k38
+.STATUS	8
+.SURVEY	2024-08-17 - k40 (Suche b³ota (prawy ci¹g))
+.NAME	KITZG40
+.PATH	24k40
+.STATUS	8
+.SURVEY	2024-08-18 - k41 (Marmitowy meander)
+.NAME	KITZG41
+.PATH	24k41
+.STATUS	8
+.SURVEY	2024-08-18 - k42 (Od 2-go biwaku do rozdroza - powtorzone pomiary)
+.NAME	KITZG42
+.PATH	24k42
+.STATUS	8
+.SURVEY	2024-08-20 - k43 (Z³odziejskie Galerie)
+.NAME	KITZG43
+.PATH	24k43
+.STATUS	8
+.SURVEY	2024-08-21 - k44 (Z³odziejskie Galerie cz.2)
+.NAME	KITZG44
+.PATH	24k44
+.STATUS	8
+.SURVEY	2024-08-21 - k45 (Kontynuacja partii za jeziorkiem)
+.NAME	KITZG45
+.PATH	24k45
+.STATUS	8
+.SURVEY	2024-08-24 - k46 (Meander Pacmana)
+.NAME	KITZG46
+.PATH	24k46
+.STATUS	8
+.SURVEY	2024-08-25 - k47 (Probably polaczenie z Czerwonymi Kamieniami)
+.NAME	KITZG47
+.PATH	24k47
+.STATUS	8
+.SURVEY	2024-08-27 - k48 (Galeria od punktu 21.29)
+.NAME	KITZG48
+.PATH	24k48
+.STATUS	8
+.SURVEY	2024-08-27 - k49 (Galeria od punktu 21.53)
+.NAME	KITZG49
+.PATH	24k49
+.STATUS	8
+.SURVEY	2024-08-27 - k50 (Ci¹g za salk¹ z filarem)
+.NAME	KITZG50
+.PATH	24k50
+.STATUS	8
+.SURVEY	2024-08-28 - k51 (Ci¹g za salk¹ z filarem cz.2)
+.NAME	KITZG51
+.PATH	24k51
+.STATUS	8
+.SURVEY	2024-08-29 - k52 (Z Galerii do Marmitowego meandra)
+.NAME	KITZG52
+.PATH	24k52
+.STATUS	8
+.SURVEY	2025-08-12 - k53 (Zjazdy w kana³ach Kitzgraben)
+.NAME	KITZG53
+.PATH	25k53
+.STATUS	8
+.SURVEY	2025-08-15 - k54 (Galanty)
+.NAME	KITZG54
+.PATH	25k54
+.STATUS	8
+.SURVEY	2025-08-15 - k55 (Miko³aj)
+.NAME	KITZG55
+.PATH	25k55
+.STATUS	8
+.SURVEY	2025-08-15 - k56 (Pod kociami)
+.NAME	KITZG56
+.PATH	25k56
+.STATUS	8
+.SURVEY	2025-08-16 - k57 (Za Sala z Filarem)
+.NAME	KITZG57
+.PATH	25k57
+.STATUS	8
+.SURVEY	2025-08-18 - k58 (Przed Sal¹ z Blokami)
+.NAME	KITZG58
+.PATH	25k58
+.STATUS	8
+.SURVEY	2025-08-19 - k59 (Sala bez œledzia) (za prysznicem)
+.NAME	KITZG59
+.PATH	25k59
+.STATUS	8
+.SURVEY	2025-08-21 - k60 (Za Salk¹ z filarem 3)
+.NAME	KITZG60
+.PATH	25k60
+.STATUS	8
+.SURVEY	2025-08-21 - k61 (Suche b³ota lewo czêœæ koncówka)
+.NAME	KITZG61
+.PATH	25k61
+.STATUS	8
+.SURVEY	2025-08-21 - k62 (Suche b³ota lewo czêœæ koncówka)
+.NAME	KITZG62
+.PATH	25k62
+.STATUS	8
+.SURVEY	2025-08-25 - k63 (Ci¹g pod czarn¹ rur¹/pochylni¹)
+.NAME	KITZG63
+.PATH	25k63
+.STATUS	8
+.SURVEY	2025-08-26 - k64 (Okienko nad P³onym Trawersem)
+.NAME	KITZG64
+.PATH	25k64
+.STATUS	8
+.SURVEY	2025-08-26 - k65 (Prawa odnoga Meandra Pacmana)
+.NAME	KITZG65
+.PATH	25k65
+.STATUS	8
+.SURVEY	2026-08-17 - k66 (Boczek przed sal¹ Szalonego Knura)
+.NAME	KITZG66
+.PATH	26k66
+.STATUS	8
+.SURVEY	2026-08-17 - k67 (Z sali Owalnej w¹skim korytarzykiem do studzienki)
+.NAME	KITZG67
+.PATH	26k67
+.STATUS	8
+.SURVEY	2026-08-24 - k68 (Dalszy ci¹g Studni z P¹czkami)
+.NAME	KITZG68
+.PATH	26k68
+.STATUS	8
+.SURVEY	2026-08-24 - k69 (Komin z salki gdzie siê najbardziej sypie)
+.NAME	KITZG69
+.PATH	26k69
+.STATUS	8
+.SURVEY	kitzgraben2021-plan.pdf
+.NAME	kitzgraben2021-plan.pdf
+.PATH	_Plan_Profile
+.STATUS	327688
+.SURVEY	kitzgraben2021-WE.pdf
+.NAME	kitzgraben2021-WE.pdf
+.PATH	_Plan_Profile
+.STATUS	327688
 .ENDBOOK
 .BOOK	[421] Tschikpausenhohle
 .NAME	421
@@ -1668,7 +1668,7 @@
 .BOOK	[581] Jaskinia Ciepla / Warme Höhle
 .NAME	CIEPLA
 .PATH	581-Warme_Hohle
-.STATUS	2568
+.STATUS	2569
 .REF	5266645.008 352214.761 33 -1.449 1970 1 47 32 11.083 13 2 10.820 27 "WGS 1984"
 .SURVEY	2024-08-22 - Ciepla01
 .NAME	CIEPLA01
@@ -2355,21 +2355,21 @@
 .BOOK	[582] Willys Projekt
 .NAME	WILLY
 .PATH	582-Willys_Projekt
-.STATUS	8
+.STATUS	9
 .REF	5266618.505 352189.842 33 -1.449 1977 0 47 32 10.205 13 2 9.661 27 "WGS 1984"
-.SURVEY	Willy02
+.SURVEY	2025-08-24 - Willy02 (Od otworu (przelamania leja) w dó³)
 .NAME	WILLY02
 .PATH	Willy02
 .STATUS	8
-.SURVEY	Willy01
+.SURVEY	2025-08-22 - Willy01 (Od otworu w górê)
 .NAME	WILLY01
 .PATH	Willy01
 .STATUS	8
-.SURVEY	Willy03
+.SURVEY	2025-08-26 - Willy03 (Studnia Sarlacc)
 .NAME	WILLY03
 .PATH	Willy03
 .STATUS	8
-.SURVEY	Willy04
+.SURVEY	2026-08-13 - Willy04 (Ciagi pod górke, kontynuacja)
 .NAME	WILLY04
 .PATH	Willy04
 .STATUS	8
