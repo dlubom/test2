@@ -89,6 +89,10 @@
 *include 25k63\Kitzg63.svx	; Ciąg pod czarną rurą/pochylnią
 *include 25k64\Kitzg64.svx	; Okienko nad Płonym Trawersem
 *include 25k65\Kitzg65.svx	; Prawa odnoga Meandra Pacmana
+*include 26k66\Kitzg66.svx	; Boczek przed salą Szałowego Knura
+*include 26k67\Kitzg67.svx	; Z sali Owalnej wąskim korytarzykiem do studzienki
+*include 26k68\Kitzg68.svx	; Dalszy ciąg Studni z Pączkami
+*include 26k69\Kitzg69.svx	; Komin z salki gdzie się najbardziej sypie
 
 
 *equate 01-eingang	k01.1_0	; entrance 01
@@ -175,7 +179,7 @@
 *equate k54.0	k44.21_2	;
 *equate k54.2_9	k44.15_1	; zamknięcie pętli
 *equate k55.8_3	k44.21_50_13	;
-; *equate k56.11_6	k44.21_3	; zamknięcie pętli
+*equate k56.11_6	k44.21_3	; 
 ; *equate k56.14	k44.21_17_7	; zamknięcie pętli
 *equate k57.0_0_7_1_11	k51.20	;
 *equate k58.2	k43.49	;
@@ -193,6 +197,11 @@
 *equate k63.13_2	k41.50	; zamkniecie pętli
 *equate k64.2	k43.30	; 
 *equate k65.3	k46.21	; 
+;---- 2026 ----
+*equate k66.2	k51.19_2	; 
+*equate k67.2	k57.2	; 
+*equate k68.0_3_2	k67.7	; 
+*equate k69.0_1	k67.5	; 
 
 
 *end 408-Kitzgraben
