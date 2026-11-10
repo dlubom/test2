@@ -8,3 +8,4 @@
 ;*fix	582-Problem_Willyego.01-eingang	352192	5266620	1980	;GPS Location UTM (koordynaty ze smartfona Jarka Paszkiewicza CAT C53, wysokość orientacyjna względem Ciepłej)
 ;#FIX	582-Problem_Willyego.01-eingang	E13,036017	N47,536168	1977m	;GPS Location WGS84 (SAGIS)
 *fix	582-Problem_Willyego.01-eingang	352189.84	5266618.51	1977	;GPS Location UTM (SAGIS)
+*fix	582-Problem_Willyego.02-eingang	352144.84	5266611.51	1995	;GPS Location UTM (Survex względem pierwszego otworu 45m na zachód i 7m na południe, wysokość +18m)

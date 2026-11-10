@@ -35,7 +35,8 @@
 *equate stx03.3	stx01.1_60
 *equate stx03.13_4	stx03.11		; zamknięcie izolowanej pętli
 *equate stx04.0	stx03.10
-*equate stx05.2	stx04.7
+;*equate stx05.2	stx04.7		; połączenie zakwestionowane przez Michała Parczewskiego
+*equate stx05.2	stx04.12		; poprawka zaproponowana przez Michała Parczewskiego
 *equate stx06.2_6_4_2_7	stx05.7
 *equate stx07.4	stx06.2_6_6		; Michał Parczewski nie ma pewności
 *equate stx08.2	stx06.0
